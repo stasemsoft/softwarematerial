@@ -2,67 +2,78 @@
 
 Gather (open) software-material used by FHICT (Fontys Hogeschool voor ICT).
 
-Begrippen:
+Typen verwijzingen:
++ Theorie: Uitleg.
 + Tutorial: neemt je stap voor stap mee in een onderwerp. Om te kijken of je het begrepen hebt moet je daarna zelf in een andere context aan de slag met dat onderwerp.
 + Exercises zijn 'vingeroefeningen', horen bij een stukje theorie om te oefenen, als bewijsmateriaal om je docent te overtuigen vaak niet te gebruiken.
 + Challenges zijn uitdagender, vaak opener geformuleerd, liefst onafhankelijk van of er een GUI is en mogelijk zelfs onafhankelijk van de programmeertaal.
 
 
-## Basis (first intro in programming, without objects)
+## Basis (eerste intro in programming, zonder objects)
 
 
+### variabelen, assignment, typen
+
+
+### Conditioneel
+
+
+### Herhaling
 
 
 [Basis samengevat in een dictaat (afkomstig van het vak OIS11)](https://stasemsoft.github.io/softwarematerial/docs/basic/knowOis11dictaat.pdf)
+
+
+
+
 
 ## Objects
 
 ### Object, Class, Constructor
 
-[Hoe programmeer je met Objecten](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_Class.pdf)
+[Theorie: Hoe programmeer je met Objecten](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_Class.pdf)
 
-[exercise ObjectOriented invuloefening](https://stasemsoft.github.io/softwarematerial/docs/objects/exerciseObjectOrientedOefening.pdf)
+[Exercise ObjectOriented invuloefening](https://stasemsoft.github.io/softwarematerial/docs/objects/exerciseObjectOrientedOefening.pdf)
 
-[oplossing exercise ObjectOriented invuloefening](https://stasemsoft.github.io/softwarematerial/docs/objects/solutionObjectOrientedOefening.pdf)
+[Oplossing bij exercise ObjectOriented invuloefening](https://stasemsoft.github.io/softwarematerial/docs/objects/solutionObjectOrientedOefening.pdf)
 
-[exercise TrafficLight](https://stasemsoft.github.io/softwarematerial/docs/objects/exercise_Class_TrafficLight.pdf)
+[Exercise TrafficLight](https://stasemsoft.github.io/softwarematerial/docs/objects/exercise_Class_TrafficLight.pdf)
 
-[exercise_Enum_TrafficLight](https://stasemsoft.github.io/softwarematerial/docs/objects/exercise_Enum_TrafficLight.pdf)
+[Exercise Enum_TrafficLight](https://stasemsoft.github.io/softwarematerial/docs/objects/exercise_Enum_TrafficLight.pdf)
 
-[exercise_Marimba_and_Bass](https://stasemsoft.github.io/softwarematerial/docs/objects/exercise_Marimba_and_Bass.pdf)
+[Exercise Marimba_and_Bass](https://stasemsoft.github.io/softwarematerial/docs/objects/exercise_Marimba_and_Bass.pdf)
 
-[https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challengeAutoDagWaarde.pdf](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challengeAutoDagWaarde.pdf)
-
-
-
-[theorie_AdvancedSoftwareEngineering](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_AdvancedSoftwareEngineering.pdf)
+[Challenge AutoDagWaarde](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challengeAutoDagWaarde.pdf)
 
 
-### div. mbt objects / classes
 
-[Cast](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_Cast.pdf)
 
-[theorie_Enum.pdf](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_Enum.pdf)
+### diversen mbt objects / classes
 
-[https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_OverrideToString.pdf](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_OverrideToString.pdf)
+[Theorie Cast](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_Cast.pdf)
 
-[https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_PrivatePublic.pdf](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_PrivatePublic.pdf)
+[Theorie Enum](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_Enum.pdf)
 
-[https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_Property.pdf](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_Property.pdf)
+[Theorie override ToString](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_OverrideToString.pdf)
 
+[Theorie Private en Public](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_PrivatePublic.pdf)
+
+[Theorie Property](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_Property.pdf)
+
+[Theorie So you wanna be a Software Engineer](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_AdvancedSoftwareEngineering.pdf)
 
 
 
 
 ### Classes in samenhang: Relations / CRC / Class diagrams
 
-[theorie_ClassDiagram](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_ClassDiagram.pdf)
+[Theorie Class Diagram](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_ClassDiagram.pdf)
 
-[theorie_FileHandling.pdf](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_FileHandling.pdf)
+[Theorie FileHandling](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_FileHandling.pdf)
 
-[https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_GuiSeparation.pdf](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_GuiSeparation.pdf)
+[Theorie GUI Separation](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_GuiSeparation.pdf)
 
-[https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_WhichClass.pdf](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_WhichClass.pdf)
+[Theorie Which Class](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_WhichClass.pdf)
 
 
 ### Challenges Galore
@@ -105,7 +116,7 @@ Begrippen:
 
 
 
-## OUD materiaal, niet meer gebruikt bij FHICT
+## Oud materiaal, niet meer gebruikt bij FHICT
 
 [theorie_Graphics.pdf](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_Graphics.pdf)
 
@@ -113,4 +124,6 @@ Begrippen:
 
 ### link
 
-[Github pages](https://stasemsoft.github.io/softwarematerial/)
+[Deze page op Github pages](https://stasemsoft.github.io/softwarematerial/)
+
+[Deze page op Github](https://github.com/stasemsoft/softwarematerial)
