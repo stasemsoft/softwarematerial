@@ -5,7 +5,7 @@ Gather (open) software-material used by FHICT (Fontys Hogeschool voor ICT).
 Begrippen:
 + Tutorial: neemt je stap voor stap mee in een onderwerp. Om te kijken of je het begrepen hebt moet je daarna zelf in een andere context aan de slag met dat onderwerp.
 + Exercises zijn 'vingeroefeningen', horen bij een stukje theorie om te oefenen, als bewijsmateriaal om je docent te overtuigen vaak niet te gebruiken.
-+ Challenges zijn uitdagender, vaak opener geformuleerd, liefst onafhankelijk van of er een GUI is en mogelijk zelfs onafhankeliujk van de programmeertaal.
++ Challenges zijn uitdagender, vaak opener geformuleerd, liefst onafhankelijk van of er een GUI is en mogelijk zelfs onafhankelijk van de programmeertaal.
 
 
 ## Basis (first intro in programming, without objects)
@@ -108,3 +108,9 @@ Begrippen:
 ## OUD materiaal, niet meer gebruikt bij FHICT
 
 [theorie_Graphics.pdf](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_Graphics.pdf)
+
+
+
+### link
+
+[Github pages](https://stasemsoft.github.io/softwarematerial/)
