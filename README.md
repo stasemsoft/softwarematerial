@@ -4,11 +4,11 @@ Gather (open) software-material used by FHICT (Fontys Hogeschool voor ICT).
 
 ## Index
 
-https://stasemsoft.github.io/softwarematerial/
+https://stasemsoft.github.io/softwarematerial/docs/
 
-[https://stasemsoft.github.io/softwarematerial/objects/exerciseObjectOrientedOefening.pdf](https://stasemsoft.github.io/softwarematerial/objects/exerciseObjectOrientedOefening.pdf)
+[https://stasemsoft.github.io/softwarematerial/docs/objects/exerciseObjectOrientedOefening.pdf](https://stasemsoft.github.io/softwarematerial/docs/objects/exerciseObjectOrientedOefening.pdf)
 
-[objects/exercise_Class_TrafficLight.pdf](objects/exercise_Class_TrafficLight.pdf)
+[https://stasemsoft.github.io/softwarematerial/docs/objects/exercise_Class_TrafficLight.pdf](https://stasemsoft.github.io/softwarematerial/docs/objects/exercise_Class_TrafficLight.pdf)
 
 objects/exercise_Enum_TrafficLight.pdf
 objects/exercise_Marimba_and_Bass.pdf
