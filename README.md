@@ -84,11 +84,14 @@ Uitgangspunten:
 
 ### Overige onderwerpen
 
-#### File Handling
+#### File Handling en Exception Handling
 
 [Theorie File Handling](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_FileHandling.pdf)
 
 [Challenge FileHandling](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challengeFileHandling.pdf)
+
+[challenge Exception Handling](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challengeExceptionHandling.pdf)
+
 
 
 
@@ -132,5 +135,3 @@ Verzameling met nog veel meer Challlenges, niet direct gekoppeld aan 1 onderwerp
 [challenge MsPacman](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challengeMsPacman.pdf)
 
 [exercise Draw Cube](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challengeCube.pdf)
-
-[challenge ExceptionHandling](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challengeExceptionHandling.pdf)
