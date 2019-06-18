@@ -20,7 +20,7 @@ Uitgangspunten:
 
 ### Toolbox Basis (eerste intro in programming, zonder objecten)
 
-[Toolbox basis](https://stasemsoft.github.io/softwarematerial/toolbox_basis.md)
+[Toolbox basis](https://stasemsoft.github.io/softwarematerial/docs/toolbox_basis.md)
 
 ### Challenges Grabbelton over de basis van programmeren (zonder objecten)
 
