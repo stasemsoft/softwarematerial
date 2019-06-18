@@ -1,25 +1,25 @@
-### Toolbox Basis (eerste intro in programming, zonder objecten)
+# Toolbox Basis (eerste intro in programming, zonder objecten)
 
 
-### Algemene info
+## Algemene info
 
 + [info Installeer Visual Studio](https://stasemsoft.github.io/softwarematerial/docs/process/infoVisualStudioInstallatie.pdf)
 
 + [Over het inleveren van programma's in canvas](https://stasemsoft.github.io/softwarematerial/docs/process/infoInleverenProgrammas.pdf)
 
 
-### variabelen, assignment, typen
+## variabelen, assignment, typen
 
 
-### Conditioneel
+## Conditioneel
 
 
-### Herhaling
+## Herhaling
 
 + [dictaat basis programmeren](https://stasemsoft.github.io/softwarematerial/docs/basic/knowOis11dictaat.pdf)
 
 
-### List en Array
+## List en Array
 
 + [dictaat collecties](https://stasemsoft.github.io/softwarematerial/docs/basic/theorie_FUN12_DictaatCollecties.pdf)
 
