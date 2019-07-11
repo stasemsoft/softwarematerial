@@ -1,5 +1,6 @@
 # Computational thinking
 
+Een aantal opdrachten waarmee je zogenaamde 'computational thinking' wordt uitgedaagd. 
 
 + [Binary01](https://stasemsoft.github.io/softwarematerial/docs/computational/binary01.pdf)
 
