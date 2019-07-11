@@ -18,7 +18,14 @@ Uitgangspunten:
 + GUI (Grafische User Interface) is dus niet belangrijk, dus geen onnodige tijd aan besteden.
 
 
-### Toolbox Basis (eerste intro in programming, zonder objecten)
+### Computational Thinking
+
+https://stasemsoft.github.io/softwarematerial/docs/computational/
+
+
+
+### Toolbox Basis
+(eerste intro in programming, zonder objecten)
 
 [Toolbox basis](https://stasemsoft.github.io/softwarematerial/docs/basic/)
 
