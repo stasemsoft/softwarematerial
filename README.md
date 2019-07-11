@@ -17,10 +17,12 @@ Uitgangspunten:
 + Waar mogelijk laten we (zelfs) de programmeertaal in het midden.
 + GUI (Grafische User Interface) is dus niet belangrijk, dus geen onnodige tijd aan besteden.
 
+Als je vragen hebt: kijk eerst eens in de [Frequently Asked Questions](https://stasemsoft.github.io/softwarematerial/docs/FAQ)
+ of anderen dezelfde vraag ook al hadden. 
 
 ### Computational Thinking
 
-https://stasemsoft.github.io/softwarematerial/docs/computational/
+[Computational Thinking](https://stasemsoft.github.io/softwarematerial/docs/computational)
 
 
 
