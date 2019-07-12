@@ -27,4 +27,6 @@ Hieronder een aantal opdrachten waarmee je zogenaamde 'computational thinking' w
 
 + [Algo01](https://stasemsoft.github.io/softwarematerial/docs/computational/algo01.pdf)
 
+De uitdagingen van Project Euler zijn vaak problemen die het best met een computer op te lossen zijn. Euler79 is echter ook zonder hulp van een laptop op te lossen: op whiteboard bijvoorbeeld!
+
 + [ProjectEuler 79](https://projecteuler.net/problem=79)
