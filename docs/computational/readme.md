@@ -58,7 +58,7 @@ Typ 'count to 31 on one hand' in je favo zoekmachine.
 
 ## renteberekening
 
-Gegeven een startsaldo (bijvoorbeeld 234 euro), een rentepercentage en een aantal (zeg n) jaren. Maak een programma dat berekent hoeveel het saldo na 'n' jaar is.
+Gegeven een startsaldo (bijvoorbeeld 234 euro), een rentepercentage en een aantal (zeg n) jaren. Maak een flow chart voor een programma dat berekent hoeveel het saldo na 'n' jaar is.
 
 
 ## deelbaarheid
@@ -80,7 +80,9 @@ Maak een flow chart voor een programma dat alle priemgetallen tussen 1000 en 200
 ### Flash card
 
 Een flash card programma is een programma dat jou helpt bij
-het leren van (bijvoorbeeld) Engelse woordjes.
+het leren van (bijvoorbeeld) Franse woordjes.
+
+Flash Cards waren van oudsher op papier of karton gemaakt. Op de voorkant kan dan bijvoorbeeld het Nederlandse woord staan en op de achterkant het Franse woord.
 
 Simpele vorm: neem een willekeurig kaartje, laat dit zien, laat gebruiker een woord invoeren,
 antwoord of dat de goede vertaling is, en dat een aantal malen herhalen!
@@ -93,8 +95,8 @@ hoeveel daarvan er goed beantwoord waren en hoeveel procent dat is.
 
 Gegeven een stukje stamboom. Van de personen in de stamboom is gegeven of ze mannelijk danwel vrouwelijk zijn en verder wie hun (biologische) vader en moeder zijn.
 
-- Verzin een manier om dit op te slaan.
-- Ontwikkel een manier om van een persoon op te vragen wat het geslacht is en wie de vader/moeder is.
+- Verzin een manier om dit in een schema op te schrijven. Laat dit zien door op papier een schema te maken voor een familie van tenminste 15 personen (neem bijvoorbeeld een stuk van je eigen familie).
+- Hoe kun je in het schema zien van een persoon wat het geslacht is en wie de vader/moeder is.
 - Van een persoon wil ik op kunnen vragen wie de (directe) kinderen zijn.
 - Hetzelfde voor alle nazaten, daarmee bedoelen we de directe en indirecte kinderen (kleinkinderen, kleinkleinkinderen,...).
 
@@ -104,27 +106,34 @@ Een standaardoefening voor programmeurs is het tonen van de tafeltjes, dus iets 
 1 x 7 = 7
 2 x 7 = 14
 3 x 7 = 21
-en zo voort
+en zo voort.
+Maak hier een flow chart voor.
 
 
 ### Rekenspelletje
 Programma verzint 2 willekeurige getallen, gebruiker moet het product bereken en invoeren. Programma geeft aan of dit goed is of fout.
+Maak hier een flow chart voor.
 
 ### Anagram 1
 Bepaal of 2 strings anagrammen van elkaar zijn.
+Maak hier een flow chart voor.
 
 ### Anagram 2
 Genereer alle anagrammen van een gegeven string.
+Maak hier een flow chart voor.
+Als je niet weet wat een anagram is: je weet vast wel een manier om dat uit te vinden?
 
-                    koffieautomaat ?
-                    Schema printer / kopier ?
 
-## Verder ideeën die nog uitgewerkt moeten worden.
+### koffieautomaat
+Denk eens na over wat een koffieautomaat doet. Hij wacht op muntjes, registreert je keuze, maakt dan wat jij gekozen hebt. Maak hier een flow chart voor.
 
-### logica
-Iets met and / or
+### De niet-koffieautomaat
+In het dagelijks leven heb je nog met meer apparaten te maken. Kun je er een verzinnen met een interessant 'gedrag'? Maak er een flow chart voor. Bijvoorbeeld: printer, scanner, copier.
 
-### Bronnen
+
+## Misschien kun je zelf iets verzinnen met and / or 
+
+## Bronnen
 
 - encryptie ?
 - [binair rekenen](https://csunplugged.org/en/topics/binary-numbers/unit-plan/how-binary-digits-work-junior/)
