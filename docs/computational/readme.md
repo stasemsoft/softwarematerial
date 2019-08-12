@@ -90,6 +90,9 @@ antwoord of dat de goede vertaling is, en dat een aantal malen herhalen!
 Het wordt wat uitdagender als jouw algoritme bijhoudt hoeveel vragen er al zijn gesteld,
 hoeveel daarvan er goed beantwoord waren en hoeveel procent dat is.
 
+Als je hiermee bezig bent kom je vragen tegen. beantwoord deze zoals je zelf denkt dat goed is.
+Praat erover met anderen om je heen waar dat nodig is om tot goede beslissingen te komen. 
+
 
 ### Stamboom
 
@@ -131,7 +134,7 @@ Denk eens na over wat een koffieautomaat doet. Hij wacht op muntjes, registreert
 In het dagelijks leven heb je nog met meer apparaten te maken. Kun je er een verzinnen met een interessant 'gedrag'? Maak er een flow chart voor. Bijvoorbeeld: printer, scanner, copier.
 
 
-## Misschien kun je zelf iets verzinnen met and / or 
+## Misschien kun je zelf iets verzinnen met and / or
 
 ## Bronnen
 
