@@ -91,7 +91,7 @@ Het wordt wat uitdagender als jouw algoritme bijhoudt hoeveel vragen er al zijn 
 hoeveel daarvan er goed beantwoord waren en hoeveel procent dat is.
 
 Als je hiermee bezig bent kom je vragen tegen. beantwoord deze zoals je zelf denkt dat goed is.
-Praat erover met anderen om je heen waar dat nodig is om tot goede beslissingen te komen. 
+Praat erover met anderen om je heen waar dat nodig is om tot goede beslissingen te komen.
 
 
 ### Stamboom
@@ -138,8 +138,6 @@ In het dagelijks leven heb je nog met meer apparaten te maken. Kun je er een ver
 
 ## Bronnen
 
-- encryptie ?
 - [binair rekenen](https://csunplugged.org/en/topics/binary-numbers/unit-plan/how-binary-digits-work-junior/)
 
 - [Computational Thinking](https://csunplugged.org/en/computational-thinking/)
-- [binair rekenen](https://csunplugged.org/en/topics/binary-numbers/unit-plan/how-binary-digits-work-junior/)
