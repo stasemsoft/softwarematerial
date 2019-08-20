@@ -1,38 +1,33 @@
-# Toolbox Basis (eerste intro in programming, zonder objecten)
+# Toolbox Basis (introductie in programmeren, zonder objecten)
 
 
 ## Algemene info
 
-+ [info Installeer Visual Studio](https://stasemsoft.github.io/softwarematerial/docs/process/infoVisualStudioInstallatie.pdf)
++ [Visual Studio installatie](https://stasemsoft.github.io/softwarematerial/docs/process/infoVisualStudioInstallatie.pdf)
 
-+ [Over het inleveren van programma's in canvas](https://stasemsoft.github.io/softwarematerial/docs/process/infoInleverenProgrammas.pdf)
-
-
-## variabelen, assignment, typen
++ [Over het inleveren van programma's in Canvas](https://stasemsoft.github.io/softwarematerial/docs/process/infoInleverenProgrammas.pdf)
 
 
-## Conditioneel
+## Basis
+
++ [Dictaat Basis programmeren](https://stasemsoft.github.io/softwarematerial/docs/basic/knowOis11dictaat.pdf)
+
+### Variabelen, assignment, typen
 
 
-## Herhaling
-
-+ [dictaat basis programmeren](https://stasemsoft.github.io/softwarematerial/docs/basic/knowOis11dictaat.pdf)
+### Conditioneel
 
 
-## List en Array
 
-+ [dictaat collecties](https://stasemsoft.github.io/softwarematerial/docs/basic/theorie_FUN12_DictaatCollecties.pdf)
+## Collecties (List en Array)
 
++ [Dictaat Collecties](https://stasemsoft.github.io/softwarematerial/docs/basic/theorie_FUN12_DictaatCollecties.pdf)
+
++ [Presentatie: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/theorie_FUN12_Arrays.pptx)
 + [Exercises: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/exercises_FUN12_Arrays.pdf)
 
-+ [exercises met List](https://stasemsoft.github.io/softwarematerial/docs/basic/exercises_FUN12Lists.pdf)
++ [Presentatie: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/theorie_FUN12_Lists.pptx)
++ [Exercises: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/exercises_FUN12Lists.pdf)
 
-+ [exercise List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/exercises_FUN12_ListMethodes.pdf)
-
-+ [exercises List methodes](https://stasemsoft.github.io/softwarematerial/docs/objects/exercises_FUN12_ListMethodes.pdf)
-
-
-
-
-
-+ [Basis samengevat in een dictaat (afkomstig van het vak OIS11)](https://stasemsoft.github.io/softwarematerial/docs/basic/knowOis11dictaat.pdf)
++ [Presentatie: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/theorie_FUN12_ListMethodes.pptx)
++ [Exercises: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/exercises_FUN12_ListMethodes.pdf)
