@@ -14,10 +14,16 @@
 
 ### Variabelen, assignment, typen
 
++ [Excercise: Euro Dollar converter](https://stasemsoft.github.io/softwarematerial/docs/basic/Euro-Dollar-converter.pdf)
++ [Excercise: Calculator](https://stasemsoft.github.io/softwarematerial/docs/basic/VariabelenBewerkingenConversies.pdf)
++ [Excercises: Diversen](https://stasemsoft.github.io/softwarematerial/docs/basic/Extra-opgaven-variabelen.pdf)
 
 ### Conditioneel
 
-
++ [Excercise: Calorieën tracker](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Calorieën.pdf)
++ [Excercise: Dobbelsteen](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Dobbelsteen.pdf)
++ [Excercises: Pincode-reminder](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Pincode-reminder.pdf)
++ [Excercises: Extra opgaven keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Extra-opgaven-keuzestructuren.pdf)
 
 ## Collecties (List en Array)
 
