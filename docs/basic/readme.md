@@ -14,12 +14,14 @@
 
 ### Variabelen, assignment, typen
 
++ [Presentatie: Variabelen, bewerkingen en conversies](https://stasemsoft.github.io/softwarematerial/docs/basic/var/Variabelen-bewerkingen-conversies.pptx)
 + [Excercise: Euro Dollar converter](https://stasemsoft.github.io/softwarematerial/docs/basic/var/Euro-Dollar-converter.pdf)
 + [Excercise: Calculator](https://stasemsoft.github.io/softwarematerial/docs/basic/var/VariabelenBewerkingenConversies.pdf)
 + [Excercises: Diversen](https://stasemsoft.github.io/softwarematerial/docs/basic/var/Extra-opgaven-variabelen.pdf)
 
 ### Conditioneel
 
++ [Presentatie: Keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Keuzestructuren.pptx)
 + [Excercise: Calorieën tracker](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Calorieën.pdf)
 + [Excercise: Dobbelsteen](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Dobbelsteen.pdf)
 + [Excercise: Pincode-reminder](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Pincode-reminder.pdf)
