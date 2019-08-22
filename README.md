@@ -31,10 +31,8 @@ Als je vragen hebt: kijk eerst eens in de [Frequently Asked Questions](https://s
 
 [Toolbox basis](https://stasemsoft.github.io/softwarematerial/docs/basic/)
 
-### Challenges Grabbelton over de basis van programmeren (zonder objecten)
 
-...
 
 ## Objects en Classes
 
-+ [OOP](https://stasemsoft.github.io/softwarematerial/docs/objects/)
++ [OOP: Object Oriented Programming](https://stasemsoft.github.io/softwarematerial/docs/objects/)
