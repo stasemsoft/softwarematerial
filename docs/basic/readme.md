@@ -63,7 +63,7 @@ Goede online resources om C# te leren:
 ### Methoden
 
 + [Excercise: Toetsopdracht](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Toetsopdracht.pdf)  
-+ [Excercise: Bloeddruk](methoden/bloeddruk.md)  
++ [Excercise: Bloeddruk](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/bloeddruk.md)  
 + [Excercises: Diverse opdrachten 1](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%201.pdf)  
 + [Excercises: Diverse opdrachten 2](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%202.pdf)  
 + [Excercises: Diverse opdrachten 3](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%203.md)  
