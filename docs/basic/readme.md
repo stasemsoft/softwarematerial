@@ -16,8 +16,8 @@ Als je inspiratie nodig hebt voor je App of zo maar:
 -[TED talk 8 secrets of success](https://www.ted.com/talks/richard_st_john_s_8_secrets_of_success?language=nl)  
 
 ## Externe excercises en challenges
--[Code Wars](https://www.codewars.com/)  
--[Project Euler](https://projecteuler.net/)  
+-[Code Wars](https://www.codewars.com/) - [Basis niveau](https://www.codewars.com/kata/search/csharp?q=&r%5B%5D=-8&tags=Fundamentals&beta=false)  
+-[Project Euler](https://projecteuler.net/) - [overzicht van geschikte Basis en Verdiepings Challenges](https://stasemsoft.github.io/softwarematerial/docs/basic/OIS11%20en%20OIS12%20-%20Project%20Euler%20challenges.pdf)  
 -[Coding Game](https://www.codingame.com/)  
   
 ## C\# Online resources
@@ -51,6 +51,22 @@ Goede online resources om C# te leren:
 + [Excercise: Dobbelsteen](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Dobbelsteen.pdf)
 + [Excercise: Pincode-reminder](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Pincode-reminder.pdf)
 + [Excercises: Extra opgaven keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Extra-opgaven-keuzestructuren.pdf)
+
+### Lussen
+
++ [Excercise: Christmas Tree Generator](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Challenges/Christmas%20Tree%20Generator/Christmas%20Tree%20Generator.pdf)
++ [Excercise: Emmer vol laten lopen](https://git.fhict.nl/I872272/ProgrammingChallenges/tree/master/Challenges/Emmer%20vol%20laten%20lopen)
++ [Excercise: Worpengenerator](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/Worpengenerator.pdf)
++ [Excercises: Diverse opdrachten lussen 1](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/Extra%20opgaven%20lussen.pdf)
++ [Excercises: Diverse opdrachten lussen 2](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/ExtraLussen.pdf)
+
+### Methoden
+
++ [Excercise: Toetsopdracht](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Toetsopdracht.pdf)  
++ [Excercise: Bloeddruk](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/bloeddruk.md)  
++ [Excercises: Diverse opdrachten 1](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%201.pdf)  
++ [Excercises: Diverse opdrachten 2](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%202.pdf)  
++ [Excercises: Diverse opdrachten 3](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%203.md)  
 
 ## Collecties (List en Array)
 
