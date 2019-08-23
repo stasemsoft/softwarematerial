@@ -52,6 +52,10 @@ Goede online resources om C# te leren:
 + [Excercise: Pincode-reminder](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Pincode-reminder.pdf)
 + [Excercises: Extra opgaven keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Extra-opgaven-keuzestructuren.pdf)
 
+### String Methoden
+
++ [Excercises: Extra opgaven keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/string%20methoden/Stringmethoden.pdf)
+
 ### Lussen
 
 + [Excercise: Christmas Tree Generator](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Challenges/Christmas%20Tree%20Generator/Christmas%20Tree%20Generator.pdf)
