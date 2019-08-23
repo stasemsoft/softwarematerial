@@ -39,7 +39,7 @@ Goede online resources om C# te leren:
 
 ### Algemeen
 
-+ [De Debugger](https://stasemsoft.github.io/softwarematerial/docs/basic/debugger/Debugger.pdf)
++ [Tutorial - De Debugger](https://stasemsoft.github.io/softwarematerial/docs/basic/debugger/Debugger.pdf)
 
 ### Variabelen, assignment, typen
 
