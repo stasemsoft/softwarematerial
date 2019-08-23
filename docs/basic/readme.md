@@ -37,6 +37,10 @@ Goede online resources om C# te leren:
 
 + [Dictaat Basis programmeren](https://stasemsoft.github.io/softwarematerial/docs/basic/knowOis11dictaat.pdf)
 
+### Algemeen
+
++ [De Debugger](https://stasemsoft.github.io/softwarematerial/docs/basic/debugger/Debugger.pdf)
+
 ### Variabelen, assignment, typen
 
 + [Presentatie: Variabelen, bewerkingen en conversies](https://stasemsoft.github.io/softwarematerial/docs/basic/var/Variabelen-bewerkingen-conversies.pptx)
