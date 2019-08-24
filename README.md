@@ -41,7 +41,3 @@ Dit is een introductie in programmeren, zonder objecten.
 Verdieping, programmeren met objecten
 
 [OOP: Object Oriented Programming](https://stasemsoft.github.io/softwarematerial/docs/objects/)
-
-----------
-Tijdelijk:
-[Kleine test](docs/testfile.md)
