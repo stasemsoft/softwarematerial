@@ -3,6 +3,10 @@
 Hier worden vragen en antwoorden opgenomen die voor iedereen van belang kunnen zijn die met dit materiaal bezig is.
 
 
+## Errata die na het publiceren van de course naar boven kwamen.
+
+- Module: 
+
 ## Moet ik per se C# gebruiken in het startsemester?
 
 Je moet je docent overtuigen dat je de gewenste vaardigheden op het vereiste niveau beheerst! Voor een deel zal dit wellicht mogelijk zijn met stukken code in andere talen en omgevingen: overleg met je docent!
