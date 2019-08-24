@@ -62,29 +62,7 @@
 
 ## Challenges Galore over werken met Classes en Objecten
 
-Verzameling met nog veel meer Challlenges, niet direct gekoppeld aan 1 onderwerp/concept. Niet bedoeld om per se letterlijk uit te voeren: varieer er gerust op!
-
-+ [challenge Eendenvijver](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challenge_Class_Exploratie.pdf)
-
-+ [challenge PlatenMaatschappij](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challengePlatenMaatschappij.pdf)
-
-+ [challenges Trajectorinator](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challengeTrajectorinator.pdf)
-
-+ [challenge WebshopSpierballetje](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challengeWebshopSpierballetje.pdf)
-
-+ [challenge Winstpercentage](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challengeWinstpercentage.pdf)
-
-+ [challenge WoordenZoeker](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challengeWoordenZoeker.pdf)
-
-+ [challenge 4opeenrij](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challenge_4opeenrij.pdf)
-
-+ [challenge DamSpel](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challenge_DamSpel.pdf)
-
-+ [challenge Schaakspel](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challenge_Schaakspel.pdf)
-
-+ [challenge lesrooster](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challenge_lesrooster.pdf)
-
-+ [challenge Create Your Own challenge](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challengeCreateYourOwn.pdf)
+[Verzameling Challenges](challenges)
 
 + [info over git](https://stasemsoft.github.io/softwarematerial/docs/process/infoENGit.pdf)
 
@@ -100,10 +78,10 @@ Verzameling met nog veel meer Challlenges, niet direct gekoppeld aan 1 onderwerp
 
 ## GDI graphics en het Paint-Event in C# / WinForms
 
-+ [Theorie Graphics](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_Graphics.pdf)
++ [Theorie Graphics](theorie_Graphics.pdf)
 
-+ [challenge IedereenKanSchilderen](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challengeIedereenKanSchilderen.pdf)
++ [challenge IedereenKanSchilderen](challenges/challengeIedereenKanSchilderen.pdf)
 
-+ [challenge MsPacman](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challengeMsPacman.pdf)
++ [challenge MsPacman](challenges/challengeMsPacman.pdf)
 
-+ [exercise Draw Cube](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challengeCube.pdf)
++ [exercise Draw Cube](challenges/challengeCube.pdf)
