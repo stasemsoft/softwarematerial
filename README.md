@@ -24,16 +24,20 @@ Als je vragen hebt: kijk eerst eens in de [Frequently Asked Questions](https://s
 
 [Computational Thinking](https://stasemsoft.github.io/softwarematerial/docs/computational)
 
+### Software Engineering
 
+Dit betreft niet-programmeer aspecten die een beginnend software engineer moet kunnen en weten.
+
+[Software Engineering](https://stasemsoft.github.io/softwarematerial/docs/software%20engineering/)
 
 ### Toolbox Basis
-(eerste intro in programming, zonder objecten)
+
+Dit is een introductie in programmeren, zonder objecten.
 
 [Toolbox basis](https://stasemsoft.github.io/softwarematerial/docs/basic/)
 
+### Objects en Classes
 
-
-## Objects en Classes
-(en dan nu met objecten)
+Verdieping, programmeren met objecten
 
 [OOP: Object Oriented Programming](https://stasemsoft.github.io/softwarematerial/docs/objects/)

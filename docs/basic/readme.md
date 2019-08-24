@@ -37,6 +37,10 @@ Goede online resources om C# te leren:
 
 + [Dictaat Basis programmeren](https://stasemsoft.github.io/softwarematerial/docs/basic/knowOis11dictaat.pdf)
 
+### Algemeen
+
++ [Tutorial - De Debugger](https://stasemsoft.github.io/softwarematerial/docs/basic/debugger/Debugger.pdf)
+
 ### Variabelen, assignment, typen
 
 + [Presentatie: Variabelen, bewerkingen en conversies](https://stasemsoft.github.io/softwarematerial/docs/basic/var/Variabelen-bewerkingen-conversies.pptx)
@@ -52,6 +56,10 @@ Goede online resources om C# te leren:
 + [Excercise: Pincode-reminder](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Pincode-reminder.pdf)
 + [Excercises: Extra opgaven keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Extra-opgaven-keuzestructuren.pdf)
 
+### String Methoden
+
++ [Excercises: Extra opgaven keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/string%20methoden/Stringmethoden.pdf)
+
 ### Lussen
 
 + [Excercise: Christmas Tree Generator](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Challenges/Christmas%20Tree%20Generator/Christmas%20Tree%20Generator.pdf)
@@ -62,21 +70,17 @@ Goede online resources om C# te leren:
 
 ### Methoden
 
-+ [Excercise: Toetsopdracht](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Toetsopdracht.pdf)  
-+ [Excercise: Bloeddruk](methoden/bloeddruk.md)  
++ [Excercise: Bloeddruk](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Bloeddruk%20meten.pdf/)  
 + [Excercises: Diverse opdrachten 1](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%201.pdf)  
 + [Excercises: Diverse opdrachten 2](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%202.pdf)  
-+ [Excercises: Diverse opdrachten 3](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%203.md)  
++ [Excercise: Toetsopdracht](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Toetsopdracht.pdf)  
 
 ## Collecties (List en Array)
 
 + [Dictaat Collecties](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_DictaatCollecties.pdf)
-
 + [Presentatie: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_Arrays.pptx)
 + [Exercises: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12_Arrays.pdf)
-
 + [Presentatie: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_Lists.pptx)
 + [Exercises: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12Lists.pdf)
-
 + [Presentatie: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_ListMethodes.pptx)
 + [Exercises: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12_ListMethodes.pdf)
