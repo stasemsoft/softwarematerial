@@ -1,6 +1,6 @@
-# Programmeren met Objects en Classes
+# Toolbox Verdiepend
 
-## Object, Class, Constructor
+## Programmeren met Objects en Classes
 
 + [Theorie: Hoe programmeer je met Objecten](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_Class.pdf)
 
