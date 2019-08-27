@@ -13,6 +13,7 @@ url:  'https://stasemsoft.github.io/softwarematerial/docs/basic/'
 
 
 
+
 ## Moet ik per se C# gebruiken in het startsemester?
 
 Je moet je docent overtuigen dat je de gewenste vaardigheden op het vereiste niveau beheerst! Voor een deel zal dit wellicht mogelijk zijn met stukken code in andere talen en omgevingen: overleg met je docent!
