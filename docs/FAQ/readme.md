@@ -3,9 +3,15 @@
 Hier worden vragen en antwoorden opgenomen die voor iedereen van belang kunnen zijn die met dit materiaal bezig is.
 
 
-## Errata die na het publiceren van de course naar boven kwamen.
+## Errata
 
-- Module: 
+Module: S Oriëntatie Product Proof of Concept,
+onder 'Lesmateriaal' staat een link 'Exercises: Arrays', die naar een verkeerde plek verwijst. Moet zijn:
+naam: 'softwarematerial/basic'
+url:  'https://stasemsoft.github.io/softwarematerial/docs/basic/'
+
+
+
 
 ## Moet ik per se C# gebruiken in het startsemester?
 
