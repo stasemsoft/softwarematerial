@@ -34,6 +34,9 @@ De uitdagingen van Project Euler zijn vaak problemen die het best met een comput
 
 + [ProjectEuler 79](https://projecteuler.net/problem=79)
 
+Misschien vind je nog wel andere Euler-challenges waar je bijvoorbeeld een flow chart voor een mogelijke oplossing voor kunt verzinnen. 
+
+
 ### Maken van een Algoritme / Flow Chart
 Als je software bouwt ontwerp je vaak een algoritme dat een probleem oplost.  
 Dit algoritme kun je op verschillende manieren beschrijven. Wij willen voor de oriëntatie dat je flow charts maakt. Schrijf deze op white board (eventueel op papier) en lever een foto daarvan in.
