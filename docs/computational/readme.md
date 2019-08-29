@@ -24,17 +24,21 @@ Hieronder een aantal opdrachten waarmee je zogenaamde 'computational thinking' w
 De digitale wereld is opgebouwd uit nullen en enen, '0' en '1' is alles wat een computer kent. Oh ja? Ja.  
 Deze opdracht introduceert het binaire tellen:
 
-+ [Binary01](https://stasemsoft.github.io/softwarematerial/docs/computational/binary01.pdf)
++ [Binary01](binary01.pdf)
 
 ### Binair 2
 Kun je tot 31 tellen op 1 hand? Typ **'count to 31 on one hand'** in je favoriete zoekmachine.
+
+### Getal raden: hoger lager
+
+[Hoger lager](hogerlager).
 
 ### Project Euler Challenge 79
 De uitdagingen van Project Euler zijn vaak problemen die het best met een computer op te lossen zijn. Euler79 is echter ook zonder hulp van een laptop op te lossen: op whiteboard bijvoorbeeld!
 
 + [ProjectEuler 79](https://projecteuler.net/problem=79)
 
-Misschien vind je nog wel andere Euler-challenges waar je bijvoorbeeld een flow chart voor een mogelijke oplossing voor kunt verzinnen. 
+Misschien vind je nog wel andere Euler-challenges waar je bijvoorbeeld een flow chart voor een mogelijke oplossing voor kunt verzinnen.
 
 
 ### Maken van een Algoritme / Flow Chart
