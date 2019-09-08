@@ -1,0 +1,31 @@
+{
+	"title": "XAML",
+	"attribution": "FHICT"
+}
+
+
+|A good programmer is someone who always looks
+|both ways before crossing a one-way street
+
+Het leerdoel XAML van OIS12 houdt in dat je een user interface voor WPF of Windows Universal kunt maken.
+
+Je kunt dit doen vanuit de designer (Shift+F7) maar ook rechtstreeks in XAML-code. Dit ziet er in het begin misschien eng uit, maar dat went snel.
+
+Tip: als je googelt zet dan het woord "WPF" erbij omdat WPF de eerste techniek was waar XAML bij werd toegepast waardoor er nog steeds veel info op internet over te vinden is.
+
+Liefhebbers kunnen de XAML-editor gebruiken, maar je kunt ook vanuit het design werken. Als je gaat googlen zet dan de zoekterm ''WPF'' erbij.
+
+
+!!!Trucs:
+
+*Ik zie geen designer>http://stackoverflow.com/questions/34088737/visual-studio-2015-update-1-xaml-designer-not-showing-for-uwp*
+
+*Tutorial grid-layout (goede manier om controls te alignen)>http://www.dailyfreecode.com/code/grid-layout-xaml-212.aspx*
+
+*Advanced topic: styles>https://msdn.microsoft.com/en-us/library/ms745683%28v=vs.110%29.aspx*
+
+
+!!!Scheiding GUI en code
+Eerder is al aangegeven dat het zaak is je code goed gescheiden te houden van de ==user interface== (==Forms==). Om te controleren of je dat echt goed hebt gedaan ga je nu een nieuw project maken waarbij je alleen de user interface van je systeem gaat wijzigen.
+
+Maak een ==Windows Universal app== aan en maak opnieuw een ==User Interface== van een eerder gemaakt programma. Je bestaande klassen met code ga je hergebruiken.
