@@ -22,6 +22,10 @@ Als je inspiratie nodig hebt voor je App of zo maar:
 
 ## C\# Online resources
 
+Demo-filmpjes:
+[van Jan](https://i872272core.venus.fhict.nl/)
+
+
 Boeken:  
 [Head First C#](https://www.oreilly.com/library/view/head-first-c/9781449358846/) - Basis=Hoofdstuk 1 tm 4
 
