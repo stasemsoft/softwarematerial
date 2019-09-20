@@ -1,0 +1,24 @@
+[
+   {
+      "name":"Blackbeard (Edward Teach)",
+      "life":"1680 - 1718",
+      "years_active":"1716 - 1718",
+      "years_active":"1716 - 1718",
+      "country_of_origin":"England",
+      "comments":"With his fearsome appearance, Blackbeard is often credited with the creation of the stereotypical image of a pirate."
+   },
+   {
+      "name":"Edward England",
+      "life":"1690 - 1720",
+      "years_active":"1717 - 1720",
+      "country_of_origin":"Ireland",
+      "comments":"Differing from many other pirates of his day, England did not kill captives unless necessary."
+   },
+   {
+      "name":"William 'Captain' Kidd",
+      "life":"1645 - 1701",
+      "years_active":"1695 - 1699",
+      "country_of_origin":"Scotland",
+      "comments":"Although modern historians dispute the legitimacy of his trial and execution, the rumor of Captain Kidd's buried treasure has served only to build a legend around the man as a great pirate. His property was claimed by the crown and given to the Royal Hospital, Greenwich, by Queen Anne."
+   }
+]
