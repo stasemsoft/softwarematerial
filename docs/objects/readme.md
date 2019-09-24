@@ -12,7 +12,7 @@
 
 + [Exercise Marimba_and_Bass](https://stasemsoft.github.io/softwarematerial/docs/objects/exercise_Marimba_and_Bass.pdf)
 
-+ [Challenge AutoDagWaarde](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challengeAutoDagWaarde.pdf)
++ [Challenge AutoDagWaarde](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challenge_AutoDagWaarde.pdf)
 
 
 
