@@ -1,7 +1,11 @@
-<a id="cha:challengeBankRekening"></a>| Niveau | 3 of 5 |
+| Niveau | 3 of 5 |
+
 | --- | --- |
+
 | Leerdoelen | Class, constructor, object, this, static. |
+
 | Vereiste voorkennis | Basiskennis over objecten. |
+
 | Challenge Type | Realiseren. |
 
 
