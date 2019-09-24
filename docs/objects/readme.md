@@ -62,7 +62,10 @@
 
 ## Challenges Galore over werken met Classes en Objecten
 
-[Verzameling Challenges](challenges)
++ [Verzameling Challenges](challenges)
+
+
+## Mogelijk overig nuttig materiaal
 
 + [info over git](https://stasemsoft.github.io/softwarematerial/docs/process/infoENGit.pdf)
 
