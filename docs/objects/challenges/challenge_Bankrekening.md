@@ -144,7 +144,7 @@ Zie MSDN voor meer informatie.
 
 ## Uitbreidingen
 
-![](figures/niveau3.png "niveau")
+![](figures/niveau3.png)
 
 
 Voeg een ListBox op het scherm waarin de transacties worden weergegeven onder vermelding van datum, tijd, betrokken rekeningnummer(s) en bedrag. Naar keuze geef je alleen geslaagde of zowel geslaagde als niet geslaagde transacties weer. In het laatste geval wordt er tevens vermeld of de transactie geslaagd is of niet.
