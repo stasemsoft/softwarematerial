@@ -1,6 +1,7 @@
 # Challenge Bankrekening
 
-| Niveau | 3 of 5 |
+![](figures/niveau3.png)
+
 | --- | --- |
 | Leerdoelen | Class, constructor, object, this, static. |
 | Vereiste voorkennis | Basiskennis over objecten. |
