@@ -1,4 +1,5 @@
-<a id="cha:challengeAutoDagwaarde"></a>
+Challenge AutoDagwaarde
+
 | Niveau | 2 of 5 |
 | --- | --- |
 | Leerdoelen | Class, property. |

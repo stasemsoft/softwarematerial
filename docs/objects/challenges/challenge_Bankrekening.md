@@ -1,3 +1,5 @@
+# Challenge Bankrekening
+
 | Niveau | 3 of 5 |
 | --- | --- |
 | Leerdoelen | Class, constructor, object, this, static. |
@@ -6,22 +8,27 @@
 
 
 
-In deze opdracht maak je een toepassing die een sterk vereenvoudigde bank met maar twee bankrekeningen voorstelt. Hieronder zie je een voorbeeld van het scherm van de toepassing.
-![](figures/BankRekening.png "bankrekening")
+In deze opdracht maak je een toepassing die een sterk vereenvoudigde bank met twee bankrekeningen voorstelt.
 
 Met deze toepassing kan men:
 - Geld storten op de rekening links of rechts. In de TextBoxes vul je het bedrag in, vervolgens klik je op de Button “Storten”. Alleen een positief bedrag kan gestort worden. Indien er een negatief saldo zou ontstaan, of als er iets anders ingevuld is dan positieve getallen wordt de transactie niet uitgevoerd en wordt een foutmelding gegeven door middel van een MessageBox.
 - Geld opnemen van de rekening links of rechts. In de TextBoxes vul je het bedrag in, vervolgens klik je op de Button “Opnemen”. Indien er een negatief saldo zou ontstaan, of als er iets anders ingevuld is dan positieve getallen wordt de transactie niet uitgevoerd en wordt een foutmelding gegeven door middel van een MessageBox.
 - Geld overboeken van links naar rechts (of van rechts naar links). In de TextBoxes links (rechts) vul je het over te maken bedrag in daarna klik je op de Button &gt;&gt;  (&lt;&lt;).  Indien er een negatief saldo zou ontstaan bij de betalende partij, of als er iets anders ingevuld is dan positieve getallen wordt de transactie niet uitgevoerd en wordt een foutmelding gegeven door middel van een MessageBox.
 Het weergegeven saldo wordt na iedere transactie natuurlijk netjes aangepast.
-### Opdracht
 
-#### STAP 1: HET FORMULIER
+## Opdracht
+
+### STAP 1: HET FORMULIER
+
 Maak een nieuw Windows Forms project aan dat je bijvoorbeeld Bankzaken noemt. Geef het automatisch aangemaakte formulier Form1 een meer betekenisvolle naam, bijvoorbeeld BankrekeningForm. Pas ook de Property Text van het formulier aan zodat er een betere naam in de titelbalk van de applicatie komt te staan.
-#### STAP 2: DE GUI
+
+### STAP 2: DE GUI
+
 Sleep de benodigde componenten op het formulier. Het hoeft niet precies zoals in het voorbeeld staat, maar bedenk wel vooraf hoe je de vereiste functionaliteit koppelt aan de componenten. Geef de componenten een betekenisvolle naam bijvoorbeeld btnStortenLinks en txtEuroRechts.
  #### STAP 3: DE KLASSE BANKREKENING
-Voeg een nieuwe klasse toe en noem deze Bankrekening. Elke bankrekening heeft een rekeningnummer, staat op naam van een persoon en heeft een saldo. Zorg er voor dat de klasse Bankrekening-Fields heeft om de benodigde gegevens op te slaan en verder de volgende velden heeft:```
+Voeg een nieuwe klasse toe en noem deze Bankrekening. Elke bankrekening heeft een rekeningnummer, staat op naam van een persoon en heeft een saldo. Zorg er voor dat de klasse Bankrekening-Fields heeft om de benodigde gegevens op te slaan en verder de volgende velden heeft:
+
+```
 // Fields
 private int rekeningnummer;
 private string naam;
@@ -29,7 +36,7 @@ private int saldo; // het saldo in hele centen
 private static int volgendeVrijeRekeningnummer = 2001;
 ```
 
-#### Properties
+### Properties
 Programmeer de volgende attributen als READ ONLY (!) property's:
 - Rekeningnummer (type int)
 - Naam (type string)
@@ -57,11 +64,16 @@ public void MaakOver(Bankrekening andereRekening, int bedrag)
 ```
 
 Maak de implementatie van de methodes waarbij “vul zelf in” staat, zelf af.
-#### Static variabele
+
+### Static variabele
+
 Merk op dat er `static` staat voor de variabele volgendeVrijeRekeningNummer en dat deze variabele op 2001 wordt geïnitialiseerd. Dat er static staat betekent dat dit een zogenaamde klassenvariabele is. Een klassenvariabele bestaat al voordat er een instantie gemaakt is van de klasse en wordt bij het opstarten van de applicatie geïnitialiseerd en dus niet pas bij het instantiëren (aanmaken) van het object van die klasse, zoals normale variabelen. Het voordeel van een klassevariabele is dat deze voor alle instanties van deze klasse dezelfde waarde heeft. Dezelfde klassevariabele wordt dus door alle instanties van deze klasse gebruikt.
 Elke nieuwe bankrekening moet natuurlijk een uniek rekeningnummer hebben. Bij deze bank zijn dat de nummers vanaf 2001. De eerste bankrekening, die gecreëerd wordt, krijgt rekeningnummer 2001, de volgende rekeningnummer 2002, etc. Het bepalen van het volgende vrije rekeningnummer gebeurt in de Constructor.
-#### Constructors
+
+### Constructors
+
 Een Constructor is een speciale methode met dezelfde naam als de klasse die wordt uitgevoerd als een object van die aangemaakt wordt en dient om de Fields of Properties van de klasse te initialiseren. We hebben twee Constructors nodig. Een om een Bankrekening aan te maken als de naam van de rekeninghouder bekend is en het beginsaldo 0 en een voor het geval dat er wel sprake is van een beginsaldo, bijvoorbeeld als onderdeel van een wervingsactie van de bank.
+
 ```
 // Constructors
 public Bankrekening(string naam)
@@ -73,7 +85,7 @@ public Bankrekening(string naam)
     // we hogen het volgende vrije rekeningnummer met 1 op zodat de
     // volgende bankrekening een nummer krijgt dat 1 hoger is dan
     // deze bankrekening.
-    volgendeVrijeRekeningnummer++;
+    ++volgendeVrijeRekeningnummer;
 }
 
 public Bankrekening(string naam, int saldo)
@@ -83,8 +95,9 @@ public Bankrekening(string naam, int saldo)
 ```
 
 
-<p class="note">Het is in veel C# teams gebruikelijk om de Contructors na de Properties en voor de Methoden te zetten.</p>
-#### STAP 4: DE KLASSE BANKREKENINGFORM
+Het is in veel C# teams gebruikelijk om de Contructors na de Properties en voor de Methoden te zetten.
+
+### STAP 4: DE KLASSE BANKREKENINGFORM
 Declareer binnen de BankrekeningForm twee Fields, voor de 2 bankrekeningen. Initialiseer deze twee Fields vervolgens in de Constructor van het formulier.
 ```
 public partial class BankrekeningForm : Form
@@ -118,6 +131,7 @@ bool int.TryParse(string text, out int result);
 ```
 
 Zoals je ziet is bij de declaratie van de tweede parameter out vermeld. Dit betekent dat deze methode de waarde van result mag aanpassen. Bij het aanroepen van de methode moet ook out vermeld worden. De waarde van de parameter result kan na het aanroepen van TryParse veranderd zijn. Als true wordt teruggegeven, bevat tekst een heel getal en heeft result de waarde. Zo niet, dan is er iets anders ingegeven dan een geheel getal en bevat result geen geldige waarde. Let op: een negatief geheel getal is ook een geheel getal.
+
 ```
 if (int.TryParse(txtEuroLinks.Text, out getal))
 {
@@ -127,7 +141,9 @@ if (int.TryParse(txtEuroLinks.Text, out getal))
 ```
 
 Zie MSDN voor meer informatie.
-### Uitbreidingen
+
+## Uitbreidingen
+
 ![](figures/niveau3.png "niveau")
 
 
