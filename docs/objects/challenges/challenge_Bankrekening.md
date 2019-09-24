@@ -1,11 +1,7 @@
 | Niveau | 3 of 5 |
-
 | --- | --- |
-
 | Leerdoelen | Class, constructor, object, this, static. |
-
 | Vereiste voorkennis | Basiskennis over objecten. |
-
 | Challenge Type | Realiseren. |
 
 
