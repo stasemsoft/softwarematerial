@@ -60,7 +60,7 @@
 
 
 
-## Challenges Galore over werken met Classes en Objecten
+## Diverse Challenges voor wie de uitdaging zoekt...
 
 + [Verzameling Challenges](challenges)
 
