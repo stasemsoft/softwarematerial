@@ -30,13 +30,13 @@ Dit betreft niet-programmeer aspecten die een beginnend software engineer moet k
 
 [Software Engineering](https://stasemsoft.github.io/softwarematerial/docs/software%20engineering/)
 
-### Toolbox Basis
+### Toolbox Basis: Basisconcepten van programmeren
 
 Dit is een introductie in programmeren, zonder objecten.
 
 [Toolbox basis](https://stasemsoft.github.io/softwarematerial/docs/basic/)
 
-### Objects en Classes
+### Toolbox Verdiepend: Objects en Classes
 
 Verdieping, programmeren met objecten
 
