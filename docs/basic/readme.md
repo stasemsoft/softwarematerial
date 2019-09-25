@@ -22,6 +22,9 @@ Als je inspiratie nodig hebt voor je App of zo maar:
 
 ## C\# Online resources
 
+Recent:
+[dotnet.microsoft.com/learn/videos](https://dotnet.microsoft.com/learn/videos)
+
 Demo-filmpjes:
 [van Jan](https://i872272core.venus.fhict.nl/)
 
@@ -72,7 +75,7 @@ Goede online resources om C# te leren:
 + [Excercises: Diverse opdrachten lussen 1](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/Extra%20opgaven%20lussen.pdf)
 + [Excercises: Diverse opdrachten lussen 2](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/ExtraLussen.pdf)
 
-Als je een extra uitdaging wilt: 
+Als je een extra uitdaging wilt:
 + [Excercise: Emmer vol laten lopen](https://git.fhict.nl/I872272/ProgrammingChallenges/tree/master/Challenges/Emmer%20vol%20laten%20lopen)
 
 ### Methoden
