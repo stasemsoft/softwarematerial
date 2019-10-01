@@ -52,38 +52,38 @@ Goede online resources om C# te leren:
 ### Variabelen, assignment, typen
 
 + [Presentatie: Variabelen, bewerkingen en conversies](https://stasemsoft.github.io/softwarematerial/docs/basic/var/Variabelen-bewerkingen-conversies.pptx)
-+ [Excercise: Euro Dollar converter](https://stasemsoft.github.io/softwarematerial/docs/basic/var/Euro-Dollar-converter.pdf)
-+ [Excercise: Calculator](https://stasemsoft.github.io/softwarematerial/docs/basic/var/VariabelenBewerkingenConversies.pdf)
-+ [Excercises: Diversen](https://stasemsoft.github.io/softwarematerial/docs/basic/var/Extra-opgaven-variabelen.pdf)
++ [Exercise: Euro Dollar converter](https://stasemsoft.github.io/softwarematerial/docs/basic/var/Euro-Dollar-converter.pdf)
++ [Exercise: Calculator](https://stasemsoft.github.io/softwarematerial/docs/basic/var/VariabelenBewerkingenConversies.pdf)
++ [Exercises: Diversen](https://stasemsoft.github.io/softwarematerial/docs/basic/var/Extra-opgaven-variabelen.pdf)
 
 ### Conditioneel
 
 + [Presentatie: Keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Keuzestructuren.pptx)
-+ [Excercise: Calorieën tracker](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Calorieën.pdf)
-+ [Excercise: Dobbelsteen](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Dobbelsteen.pdf)
-+ [Excercise: Pincode-reminder](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Pincode-reminder.pdf)
-+ [Excercises: Extra opgaven keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Extra-opgaven-keuzestructuren.pdf)
++ [Exercise: Calorieën tracker](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Calorieën.pdf)
++ [Exercise: Dobbelsteen](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Dobbelsteen.pdf)
++ [Exercise: Pincode-reminder](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Pincode-reminder.pdf)
++ [Exercises: Extra opgaven keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Extra-opgaven-keuzestructuren.pdf)
 
 ### String Methoden
 
-+ [Excercises: Extra opgaven keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/string%20methoden/Stringmethoden.pdf)
++ [Exercises: Extra opgaven keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/string%20methoden/Stringmethoden.pdf)
 
 ### Lussen
 
-+ [Excercise: Christmas Tree Generator](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Challenges/Christmas%20Tree%20Generator/Christmas%20Tree%20Generator.pdf)
-+ [Excercise: Worpengenerator](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/Worpengenerator.pdf)
-+ [Excercises: Diverse opdrachten lussen 1](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/Extra%20opgaven%20lussen.pdf)
-+ [Excercises: Diverse opdrachten lussen 2](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/ExtraLussen.pdf)
++ [Exercise: Christmas Tree Generator](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Challenges/Christmas%20Tree%20Generator/Christmas%20Tree%20Generator.pdf)
++ [Exercise: Worpengenerator](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/Worpengenerator.pdf)
++ [Exercises: Diverse opdrachten lussen 1](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/Extra%20opgaven%20lussen.pdf)
++ [Exercises: Diverse opdrachten lussen 2](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/ExtraLussen.pdf)
 
 Als je een extra uitdaging wilt:
-+ [Excercise: Emmer vol laten lopen](https://git.fhict.nl/I872272/ProgrammingChallenges/tree/master/Challenges/Emmer%20vol%20laten%20lopen)
++ [Exercise: Emmer vol laten lopen](https://git.fhict.nl/I872272/ProgrammingChallenges/tree/master/Challenges/Emmer%20vol%20laten%20lopen)
 
 ### Methoden
 
-+ [Excercise: Bloeddruk](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Bloeddruk%20meten.pdf)  
-+ [Excercises: Diverse opdrachten 1](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%201.pdf)  
-+ [Excercises: Diverse opdrachten 2](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%202.pdf)  
-+ [Excercise: Toetsopdracht](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Toetsopdracht.pdf)  
++ [Exercise: Bloeddruk](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Bloeddruk%20meten.pdf)  
++ [Exercises: Diverse opdrachten 1](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%201.pdf)  
++ [Exercises: Diverse opdrachten 2](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%202.pdf)  
++ [Exercise: Oefenopdracht](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Toetsopdracht.pdf)  
 
 ## Collecties (List en Array)
 
