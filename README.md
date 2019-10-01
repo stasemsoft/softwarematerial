@@ -20,9 +20,14 @@ Uitgangspunten:
 Als je vragen hebt: kijk eerst eens in de [Frequently Asked Questions](https://stasemsoft.github.io/softwarematerial/docs/FAQ)
  of anderen dezelfde vraag ook al hadden.
 
+
+---
+
 ### Computational Thinking
 
 [Computational Thinking](https://stasemsoft.github.io/softwarematerial/docs/computational)
+
+---
 
 ### Software Engineering
 
@@ -30,11 +35,15 @@ Dit betreft niet-programmeer aspecten die een beginnend software engineer moet k
 
 [Software Engineering](https://stasemsoft.github.io/softwarematerial/docs/software%20engineering/)
 
+---
+
 ### Toolbox Basis: Basisconcepten van programmeren
 
 Dit is een introductie in programmeren, zonder objecten.
 
 [Toolbox basis](https://stasemsoft.github.io/softwarematerial/docs/basic/)
+
+---
 
 ### Toolbox Verdiepend: Objects en Classes
 
