@@ -22,7 +22,7 @@ De factor is een waarde die afhankelijk is van het brandstoftype:
 - 130 voor een elektrische auto.
 
 Technisch Ontwerp
-- Definieer een enum BrandstofSoort met .
+- Definieer een enum BrandstofSoort met bovenstaande waarden.
 - Een class Auto met properties kilometerstand en Brandstof.
 - Auto heeft een public property KmStand met beginwaarde 1 (private setter). (Enig idee waarom we niet bij 0 beginnen?).
 
