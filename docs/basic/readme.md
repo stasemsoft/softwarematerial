@@ -85,7 +85,7 @@ Als je een extra uitdaging wilt:
 + [Exercises: Diverse opdrachten 2](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%202.pdf)  
 + [Exercise: Oefenopdracht](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Toetsopdracht.pdf)  
 
-## Collecties (List en Array)
+### Collecties (List en Array)
 
 + [Dictaat Collecties](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_DictaatCollecties.pdf)
 + [Presentatie: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_Arrays.pptx)
