@@ -88,4 +88,4 @@ Probeer nu de invuloefening Object Oriented te maken:
 
 ---
 
-+ [Oud materiaal, niet meer gebruikt bij FHICT](old)
++ [Oud materiaal, niet meer gebruikt bij FHICT](old.md)
