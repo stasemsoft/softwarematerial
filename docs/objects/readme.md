@@ -2,19 +2,28 @@
 
 ## Programmeren met Objects en Classes
 
+### Introductie Objects en Classes
+
 + [Theorie: Hoe programmeer je met Objecten](theorie_Class.pdf)
 
-+ [Exercise ObjectOriented invuloefening](exerciseObjectOrientedOefening.pdf)
-
-+ [Oplossing bij exercise ObjectOriented invuloefening](solutionObjectOrientedOefening.pdf)
+Kies 1 van de 2 exercises 'Trafficlight' of 'Marimba and the Bass'
+als eerste oefening met Objecten en Classes.
 
 + [Exercise met Class: TrafficLight](exercise_Class_TrafficLight.pdf)
 
 + [Exercise Marimba_and_Bass](exercise_Marimba_and_Bass.pdf)
 
+De default Challenge is 'AutoDagWaarde'.
+
 + [Challenge AutoDagWaarde (pdf)](challenges/challenge_AutoDagWaarde.pdf)
 |
 [(markdown)](challenges/challenge_AutoDagWaarde)
+
+Probeer nu de invuloefening Object Oriented te maken:
+
++ [Exercise ObjectOriented invuloefening](exerciseObjectOrientedOefening.pdf)
+
++ [Oplossing bij exercise ObjectOriented invuloefening](solutionObjectOrientedOefening.pdf)
 
 
 
