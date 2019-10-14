@@ -87,5 +87,6 @@ Probeer nu de invuloefening Object Oriented te maken:
 
 
 ---
+## Oud materiaal, niet meer gebruikt bij FHICT
 
-+ [Oud materiaal, niet meer gebruikt bij FHICT](old.md)
++ [link naar oud materiaal](old.md)
