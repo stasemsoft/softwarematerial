@@ -9,17 +9,13 @@
 Kies 1 van de 2 exercises 'Trafficlight' of 'Marimba and the Bass'
 als eerste oefening met Objecten en Classes.
 
-+ [Exercise met Class: TrafficLight (pdf)](exercise_Class_TrafficLight.pdf)
-|
-[(markdown)](exercise_Class_TrafficLight)
++ [Exercise met Class: TrafficLight](exercise_Class_TrafficLight)
 
 + [Exercise Marimba_and_Bass](exercise_Marimba_and_Bass.pdf)
 
 De default Challenge is 'AutoDagWaarde'.
 
-+ [Challenge AutoDagWaarde (pdf)](challenges/challenge_AutoDagWaarde.pdf)
-|
-[(markdown)](challenges/challenge_AutoDagWaarde)
++ [Challenge AutoDagWaarde](challenges/challenge_AutoDagWaarde)
 
 Probeer nu de invuloefening Object Oriented te maken:
 
