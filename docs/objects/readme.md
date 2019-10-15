@@ -26,8 +26,12 @@ Probeer nu de invuloefening Object Oriented te maken:
 + [Oplossing bij exercise ObjectOriented invuloefening](solutionObjectOrientedOefening.pdf)
 
 
+### property
 
-## Enum
++ [Theorie Property](theorie_Property.pdf)
+
+
+### Enum
 
 Zoals we gezien definiëren Classes een nieuw type.
 Een andere manier om een eigen type te definiëren is een 'enum'-type:
@@ -38,15 +42,20 @@ Een andere manier om een eigen type te definiëren is een 'enum'-type:
 
 
 
-## diversen mbt objects / classes
+### Casting
 
 + [Theorie Cast](theorie_Cast.pdf)
 
+
+### override ToString()
+
 + [Theorie override ToString](theorie_OverrideToString.pdf)
+
+### Private en public
 
 + [Theorie Private en Public](theorie_PrivatePublic.pdf)
 
-+ [Theorie Property](theorie_Property.pdf)
+
 
 + [Theorie So you wanna be a Software Engineer](theorie_AdvancedSoftwareEngineering.pdf)
 
@@ -61,8 +70,6 @@ Een andere manier om een eigen type te definiëren is een 'enum'-type:
 
 + [Theorie Which Class](theorie_WhichClass.pdf)
 
-
-## Overige onderwerpen
 
 
 ### File Handling en Exception Handling
