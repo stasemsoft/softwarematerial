@@ -11,7 +11,7 @@ als eerste oefening met Objecten en Classes.
 
 + [Exercise met Class: TrafficLight (pdf)](exercise_Class_TrafficLight.pdf)
 |
-[(markdown)](exercise_Class_TrafficLight.md)
+[(markdown)](exercise_Class_TrafficLight)
 
 + [Exercise Marimba_and_Bass](exercise_Marimba_and_Bass.pdf)
 
