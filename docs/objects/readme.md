@@ -9,7 +9,9 @@
 Kies 1 van de 2 exercises 'Trafficlight' of 'Marimba and the Bass'
 als eerste oefening met Objecten en Classes.
 
-+ [Exercise met Class: TrafficLight](exercise_Class_TrafficLight.pdf)
++ [Exercise met Class: TrafficLight (pdf)](exercise_Class_TrafficLight.pdf)
+|
+[(markdown)](exercise_Class_TrafficLight)
 
 + [Exercise Marimba_and_Bass](exercise_Marimba_and_Bass.pdf)
 

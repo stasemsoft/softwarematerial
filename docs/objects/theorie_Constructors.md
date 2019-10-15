@@ -1,7 +1,9 @@
 <a id="cha:knowConstructor"></a>
 
-Bij FUN12 heb je leren werken met de new-operator. Maar wat gebeurt er dan precies onder water als je een object aanmaakt met new? Dat is het leerdoel van deze week.
+Wat gebeurt er dan precies onder water als je een object aanmaakt met new? Dat is het leerdoel van deze week.
+
 ### Leerdoelen
+
 Kunnen uitleggen wat method overloading is (het is: dat je binnen een klasse methoden met dezelfde naam kunt hebben)
 Nieuwe constructors kunnen programmeren vanuit een gegeven specificatie.
 ![](figures/class1-uml.png "class")
