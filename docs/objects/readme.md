@@ -40,7 +40,7 @@ Een andere manier om een eigen type te definiëren is een 'enum'-type:
 
 + [Theorie Enum (pdf)](theorie_Enum.pdf)
 |
-[(markdown)](theorie_Enum)
+[(markdown)](theorie_Enum.md)
 
 + [Exercise met Enum: TrafficLight](exercise_Enum_TrafficLight.pdf)
 
