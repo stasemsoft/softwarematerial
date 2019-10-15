@@ -38,7 +38,9 @@ Probeer nu de invuloefening Object Oriented te maken:
 Zoals we gezien definiëren Classes een nieuw type.
 Een andere manier om een eigen type te definiëren is een 'enum'-type:
 
-+ [Theorie Enum](theorie_Enum.pdf)
++ [Theorie Enum (pdf)](theorie_Enum.pdf)
+|
+[(markdown)](theorie_Enum)
 
 + [Exercise met Enum: TrafficLight](exercise_Enum_TrafficLight.pdf)
 
