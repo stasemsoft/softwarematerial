@@ -5,6 +5,8 @@
 ### Introductie Objects en Classes
 
 + [Theorie: Hoe programmeer je met Objecten?](theorie_Class.md)
+en ook:
++ [FUN12-dictaat classes](theorie_FUN12_DictaatKlassen.pdf)
 
 Kies 1 van de 2 exercises 'Trafficlight' of 'Marimba and the Bass'
 als eerste oefening met Objecten en Classes.
