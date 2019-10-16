@@ -1,5 +1,7 @@
-![fig:MonsterGame](figures/MonsterGame.png "MonsterGame")
-### Hero tegen Monsters
+# Hoe programmeer je met objecten?
+
+## Hero tegen Monsters
+
 Hoe groter software wordt, hoe tijdrovender het  testen en onderhouden.
 Daarom wordt in de softwarewereld gezocht naar manieren om programma's onderhoudbaar te maken.
 Een van de meer succesvolle manieren is het werken met *objecten*.
@@ -8,6 +10,10 @@ die tegen *monsters* vecht
 zal liefst op één plek willen programmeren wat de eigenschappen
 van de hero  zijn
 en ook wat een monster is en wat je aan het monster kunt vragen.
+
+![fig:MonsterGame](figures/MonsterGame.png "MonsterGame")
+
+
 Als er 2 monsters zijn worden er 2 *objecten* gemaakt,
 als er 8 monsters zijn worden er 8 *objecten* gemaakt.
 Elk van deze objecten representeert 1 monster.
@@ -56,14 +62,14 @@ uiteindelijk wellicht bezwijken.
 ![](figures/ClassMonster.png "Class Monster")
 
 
-#### Hoe maak ik een class aan in Visual Studio?
+### Hoe maak ik een class aan in Visual Studio?
 Klik met rechtermuisknop op het project en kies `Add Item`,
 kies daarna een `class`. Onderin het scherm kun je de gewenste
 `class name` aangeven (`file name` is `class name` met
 `extensie` *.cs*) en dan op de *OK*-knop.
 
 
-### Gezondheid
+## Gezondheid
 In dit spel kunnen we dat realiseren
 door het monster een getal *health* te geven:
 Voor een pas *aangemaakt* monster staat dit op 100,
@@ -125,7 +131,7 @@ public Game()
  }
 ```
 
-### Attack
+## Attack
 Onze *hero* staat te popelen om een monster te gaan aanvallen.
 Hiervoor gaan we *gedrag* in de `class` *Hero* programmeren:
 
@@ -186,7 +192,7 @@ Uitleg:
   - De waarde van *this.health* (links van de =) wordt de uitkomst van de berekening.
 
 
-#### Constructie van een object
+### Constructie van een object
 Net zoals we bij een methode aanvullende informatie mee kunnen
 geven in de vorm van `parameters` kunnen we dat bij het aanmaken
 van een nieuw `object` ook. Hiertoe gebruiken we een `constructor`:
@@ -202,7 +208,7 @@ Een `constructor` herken je alsvolgt:
 - Er wordt geen `return-type` (of `void`) vermeld.
 - De naam (*Monster* in dit geval) is gelijk aan de naam van de `class`.
 
-#### Constructor in Visual Studio
+### Constructor in Visual Studio
 Je kunt natuurlijk de code hierboven zelf intypen (tussen de accolades van de `class`)
 maar als je op die plek intypt *ctor* en dan 2x op *tab* drukt
 doet Visual Studio een deel van het werk voor je.
@@ -214,12 +220,12 @@ meerdere parameters meegegeven worden.
 
 
 
-### Wat hebben we nu?
+## Wat hebben we nu?
 We hebben nu een basis neergezet voor een spel waarin een *hero* *monsters* kan aanvallen.
-#### Om het werkend te krijgen
+### Om het werkend te krijgen
 Later wordt nog uitgelegd waarom, maar onthoudt vast dat we elk *Field* `private` maken.
 `Methods` en `classes` mogen `public` zijn.
-#### Code tot nu toe
+### Code tot nu toe
 Voor de volledigheid volgt nu de code van de classes zoals die tot hier beschreven is.
 Allereerst de `class` *Game*```
 namespace HereComeTheMonsters
