@@ -19,7 +19,8 @@ class Stopwatch
 }
 ```
 
-Hieronder staan een paar manier waarop deze `class` wél en níet gebruikt kan/mag worden.```
+Hieronder staan een paar manier waarop deze `class` wél en níet gebruikt kan/mag worden.
+```
 Stopwatch sw = new Stopwatch();
 int tijd1 = sw.seconds;                  // Mag niet, omdat field seconds private is.
 int tijd2 = sw.Seconds;                  // Mag wel (hoofdletter) omdat de property public is.
@@ -52,9 +53,11 @@ int tijd = sw.Seconds;                  // Uitlezen in seconden (300)
 
 #### Externe bronnen
 
-[CSharp.Net tutorials](http://csharp.net-tutorials.com/classes/properties/)
-[CodeProject](https://www.codeproject.com/Articles/1006217/Diving-into-OOP-Day-Properties-in-Csharp-A-Practic)
-[MSDN](https://msdn.microsoft.com/en-us/library/windows/desktop/aa370889(v=vs.85).aspx)
++ [CSharp.Net tutorials](http://csharp.net-tutorials.com/classes/properties/)
+
++ [CodeProject](https://www.codeproject.com/Articles/1006217/Diving-into-OOP-Day-Properties-in-Csharp-A-Practic)
+
++ [MSDN](https://msdn.microsoft.com/en-us/library/windows/desktop/aa370889(v=vs.85).aspx)
 
 Wil je meer lezen over properties dan vind je op MSDN een goede uitleg (negeer voor nu het uitgebreidere voorbeeld onder de kop Example).
 [MSDN over properties](http://msdn.microsoft.com/en-us/library/w86s7x04.aspx)

@@ -30,7 +30,7 @@ Probeer nu de invuloefening Object Oriented te maken:
 
 Met properties oefenen kan prima met de challenge Bankrekening:
 
-[challenge BankRekening](challenges/challenge_Bankrekening)
++ [challenge BankRekening](challenges/challenge_Bankrekening)
 
 ### Enum
 
@@ -41,7 +41,9 @@ Een andere manier om een eigen type te definiëren is een 'enum'-type:
 |
 [(markdown)](theorie_Enum.md)
 
-+ [Exercise met Enum: TrafficLight](exercise_Enum_TrafficLight.pdf)
+en de exercise 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *enum* zien:
+
++ [Exercise met Enum: TrafficLight](exercise_Enum_TrafficLight.md)
 
 
 
@@ -60,7 +62,7 @@ Een andere manier om een eigen type te definiëren is een 'enum'-type:
 
 
 
-+ [Theorie So you wanna be a Software Engineer](theorie_AdvancedSoftwareEngineering.pdf)
++ [Theorie So you wanna be a Software Engineer](theorie_AdvancedSoftwareEngineering.pdf) of zelfde in [(markdown)](theorie_AdvancedSoftwareEngineering.md).
 
 
 
@@ -84,10 +86,7 @@ Een andere manier om een eigen type te definiëren is een 'enum'-type:
 + [challenge Exception Handling](challenges/challengeExceptionHandling.pdf)
 
 
-
-
-
-## Diverse Challenges voor wie de uitdaging zoekt...
+## Diverse Challenges voor wie nog uitdaging of inspi zoekt...
 
 + [Verzameling Challenges](challenges)
 
