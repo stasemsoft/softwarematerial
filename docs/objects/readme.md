@@ -60,8 +60,9 @@ en de exercise 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *e
 
 + [Theorie Private en Public](theorie_PrivatePublic.pdf)
 
+### Voor de wanna-be Software Engineer
 
-Als je nog wat meer de diepte in wilt kun je hier kijken: 
+Als je nog wat meer de diepte in wilt kun je hier kijken:
 
 + [Theorie So you wanna be a Software Engineer](theorie_AdvancedSoftwareEngineering.pdf) of zelfde in [(markdown)](theorie_AdvancedSoftwareEngineering.md).
 
