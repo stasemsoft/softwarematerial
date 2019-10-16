@@ -28,6 +28,9 @@ Probeer nu de invuloefening Object Oriented te maken:
 
 + [Theorie Property](theorie_Property.pdf)
 
+Met properties oefenen kan prima met de challenge Bankrekening:
+
+[challenge BankRekening](challenges/challenge_Bankrekening)
 
 ### Enum
 

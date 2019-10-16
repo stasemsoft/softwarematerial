@@ -37,6 +37,9 @@ varieer er dus gerust op!
 
 ## Under construction
 
+Nog meer challenges die wellicht nog niet helemaal getest zijn,
+maar gebruik ze gerust als inspiratie voor eigen werk!
+
 [challenge BankRekening](challenges/challenge_Bankrekening)
 
 [challenge_BankRekeningUWP](challenges/challenge_BankRekeningUWP)
