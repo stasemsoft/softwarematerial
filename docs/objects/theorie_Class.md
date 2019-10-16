@@ -1,6 +1,6 @@
 # Hoe programmeer je met objecten?
 
-## Hero tegen Monsters
+## Aan de hand van Hero tegen Monsters
 
 Hoe groter software wordt, hoe tijdrovender het  testen en onderhouden.
 Daarom wordt in de softwarewereld gezocht naar manieren om programma's onderhoudbaar te maken.
