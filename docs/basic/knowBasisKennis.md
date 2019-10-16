@@ -2,7 +2,7 @@
 
 ## Variabelen
 Dit hoofdstuk is geschreven als een *naslagwerk*,
-het is niet geschikt om uit te leren hoe je met variabelen programmeert.
+het is niet geschikt om uit te leren hoe je met variabelen programmeert. Wel worden er veel voorbeelden gegeven. 
 
 ### Typen variabelen
 

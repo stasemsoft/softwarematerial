@@ -31,7 +31,7 @@ Als je vragen hebt: kijk eerst eens in de [Frequently Asked Questions](https://s
 
 ### Software Engineering
 
-Dit betreft niet-programmeer aspecten die een beginnend software engineer moet kunnen en weten.
+Dit betreft een aantal niet-programmeer aspecten die een beginnend software engineer moet kennen en kunnen.
 
 [Software Engineering](https://stasemsoft.github.io/softwarematerial/docs/software%20engineering/)
 
