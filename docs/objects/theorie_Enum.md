@@ -20,7 +20,8 @@ enum Dag
 ```
 
 
-Dan is mogelijk:```
+Dan is mogelijk:
+```
 Dag d;
 d = Dag.Woensdag;
 ```
