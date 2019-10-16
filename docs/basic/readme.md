@@ -43,7 +43,7 @@ Goede online resources om C# te leren:
 
 ## Basis
 
-+ Dictaat Basis programmeren[in pdf](knowOis11dictaat.pdf) of in [markdown](knowOis11dictaat.md).
++ Dictaat Basis programmeren [in pdf](knowOis11dictaat.pdf) of in [markdown](knowOis11dictaat.md).
 
 ### Algemeen
 

@@ -29,14 +29,6 @@ Als je vragen hebt: kijk eerst eens in de [Frequently Asked Questions](https://s
 
 ---
 
-### Software Engineering
-
-Dit betreft een aantal niet-programmeer aspecten die een beginnend software engineer moet kennen en kunnen.
-
-[Software Engineering](https://stasemsoft.github.io/softwarematerial/docs/software%20engineering/)
-
----
-
 ### Toolbox Basis: Basisconcepten van programmeren
 
 Dit is een introductie in programmeren, zonder objecten.
@@ -50,3 +42,11 @@ Dit is een introductie in programmeren, zonder objecten.
 Verdieping, programmeren met objecten
 
 [Toolbox Verdiepend: OOP (Object Oriented Programming)](https://stasemsoft.github.io/softwarematerial/docs/objects/)
+
+---
+
+### Software Engineering
+
+Dit betreft een aantal niet-programmeer aspecten die een beginnend software engineer moet kennen en kunnen.
+
+[Software Engineering](https://stasemsoft.github.io/softwarematerial/docs/software%20engineering/)
