@@ -21,27 +21,29 @@ De eigenschappen en het gedrag van een monster wordt geprogrammeerd in
 een stuk van het programma dat we een `Class`
 (klasse) noemen en dat (in dit voorbeeld)
 de naam **Monster** krijgt.
-Voorbeeld in C# (hoe je dit in Visual Studio kunt doen komt een stukje verder):```
+Voorbeeld in C# (hoe je dit in Visual Studio kunt doen komt een stukje verder):
+```
 class Monster {
       ...
 }
 ```
 waarbij op de plaats van de puntjes de code voor deze `class` komt.
-Voorbeeld in Java:```
+Voorbeeld in Java:
+```
 class Monster {
       ...
 }
 ```
 
-Voorbeeld in Swift:```
+Voorbeeld in Swift:
+```
 class Monster {
       ...
 }
 ```
 
 Inderdaad, deze voorbeelden zijn hetzelfde.
-Je zult merken dat er echt wel verschillen zijn hoe je in de ene of de andere
-taal een `class` noteert, maar in welke taal je ook zit:
+Je zult merken dat er echt wel verschillen zijn hoe je in de ene of de andere taal een `class` noteert, maar in welke taal je ook zit:
 *welke* `classes` je aanmaakt blijft hetzelfde!
 
 <p class="note">In veel programmeertalen is afgesproken dat de naam van een `class` met een hoofdletter begint.</p>
@@ -59,10 +61,12 @@ Zo zal elk Monster in eerste instantie helemaal gezond zijn.
 Als de *hero* hem aanvalt zal het *monster*
 moe worden of gewond raken en
 uiteindelijk wellicht bezwijken.
-![](figures/ClassMonster.png "Class Monster")
+
+![class Monster](figures/ClassMonster.png "Class Monster")
 
 
 ### Hoe maak ik een class aan in Visual Studio?
+
 Klik met rechtermuisknop op het project en kies `Add Item`,
 kies daarna een `class`. Onderin het scherm kun je de gewenste
 `class name` aangeven (`file name` is `class name` met
@@ -70,6 +74,7 @@ kies daarna een `class`. Onderin het scherm kun je de gewenste
 
 
 ## Gezondheid
+
 In dit spel kunnen we dat realiseren
 door het monster een getal *health* te geven:
 Voor een pas *aangemaakt* monster staat dit op 100,
@@ -78,7 +83,8 @@ bij 0 valt het monster verslagen neer.
 Een waarde als *health* die elk `object`
 van een bepaald `type` met zich meedraagt
 noemen we een `Field`
-We maken hiertoe in Monster een `veld` *levenspunten* aan.```
+We maken hiertoe in Monster een `veld` *levenspunten* aan.
+```
 class Monster {
   int health = 100;
 }
@@ -93,9 +99,11 @@ De code die in een `class` staat wordt gedeeld met alle `objecten`
 van die `class` (meestal zeggen we: alle `objecten` van dat `type`,
 want een `class` is een manier om een `type` te definiëren).
 Om een `object` van `class` *Monster* aan te maken:
-C# of Java:```
+C# of Java:
+```
 new Monster()
 ```
+
 (we zeggen dan ook wel dat er gebruik gemaakt wordt van de *new* `operator`)
 Hiermee wordt ergens in het geheugen een `object`
 van `type` *Monster* aangemaakt, we hebben echter géén manier
@@ -111,8 +119,10 @@ de referenties naar alle *heroes* en *monsters* bevat.
 De code van het *Game* `object` komt in de `class` Game te staan.
 
 ![](figures/ClassDiagram_A.png "Schematische weergave")
+
 ![](figures/ClassDiagram_B.png "Iets handigere schematische weergave")
-In `class` Hero is een `Field````
+In `class` Hero is een `Field`
+```
 int numberDefeatedMonsters = 0;
 ```
 aangemaakt. De held wil namelijk graag dat de hele wereld weet hoeveel
@@ -151,7 +161,8 @@ te sturen naar het monster dat tussen de haakjes genoemd wordt.
 Nu gaan we coderen hoe het afhandelen van het bericht
 er uit kan zien. We zeggen dan dat we de `method`
 (want zo'n bericht heet in veel programmeertalen een `method`)
-*Attack* in de `class` *Hero* programmeren```
+*Attack* in de `class` *Hero* programmeren
+```
 void Attack(Monster monster, int damage)
 {
   monster.LooseHealth(damage);
@@ -173,7 +184,8 @@ Er kan ook in plaats van `void` een zogenaamd `return type` staan dat aangeeft
 wat voor soort waarde er terug gegeven wordt.
 
 In `class` *Monster* moet vervolgens de `method` *LooseHealth*
-gecodeerd worden:```
+gecodeerd worden:
+```
 void LooseHealth(int damage)
 {
     this.health = this.health - damage;
@@ -183,7 +195,7 @@ Uitleg:
 - Wederom begint het met *void* omdat de methode niks teruggeeft.
 - Dan de methodenaam *LooseHealth*.
 - Tussen de haakjes de ene parameter, genaamd *damage* en van type *int*.
-- Tussen de accolades of *curly brackets* ({ en }) staat een assignment:
+- Tussen de accolades of *curly brackets* ('{' en '}') staat een assignment:
   - Een assignment is te herkennen aan het =-teken (spreek uit als **wordt**).
   - Rechts van de = staat een *expressie*, zeg maar een berekening, die uitgerekend (geëvalueerd) wordt. In dit geval: `this.health - damage`.
   - Het woord *this* geeft aan dat er iets gedaan wordt met het *object* waar we nu 'in' zitten: het specifieke monster dus dat werd aangevallen en dat dus als parameter aan method *Attack* werd meegegeven. In methode *Attack* zie je dat van *DAT* specifieke monster de methode *LooseHealth* wordt aangeroepen.
@@ -196,7 +208,8 @@ Uitleg:
 Net zoals we bij een methode aanvullende informatie mee kunnen
 geven in de vorm van `parameters` kunnen we dat bij het aanmaken
 van een nieuw `object` ook. Hiertoe gebruiken we een `constructor`:
-Een `constructor` ziet er ongeveer uit als een methode:```
+Een `constructor` ziet er ongeveer uit als een methode:
+```
 Monster(int initialHealth)
 {
   this.health = initialHealth;
@@ -209,6 +222,7 @@ Een `constructor` herken je alsvolgt:
 - De naam (*Monster* in dit geval) is gelijk aan de naam van de `class`.
 
 ### Constructor in Visual Studio
+
 Je kunt natuurlijk de code hierboven zelf intypen (tussen de accolades van de `class`)
 maar als je op die plek intypt *ctor* en dan 2x op *tab* drukt
 doet Visual Studio een deel van het werk voor je.
@@ -221,13 +235,19 @@ meerdere parameters meegegeven worden.
 
 
 ## Wat hebben we nu?
+
 We hebben nu een basis neergezet voor een spel waarin een *hero* *monsters* kan aanvallen.
+
 ### Om het werkend te krijgen
+
 Later wordt nog uitgelegd waarom, maar onthoudt vast dat we elk *Field* `private` maken.
 `Methods` en `classes` mogen `public` zijn.
+
 ### Code tot nu toe
+
 Voor de volledigheid volgt nu de code van de classes zoals die tot hier beschreven is.
-Allereerst de `class` *Game*```
+Allereerst de `class` *Game*
+```
 namespace HereComeTheMonsters
 {
     public class Game
@@ -242,7 +262,8 @@ namespace HereComeTheMonsters
 }
 ```
 
-dan `class` *Hero*```
+dan `class` *Hero*
+```
 namespace HereComeTheMonsters
 {
     public class Hero
@@ -262,7 +283,8 @@ namespace HereComeTheMonsters
 }
 ```
 
-en tot slot `class` *Monster*```
+en tot slot `class` *Monster*
+```
 namespace HereComeTheMonsters
 {
     public class Monster
