@@ -4,8 +4,7 @@
 
 ### Introductie Objects en Classes
 
-+ [Theorie: Hoe programmeer je met Objecten (pdf)](theorie_Class.pdf)  
-| [(of de nog te testen experimentele markdown-versie)](theorie_Class.md)
++ [Theorie: Hoe programmeer je met Objecten?](theorie_Class.md)
 
 Kies 1 van de 2 exercises 'Trafficlight' of 'Marimba and the Bass'
 als eerste oefening met Objecten en Classes.
