@@ -67,27 +67,27 @@ Merk op:
 
 Hier volgen enkele voorbeelden. In commentaar staat erbij uitgelegd
 wat het betekent.
-```
+```cs
 String s;     // maak een variabele aan met naam "s".
 s = "test";	  // Variabele met de naam "s" krijgt de waarde "test".
 ```
 
-```
+```cs
 int i;
 i = 10;	// maak variabele met naam "i" aan en geef die waarde 10
 ```
 
-```
+```cs
 double d;
 d = 1.52; //	Nieuwe variabele genaamd "d" krijgt de waarde 1,52
 ```
 
-```
+```cs
 bool b;
 b = true;	// Nieuwe variabele "b" krijgt de waarde true
 ```
 
-```
+```cs
 String string1;
 string 1 = "abc";
 String string2;
@@ -95,7 +95,7 @@ string2 = string1;	// Variabele met de naam "string2" krijgt
                     // de waarde van "string1", namelijk "abc"
 ```
 
-```
+```cs
 int getalA;
 getalA = 5;
 int getalB;
@@ -103,7 +103,7 @@ getalB  = getalA;	// Variabele met de naam "getalB" krijgt
                   // de waarde van "getalA", namelijk 5
 ```
 
-```
+```cs
 double kommaGetalA;
 kommaGetalA = 1.32;
 double kommaGetalB;
@@ -112,7 +112,7 @@ kommaGetalB  = kommaGetalA;	// Variabele met de naam "kommaGetalB" krijgt
                             // namelijk 1.32
 ```
 
-```
+```cs
 String s;
 s = textBox1.Text;
     // Variabele met de naam "s" krijgt
@@ -125,22 +125,22 @@ van het `type` `string` is.
 ### Variabele aanmaken en direct een waarde geven (declare en initialize)
 
 Variabele met de naam *s* aanmaken en waarde &quot;test&quot; toekennen:
-```
+```cs
 String s = "test";
 ```
 
 Variabele met de naam *i* aanmaken en waarde `10` toekennen:
-```
+```cs
 int i =10;
 ```
 
 Variabele met de naam *d*  aanmaken en waarde `1,52` toekennen:
-```
+```cs
 double d = 1.52;
 ```
 
 Variabele met de naam *b* aanmaken en waarde `true` toekennen:
-```
+```cs
 bool b = true;
 ```
 
@@ -153,7 +153,7 @@ Een `bool` variabele kan niet worden geconverteerd.
 Zet de waarde van *i* om
 naar een tekst met dezelfde waarde. Het
 resultaat van de laatste regel is dat variabele *s* de waarde `81` krijgt.
-```
+```cs
 int i = 81;
 String s;
 s = Convert.ToString(i);
@@ -162,7 +162,7 @@ s = Convert.ToString(i);
 Zet de waarde van *d* om naar een tekst met dezelfde waarde.
 Het resultaat van de laatste regel is dat variabele *s*
 de waarde `"12.33"` krijgt:
-```
+```cs
 double d =12.33;
 String s;
 s = Convert.ToString(d);
@@ -172,7 +172,7 @@ Zet de waarde van *s* om naar een geheel getal (`integer`)
 met dezelfde waarde als dat lukt (anders krijg je een foutmelding).
 Het resultaat van de laatste regel is dat variabele *i* de
 waarde `7` krijgt:
-```
+```cs
 int i;
 String s = "7";
 i  = Convert.ToInt32(s);
@@ -182,7 +182,7 @@ Zet de waarde van *s* om naar een *kommagetal* met
 dezelfde waarde als dat lukt (anders krijg je een foutmelding).
 Het resultaat van de laatste regel is dat variabele *d* de
 waarde `12.129` krijgt:
-```
+```cs
 double d;
 String s = "12.129";
 d  = Convert.ToDouble(s);
@@ -192,14 +192,14 @@ d  = Convert.ToDouble(s);
 Hieronder worden enkele veelgebruikte String functies gedemonstreerd en kort toegelicht.
 ##### String’s samenvoegen
 Met het `plus` teken kunnen strings aan elkaar worden geplakt.
-```
+```cs
 string tekst = "een tekst.";
 string woorden = "Hier staat";
 string s = woorden+tekst;
 ```
 
 De `s` `variabele` krijgt hier de waarde `"Hier staateen tekst."` Merk op dat niet automatisch spaties worden toegevoegd.
-```
+```cs
   string tekst = "tekst.";
   string woorden = "Hier staat";
   string s = woorden + " een " + tekst;
@@ -213,20 +213,20 @@ De plaats van een String binnen een andere String bepalen:
 De *Positie* variabele krijgt de waarde `1`.
 Merk op dat de positie van de eerste gevonden &quot;e&quot; in de String
 wordt gevonden (waarbij vanaf `0` wordt geteld):
-```
+```cs
 string tekst = "regel tekst";
 int positie = tekst.IndexOf("e");
 ```
 
 Er kan ook naar meerdere letters achter elkaar gezocht worden:
-```
+```cs
 string tekst = "regel tekst";
 int positie = tekst.IndexOf("tek");
 ```
 
 De &quot;Positie&quot; variabele krijgt de waarde 6.
 **Niet gevonden** geeft `-1`:
-```
+```cs
 string tekst = "regel tekst";
 int positie = tekst.IndexOf("a");
 ```
@@ -235,13 +235,13 @@ De &quot;Positie&quot; variabele krijgt de waarde -1. De waarde -1 betekent dus:
 #### Substring
 
 Een stukje uit een string kopiëren:
-```
+```cs
 string tekst = "regel tekst";
 string deelTekst = tekst.Substring(0, 1);
 ```
 
 wat heeft als resultaat dat in deelTekst de waarde &quot;r&quot; komt te staan omdat van de oorspronkelijke tekst vanaf positie 0 precies 1 letter gekopieerd wordt.
-```
+```cs
 string tekst = "regel tekst";
 string deelTekst = tekst.Substring(6, 5);
 ```
@@ -253,14 +253,14 @@ Aantal tekens van de String bepalen. Achter `Length` hoeven
 geen haakjes openen en sluiten geplaatst te worden omdat het
 een `property` (eigenschap) van de string is en niet een `method`
 die je uitvoert.
-```
+```cs
 string tekst = "regel tekst";
 int lengte = tekst.Length;
 ```
 
 Deze code heeft als resultaat dat in lengte de waarde `11` komt te staan omdat de tekst precies elf lang is. Merk op: dit is inclusief spaties in de tekst.
 De `double quotes` om begin en einde van de String waarde aan te geven worden niet meegeteld.
-```
+```cs
 string tekst = "";
 int lengte = tekst.Length;
 ```
@@ -272,27 +272,27 @@ omdat geen tekens in de string staan.
 
 Onderstaande bewerkingen zijn zowel op `int` `typen` als
 op `double` typen van toepassing:
-```
+```cs
 int k;
 k = 5 + 10;
 ```
 Aan variabele *k* wordt in de laatste regel code de waarde `15` toegekend
 omdat het `+`teken de waarden `5` en `10` bij elkaar optelt.
-```
+```cs
 int i = 2;
 int k;
 k = i + 1;
 ```
 Aan variabele *k* wordt in de laatste regel code de waarde 3 toegekend
 omdat het `+`teken de waarden `2` en `1` bij elkaar optelt.
-```
+```cs
 int i = -8;
 int k;
 k = 1 + i;
 ```
 Aan variabele *k* wordt in de laatste regel code de waarde `-7` toegekend
 omdat het `+`teken de waarden `1` en `-8` bij elkaar optelt.
-```
+```cs
 int i = 5;
 int j = 3;
 int k;
@@ -325,7 +325,7 @@ dan heb je een `for` of `while` `statement` nodig.
 Deze structuur wordt gebruikt om een stukje code uit te voeren
 afhankelijk van een bepaalde situatie (de `conditie` genoemd).
 Algemene vorm:
-```
+```cs
 if ([conditie])
 {
   [Uit te voeren code als conditie waar is]
@@ -361,7 +361,7 @@ dus dat raden we af.
 
 Een if statement kan uitgebreid worden met een &quot;else&quot; blok. Als de conditie niet &quot;waar&quot; oplevert dan wordt de code in het else blok uitgevoerd.
 Algemene vorm:
-```
+```cs
 if ([conditie])
 {
 [Uit te voeren code als conditie waar is]
@@ -376,7 +376,7 @@ Merk op: of de conditie nu wel of niet waar is, altijd wordt één van de twee s
 
 ### Voorbeelden "if …" statement en "if … else …" statement
 
-```
+```cs
 if (true)
 {
 	TextBox1.Text = "test";
@@ -385,7 +385,7 @@ if (true)
 
 Het stukje code tussen { en } wordt altijd uitgevoerd,
 dus de `Text` van de *TextBox* wordt altijd &quot;test&quot; gemaakt.
-```
+```cs
 if (false)
 {
 	TextBox1.Text = "test";
@@ -393,7 +393,7 @@ if (false)
 ```
 
 Het stukje code tussen { en } wordt nooit uitgevoerd.
-```
+```cs
 bool b = true;
 if (b)
 {
@@ -405,7 +405,7 @@ Als `b` de waarde `true` (= *waar*)
 heeft wordt de `Text` in de *TextBox* &quot;test&quot;  gemaakt.
 Dit is hier nu altijd het geval omdat in dit stukje code
 aan variabele `b` alleen de waarde &quot;true&quot; wordt toegekend.
-```
+```cs
 int i = 10;
 if (i < 5)
 {
@@ -416,7 +416,7 @@ if (i < 5)
 Als getal `i` kleiner dan 5 is,
 dan wordt bij de waarde van `i` één opgeteld,
 anders gebeurt er niets.
-```
+```cs
 TextBox1.Text = "test2";
 if (TextBox1.Text !=  "test")
 {
@@ -425,7 +425,7 @@ if (TextBox1.Text !=  "test")
 ```
 
 Als de tekst in de textbox niet gelijk is aan &quot;test&quot; (dat is hier het geval) dan wordt de tekst van de textbox veranderd in &quot;test3&quot;.
-```
+```cs
 if (true)
 {
 	TextBox1.Text = "test";
@@ -439,7 +439,7 @@ else
 Het stukje code tussen de eerste { en } wordt altijd uitgevoerd,
 dus de `Text` van de `TextBox` wordt altijd &quot;test&quot; gemaakt.
 Het stukje code tussen de tweede { en } wordt nooit uitgevoerd.
-```
+```cs
 int i = 5;
 if (i >= 10)
 {
@@ -455,7 +455,7 @@ Als getal *i* groter of gelijk aan `10` is
 dan wordt bij getal *i* `1` opgeteld.
 Dit is hier niet het geval, dus wordt bij *i* `5` opgeteld.
 Resultaat: *i* krijgt de waarde `10`.
-```
+```cs
 int i = 5;
 if (i >= 10)
 {
@@ -485,7 +485,7 @@ zolang aan bepaalde voorwaarden is voldaan.
 Dit varieert van `0` keer de code uitvoeren tot het
 in de oneindigheid aantal keer uitvoeren van de code).
 Algemene vorm:
-```
+```cs
 while ([conditie])
 {
   [Uit te voeren code zolang de conditie waar is]
@@ -498,7 +498,7 @@ while ([conditie])
 
 Deze structuur wordt gebruikt om een stukje code uit te voeren. Elke keer nadat het stukje code is uitgevoerd wordt gecontroleerd of nog aan bepaalde voorwaarden is voldaan, zo ja, dan wordt de code opnieuw uitgevoerd. Het aantal keer uitvoeren van de code varieert van 1 keer de code uitvoeren tot het in de oneindigheid aantal keer uitvoeren van de code.
 Algemene vorm:
-```
+```cs
 do
 {
   [Uit te voeren code zolang de conditie waar is]
@@ -511,7 +511,7 @@ Eerst wordt de code één keer uitgevoerd, dan pas wordt gecontroleerd of de cod
 
 ### Voorbeelden while en do while statement
 
-```
+```cs
 int i = 0;
 while(i < 10)
 {
@@ -526,7 +526,7 @@ totdat *i* kleiner dan `10` is.
 De code wordt dus doorlopen met achtereenvolgens
 de waarden `0` , `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8` en `9`.
 Er worden daarom `10` *Messageboxes* getoond met de tekst `"Test"`.
-```
+```cs
 int i = 5;
 while(i > 0)
 {
@@ -540,7 +540,7 @@ direct gestopt als *i* de waarde `0` krijgt toegekend.
 De code wordt dus doorlopen met
 de waarden `5`, `4`, `3`, `2`, `1`.
 Er worden daarom `5` *Messageboxes* getoond met de tekst `"Test"`.
-```
+```cs
 int i = 10;
 do
 {
@@ -562,7 +562,7 @@ Er wordt daarom `1` *Messagebox* getoond met de tekst `"Test"`.
 Deze structuur wordt gebruikt om een stukje code een
 vooraf bekend aantal keer uit te laten voeren.
 Algemene vorm:
-```
+```cs
 for([teller variabele aanmaken]; [herhalingsconditie]; [teller variabele aanpassen])
 {
   [herhaaldelijk uit te voeren code]
@@ -578,11 +578,11 @@ Het type variabele is meestal int.
 De waarde waarmee de teller wordt gevuld is afhankelijk van wat je
 aan het programmeren bent. In veel gevallen heeft deze de waarde `0`.
 Voorbeelden:
-```
+```cs
 int i = 0
 ```
 
-```
+```cs
 int j = 100
 ```
 
@@ -590,7 +590,7 @@ Dan *[herhalingsconditie]*: deze uit te voeren code wordt
 net zo lang herhaald als uit de voorwaarde de waarde `true` komt.
 Hierin verwijs je naar de *teller* variabele.
 Voorbeelden:
-```
+```cs
 i < 10
 j > 0
 ```
@@ -598,7 +598,7 @@ j > 0
 [teller variabele aanpassen]
 	Het verhogen of verlagen van de teller. Vaak wordt deze met 1 verhoogd of verlaagd, soms in grotere stappen (bijv. `10`).
 Voorbeelden:
-```
+```cs
 i = i + 1
 j = j – 10
 ```
@@ -610,7 +610,7 @@ dat hetzelfde doet, en andersom.
 
 ### Voorbeelden for statement
 
-```
+```cs
 for(int i =0 ; i < 10 ; i = i + 1)
 {
 	MessageBox.Show("Test");
@@ -618,7 +618,7 @@ for(int i =0 ; i < 10 ; i = i + 1)
 ```
 
 Variabele `i` krijgt in het begin de waarde 0 en er wordt direct gestopt als i de waarde 10 krijgt toegekend. De code wordt dus doorlopen met de waarden 0,1,2,3,4,5,6,7,8 en 9. Er worden daarom 10 messagebox-en getoond met de tekst &quot;Test&quot;.
-```
+```cs
 for(int i =5;i > 0; i = i - 1)
 {
 	MessageBox.Show("Test");
@@ -626,7 +626,7 @@ for(int i =5;i > 0; i = i - 1)
 ```
 
 Variabele `i` krijgt in het begin de waarde 5 en er wordt direct gestopt als i de waarde 0 krijgt toegekend. De code wordt dus doorlopen met de waarden 5,4,3,2,1. Er worden daarom 5 messagebox-en getoond met de tekst &quot;Test&quot;.
-```
+```cs
 for(int i =0;i < 10;++i)
 {
 	MessageBox.Show("Test");
@@ -635,42 +635,42 @@ for(int i =0;i < 10;++i)
 
 Hetzelfde resultaat als het eerste voorbeeld,
 maar dan in een verkorte schrijfwijze:
-```
+```cs
 i = i + 1;
 ```
 wordt van oudsher ook wel geschreven als
-```
+```cs
 i++;
 ```
 of
-```
+```cs
 ++i;
 ```
 
 Hetzelfde resultaat als het tweede voorbeeld,
 maar dan in een verkorte schrijf-wijze:
-```
+```cs
 for(int i =5;i > 0; --i)
 {
 	MessageBox.Show("Test");
 }
 ```
 
-```
+```cs
 i=i-1;
 ```
 wordt van oudsher ook wel geschreven als
-```
+```cs
 i--;
 ```
 of
-```
+```cs
 --i;
 ```
 
 
 De code
-```
+```cs
 for(int i =0;i < 10; ++i)
 {
 	MessageBox.Show("Test "+i);
@@ -678,7 +678,7 @@ for(int i =0;i < 10; ++i)
 ```
 heeft als resultaat dat *MessageBoxes*
 verschijnen met achtereenvolgens:
-```
+```cs
 "Test 0"
 "Test 1"
 "Test 2"
@@ -692,20 +692,20 @@ verschijnen met achtereenvolgens:
 ```
 
 De code
-```
+```cs
 for(int i =5;i > 0; i = i - 2)
 {
 	MessageBox.Show("Test "+i);
 }
 ```
 laat messagebox-en verschijnen met achtereenvolgens:
-```
+```cs
 "Test 5"
 "Test 3"
 "Test 1"
 ```
 en tot slot geeft
-```
+```cs
 for(int y =0;y < 2; ++y)
 {
   for(int x =0;x < 3; ++x)
@@ -715,7 +715,7 @@ for(int y =0;y < 2; ++y)
 }
 ```
 als resultaat *MessageBoxes* verschijnen met:
-```
+```cs
 "(0,0)"
 "(1,0)"
 "(2,0)"
@@ -744,7 +744,7 @@ Dit worden argumenten genoemd.
 3. Onderhoudbaarheid &amp; herbruikbaarheid: Als je op verschillende plaatsen in je programma hetzelfde stuk code vaker uit wilt voeren kun je vanaf de verschillende plaatsen een methode aanroepen die je maar één keer hoeft te programmeren.  Dat scheelt code en is gemakkelijker te onderhouden dan dat je code verschillende keren in je programma kopiert en plakt.
 
 Een methode heeft de volgende structuur:
-```
+```cs
 private [returnType] [methodeNaam]([parameters])
 {
   …
@@ -768,7 +768,7 @@ private [returnType] [methodeNaam]([parameters])
 ### Voorbeelden Methoden
 
 Een aantal voorbeeldmethoden:
-```
+```cs
     private int AddTwoNumbers(int number1, int number2)
     {
         int som;
@@ -783,15 +783,15 @@ Een aantal voorbeeldmethoden:
 ```
 
 Bovenstaande methoden zijn als volgt aan te roepen:
-```
+```cs
 	int sum = AddTwoNumbers(8765, 287);
 ```
 of:
-```
+```cs
 	int kwadraat = SquareANumber(63);
 ```
 of, beiden:
-```
+```cs
 	int total = SquareANumber(AddTwoNumbers(1, 2));
 ```
 
