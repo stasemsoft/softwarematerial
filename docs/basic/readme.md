@@ -52,6 +52,7 @@ Goede online resources om C# te leren:
 ### Variabelen, assignment, typen
 
 + [Presentatie: Variabelen, bewerkingen en conversies](https://stasemsoft.github.io/softwarematerial/docs/basic/var/Variabelen-bewerkingen-conversies.pptx)
++ [Naslag variable](var/naslag_Variable.md)
 + [Exercise: Euro Dollar converter](https://stasemsoft.github.io/softwarematerial/docs/basic/var/Euro-Dollar-converter.pdf)
 + [Exercise: Calculator](https://stasemsoft.github.io/softwarematerial/docs/basic/var/VariabelenBewerkingenConversies.pdf)
 + [Exercises: Diversen](https://stasemsoft.github.io/softwarematerial/docs/basic/var/Extra-opgaven-variabelen.pdf)
