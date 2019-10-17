@@ -1,8 +1,7 @@
 # Naslag basiskennis: Variables
 
-## Werken met variabelen in C#
 Dit hoofdstuk is geschreven als een *naslagwerk*,
-het is niet geschikt om uit te leren hoe je met variabelen programmeert.
+het is niet specifiek geschreven om uit te leren hoe je met variabelen programmeert.
 
 ### Typen variabelen
 

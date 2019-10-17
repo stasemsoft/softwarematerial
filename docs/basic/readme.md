@@ -67,7 +67,8 @@ Goede online resources om C# te leren:
 
 ### String Methoden
 
-+ [Exercises: Extra opgaven keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/string%20methoden/Stringmethoden.pdf)
++ [string methoden](string%20methoden/naslag_StringMethods.md)
++ [Exercises: String methods](string%20methoden/Stringmethoden.pdf)
 
 ### Lussen
 
