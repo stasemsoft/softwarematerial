@@ -121,6 +121,8 @@ In het dagelijks leven heb je nog met meer apparaten te maken. Kun je er een ver
 Misschien kun je zelf iets verzinnen met **and / or**
 
 ## Bronnen
-- [binair rekenen](https://csunplugged.org/en/topics/binary-numbers/unit-plan/how-binary-digits-work-junior/)
++ [binair rekenen](https://csunplugged.org/en/topics/binary-numbers/unit-plan/how-binary-digits-work-junior/)
 
-- [Computational Thinking](https://csunplugged.org/en/computational-thinking/)
++ [Computational Thinking](https://csunplugged.org/en/computational-thinking/)
+
++ [brilliant.org](https://brilliant.org/daily-problems/)
