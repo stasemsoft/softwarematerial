@@ -68,15 +68,15 @@ Goede online resources om C# te leren:
 
 ### String Methoden
 
-+ [string methoden 1](string%20methoden/naslag_StringMethods)
 + [string methoden](string methoden/naslag_StringMethods.md)
 + [Exercises: String methods](string%20methoden/Stringmethoden.pdf)
 
-### Lussen
+### Lussen / loops
 
-
++ [Naslag while](lussen/naslag_While)
++ [Naslag for](lussen/naslag_For)
 + [Exercise: Christmas Tree Generator](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Challenges/Christmas%20Tree%20Generator/Christmas%20Tree%20Generator.pdf)
-+ [Exercise: Worpengenerator](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/Worpengenerator.pdf)
++ [Exercise: Worpengenerator](lussen/Worpengenerator.pdf)
 + [Exercises: Diverse opdrachten lussen 1](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/Extra%20opgaven%20lussen.pdf)
 + [Exercises: Diverse opdrachten lussen 2](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/ExtraLussen.pdf)
 
