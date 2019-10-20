@@ -53,6 +53,7 @@ Goede online resources om C# te leren:
 
 + [Presentatie: Variabelen, bewerkingen en conversies](https://stasemsoft.github.io/softwarematerial/docs/basic/var/Variabelen-bewerkingen-conversies.pptx)
 + [Naslag variable](var/naslag_Variable.md)
++ [Naslag operatoren](var/naslag_Operatoren.md)
 + [Exercise: Euro Dollar converter](https://stasemsoft.github.io/softwarematerial/docs/basic/var/Euro-Dollar-converter.pdf)
 + [Exercise: Calculator](https://stasemsoft.github.io/softwarematerial/docs/basic/var/VariabelenBewerkingenConversies.pdf)
 + [Exercises: Diversen](https://stasemsoft.github.io/softwarematerial/docs/basic/var/Extra-opgaven-variabelen.pdf)
@@ -67,7 +68,7 @@ Goede online resources om C# te leren:
 
 ### String Methoden
 
-+ [string methoden](string methoden/naslag_StringMethods.md)
++ [string methoden](string%20methoden/naslag_StringMethods.md)
 + [Exercises: String methods](string%20methoden/Stringmethoden.pdf)
 
 ### Lussen
