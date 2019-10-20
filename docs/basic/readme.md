@@ -10,8 +10,7 @@
 + [Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys.md)
 
 
-## Inspiratie
-Als je inspiratie nodig hebt voor je App of zo maar:  
+## Inspiratie voor een eigen App of zo:  
 -[Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)  
 -[CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)  
 -[Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)  
