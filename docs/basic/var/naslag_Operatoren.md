@@ -35,9 +35,7 @@ worden vervangen door één van de volgende mogelijkheden:
 
 | Symbool | Uitwerking |
 | --- | --- |
-
 | + | Optellen |
-
 | - | Aftrekken |
 
 | * | Vermenigvuldigen |
