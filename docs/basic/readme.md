@@ -7,6 +7,9 @@
 
 + [Over het inleveren van programma's in Canvas](https://stasemsoft.github.io/softwarematerial/docs/process/infoInleverenProgrammas.pdf)
 
++ [Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys.md)
+
+
 ## Inspiratie
 Als je inspiratie nodig hebt voor je App of zo maar:  
 -[Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)  

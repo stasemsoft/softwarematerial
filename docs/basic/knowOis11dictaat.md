@@ -16,7 +16,7 @@ Links naar diverse naslag-hoofdstukken (voorheen bekend als OIS11-dictaat).
 
 + [Methodes in C#](methoden/naslag_methods.md)
 
-+ [Handige sneltoetsen en opties in VisuaL Studio](../process/knowVisualStudioShortCutKeys.md)
++ [Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys.md)
 
 
 
