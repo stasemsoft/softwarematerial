@@ -37,15 +37,9 @@ worden vervangen door één van de volgende mogelijkheden:
 | --- | --- |
 | + | Optellen |
 | - | Aftrekken |
-
 | * | Vermenigvuldigen |
-
 | / | Delen |
-
 | % | Geeft de rest na deling. Bijvoorbeeld: |
-
 |  | 7 % 5 = 2 |
-
 |  | 11 % 2 = 1 |
-
 |  | 6 % 2 = 0 |
