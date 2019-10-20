@@ -1,6 +1,7 @@
+# Short cut keys in Visaul Studio
 
+Als in een sneltoets combinatie een komma staat, dan moet eerst het deel voor de komma worden ingedrukt, dan laat je de toetsen los en druk je daarna de letter in die na de komma staat.
 
-<p class="note">Als in een sneltoets combinatie een komma staat, dan moet eerst het deel voor de komma worden ingedrukt, dan laat je de toetsen los en druk je daarna de letter in die na de komma staat.</p>
 | Sneltoets | Menu | Toelichting |
 | --- | --- | --- |
 | CTRL-W, X | View → Toolbox | Maakt het Toolbox scherm met alle |
