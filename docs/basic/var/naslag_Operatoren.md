@@ -32,13 +32,23 @@ Aan variabele *k* wordt in de laatste regel code de waarde `8` toegekend
 omdat het `+`teken de waarden uit *i* en *j* bij elkaar op telt.
 Bij bovenstaande voorbeelden kan de operator (het `+`teken)
 worden vervangen door één van de volgende mogelijkheden:
+
 | Symbool | Uitwerking |
+
 | --- | --- |
+
 | + | Optellen |
+
 | - | Aftrekken |
+
 | * | Vermenigvuldigen |
+
 | / | Delen |
+
 | % | Geeft de rest na deling. Bijvoorbeeld: |
+
 |  | 7 % 5 = 2 |
+
 |  | 11 % 2 = 1 |
+
 |  | 6 % 2 = 0 |
