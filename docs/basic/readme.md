@@ -69,6 +69,7 @@ Goede online resources om C# te leren:
 ### String Methoden
 
 + [string methoden](string%20methoden/naslag_StringMethods.md)
++ [Naslaag string methoden](string%20methoden/naslag_StringMethods.md)
 + [Exercises: String methods](string%20methoden/Stringmethoden.pdf)
 
 ### Lussen
