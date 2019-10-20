@@ -9,19 +9,33 @@ Een variabele is een stukje geheugen waarin tijdelijk
 een waarde kan worden  opgeslagen. De veelgebruikte typen variabelen zijn:
 
 | Inhoud | Naam | Voorbeelden |
+
 | --- | --- | --- |
+
 | Stukje tekst | String | "abcde" |
+
 |  |  | "dit is een tekst" |
+
 |  |  | "" |
+
 |  |  | etc. |
+
 | Geheel getal | Int | 12 |
+
 |  |  | -1337 |
+
 |  |  | 0 |
+
 |  |  | etc. |
+
 | Komma getal | Double | 10.2 |
+
 |  |  | -12.3 |
+
 |  |  | 5.0 |
+
 |  |  | etc. |
+
 | Waar of niet waar | Bool | true, false |
 
 
