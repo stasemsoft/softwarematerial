@@ -34,7 +34,6 @@ Bij bovenstaande voorbeelden kan de operator (het `+`teken)
 worden vervangen door één van de volgende mogelijkheden:
 
 | Symbool | Uitwerking |
-
 | --- | --- |
 
 | + | Optellen |
