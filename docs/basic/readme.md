@@ -61,6 +61,7 @@ Goede online resources om C# te leren:
 ### Conditioneel
 
 + [Presentatie: Keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Keuzestructuren.pptx)
++ [Keuzestructuren in C#](conditioneel/naslag_Keuzestructuren.md)
 + [Exercise: Calorieën tracker](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Calorieën.pdf)
 + [Exercise: Dobbelsteen](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Dobbelsteen.pdf)
 + [Exercise: Pincode-reminder](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Pincode-reminder.pdf)
