@@ -29,7 +29,9 @@ Daarna (hoofdstuk 'En nu verder...') lees je wat er verder aan functionaliteit b
 ## Opwarmer
 Bekijk het class diagram (plak de url in een browser naar keuze). Maak de classes vast aan:
 
+```
 http://yuml.me/diagram/scruffy/class/edit/OIS12,[Patient|naam:string;geboortejaar:int|GetLeeftijd();]&lt;*-arts-[Afspraak],[Afspraak|dagEnTijd:DateTime],[Afspraak]patient-*&gt;[Huisarts|naam:string], [Patient]
+```
 
 [class diagram](figures/patientdossier_cd)
 
