@@ -28,7 +28,7 @@ Recent:
 [dotnet.microsoft.com/learn/videos](https://dotnet.microsoft.com/learn/videos)
 
 Demo-filmpjes:
-[van Jan](i872272core.venus.fhict.nl/S1-SOFT%20Recordings/index.html)
+[van Jan](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/index.html)
 
 [C# Begrippen lijst](https://quizlet.com/18210232/c-sharp-terminology-flash-cards/) bijv. Method, Property, Class, ...
 
