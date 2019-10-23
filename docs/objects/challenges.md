@@ -62,6 +62,9 @@ maar gebruik ze gerust als inspiratie voor eigen werk!
 
 + [challengeWindowsPhone](challenges/challengeWindowsPhone)
 
+### Inspiratie
+
++ [galgje-ish (demo)](inspi/galgje-ish/galgjeish)
 
 
 
