@@ -4,6 +4,7 @@
 
 ### Introductie Objects en Classes
 
++ [Start Objects met CRC](crc/read.md)
 + [Theorie: Hoe programmeer je met Objecten?](theorie_Class.md)
 en ook:
 + [FUN12-dictaat classes](theorie_FUN12_DictaatKlassen.pdf)
