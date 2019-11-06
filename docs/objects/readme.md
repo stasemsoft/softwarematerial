@@ -4,8 +4,8 @@
 
 ## C\# Online resources
 -[C# Basics ](https://www.youtube.com/playlist?list=PLYMOUCVo86jGzNXPgyKB-B1IvE1LoXKi6) - video 1 t/m 39  
--[Chapter 2 Classes] (https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Documentation/OOP.pdf)  
--[Dive into Design Patterns - chapter Introduction to OOP] (https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Documentation/Dive%20into%20design%20patterns%20-%20chapter%20Introduction%20to%20OOP.pdf)  
+-[Chapter 2 Classes](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Documentation/OOP.pdf)  
+-[Dive into Design Patterns - chapter Introduction to OOP](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Documentation/Dive%20into%20design%20patterns%20-%20chapter%20Introduction%20to%20OOP.pdf)  
 
 ### Introductie Objects en Classes
 
