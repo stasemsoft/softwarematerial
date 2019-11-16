@@ -21,6 +21,11 @@ Je moet je docent overtuigen dat je de gewenste vaardigheden op het vereiste niv
 
 Een concept als 'methods met parameters en returnvalues' kun je in een heleboel talen laten zien. Een docent zal hierbij wellicht vragen stellen over (statische) types.
 
+En in de proftaak? Overleg altijd met de docent. Voor de verdieping in software moet je altijd wel zaken individueel moeten doen (overleg met je docent), daar kan de docent eventueel alsnog C# eisen.
+
+En als er nu 1 student in het team is met veel ervaring en die heeft een voorkeur voor een andere taal en probeert zijn teamgenoten hiervan te overtuigen?
+Wat wel belangrijk is: iedereen uit het team die in S verdiept moet de software van de proftaak kunnen uitleggen (niet op elk detail, maar zeker wel globaal). Als het hele team er achter staat en ‘die ene student’ beseft dat ie de anderen mee moet laten helpen, dat ze samen moeten werken, valt er over te praten. 
+
 ## Wat betekenen de namen OIS11, FUN12, OIS12 die ik hier en daar tegenkom?
 
 Een deel van het lesmateriaal is afkomstig uit de (voormalige) vakken OIS11, FUN12 en OIS12 bij FHICT, vandaar dat deze afko's hier en daar (nu nog) zichtbaar zijn. 'OIS' stond voor Oriëntatie in ICT & Software Engineering en 'FUN' voor FUNdamentals.  
