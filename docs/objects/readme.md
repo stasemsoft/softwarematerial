@@ -90,7 +90,7 @@ Als je nog wat meer de diepte in wilt kun je hier kijken:
 
 + [Challenge Exception Handling (pdf)](challenges/challengeExceptionHandling.pdf),
 [Challenge Exception Handling (markdown)](challenges/challengeExceptionHandling.md),
-[zip met startmateriaal](challenges/challengeException-Naamgenerator.zip). 
+[zip met startmateriaal](challenges/challengeException-Naamgenerator.zip).
 
 
 ## Diverse Challenges voor wie nog uitdaging of inspi zoekt...
