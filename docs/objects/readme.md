@@ -2,17 +2,18 @@
 
 ## Programmeren met Objects en Classes
 
-## C\# Online resources
--[C# Basics ](https://www.youtube.com/playlist?list=PLYMOUCVo86jGzNXPgyKB-B1IvE1LoXKi6) - video 1 t/m 39  
--[Chapter 2 Classes](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Documentation/OOP.pdf)  
--[Dive into Design Patterns - chapter Introduction to OOP](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Documentation/Dive%20into%20design%20patterns%20-%20chapter%20Introduction%20to%20OOP.pdf)  
-
 ### Introductie Objects en Classes
 
 + [Start Objects met CRC](https://stasemsoft.github.io/softwarematerial/docs/objects/crc/)
 + [Theorie: Hoe programmeer je met Objecten?](theorie_Class.md)
 en ook:
 + [FUN12-dictaat classes](theorie_FUN12_DictaatKlassen.pdf)
+
+
+## Enkele C\# Online resources met (onder andere materiaal over Objects)
++ [C# Basics ](https://www.youtube.com/playlist?list=PLYMOUCVo86jGzNXPgyKB-B1IvE1LoXKi6) - video 1 t/m 39  
++ [Chapter 2 Classes](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Documentation/OOP.pdf)  
++ [Chapter Introduction to OOP (uit Dive into Design Patterns)](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Documentation/Dive%20into%20design%20patterns%20-%20chapter%20Introduction%20to%20OOP.pdf)  
 
 Kies 1 van de 2 exercises 'Trafficlight' of 'Marimba and the Bass'
 als eerste oefening met Objecten en Classes.
