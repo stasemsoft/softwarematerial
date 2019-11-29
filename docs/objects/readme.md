@@ -52,7 +52,7 @@ en de exercise 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *e
 
 ### Casting
 
-+ [Theorie Cast](theorie_Cast.pdf), of in [markdown](theorie_Cast)
++ [Theorie over cast](theorie_Cast). 
 
 
 ### override ToString()
