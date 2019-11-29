@@ -1,3 +1,5 @@
+# Exercise Traffic Light (met een enum)
+
 We gaan (wederom) verkeerslichten programmeren.
 Als je de TrafficLight Challenge uit een vorig hoofdstuk al hebt gedaan,
 zeker als je de voorbeeldcode had overgenomen (met de fouten er in) zul je gemerkt hebben dat
@@ -7,7 +9,8 @@ allemaal door de compiler geaccepteerd worden maar de waarden zijn verschillend:
 hierdoor kunnen allerlei bugs ontstaan:
 Neem bijvoorbeeld 2 TrafficLights, zeg *trafficLight1* en *trafficLight2*.
 Als de *color* van *trafficLight1* waarde *Oranje* heeft en
-de *color* van *trafficLight2* waarde *Orange* dan zal een vergelijking als```
+de *color* van *trafficLight2* waarde *Orange* dan zal een vergelijking als
+```
 if (trafficLight1.color == trafficLight2.color) {
   ...
 }
