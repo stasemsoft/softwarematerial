@@ -14,6 +14,8 @@ Als je de korte introvideo hieronder bekijkt en een blik werpt op het Voorbeeld 
 
 ### eventuele extra bronnen
 
+Als je na het bekijken van bovenstaande bronnen geen idee hebt kun je hier nog verder kijken: 
+
 + [CRC volgens wikipedia](https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card)
 
 + [Example (helaas met een digitaal tool)](https://www.youtube.com/watch?v=otKUer13HnA)
