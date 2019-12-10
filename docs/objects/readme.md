@@ -2,17 +2,24 @@
 
 ## Programmeren met Objects en Classes
 
++ Als je al wat ervaring hebt kun je al eens naar [versiebeheer met git](../process/git) kijken.
++ Als je al wat ervaring hebt kun je al eens naar [unit testing](unittesting) kijken.
+
 ### Introductie Objects en Classes
 
-+ [Start Objects met CRC](https://stasemsoft.github.io/softwarematerial/docs/objects/crc/)
+Bekijk onderstaande drie links voor je naar de exercises gaat,
+begin bij CRC (Class Responsibility Collaboration).
+
++ [Start Objects met CRC](crc/readme)
 + [Theorie: Hoe programmeer je met Objecten?](theorie_Class.md)
 en ook:
 + [FUN12-dictaat classes](theorie_FUN12_DictaatKlassen.pdf)
 
 
 #### Exercises en Challenges met objecten
+
 Kies 1 van de 2 exercises 'Trafficlight' of 'Marimba and the Bass'
-als eerste oefening met Objecten en Classes.
+als eerste oefening met Objecten en Classes. Als je dat moeilijk vindt is het verstandig de ander ook te doen.
 
 + [Exercise met Class: TrafficLight](exercise_Class_TrafficLight)
 
@@ -52,7 +59,7 @@ en de exercise 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *e
 
 ### Casting
 
-+ [Theorie over cast](theorie_Cast). 
++ [Theorie over cast](theorie_Cast).
 
 
 ### override ToString()
