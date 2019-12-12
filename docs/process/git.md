@@ -73,7 +73,8 @@ just type *Doc* and
 press the *tab* key and probably the *shell* will complete the name.
 ![](figures/gitbash1.png "bash")
 In the `terminal` *clone* the git-repository from the server
-to your local directory by typing:```
+to your local directory by typing:
+```
 git clone <pasteYourGitUrlHere>
 ```
 After that (you will be asked for your *username*/*password*)
@@ -81,7 +82,8 @@ you now have a local copy (*clone*) of the entire history of this repository
 (for a just created project this is still empty of course).
 To go inside the local *repository-directory*,
 which after a *clone* contains the *latest* version of the files,
-use```
+use
+```
 cd <dirname>
 ```
 Typing `git status` tells you that (at this moment)
