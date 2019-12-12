@@ -97,6 +97,7 @@ Most students use it to `commit` and `push` their
 changes right from their `IDE`. Most *IDEs* and *editors* nowadays
 have built-in `git`-functionality.
 
+
 ![](figures/gitgud.png "git gud")
 
 ## Bronnen
