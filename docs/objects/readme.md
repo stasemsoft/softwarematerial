@@ -22,6 +22,8 @@ als eerste oefening met Objecten en Classes.
 + [Exercise Marimba_and_Bass](exercise_Marimba_and_Bass.pdf)
 
 De default Challenge is 'AutoDagWaarde'.
+(hiervoor heb je properties en enums nodig, waarover je meer hieronder kunt lezen). 
+
 
 + [Challenge AutoDagWaarde](challenges/challenge_AutoDagWaarde)
 
