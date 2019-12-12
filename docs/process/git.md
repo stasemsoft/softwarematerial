@@ -26,6 +26,7 @@ Use a browser to go to
 [https://git.fhict.nl](https://git.fhict.nl)
 and create a git repository.
 Copy the https-url to your clipboard, we need it in a few moments.
+
 ![](figures/gitHttpsUrl.png "git https")
 
 In Git you typically have a `repository` on a network somewhere where
@@ -74,6 +75,7 @@ press the *tab* key and probably the *shell* will complete the name.
 ![](figures/gitbash1.png "bash")
 In the `terminal` *clone* the git-repository from the server
 to your local directory by typing:
+
 ```
 git clone <pasteYourGitUrlHere>
 ```
@@ -91,19 +93,13 @@ there’s nothing to commit (which means you don't have made local changes
 to the repository).
 
 These are only the basics of *git*.
-In my experience most students use it to `commit` and `push` their
+Most students use it to `commit` and `push` their
 changes right from their `IDE`. Most *IDEs* and *editors* nowadays
 have built-in `git`-functionality.
-Say for example you use Xcode: see xcode-menu ‘Source Control’:
-when you succeeded with the above doing the same from xcode
-should be a piece of cake! Good luck!
-For more info about `git` please look at the very good book
-[https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
-which is free to download.
 
-![](figures/xcodegit.png "git from xcode")
 ![](figures/gitgud.png "git gud")
 
 ## Bronnen
 
 + [FHICT-git-server https://git.fhict.nl/](https://git.fhict.nl/)
++ [ProGit](https://git-scm.com/book/en/v2)
