@@ -1,11 +1,12 @@
-<a id="cha:challengeExceptionHandling"></a>
+# Challenge ExceptionHandling
+
 | Niveau | 2 of 5 |
 | --- | --- |
 | Leerdoelen | Exception handling. |
 | Vereiste voorkennis | Basiskennis over objecten. |
 | Challenge Type | Realiseren. |
 
-
+---
 
 Als startmateriaal is het programma Naamgenerator beschikbaar. Open deze solution en bekijk de code eens.
 Het programma genereert een willekeurige naam uit een lijst van beschikbare namen en laat die naam op het scherm zien. De lijst van beschikbare namen staat in het bestand Namen.txt. Het programma leest dit bestand uit.

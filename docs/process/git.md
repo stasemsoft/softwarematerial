@@ -1,5 +1,10 @@
+# Git (versiebeheer)
+
+
 ![](figures/gitlogo.png "git")
-#### What is Git?
+
+## What is Git?
+
 Git is created to have distributed version control.
 Serious software development is not possible without using
 some sort of version management.
@@ -11,7 +16,7 @@ For a lot more info please look at the very good book
 which is free to download.
 
 
-#### Create a repository
+## Create a repository
 
 ![](figures/git_newproject.png "new project")
 A repository is a place (typically online) where your code and
@@ -34,7 +39,9 @@ which you regularly `synchronize` (using `push` and `pull`) with
 the remote repository on a server.
 Other people in your team sync with the same remote repository.
 Advanced uses like `branching` and `tagging` we will not use in this course.
-#### Clone the repository
+
+## Clone the repository
+
 Next step is creating a so-called `clone` locally on your laptop.
 This will be your workspace where you can develop.
 By keeping it up to date with the server
@@ -93,6 +100,9 @@ For more info about `git` please look at the very good book
 [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
 which is free to download.
 
-
 ![](figures/xcodegit.png "git from xcode")
 ![](figures/gitgud.png "git gud")
+
+## Bronnen
+
++ [FHICT-git-server https://git.fhict.nl/](https://git.fhict.nl/)
