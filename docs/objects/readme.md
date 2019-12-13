@@ -2,8 +2,8 @@
 
 ## Programmeren met Objects en Classes
 
-+ Als je al wat ervaring hebt kun je al eens naar [versiebeheer met git](../process/git) kijken.
-+ Als je al wat ervaring hebt kun je al eens naar [unit testing](unittesting) kijken.
++ Als je al wat ervaring hebt kun je al eens naar [versiebeheer met git](../process/git) kijken (maar als je nieuw bent in OOP is het wellicht beter eerst daarop te richten).
++ Als je al wat ervaring hebt kun je al eens naar [unit testing](unittesting) kijken (maar als je nieuw bent in OOP is het wellicht beter eerst daarop te richten).
 
 ### Introductie Objects en Classes
 
@@ -26,6 +26,8 @@ als eerste oefening met Objecten en Classes. Als je dat moeilijk vindt is het ve
 + [Exercise Marimba_and_Bass](exercise_Marimba_and_Bass.pdf)
 
 De default Challenge is 'AutoDagWaarde'.
+(hiervoor heb je properties en enums nodig, waarover je meer hieronder kunt lezen).
+
 
 + [Challenge AutoDagWaarde](challenges/challenge_AutoDagWaarde)
 
