@@ -89,7 +89,7 @@ Als je een extra uitdaging wilt:
 
 ### Methoden
 + [Naslag: Methodes in C#](methoden/naslag_methods.md)
-+ [Exercises methode ElkaarAchterstevoren](methoden/methodW1W2.md)
++ [Exercise methode ElkaarAchterstevoren](methoden/methodW1W2.md)
 + [Exercise: Bloeddruk](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Bloeddruk%20meten.pdf)  
 + [Exercises: Diverse opdrachten 1](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%201.pdf)  
 + [Exercises: Diverse opdrachten 2](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%202.pdf)  
