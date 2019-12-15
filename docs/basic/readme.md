@@ -89,11 +89,11 @@ Als je een extra uitdaging wilt:
 
 ### Methoden
 + [Naslag: Methodes in C#](methoden/naslag_methods.md)
++ [Exercises methode ElkaarAchterstevoren](methoden/methodW1W2.md)
 + [Exercise: Bloeddruk](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Bloeddruk%20meten.pdf)  
 + [Exercises: Diverse opdrachten 1](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%201.pdf)  
 + [Exercises: Diverse opdrachten 2](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%202.pdf)  
 + [Exercise: Oefenopdracht](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Toetsopdracht.pdf)
-+ [Exercises met methoden](methoden/methodW1W2.md)
 
 ### Collecties (List en Array)
 
@@ -104,3 +104,4 @@ Als je een extra uitdaging wilt:
 + [Exercises: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12Lists.pdf)
 + [Presentatie: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_ListMethodes.pptx)
 + [Exercises: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12_ListMethodes.pdf)
++ [Exercise met method, list en array](methoden/exerciseMethodListArray)
