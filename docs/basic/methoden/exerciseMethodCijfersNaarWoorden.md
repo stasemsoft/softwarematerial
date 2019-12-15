@@ -9,6 +9,6 @@ Ik ben 20 jaar
 invoert dan is de uitvoer
 ```
 Ik ben tweenul jaar.
-'''
+```
 Voorwaarden:
 + De functionaliteit die één cijfer verandert moet in een aparte methode komen (en die methode mag GEEN interactie met een eventuele user interface hebben). Noem deze methode VeranderCijfer.
