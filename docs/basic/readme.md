@@ -70,7 +70,7 @@ Goede online resources om C# te leren:
 + [Exercise: Pincode-reminder](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Pincode-reminder.pdf)
 + [Exercises: Extra opgaven keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Extra-opgaven-keuzestructuren.pdf)
 
-### String Methoden
+### String Methoden aanroepen
 
 + [string methoden](string methoden/naslag_StringMethods.md)
 + [Exercises: String methods](string%20methoden/Stringmethoden.pdf)
