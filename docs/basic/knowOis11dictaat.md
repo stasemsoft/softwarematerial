@@ -4,7 +4,7 @@ Links naar diverse naslag-hoofdstukken (voorheen bekend als OIS11-dictaat).
 
 + [Naslag variable](var/naslag_Variable.md)
 
-+ [string methoden](string methoden/naslag_StringMethods.md)
++ [string methoden](string_methoden/naslag_StringMethods.md)
 
 + [int en double bewerkingen (operatoren)](var/naslag_Operatoren.md)
 

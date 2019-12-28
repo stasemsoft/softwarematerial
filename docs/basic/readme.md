@@ -72,8 +72,8 @@ Goede online resources om C# te leren:
 
 ### String Methoden aanroepen
 
-+ [string methoden](string methoden/naslag_StringMethods.md)
-+ [Exercises: String methods](string%20methoden/Stringmethoden.pdf)
++ [string methoden](string_methoden/naslag_StringMethods.md)
++ [Exercises: String methods](string_methoden/Stringmethoden.pdf)
 
 ### Lussen / loops
 
