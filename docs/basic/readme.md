@@ -30,7 +30,7 @@ Recent:
 Demo-filmpjes:
 [van Jan](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/index.html)
 
-[C# Begrippen lijst](https://quizlet.com/18210232/c-sharp-terminology-flash-cards/) bijv. Method, Property, Class, ...
+[C# Begrippen 'flash cards'](https://quizlet.com/18210232/c-sharp-terminology-flash-cards/) bijv. Method, Property, Class, ...
 
 Boeken:  
 [Head First C#](https://www.oreilly.com/library/view/head-first-c/9781449358846/) - Basis=Hoofdstuk 1 tm 4
@@ -57,9 +57,9 @@ Goede online resources om C# te leren:
 + [Presentatie: Variabelen, bewerkingen en conversies](var/Variabelen-bewerkingen-conversies.pptx)
 + [Naslag variable](var/naslag_Variable.md)
 + [Naslag operatoren](var/naslag_Operatoren.md)
-+ [Exercise: Euro Dollar converter](https://stasemsoft.github.io/softwarematerial/docs/basic/var/Euro-Dollar-converter.pdf)
-+ [Exercise: Calculator](https://stasemsoft.github.io/softwarematerial/docs/basic/var/VariabelenBewerkingenConversies.pdf)
-+ [Exercises: Diversen](https://stasemsoft.github.io/softwarematerial/docs/basic/var/Extra-opgaven-variabelen.pdf)
++ [Exercise: Euro Dollar converter](var/Euro-Dollar-converter.pdf)
++ [Exercise: Calculator](var/VariabelenBewerkingenConversies.pdf)
++ [Exercises: Diversen](var/Extra-opgaven-variabelen.pdf)
 
 ### Conditioneel
 
@@ -70,7 +70,7 @@ Goede online resources om C# te leren:
 + [Exercise: Pincode-reminder](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Pincode-reminder.pdf)
 + [Exercises: Extra opgaven keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Extra-opgaven-keuzestructuren.pdf)
 
-### String Methoden
+### String Methoden aanroepen
 
 + [string methoden](string methoden/naslag_StringMethods.md)
 + [Exercises: String methods](string%20methoden/Stringmethoden.pdf)
