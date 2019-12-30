@@ -26,13 +26,15 @@ Als je vragen hebt: kijk eerst eens in de [Frequently Asked Questions](https://s
 
 ### Computational Thinking
 
+De manier van denken, goed om iets van te weten... 
+
 [Computational Thinking](https://stasemsoft.github.io/softwarematerial/docs/computational)
 
 ---
 
 ### Toolbox Basis: Basisconcepten van programmeren
 
-Dit is een introductie in programmeren, zonder objecten.
+Een introductie in programmeren (nog zonder objecten).
 
 [Toolbox basis](https://stasemsoft.github.io/softwarematerial/docs/basic/)
 
