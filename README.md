@@ -10,8 +10,8 @@ en in een
 ### Uitgangspunten bij het structureren:
 + `Tutorial`: practical steps, learning oriented.
 + `How-to guides`: practical steps, problem oriented.
-+ `Discussions`: theoretical, understanding oriented.
-+ `Reference`: theoretical, information oriented.
++ `Discussion`: theoretical, understanding oriented.
++ `Explanation`: theoretical, information oriented.
 
 + `Exercises`: 'vingeroefeningen', horen bij een stukje theorie om te oefenen, maar zijn als bewijsmateriaal om je docent te overtuigen vaak niet te gebruiken.
 + `Challenges`: vaak uitdagender, vaak open(er) geformuleerd, liefst onafhankelijk van of er een GUI is en mogelijk zelfs onafhankelijk van de programmeertaal.
@@ -26,7 +26,7 @@ Als je vragen hebt: kijk eerst eens in de [Frequently Asked Questions](https://s
 
 ### Computational Thinking
 
-De manier van denken, goed om iets van te weten... 
+De manier van denken, goed om iets van te weten...
 
 [Computational Thinking](https://stasemsoft.github.io/softwarematerial/docs/computational)
 
