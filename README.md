@@ -1,7 +1,7 @@
 # softwarematerial
 
 Dit is een verzameling (open) software-materiaal van FHICT (Fontys Hogeschool voor ICT). Vind dit materiaal
-+ [op Github pages](https://stasemsoft.github.io/softwarematerial/)
++ [op Github pages](https://stasemsoft.github.io/softwarematerial/) (hier het meest leesbaar)
 en in een
 + [Github-repository](https://github.com/stasemsoft/softwarematerial)
 
