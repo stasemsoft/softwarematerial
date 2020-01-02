@@ -3,11 +3,11 @@
 
 ## Algemene info
 
-+ [Visual Studio installatie](https://stasemsoft.github.io/softwarematerial/docs/process/infoVisualStudioInstallatie.pdf)
++ [howto: Visual Studio installatie](https://stasemsoft.github.io/softwarematerial/docs/process/infoVisualStudioInstallatie.pdf)
 
-+ [Over het inleveren van programma's in Canvas](https://stasemsoft.github.io/softwarematerial/docs/process/infoInleverenProgrammas.pdf)
++ [howto: Over het inleveren van programma's in Canvas](https://stasemsoft.github.io/softwarematerial/docs/process/infoInleverenProgrammas.pdf)
 
-+ [Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys.md)
++ [reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys.md)
 
 
 ## Inspiratie voor een eigen App of zo:  
@@ -33,12 +33,12 @@ Demo-filmpjes:
 [C# Begrippen 'flash cards'](https://quizlet.com/18210232/c-sharp-terminology-flash-cards/) bijv. Method, Property, Class, ...
 
 Boeken:  
-[Head First C#](https://www.oreilly.com/library/view/head-first-c/9781449358846/) - Basis=Hoofdstuk 1 tm 4
+[reference: Head First C#](https://www.oreilly.com/library/view/head-first-c/9781449358846/) - Basis=Hoofdstuk 1 tm 4
 
 Goede online resources om C# te leren:  
--[C# .NET Documentation](https://docs.microsoft.com/en-us/dotnet/#pivot=docs&panel=getstarted)  
--[C# .NET Coding Standard/Conventions](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)  
--[C# Basics ](https://www.youtube.com/playlist?list=PLYMOUCVo86jGzNXPgyKB-B1IvE1LoXKi6) - video 1 t/m 39  
+-[reference: C# .NET Documentation](https://docs.microsoft.com/en-us/dotnet/#pivot=docs&panel=getstarted)  
+-[reference: C# .NET Coding Standard/Conventions](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)  
+-[reference: C# Basics ](https://www.youtube.com/playlist?list=PLYMOUCVo86jGzNXPgyKB-B1IvE1LoXKi6) - video 1 t/m 39  
 -[Tutorials Point](https://www.tutorialspoint.com/csharp/) - Basis=C# Basic Tutorial tm onderwerp Enums  
 -[Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51) - Basis=module 1 tm 8, Verdieping=module 9+  
 -[Solo Learn](https://www.sololearn.com/Course/CSharp) - Basis=module 1 tm 3, Verdieping=module 4+  
@@ -55,8 +55,8 @@ Goede online resources om C# te leren:
 ### Variabelen, assignment, typen
 
 + [Presentatie: Variabelen, bewerkingen en conversies](var/Variabelen-bewerkingen-conversies.pptx)
-+ [Naslag variable](var/naslag_Variable.md)
-+ [Naslag operatoren](var/naslag_Operatoren.md)
++ [Reference: variable](var/naslag_Variable.md)
++ [Reference: operatoren](var/naslag_Operatoren.md)
 + [Exercise: Euro Dollar converter](var/Euro-Dollar-converter.pdf)
 + [Exercise: Calculator](var/VariabelenBewerkingenConversies.pdf)
 + [Exercises: Diversen](var/Extra-opgaven-variabelen.pdf)
@@ -64,7 +64,7 @@ Goede online resources om C# te leren:
 ### Conditioneel
 
 + [Presentatie: Keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Keuzestructuren.pptx)
-+ [Keuzestructuren in C#](conditioneel/naslag_Keuzestructuren.md)
++ [Reference: Keuzestructuren in C#](conditioneel/naslag_Keuzestructuren.md)
 + [Exercise: Calorieën tracker](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Calorieën.pdf)
 + [Exercise: Dobbelsteen](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Dobbelsteen.pdf)
 + [Exercise: Pincode-reminder](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Pincode-reminder.pdf)
@@ -72,13 +72,13 @@ Goede online resources om C# te leren:
 
 ### String Methoden aanroepen
 
-+ [string methoden](string_methoden/naslag_StringMethods.md)
++ [Reference: string methoden](string_methoden/naslag_StringMethods.md)
 + [Exercises: String methods](string_methoden/Stringmethoden.pdf)
 
 ### Lussen / loops
 
-+ [Naslag while](lussen/naslag_While)
-+ [Naslag for](lussen/naslag_For)
++ [Reference: while](lussen/naslag_While)
++ [Reference: for](lussen/naslag_For)
 + [Exercise: Christmas Tree Generator](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Challenges/Christmas%20Tree%20Generator/Christmas%20Tree%20Generator.pdf)
 + [Exercise: Worpengenerator](lussen/Worpengenerator.pdf)
 + [Exercises: Diverse opdrachten lussen 1](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/Extra%20opgaven%20lussen.pdf)
@@ -88,7 +88,7 @@ Als je een extra uitdaging wilt:
 + [Exercise: Emmer vol laten lopen](https://git.fhict.nl/I872272/ProgrammingChallenges/tree/master/Challenges/Emmer%20vol%20laten%20lopen)
 
 ### Methoden
-+ [Naslag: Methodes in C#](methoden/naslag_methods.md)
++ [Reference: Methodes in C#](methoden/naslag_methods.md)
 + [Exercise methode ElkaarAchterstevoren](methoden/methodW1W2.md)
 + [Exercise: Bloeddruk](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Bloeddruk%20meten.pdf)  
 + [Exercises: Diverse opdrachten 1](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%201.pdf)  
@@ -98,7 +98,7 @@ Als je een extra uitdaging wilt:
 
 ### Collecties (List en Array)
 
-+ [Dictaat Collecties](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_DictaatCollecties.pdf)
++ [Reference: Dictaat Collecties](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_DictaatCollecties.pdf)
 + [Presentatie: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_Arrays.pptx)
 + [Exercises: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12_Arrays.pdf)
 + [Presentatie: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_Lists.pptx)

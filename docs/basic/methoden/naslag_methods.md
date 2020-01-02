@@ -1,4 +1,4 @@
-# Naslag basiskennis: Methods in C#
+# Explanation: Methods in C#
 
 ### Algemene structuur methoden
 

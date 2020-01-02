@@ -13,8 +13,8 @@ en in een
 + `Discussion`: theoretical, understanding oriented.
 + `Explanation`: theoretical, information oriented.
 
-+ `Exercises`: 'vingeroefeningen', horen bij een stukje theorie om te oefenen, maar zijn als bewijsmateriaal om je docent te overtuigen vaak niet te gebruiken.
-+ `Challenges`: vaak uitdagender, vaak open(er) geformuleerd, liefst onafhankelijk van of er een GUI is en mogelijk zelfs onafhankelijk van de programmeertaal.
++ `Exercise`: 'vingeroefeningen', horen bij een stukje theorie om te oefenen, maar zijn als bewijsmateriaal om je docent te overtuigen vaak niet te gebruiken.
++ `Challenge`: vaak uitdagender, vaak open(er) geformuleerd, liefst onafhankelijk van of er een GUI is en mogelijk zelfs onafhankelijk van de programmeertaal.
 
 Zie [meer uitleg](https://stasemsoft.github.io/softwarematerial/docs/meta) over de uitgangspunten.
 
