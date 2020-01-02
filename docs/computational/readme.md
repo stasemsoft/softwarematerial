@@ -13,7 +13,7 @@ Ik kan dat opsplitsen in:
 - Hoe kom ik vanuit het station bij het event?
 - en je kunt vast nog wel een aantal onderdelen verzinnen...
 
-Om een groot 'probleem' op te lossen is het soms handig het probleem in kleinere problemen op te lossen.
+Om een groot 'probleem' op te lossen is het handig het probleem in kleinere problemen op te lossen.
 
 Je ziet dat computational thinking ook 'buiten de computer' speelt.
 
