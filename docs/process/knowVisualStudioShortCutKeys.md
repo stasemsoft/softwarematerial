@@ -1,4 +1,4 @@
-# Short cut keys in Visaul Studio
+# Short cut keys in Visual Studio
 
 Als in een sneltoets combinatie een komma staat, dan moet eerst het deel voor de komma worden ingedrukt, dan laat je de toetsen los en druk je daarna de letter in die na de komma staat.
 
