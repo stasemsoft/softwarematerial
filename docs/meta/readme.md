@@ -19,4 +19,5 @@ Gebaseerd op de youtube-video [What nobody tells you about documentation (Daniel
 Verdere uitgangspunten:
 + De nadruk ligt op de concepten: we willen iemand leren hoe en waarom een Class te maken, niet specifiek in C# of Visual Studio!
 + Waar mogelijk laten we dus (zelfs) de programmeertaal in het midden.
-+ GUI (Grafische User Interface) is dus niet belangrijk, dus geen onnodige tijd aan besteden.
++ GUI (Grafische User Interface) is dus minder belangrijk, dus geen onnodige tijd aan besteden. 
++ alleen copyright-vrij materiaal in deze repos! 
