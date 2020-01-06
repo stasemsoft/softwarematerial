@@ -9,7 +9,7 @@
 
 + [reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys.md) 
 
-+ [Wat kan ik na deze module?](resultaatformulier)
++ [Wat kan ik na deze module?](resultaatformulier.md)
 
 
 ## Inspiratie voor een eigen App of zo:  
