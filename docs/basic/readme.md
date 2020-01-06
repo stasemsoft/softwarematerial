@@ -9,6 +9,11 @@
 
 + [reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys.md)
 
++ [Wat kan ik als ik de module 'basis' voldoende doorlopen heb?
+
+[resultaatformulier](resultaatformulier)
+
+
 
 ## Inspiratie voor een eigen App of zo:  
 -[Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)  

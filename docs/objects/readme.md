@@ -121,7 +121,9 @@ Als je nog wat meer de diepte in wilt kun je hier kijken:
 
 + [info Hoe zoek ik?](https://stasemsoft.github.io/softwarematerial/docs/process/infoProgrammerSearchScheme.pdf)
 
+## Wat kan ik als ik de module 'objects' voldoende doorlopen heb? 
 
+[resultaatformulier](resultaatformulier)
 
 ---
 ## Oud materiaal, niet meer gebruikt bij FHICT
