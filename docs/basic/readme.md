@@ -7,7 +7,9 @@
 
 + [howto: Over het inleveren van programma's in Canvas](https://stasemsoft.github.io/softwarematerial/docs/process/infoInleverenProgrammas.pdf)
 
-+ [reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys.md)
++ [reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys.md) 
+
++ [Wat kan ik na deze module?](resultaatformulier.md)
 
 + [Wat kan ik als ik de module 'basis' voldoende doorlopen heb?
 
