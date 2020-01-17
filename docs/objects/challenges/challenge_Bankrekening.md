@@ -18,6 +18,8 @@ Het weergegeven saldo wordt na iedere transactie natuurlijk netjes aangepast.
 
 ## Opdracht
 
+In de oorspronkelijke opdracht werd uitgegaan van WinForms, je kunt het ook in (bijvoorbeeld) UWP doen: lees verderop in deze opdracht.
+
 ### STAP 1: HET FORMULIER
 
 Maak een nieuw Windows Forms project aan dat je bijvoorbeeld Bankzaken noemt. Geef het automatisch aangemaakte formulier Form1 een meer betekenisvolle naam, bijvoorbeeld BankrekeningForm. Pas ook de Property Text van het formulier aan zodat er een betere naam in de titelbalk van de applicatie komt te staan.
@@ -148,3 +150,13 @@ Zie MSDN voor meer informatie.
 
 
 Voeg een ListBox op het scherm waarin de transacties worden weergegeven onder vermelding van datum, tijd, betrokken rekeningnummer(s) en bedrag. Naar keuze geef je alleen geslaagde of zowel geslaagde als niet geslaagde transacties weer. In het laatste geval wordt er tevens vermeld of de transactie geslaagd is of niet.
+
+
+## UWP
+```
+File -> New -> Project -> Windows Universal -> Blank Universal App.
+```
+
+Maak je bankrekening in deze `UWP App`. Kopieer en plak je Bankrekening c# `class` in je nieuwe UWP app. Dus je gebruikt je al eerder gemaakte class van die WinForms opdracht.
+Als je de bankrekening class &quot;goed&quot; gemaakt hebt dan zit er geen referenties in naar methodes en dingen die niet meer bestaan en hoef je alleen de `buttons` en `labels` te slepen.
+Je komt er achter dat niet alles een naam heeft en dingen zoals `MessageBox.Show` niet meer bestaan in `UWP`.
