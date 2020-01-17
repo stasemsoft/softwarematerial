@@ -27,9 +27,10 @@
 
 ## C\# Online resources
 
-Recent:
-[dotnet.microsoft.com/learn/videos](https://dotnet.microsoft.com/learn/videos)
+[C# 101](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN) van [dotnet.microsoft.com/learn/videos](https://dotnet.microsoft.com/learn/videos)
+	
 
+	
 Demo-filmpjes:
 [van Jan](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/index.html)
 

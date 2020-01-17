@@ -13,6 +13,7 @@ Je maakt een ontwerp (CRC, class diagram) waarin de belangrijkste functionalitei
 Je vraagt feedback van een docent met software engineeringskennis en laat zien dat je deze feedback verwerkt hebt.
 
 Concepten/Onderwerpen:
+(GEEN AFVINK-LIJST!)
 
 + C1. objects / classes
 + C2. constructors

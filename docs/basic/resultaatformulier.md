@@ -3,6 +3,7 @@
 ## Toelichting Oriënterend niveau
 
 Je past de volgende programmeer-concepten toe en hebt voorbeelden waaruit blijkt dat je de volgende concepten beheerst:
+(GEEN AFVINK-LIJST!)
 
 + Variable
 + Conditional statement
