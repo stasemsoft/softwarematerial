@@ -42,8 +42,6 @@ maar gebruik ze gerust als inspiratie voor eigen werk!
 
 + [challenge BankRekening](challenges/challenge_Bankrekening)
 
-+ [challenge_BankRekeningUWP](challenges/challenge_BankRekeningUWP)
-
 + [challenge_BattleSim](challenges/challenge_BattleSim)
 
 + [challenge_PatientDossier](challenges/challenge_PatientDossier)
