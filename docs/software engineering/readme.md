@@ -4,7 +4,7 @@ Dit betreft niet-per-se-programmeer-aspecten die een beginnend software engineer
 
 ## Professionaliteit
 
-[Software Craftmanship Manifesto](http://manifesto.softwarecraftsmanship.org/)
++ [Software Craftmanship Manifesto](http://manifesto.softwarecraftsmanship.org/)
 
 ## Waterval methode
 
