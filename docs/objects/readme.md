@@ -77,6 +77,7 @@ en de exercise 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *e
 Als je nog wat meer de diepte in wilt kun je hier kijken:
 
 + [Theorie So you wanna be a Software Engineer](theorie_AdvancedSoftwareEngineering.pdf) of zelfde in [(markdown)](theorie_AdvancedSoftwareEngineering.md).
++ [Software Craftmanship Manifesto](http://manifesto.softwarecraftsmanship.org/)
 
 
 
@@ -121,7 +122,7 @@ Als je nog wat meer de diepte in wilt kun je hier kijken:
 
 + [info Hoe zoek ik?](https://stasemsoft.github.io/softwarematerial/docs/process/infoProgrammerSearchScheme.pdf)
 
-## Wat kan ik als ik de module 'objects' voldoende doorlopen heb? 
+## Wat kan ik als ik de module 'objects' voldoende doorlopen heb?
 
 [resultaatformulier](resultaatformulier)
 
