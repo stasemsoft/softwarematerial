@@ -106,6 +106,7 @@ Als je nog wat meer de diepte in wilt kun je hier kijken:
 ## Diverse Challenges voor wie nog uitdaging of inspi zoekt...
 
 + [Verzameling Challenges](challenges)
++ [Codewars](https://www.codewars.com/?language=csharp)
 + [todo-tutorials-can-be-fun-but-heres-how-to-build-your-own-projects](https://www.freecodecamp.org/news/todo-tutorials-can-be-fun-but-heres-how-to-build-your-own-projects-from-scratch-de6838fa9f23/)
 
 
