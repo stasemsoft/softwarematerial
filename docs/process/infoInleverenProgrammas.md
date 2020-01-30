@@ -1,3 +1,5 @@
+# Inleveren van Visual Studio solutions
+
 Als je gemaakte `Visual Studio solutions` wil inleveren in Canvas,
 hou dan rekening met het volgende:
 - Laat `Visual Studio`  tijdens het programmeren alle files opslaan op de door `Visual Studio` voorgestelde plek. (ga dus *niet* losse `files` met behulp van `save as` op andere plekken opslaan).
