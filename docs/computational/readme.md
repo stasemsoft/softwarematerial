@@ -17,7 +17,7 @@ Om een groot 'probleem' op te lossen is het handig het probleem in kleinere prob
 
 Je ziet dat computational thinking ook 'buiten de computer' speelt.
 
-## Exercises en Challenges
+## Training
 Hieronder een aantal opdrachten waarmee je zogenaamde 'computational thinking' wordt uitgedaagd.
 
 ### Binair 1

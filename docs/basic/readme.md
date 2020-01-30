@@ -21,7 +21,7 @@
 -[Computerphile](https://www.youtube.com/user/Computerphile)  
 -[TED talk 8 secrets of success](https://www.ted.com/talks/richard_st_john_s_8_secrets_of_success?language=nl)  
 
-## Externe exercises en challenges
+## Externe trainingsmogelijkheden
 
 -[Code Wars](https://www.codewars.com/) - [Basis niveau](https://www.codewars.com/kata/search/csharp?q=&r%5B%5D=-8&tags=Fundamentals&beta=false)  
 -[Project Euler](https://projecteuler.net/) - [overzicht van geschikte Basis en Verdiepings Challenges](https://stasemsoft.github.io/softwarematerial/docs/basic/OIS11%20en%20OIS12%20-%20Project%20Euler%20challenges.pdf)  
@@ -59,52 +59,52 @@
 + [Presentatie: Variabelen, bewerkingen en conversies](var/Variabelen-bewerkingen-conversies.pptx)
 + [Reference: variable](var/naslag_Variable.md)
 + [Reference: operatoren](var/naslag_Operatoren.md)
-+ [Exercise: Euro Dollar converter](var/Euro-Dollar-converter.pdf)
-+ [Exercise: Calculator](var/VariabelenBewerkingenConversies.pdf)
-+ [Exercises: Diversen](var/Extra-opgaven-variabelen.pdf)
++ [Training: Euro Dollar converter](var/Euro-Dollar-converter.pdf)
++ [Training: Calculator](var/VariabelenBewerkingenConversies.pdf)
++ [Training: Diversen](var/Extra-opgaven-variabelen.pdf)
 
 ### Conditioneel
 
 + [Presentatie: Keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Keuzestructuren.pptx)
 + [Reference: Keuzestructuren in C#](conditioneel/naslag_Keuzestructuren.md)
-+ [Exercise: Calorieën tracker](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Calorieën.pdf)
-+ [Exercise: Dobbelsteen](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Dobbelsteen.pdf)
-+ [Exercise: Pincode-reminder](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Pincode-reminder.pdf)
-+ [Exercises: Extra opgaven keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Extra-opgaven-keuzestructuren.pdf)
++ [Training: Calorieën tracker](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Calorieën.pdf)
++ [Training: Dobbelsteen](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Dobbelsteen.pdf)
++ [Training: Pincode-reminder](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Pincode-reminder.pdf)
++ [Training: Extra opgaven keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Extra-opgaven-keuzestructuren.pdf)
 
 ### String Methoden aanroepen
 
 + [Reference: string methoden](string_methoden/naslag_StringMethods.md)
-+ [Exercises: String methods](string_methoden/Stringmethoden.pdf)
++ [Training: String methods](string_methoden/Stringmethoden.pdf)
 
 ### Lussen / loops
 
 + [Reference: while](lussen/naslag_While)
 + [Reference: for](lussen/naslag_For)
-+ [Exercise: Christmas Tree Generator](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Challenges/Christmas%20Tree%20Generator/Christmas%20Tree%20Generator.pdf)
-+ [Exercise: Worpengenerator](lussen/Worpengenerator.pdf)
-+ [Exercises: Diverse opdrachten lussen 1](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/Extra%20opgaven%20lussen.pdf)
-+ [Exercises: Diverse opdrachten lussen 2](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/ExtraLussen.pdf)
++ [Training: Christmas Tree Generator](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Challenges/Christmas%20Tree%20Generator/Christmas%20Tree%20Generator.pdf)
++ [Training: Worpengenerator](lussen/Worpengenerator.pdf)
++ [Training: Diverse opdrachten lussen 1](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/Extra%20opgaven%20lussen.pdf)
++ [Training: Diverse opdrachten lussen 2](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/ExtraLussen.pdf)
 
 Als je een extra uitdaging wilt:
-+ [Exercise: Emmer vol laten lopen](https://git.fhict.nl/I872272/ProgrammingChallenges/tree/master/Challenges/Emmer%20vol%20laten%20lopen)
++ [Training: Emmer vol laten lopen](https://git.fhict.nl/I872272/ProgrammingChallenges/tree/master/Challenges/Emmer%20vol%20laten%20lopen)
 
 ### Methoden
 + [Reference: Methodes in C#](methoden/naslag_methods.md)
-+ [Exercise methode ElkaarAchterstevoren](methoden/methodW1W2.md)
-+ [Exercise: Bloeddruk](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Bloeddruk%20meten.pdf)  
-+ [Exercises: Diverse opdrachten 1](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%201.pdf)  
-+ [Exercise cijfers naar woorden](methoden/exerciseMethodCijfersNaarWoorden)
-+ [Exercises: Diverse opdrachten 2](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%202.pdf)  
-+ [Exercise: Oefenopdracht](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Toetsopdracht.pdf)
++ [Training methode ElkaarAchterstevoren](methoden/methodW1W2.md)
++ [Training: Bloeddruk](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Bloeddruk%20meten.pdf)  
++ [Training: Diverse opdrachten 1](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%201.pdf)  
++ [Training cijfers naar woorden](methoden/exerciseMethodCijfersNaarWoorden)
++ [Training: Diverse opdrachten 2](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%202.pdf)  
++ [Training: Oefenopdracht](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Toetsopdracht.pdf)
 
 ### Collecties (List en Array)
 
 + [Reference: Dictaat Collecties](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_DictaatCollecties.pdf)
 + [Presentatie: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_Arrays.pptx)
-+ [Exercises: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12_Arrays.pdf)
++ [Training: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12_Arrays.pdf)
 + [Presentatie: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_Lists.pptx)
-+ [Exercises: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12Lists.pdf)
++ [Training: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12Lists.pdf)
 + [Presentatie: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_ListMethodes.pptx)
-+ [Exercises: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12_ListMethodes.pdf)
-+ [Exercise met method, list en array](methoden/exerciseMethodListArray)
++ [Training: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12_ListMethodes.pdf)
++ [Training met method, list en array](methoden/exerciseMethodListArray)

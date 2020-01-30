@@ -1,4 +1,4 @@
-# Exercise Traffic Light
+# Training Traffic Light
 
 We gaan verkeerslichten (in de volksmond ook wel stoplichten genoemd) programmeren.
 Nu is het nog een vrij recht-toe-reacht-aan variant,

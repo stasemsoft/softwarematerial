@@ -9,4 +9,4 @@
 
 + [challenge MsPacman](challenges/challengeMsPacman.pdf)
 
-+ [exercise Draw Cube](challenges/challengeCube.pdf)
++ [Training Draw Cube](challenges/challengeCube.pdf)

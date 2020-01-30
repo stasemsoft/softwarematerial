@@ -1,4 +1,4 @@
-# Exercise Traffic Light (met een enum)
+# Training Traffic Light (met een enum)
 
 We gaan (wederom) verkeerslichten programmeren.
 Als je de TrafficLight Challenge uit een vorig hoofdstuk al hebt gedaan,

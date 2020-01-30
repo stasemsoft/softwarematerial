@@ -8,8 +8,8 @@ Dit betreft niet-per-se-programmeer-aspecten die een beginnend software engineer
 
 ## Waterval methode
 
-+ [Exercise Waterval methode](https://stasemsoft.github.io/softwarematerial/docs/software%20engineering/waterval%20methode/VanTekstNaarSchemaWaterval.pdf)
++ [Training Waterval methode](https://stasemsoft.github.io/softwarematerial/docs/software%20engineering/waterval%20methode/VanTekstNaarSchemaWaterval.pdf)
 
 ## Analyse
 
-+ [Exercise Analyse](https://stasemsoft.github.io/softwarematerial/docs/software%20engineering/analyse/Analysedocument.pdf)
++ [Training Analyse](https://stasemsoft.github.io/softwarematerial/docs/software%20engineering/analyse/Analysedocument.pdf)

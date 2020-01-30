@@ -1,4 +1,4 @@
-# Exercise Method cijfers naar woorden
+# Training: Method cijfers naar woorden
 
 Maak een methode `CijfersNaarWoorden` die als parameter een `String` heeft en als returnwaarde ook een `String`.
 

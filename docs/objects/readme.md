@@ -7,7 +7,7 @@
 
 ### Introductie Objects en Classes
 
-Bekijk onderstaande drie links voor je naar de exercises gaat,
+Bekijk onderstaande drie links voor je gaat programmeren,
 begin bij CRC (Class Responsibility Collaboration).
 
 + [Start Objects met CRC](crc/readme)
@@ -18,26 +18,26 @@ en ook:
 + [Coding Guidelines](../process/infoCodingGuidelines.md)
 
 
-#### Exercises en Challenges met objecten
+#### Training met objecten
 
-Kies 1 van de 2 exercises 'Trafficlight' of 'Marimba and the Bass'
+Kies 1 van de 2 trainingen 'Trafficlight' of 'Marimba and the Bass'
 als eerste oefening met Objecten en Classes. Als je dat moeilijk vindt is het verstandig de ander ook te doen.
 
-+ [Exercise met Class: TrafficLight](exercise_Class_TrafficLight)
++ [Training met Class: TrafficLight](exercise_Class_TrafficLight)
 
-+ [Exercise Marimba_and_Bass](exercise_Marimba_and_Bass.pdf)
++ [Training Marimba_and_Bass](exercise_Marimba_and_Bass.pdf)
 
 De default Challenge is 'AutoDagWaarde'.
 (hiervoor heb je properties en enums nodig, waarover je meer hieronder kunt lezen).
 
 
-+ [Challenge AutoDagWaarde](challenges/challenge_AutoDagWaarde)
++ [Training AutoDagWaarde](challenges/challenge_AutoDagWaarde)
 
 Probeer nu de invuloefening Object Oriented te maken:
 
-+ [Exercise ObjectOriented invuloefening](exerciseObjectOrientedOefening.pdf)
++ [Training ObjectOriented invuloefening](exerciseObjectOrientedOefening.pdf)
 
-+ [Oplossing bij exercise ObjectOriented invuloefening](solutionObjectOrientedOefening.pdf)
++ [Oplossing bij Training ObjectOriented invuloefening](solutionObjectOrientedOefening.pdf)
 
 
 ### property
@@ -46,7 +46,7 @@ Probeer nu de invuloefening Object Oriented te maken:
 
 Met properties oefenen kan prima met de challenge Bankrekening:
 
-+ [challenge BankRekening](challenges/challenge_Bankrekening)
++ [Training BankRekening](challenges/challenge_Bankrekening)
 
 ### Enum
 
@@ -55,9 +55,9 @@ Een andere manier om een eigen type te definiëren is een 'enum'-type:
 
 + [Theorie Enum](theorie_Enum.md)
 
-en de exercise 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *enum* zien:
+en de training 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *enum* zien:
 
-+ [Exercise met Enum: TrafficLight](exercise_Enum_TrafficLight.md)
++ [Training met Enum: TrafficLight](exercise_Enum_TrafficLight.md)
 
 
 
@@ -98,10 +98,10 @@ Als je nog wat meer de diepte in wilt kun je hier kijken:
 
 + [Theorie File Handling](theorie_FileHandling.pdf)
 
-+ [Challenge FileHandling](challenges/challengeFileHandling.pdf)
++ [Training FileHandling](challenges/challengeFileHandling.pdf)
 
-+ [Challenge Exception Handling (pdf)](challenges/challengeExceptionHandling.pdf),
-[Challenge Exception Handling (markdown)](challenges/challengeExceptionHandling.md),
++ [Training Exception Handling (pdf)](challenges/challengeExceptionHandling.pdf),
+[Training Exception Handling (markdown)](challenges/challengeExceptionHandling.md),
 [zip met startmateriaal](challenges/challengeException-Naamgenerator.zip).
 
 
