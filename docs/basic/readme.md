@@ -36,7 +36,7 @@
 
 ## Overige resources
 
-+ Dictaat Basis programmeren [in pdf](knowOis11dictaat.pdf) of in [markdown](knowOis11dictaat.md).
++ [Dictaat Basis programmeren](knowOis11dictaat).
 + [C# Begrippen 'flash cards'](https://quizlet.com/18210232/c-sharp-terminology-flash-cards/) bijv. Method, Property, Class, ...
 + [C# 101](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN) van [dotnet.microsoft.com/learn/videos](https://dotnet.microsoft.com/learn/videos)
 + [reference: Head First C#](https://www.oreilly.com/library/view/head-first-c/9781449358846/) - Basis=Hoofdstuk 1 tm 4
