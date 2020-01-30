@@ -13,11 +13,11 @@ Gebaseerd op de youtube-video [What nobody tells you about documentation (Daniel
 + `Explanation`: theoretical, understanding oriented.
 + `Reference`: theoretical, information oriented. Accurate and complete.
 
-+ `Exercises`: 'vingeroefeningen', horen bij een stukje theorie om te oefenen, maar zijn als bewijsmateriaal om je docent te overtuigen vaak niet te gebruiken.
-+ `Challenges`: vaak uitdagender, vaak open(er) geformuleerd, liefst onafhankelijk van of er een GUI is en mogelijk zelfs onafhankelijk van de programmeertaal.
++ `Training` (voorheen exercises): 'vingeroefeningen', horen bij een stukje theorie om te oefenen, maar zijn als bewijsmateriaal om je docent te overtuigen niet te gebruiken.
++ `Wedstrijd`: Om je docent te overtuigen dat je het niet alleen snapt maar ook doet ga je zelf opdrachten verzinnen, variëren en uitbreiden op bestaande opdrachten!
 
 Verdere uitgangspunten:
 + De nadruk ligt op de concepten: we willen iemand leren hoe en waarom een Class te maken, niet specifiek in C# of Visual Studio!
 + Waar mogelijk laten we dus (zelfs) de programmeertaal in het midden.
-+ GUI (Grafische User Interface) is dus minder belangrijk, dus geen onnodige tijd aan besteden. 
-+ alleen copyright-vrij materiaal in deze repos! 
++ GUI (Grafische User Interface) is dus minder belangrijk, dus geen onnodige tijd aan besteden.
++ alleen copyright-vrij materiaal in deze repos!
