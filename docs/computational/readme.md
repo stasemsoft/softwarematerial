@@ -3,7 +3,7 @@
 ## Wat is Computational Thinking?
 We bekijken enkele voorbeelden:
 
-Als je een trap wil stofzuigen kun je het beste van boven naar beneden werken. Als je een vloer schildert (zie Donald Duck), zorg dan dat je bij een deur eindigt. Denk voor je iets doet even na over de volgorde van acties.
+Als je een trap wil stofzuigen kun je het beste van boven naar beneden werken. Als je een vloer schildert (zie Donald Duck), zorg dan dat je bij een deur eindigt. Denk voor je iets doet na over de volgorde en gevolgen van acties.
 
 Stel ik plan een trip met vrienden met het OV naar een event in een andere stad.
 Ik kan dat opsplitsen in:
