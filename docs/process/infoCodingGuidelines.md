@@ -4,7 +4,7 @@ In elke programmeertaal zijn er afspraken over hoe code er uit ziet. Veel teams 
 
 
 1. Belangrijkste regel: *Leesbaarheid* en Onderhoudbaarheid van de code staan voorop! Op elke andere regel kan wel een uitzondering verzonnen worden, een geval waarin het leesbaardere of onderhoudbaardere code oplevert als je er vanaf wijkt. Anderzijds is het sowieso eerst de *Reeglen der Kunst* eerst goed te leren voor je er van af wijkt!
-2. De naam van een `Class` wordt met een hoofdletter geschreven. Een `Class name` is normaal in het *enkelvoud*.
+2. De naam van een `Class` wordt met een hoofdletter geschreven. Een class name is normaal in het *enkelvoud*.
 3. De naam van een `Methode` wordt in C# met een hoofdletter geschreven. Sommige teams maken afspraken over de volgorde van de `Fields`, `Constructors`, `Methods` binnen een `Class`, maar aangezien je in Visual Studio met `F12` naar de declaratie van een `Method`, `Constructor` of `Variable` kunt springen maakt het niet uit.
 4. De naam van een `locale variabele` wordt met een kleine letter geschreven.
 5. De naam van een `Property` wordt in C# met een hoofdletter geschreven.
