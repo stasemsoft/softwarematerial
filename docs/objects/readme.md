@@ -15,6 +15,7 @@ begin bij CRC (Class Responsibility Collaboration).
 en ook:
 + [FUN12-dictaat classes](theorie_FUN12_DictaatKlassen.pdf)
 
+Let ook op de
 + [Coding Guidelines](../process/infoCodingGuidelines.md)
 
 
@@ -105,7 +106,7 @@ Als je nog wat meer de diepte in wilt kun je hier kijken:
 [zip met startmateriaal](challenges/challengeException-Naamgenerator.zip).
 
 
-## Diverse Challenges voor wie nog uitdaging of inspi zoekt...
+## Diverse uitdagingen ter inspi...
 
 + [Verzameling Challenges](challenges)
 + [Codewars](https://www.codewars.com/?language=csharp)
