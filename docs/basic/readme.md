@@ -27,9 +27,6 @@
 -[Project Euler](https://projecteuler.net/) - [overzicht van geschikte Basis en Verdiepings Challenges](https://stasemsoft.github.io/softwarematerial/docs/basic/OIS11%20en%20OIS12%20-%20Project%20Euler%20challenges.pdf)  
 -[Coding Game](https://www.codingame.com/)  
 
-## C\# Online resources
-
-[C# 101](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN) van [dotnet.microsoft.com/learn/videos](https://dotnet.microsoft.com/learn/videos)
 
 
 
@@ -41,6 +38,7 @@
 
 + Dictaat Basis programmeren [in pdf](knowOis11dictaat.pdf) of in [markdown](knowOis11dictaat.md).
 + [C# Begrippen 'flash cards'](https://quizlet.com/18210232/c-sharp-terminology-flash-cards/) bijv. Method, Property, Class, ...
++ [C# 101](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN) van [dotnet.microsoft.com/learn/videos](https://dotnet.microsoft.com/learn/videos)
 + [reference: Head First C#](https://www.oreilly.com/library/view/head-first-c/9781449358846/) - Basis=Hoofdstuk 1 tm 4
 + [reference: C# .NET Documentation](https://docs.microsoft.com/en-us/dotnet/#pivot=docs&panel=getstarted)  
 + [reference: C# .NET Coding Standard/Conventions](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)  
@@ -72,12 +70,12 @@
 + [Training: Pincode-reminder](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Pincode-reminder.pdf)
 + [Training: Extra opgaven keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Extra-opgaven-keuzestructuren.pdf)
 
-### String Methoden aanroepen
+### String Methoden: aanroepen
 
 + [Reference: string methoden](string_methoden/naslag_StringMethods.md)
 + [Training: String methods](string_methoden/Stringmethoden.pdf)
 
-### Lussen / loops
+### Lus / loop
 
 + [Reference: while](lussen/naslag_While)
 + [Reference: for](lussen/naslag_For)
@@ -89,7 +87,7 @@
 Als je een extra uitdaging wilt:
 + [Training: Emmer vol laten lopen](https://git.fhict.nl/I872272/ProgrammingChallenges/tree/master/Challenges/Emmer%20vol%20laten%20lopen)
 
-### Methoden
+### Method: zelf maken en aanroepen
 + [Reference: Methodes in C#](methoden/naslag_methods.md)
 + [Training methode ElkaarAchterstevoren](methoden/methodW1W2.md)
 + [Training: Bloeddruk](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Bloeddruk%20meten.pdf)  
@@ -98,7 +96,7 @@ Als je een extra uitdaging wilt:
 + [Training: Diverse opdrachten 2](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%202.pdf)  
 + [Training: Oefenopdracht](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Toetsopdracht.pdf)
 
-### Collecties (List en Array)
+### Collectie (List, Array)
 
 + [Reference: Dictaat Collecties](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_DictaatCollecties.pdf)
 + [Presentatie: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_Arrays.pptx)
