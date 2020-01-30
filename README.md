@@ -2,7 +2,7 @@
 
 Dit is een verzameling (open) software-materiaal van FHICT (Fontys Hogeschool voor ICT). Vind dit materiaal
 + [op Github pages](https://stasemsoft.github.io/softwarematerial/) (hier het meest leesbaar)
-en in een
+of in een
 + [Github-repository](https://github.com/stasemsoft/softwarematerial)
 
 ---
@@ -13,8 +13,8 @@ en in een
 + `Discussion`: theoretical, understanding oriented.
 + `Explanation`: theoretical, information oriented.
 
-+ `Exercise`: 'vingeroefeningen', horen bij een stukje theorie om te oefenen, maar zijn als bewijsmateriaal om je docent te overtuigen vaak niet te gebruiken.
-+ `Challenge`: vaak uitdagender, vaak open(er) geformuleerd, liefst onafhankelijk van of er een GUI is en mogelijk zelfs onafhankelijk van de programmeertaal.
++ `Training` (voorheen exercises): 'vingeroefeningen', horen bij een stukje theorie om te oefenen, maar zijn als bewijsmateriaal om je docent te overtuigen niet te gebruiken.
++ `Wedstrijd`: Om je docent te overtuigen dat je het niet alleen snapt maar ook doet ga je zelf opdrachten verzinnen, variëren en uitbreiden op bestaande opdrachten!
 
 Zie [meer uitleg](https://stasemsoft.github.io/softwarematerial/docs/meta) over de uitgangspunten.
 

@@ -15,6 +15,8 @@ begin bij CRC (Class Responsibility Collaboration).
 en ook:
 + [FUN12-dictaat classes](theorie_FUN12_DictaatKlassen.pdf)
 
++ [Coding Guidelines](../process/infoCodingGuidelines.md)
+
 
 #### Exercises en Challenges met objecten
 
