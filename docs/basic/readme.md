@@ -21,11 +21,6 @@
 -[Computerphile](https://www.youtube.com/user/Computerphile)  
 -[TED talk 8 secrets of success](https://www.ted.com/talks/richard_st_john_s_8_secrets_of_success?language=nl)  
 
-## Externe trainingsmogelijkheden
-
--[Code Wars](https://www.codewars.com/) - [Basis niveau](https://www.codewars.com/kata/search/csharp?q=&r%5B%5D=-8&tags=Fundamentals&beta=false)  
--[Project Euler](https://projecteuler.net/) - [overzicht van geschikte Basis en Verdiepings Challenges](https://stasemsoft.github.io/softwarematerial/docs/basic/OIS11%20en%20OIS12%20-%20Project%20Euler%20challenges.pdf)  
--[Coding Game](https://www.codingame.com/)  
 
 
 
@@ -34,9 +29,12 @@
 [van Jan](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/index.html)
 
 
-## Overige resources
+## Diverse trainingsmogelijkheden, inspiratie, overige resources
 
 + [Dictaat Basis programmeren](knowOis11dictaat).
++ [Code Wars](https://www.codewars.com/) - [Basis niveau](https://www.codewars.com/kata/search/csharp?q=&r%5B%5D=-8&tags=Fundamentals&beta=false)  
++ [Project Euler](https://projecteuler.net/) : een [overzicht van geschikte Basis en Verdiepings Challenges](https://stasemsoft.github.io/softwarematerial/docs/basic/OIS11%20en%20OIS12%20-%20Project%20Euler%20challenges.pdf)  
++ [Coding Game](https://www.codingame.com/)  
 + [C# Begrippen 'flash cards'](https://quizlet.com/18210232/c-sharp-terminology-flash-cards/) bijv. Method, Property, Class, ...
 + [C# 101](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN) van [dotnet.microsoft.com/learn/videos](https://dotnet.microsoft.com/learn/videos)
 + [reference: Head First C#](https://www.oreilly.com/library/view/head-first-c/9781449358846/) - Basis=Hoofdstuk 1 tm 4
