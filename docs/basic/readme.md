@@ -3,11 +3,11 @@
 
 ## Algemene info
 
-+ [howto: Visual Studio installatie](https://stasemsoft.github.io/softwarematerial/docs/process/infoVisualStudioInstallatie.pdf)
++ [howto: Visual Studio installatie](../process/infoVisualStudioInstallatie)
 
-+ [howto: Over het inleveren van programma's in Canvas](https://stasemsoft.github.io/softwarematerial/docs/process/infoInleverenProgrammas.pdf)
++ [howto: Over het inleveren van programma's in Canvas](../process/infoInleverenProgrammas)
 
-+ [reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys.md)
++ [reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys)
 
 + [Wat kan ik als ik de module 'basis' voldoende doorlopen heb?](resultaatformulier)
 
