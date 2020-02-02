@@ -333,11 +333,11 @@ klassen) en interfacing aan bod gekomen (Zie hiervoor de relevante modules in
 Canvas of zoek op internet). In dit hoofdstuk komt aan bod hoe inheritance in
 het geheugen werkt en wordt daarmee een achtergrond gegeven over inheritance
 als concept.
-![fig:classdiagram](figures/classdiagram_01 "Class diagram")
+![fig:class diagram](figures/classdiagram_01 "Class diagram")
 
 Een voorbeeld van een *class diagram* dat gebruik maakt van *inheritance*
 is te zien in figuur
-![x](#fig:classdiagram)
+![fig:class diagram](figures/classdiagram_01.jpg)
 ![fig:keuzestructuur_02](figures/keuzestructuur_02.jpg "keuzestructuur met extra condities")
 
 Als je dit klassendiagram geïmplementeerd hebt, dan kun je al deze klassen
