@@ -337,7 +337,8 @@ als concept.
 
 Een voorbeeld van een *class diagram* dat gebruik maakt van *inheritance*
 is te zien in figuur
-[](#fig:classdiagram)
+![x](#fig:classdiagram)
+![fig:keuzestructuur_02](figures/keuzestructuur_02.jpg "keuzestructuur met extra condities")
 
 Als je dit klassendiagram geïmplementeerd hebt, dan kun je al deze klassen
 gebruiken om objecten mee te maken. Stel dat je de volgende code schrijft:
