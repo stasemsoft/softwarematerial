@@ -18,12 +18,12 @@ Concepten/Onderwerpen:
 + C1. objects / classes
 + C2. constructors
 + C3. encapsulation:
-+ + private fields
-+ + get/set- method en/of property
+ + private fields
+ + get/set- method en/of property
 + C4. method/constructor overloading
 + C5. CRC / class diagram
 + C6. relations (tussen classes)
-+ + Multiplicity.
+ + Multiplicity.
 + C7. Method
 + C8. Scheiding GUI en Domain
 

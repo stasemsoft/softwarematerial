@@ -1,3 +1,5 @@
+# So you wanna be a Software Engineer?
+
 Stel je hebt de smaak
 van het *programmeren* te pakken hebt gekregen en
 wilt meer over *Software Engineering* te weten komen.
@@ -331,7 +333,13 @@ kijken naar de declaratie van de variabele:
 De theorie van object georienteerd programmeren behandelt *inheritance* (afgeleide
 classes) en *interfacing*. In dit hoofdstuk komt aan bod hoe inheritance in het geheugen werkt en wordt daarmee een achtergrond gegeven over inheritance als concept.
 
-![fig:class diagram](figures/classdiagram_01 "Class diagram")
+![fig:class diagram](figures/classdiagram_01.jpg "Class diagram")
+
+
+blabla
+
+
+![fig:keuzestructuur_01](figures/keuzestructuur_01.jpg "keuzestructuur")
 
 Een voorbeeld van een *class diagram* dat gebruik maakt van *inheritance*. Als je dit class diagram geïmplementeerd hebt, dan kun je al deze classes gebruiken om objecten mee te maken. Stel dat je de volgende code schrijft:
 
