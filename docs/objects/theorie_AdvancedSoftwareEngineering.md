@@ -336,11 +336,6 @@ classes) en *interfacing*. In dit hoofdstuk komt aan bod hoe inheritance in het 
 ![fig:class diagram](figures/classdiagram_01.jpg "Class diagram")
 
 
-blabla
-
-
-![fig:keuzestructuur_01](figures/keuzestructuur_01.jpg "keuzestructuur")
-
 Een voorbeeld van een *class diagram* dat gebruik maakt van *inheritance*. Als je dit class diagram geïmplementeerd hebt, dan kun je al deze classes gebruiken om objecten mee te maken. Stel dat je de volgende code schrijft:
 
 ```
