@@ -328,20 +328,13 @@ kijken naar de declaratie van de variabele:
 
 ### Inheritance: Hoe werkt dit in het geheugen
 
-In de theorie van object georienteerd programmeren is inheritance (afgeleide
-klassen) en interfacing aan bod gekomen (Zie hiervoor de relevante modules in
-Canvas of zoek op internet). In dit hoofdstuk komt aan bod hoe inheritance in
-het geheugen werkt en wordt daarmee een achtergrond gegeven over inheritance
-als concept.
+De theorie van object georienteerd programmeren behandelt *inheritance* (afgeleide
+classes) en *interfacing*. In dit hoofdstuk komt aan bod hoe inheritance in het geheugen werkt en wordt daarmee een achtergrond gegeven over inheritance als concept.
+
 ![fig:class diagram](figures/classdiagram_01 "Class diagram")
 
-Een voorbeeld van een *class diagram* dat gebruik maakt van *inheritance*
-is te zien in figuur
-![fig:class diagram](figures/classdiagram_01.jpg)
-![fig:keuzestructuur_02](figures/keuzestructuur_02.jpg "keuzestructuur met extra condities")
+Een voorbeeld van een *class diagram* dat gebruik maakt van *inheritance*. Als je dit class diagram geïmplementeerd hebt, dan kun je al deze classes gebruiken om objecten mee te maken. Stel dat je de volgende code schrijft:
 
-Als je dit klassendiagram geïmplementeerd hebt, dan kun je al deze klassen
-gebruiken om objecten mee te maken. Stel dat je de volgende code schrijft:
 ```
 Motorboot yamaha = new Motorboot();
 ```
@@ -353,6 +346,7 @@ alle gegevens uit Boot (naam) en alles uit IVoertuig (Kenteken). Het
 type van de variabele geeft aan bij welke van deze gegevens je mag. In het geval
 van Motorboot betekent dit dat je bij alle gegevens mag.
 Stel dat je nu de volgende code hebt:
+
 ```
 Motorboot yamaha = new Motorboot();
 Boot boot = yamaha;
@@ -369,18 +363,19 @@ geheugen is waar alle data staat.
 
 #### Beperkingen
 
-In het voorbeeld van de Motorboot werd een motorboot aangemaakt, waarna
-deze als Boot en IVoertuig gebruikt werd. Andersom kan dit niet. De volgende
-code zal dus niet compilen:
+In het voorbeeld van de Motorboot werd een motorboot aangemaakt, waarna deze als Boot en IVoertuig gebruikt werd. Andersom kan dit niet. De volgende code zal dus niet compilen:
+
 ```
 Boot boot = new Boot();
 Motorboot yamaha = boot;
 ```
+
 De reden hiervan is dat het geheugen wat gereserveerd is wel de gegevens van
 Boot en IVoertuig bevat, maar niet van Motorboot. Als je dat geheugen dan
 wilt benaderen als Motorboot zou er een stukje geheugen moeten zijn waarin
 het aantalPk opgeslagen is, maar dit is er niet.
 Wat ook niet kan is het volgende:
+
 ```
 Boot boot = new Boot();
 Auto auto = boot;
@@ -393,4 +388,5 @@ alsof het een auto is.
 ### Software Architecture
 
 Zie de site:
+
 [http://aosabook.org/en/index.html](http://aosabook.org/en/index.html)
