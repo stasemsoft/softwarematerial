@@ -32,3 +32,11 @@ Ook heb je de volgende vaardigheden laten zien en/of er aan gewerkt:
 + V2. Algoritmiek
 + V3. Feedback gevraagd van docent, genoteerd, verwerkt.
 + V4. Professioneel gecommuniceerd. Met name ben ik op tijd, meld ik me af bij docent als ik er een keer niet of te laat ben.  
+
+
+Een "soort" checklist (niet-compleet) die kan helpen:
++ Om concepten onder de knie te krijgen en ermee te oefenen heb je een aantal 'trainingen' gedaan.
++ In de 'wedstrijd' laat je zien wat je kunt. In een wedstrijd-app, een voor de 'wedstrijd' gemaakte app(licatie), laat je zien dat je weet hoe meerdere concepten binnen een onderhoudbare app worden gebruikt. De onderstaande regels gaan over je wedstrijd-apps!
++ Om jezelf en een docent te overtuigen dat je classes kunt maken heb je minstens 10 classes gemaakt, waarvan minstens 5 binnen 1 wedstrijd-app.
++ Deze classes hebben methods, fields, properties, constructors
++ In minstens 5 classes heb je een zinvolle 'override ToString()' toegevoegd. 
