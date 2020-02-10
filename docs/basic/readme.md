@@ -49,6 +49,7 @@ Als je een extra uitdaging wilt:
 + [Reference: Methodes in C#](methoden/naslag_methods.md)
 + [Training methode ElkaarAchterstevoren](methoden/methodW1W2.md)
 + [Training: Bloeddruk](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Bloeddruk%20meten.pdf)  
++ [Training: method marathon](methoden/methodmarathon)
 + [Training: Diverse opdrachten 1](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%201.pdf)  
 + [Training cijfers naar woorden](methoden/exerciseMethodCijfersNaarWoorden)
 + [Training: Diverse opdrachten 2](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%202.pdf)  
