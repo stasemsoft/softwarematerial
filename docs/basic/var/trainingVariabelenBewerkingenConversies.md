@@ -14,6 +14,8 @@ We gaan een werkende calculator maken. Het is een minimalistische calculator, ma
 
 Maak de user interface van de calculator waarbij je minimaal twee Textboxen, een Label en twee Buttons (een voor optellen en een voor vermenigvuldigen) hebt.
 
+![](figures/goeroecalc.png "goeroe-calc")
+
 De gebruiker kan gehele getallen (integers) invullen in de tekstboxen. Programmeer nu de functionaliteit van de calculator conform de volgende specificatie:
 
 + Als de gebruiker op de knop Plus klikt dan worden de twee ingevoerde getallen bij elkaar opgeteld en in een label getoond als uitkomst.
