@@ -40,6 +40,3 @@ Wil je graag lachende smiley’s in Feedpulse? Verzin dan uitbreidingen op de op
 + Breid de calculator uit met een functie voor worteltrekken.
 + Maak de tekst van het label rood (rode letters) als de uitkomst onder de nul is.
 + Breidt de calculator uit met een functie voor delen. Zorg ervoor dat delen door 0 netjes wordt afgevangen en laat een nette foutmelding zien.
-
-Versie-historie
-Mei 2015	-	Marcel Veldhuijzen
