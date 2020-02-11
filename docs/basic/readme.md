@@ -74,7 +74,7 @@ Als je een extra uitdaging wilt:
 Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bij elkaar komen.
 
 + [Training Rock Paper Scissors](integraal/rockpaperscissors)
-
++ [Training kaartspel](integraal/kaartspel)
 
 
 ## Diverse trainingsmogelijkheden, inspiratie, overige resources
