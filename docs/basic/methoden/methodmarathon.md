@@ -1,6 +1,6 @@
 # Training method marathon
 
-Maak een concole-app aan en hierin de volgende methods (die je ook aanroept):
+Maak een console-app aan en hierin de volgende methods (die je ook aanroept):
 
 (i) Maak een method *FullName* met de parameters *forename* en *surname* (voor- en achternaam, als je het liever in het NL doet).
 Aanroep *FullName("Ada", "Lovelace")* geeft terug: "Ada Lovelace", de naam van de eerste programmeur ooit.
