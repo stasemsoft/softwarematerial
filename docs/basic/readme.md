@@ -15,7 +15,7 @@
 + [Tutorial - De Debugger](https://stasemsoft.github.io/softwarematerial/docs/basic/debugger/Debugger.pdf)
 + [Reference: variable](var/naslag_Variable.md)
 + [Reference: operatoren](var/naslag_Operatoren.md)
-+ [Training: Euro Dollar converter](var/Euro-Dollar-converter.pdf)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! 
++ [Training: Euro Dollar converter](var/Euro-Dollar-converter.pdf)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! (Variabelen, bewerkingen, typen, conversie)
 + [Training: Calculator](var/VariabelenBewerkingenConversies.pdf)
 + [Training: Diversen](var/Extra-opgaven-variabelen.pdf)
 
