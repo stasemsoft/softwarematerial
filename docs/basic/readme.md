@@ -69,6 +69,13 @@ Als je een extra uitdaging wilt:
 ## Demo-filmpjes
 [van Jan](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/index.html)
 
+## Integrale opdrachten
+
+Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bij elkaar komen.
+
++ [Training Rock Paper Scissors](integraal/rockpaperscissors)
+
+
 
 ## Diverse trainingsmogelijkheden, inspiratie, overige resources
 
