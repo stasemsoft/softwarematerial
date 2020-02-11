@@ -3,9 +3,9 @@
 
 ## Algemene info
 
-+ [howto: Visual Studio installatie](../process/infoVisualStudioInstallatie)
-+ [howto: Over het inleveren van programma's in Canvas](../process/infoInleverenProgrammas)
-+ [reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys)
++ [How-to: Visual Studio installatie](../process/infoVisualStudioInstallatie)
++ [How-to: Over het inleveren van programma's in Canvas](../process/infoInleverenProgrammas)
++ [Reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys)
 + [Wat kan ik als ik de module 'basis' voldoende doorlopen heb?](resultaatformulier)
 
 
@@ -90,10 +90,10 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 + [TED talk 8 secrets of success](https://www.ted.com/talks/richard_st_john_s_8_secrets_of_success?language=nl)  
 + [C# Begrippen 'flash cards'](https://quizlet.com/18210232/c-sharp-terminology-flash-cards/) bijv. Method, Property, Class, ...
 + [C# 101](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN) van [dotnet.microsoft.com/learn/videos](https://dotnet.microsoft.com/learn/videos)
-+ [reference: Head First C#](https://www.oreilly.com/library/view/head-first-c/9781449358846/) - Basis=Hoofdstuk 1 tm 4
-+ [reference: C# .NET Documentation](https://docs.microsoft.com/en-us/dotnet/#pivot=docs&panel=getstarted)  
-+ [reference: C# .NET Coding Standard/Conventions](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)  
-+ [reference: C# Basics ](https://www.youtube.com/playlist?list=PLYMOUCVo86jGzNXPgyKB-B1IvE1LoXKi6) - video 1 t/m 39  
++ [Reference: Head First C#](https://www.oreilly.com/library/view/head-first-c/9781449358846/) - Basis=Hoofdstuk 1 tm 4
++ [Reference: C# .NET Documentation](https://docs.microsoft.com/en-us/dotnet/#pivot=docs&panel=getstarted)  
++ [Reference: C# .NET Coding Standard/Conventions](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)  
++ [Reference: C# Basics ](https://www.youtube.com/playlist?list=PLYMOUCVo86jGzNXPgyKB-B1IvE1LoXKi6) - video 1 t/m 39  
 + [Tutorials Point](https://www.tutorialspoint.com/csharp/) - Basis=C# Basic Tutorial tm onderwerp Enums  
 + [Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51) - Basis=module 1 tm 8, Verdieping=module 9+  
 + [Solo Learn](https://www.sololearn.com/Course/CSharp) - Basis=module 1 tm 3, Verdieping=module 4+  
