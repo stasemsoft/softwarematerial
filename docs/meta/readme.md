@@ -10,9 +10,9 @@ Het idee is dat het materiaal steeds meer gestructureerd wordt op ideeën van Da
 Gebaseerd op de youtube-video [What nobody tells you about documentation (Daniele Procida)](https://www.youtube.com/watch?v=t4vKPhjcMZg). Zie ook [de divio-site over documentation](https://www.divio.com/blog/documentation/). Daniele stelt de volgende typen voor:
 + `Tutorial`: practical steps, learning oriented. Show how to get started. Minimum necessary explanation. Immediate sense of achievement.
 + `How-to guide`: practical steps, problem oriented.
++ `Discussion`: theoretical, understanding oriented.
 + `Explanation`: theoretical, understanding oriented.
 + `Reference`: theoretical, information oriented. Accurate and complete.
-
 + `Training` (voorheen exercises): 'vingeroefeningen', horen bij een stukje theorie om te oefenen, maar zijn als bewijsmateriaal om je docent te overtuigen niet te gebruiken.
 + `Wedstrijd`: Om je docent te overtuigen dat je het niet alleen snapt maar ook doet ga je zelf opdrachten verzinnen, variëren en uitbreiden op bestaande opdrachten!
 

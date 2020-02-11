@@ -3,17 +3,17 @@
 
 ## Algemene info
 
-+ [howto: Visual Studio installatie](../process/infoVisualStudioInstallatie)
-+ [howto: Over het inleveren van programma's in Canvas](../process/infoInleverenProgrammas)
-+ [reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys)
++ [How-to: Visual Studio installatie](../process/infoVisualStudioInstallatie)
++ [How-to: Over het inleveren van programma's in Canvas](../process/infoInleverenProgrammas)
++ [Reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys)
 + [Wat kan ik als ik de module 'basis' voldoende doorlopen heb?](resultaatformulier)
 
 
 ### Variabelen, assignment, typen, debugger
 
 + [Presentatie: Variabelen, bewerkingen en conversies](var/Variabelen-bewerkingen-conversies.pptx)
-+ [Tutorial - De Debugger](https://stasemsoft.github.io/softwarematerial/docs/basic/debugger/Debugger.pdf)
-+ [Training goeroe-calc: variabele, bewerkingen, conversies](var/trainingVariabelenBewerkingenConversies)
++ [Tutorial: De Debugger](https://stasemsoft.github.io/softwarematerial/docs/basic/debugger/Debugger.pdf)
++ [Training: Goeroe-calc: variabele, bewerkingen, conversies](var/trainingVariabelenBewerkingenConversies)
 + [Reference: variable](var/naslag_Variable.md)
 + [Reference: operatoren](var/naslag_Operatoren.md)
 + [Training: Euro Dollar converter](var/Euro-Dollar-converter.pdf)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! (Variabelen, bewerkingen, typen, conversie)
@@ -47,11 +47,11 @@ Als je een extra uitdaging wilt:
 
 ### Method: zelf maken en aanroepen
 + [Reference: Methodes in C#](methoden/naslag_methods.md)
-+ [Training methode ElkaarAchterstevoren](methoden/methodW1W2.md)
++ [Training: methode ElkaarAchterstevoren](methoden/methodW1W2.md)
 + [Training: Bloeddruk](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Bloeddruk%20meten.pdf)  
 + [Training: method marathon](methoden/methodmarathon)
 + [Training: Diverse opdrachten 1](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%201.pdf)  
-+ [Training cijfers naar woorden](methoden/exerciseMethodCijfersNaarWoorden)
++ [Training: cijfers naar woorden](methoden/exerciseMethodCijfersNaarWoorden)
 + [Training: Diverse opdrachten 2](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%202.pdf)  
 + [Training: Oefenopdracht](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Toetsopdracht.pdf)
 
@@ -64,7 +64,7 @@ Als je een extra uitdaging wilt:
 + [Training: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12Lists.pdf)
 + [Presentatie: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_ListMethodes.pptx)
 + [Training: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12_ListMethodes.pdf)
-+ [Training met method, list en array](methoden/exerciseMethodListArray)
++ [Training: method, list en array](methoden/exerciseMethodListArray)
 
 ## Demo-filmpjes
 [van Jan](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/index.html)
@@ -73,8 +73,8 @@ Als je een extra uitdaging wilt:
 
 Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bij elkaar komen.
 
-+ [Training Rock Paper Scissors](integraal/rockpaperscissors)
-+ [Training kaartspel](integraal/kaartspel)
++ [Training: Rock Paper Scissors](integraal/rockpaperscissors)
++ [Training: kaartspel](integraal/kaartspel)
 
 
 ## Diverse trainingsmogelijkheden, inspiratie, overige resources
@@ -90,10 +90,10 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 + [TED talk 8 secrets of success](https://www.ted.com/talks/richard_st_john_s_8_secrets_of_success?language=nl)  
 + [C# Begrippen 'flash cards'](https://quizlet.com/18210232/c-sharp-terminology-flash-cards/) bijv. Method, Property, Class, ...
 + [C# 101](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN) van [dotnet.microsoft.com/learn/videos](https://dotnet.microsoft.com/learn/videos)
-+ [reference: Head First C#](https://www.oreilly.com/library/view/head-first-c/9781449358846/) - Basis=Hoofdstuk 1 tm 4
-+ [reference: C# .NET Documentation](https://docs.microsoft.com/en-us/dotnet/#pivot=docs&panel=getstarted)  
-+ [reference: C# .NET Coding Standard/Conventions](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)  
-+ [reference: C# Basics ](https://www.youtube.com/playlist?list=PLYMOUCVo86jGzNXPgyKB-B1IvE1LoXKi6) - video 1 t/m 39  
++ [Reference: Head First C#](https://www.oreilly.com/library/view/head-first-c/9781449358846/) - Basis=Hoofdstuk 1 tm 4
++ [Reference: C# .NET Documentation](https://docs.microsoft.com/en-us/dotnet/#pivot=docs&panel=getstarted)  
++ [Reference: C# .NET Coding Standard/Conventions](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)  
++ [Reference: C# Basics ](https://www.youtube.com/playlist?list=PLYMOUCVo86jGzNXPgyKB-B1IvE1LoXKi6) - video 1 t/m 39  
 + [Tutorials Point](https://www.tutorialspoint.com/csharp/) - Basis=C# Basic Tutorial tm onderwerp Enums  
 + [Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51) - Basis=module 1 tm 8, Verdieping=module 9+  
 + [Solo Learn](https://www.sololearn.com/Course/CSharp) - Basis=module 1 tm 3, Verdieping=module 4+  
