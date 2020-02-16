@@ -11,7 +11,6 @@ of in een
 + `Tutorial`: practical steps, learning oriented.
 + `How-to guide`: practical steps, problem oriented.
 + `Discussion`: theoretical, understanding oriented.
-+ `Explanation`: theoretical, understanding oriented.
 + `Reference`: theoretical, information oriented. Accurate and complete.
 + `Training` (voorheen exercises): 'vingeroefeningen', horen bij een stukje theorie om te oefenen, maar zijn als bewijsmateriaal om je docent te overtuigen niet te gebruiken.
 + `Wedstrijd`: Om je docent te overtuigen dat je het niet alleen snapt maar ook doet ga je zelf opdrachten verzinnen, variëren en uitbreiden op bestaande opdrachten!
