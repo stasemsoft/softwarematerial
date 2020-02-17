@@ -15,20 +15,27 @@ Je vraagt feedback van een docent met software engineeringskennis en laat zien d
 Concepten/Onderwerpen:
 (GEEN AFVINK-LIJST!)
 
-+ C1. objects / classes
-+ C2. constructors
-+ C3. encapsulation:
- + private fields
- + get/set- method en/of property
-+ C4. method/constructor overloading
-+ C5. CRC / class diagram
-+ C6. relations (tussen classes)
- + Multiplicity.
-+ C7. Method
-+ C8. Scheiding GUI en Domain
+1. objects / classes
+1. constructors
+1. encapsulation:
+    + private fields
+    + get/set- method en/of property
+1. method/constructor overloading
+1. *override ToString()*.
+1. CRC / class diagram
+1. Methods met (eigen) Classes als parameter of return value.
+1. Classes in samenhang: *relations* (tussen classes)
+    + Multiplicity.
+1. Scheiding GUI en Domain.
 
 Ook heb je de volgende vaardigheden laten zien en/of er aan gewerkt:
+
 + V1. Leesbaarheid / Onderhoudbaarheid
+    + Coding Guidelines gevolgd?
+    + commentaar in code.  
+    Soms handig, maar ga geen onnodig commentaar toevoegen!
+    Als een variable-, method- of class-name uitlegt nodig heeft,
+    probeer dan eerst of je een betere naam kunt verzinnen.  
 + V2. Algoritmiek
 + V3. Feedback gevraagd van docent, genoteerd, verwerkt.
 + V4. Professioneel gecommuniceerd. Met name ben ik op tijd, meld ik me af bij docent als ik er een keer niet of te laat ben.  
@@ -39,4 +46,4 @@ Een "soort" checklist (niet-compleet) die kan helpen:
 + In de 'wedstrijd' laat je zien wat je kunt. In een wedstrijd-app, een voor de 'wedstrijd' gemaakte app(licatie), laat je zien dat je weet hoe meerdere concepten binnen een onderhoudbare app worden gebruikt. De onderstaande regels gaan over je wedstrijd-apps!
 + Om jezelf en een docent te overtuigen dat je classes kunt maken heb je minstens 10 classes gemaakt, waarvan minstens 5 binnen 1 wedstrijd-app.
 + Deze classes hebben methods, fields, properties, constructors
-+ In minstens 5 classes heb je een zinvolle 'override ToString()' toegevoegd. 
++ In minstens 5 classes heb je een zinvolle 'override ToString()' toegevoegd.
