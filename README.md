@@ -17,6 +17,8 @@ of in een
 
 Zie [meer uitleg](https://stasemsoft.github.io/softwarematerial/docs/meta) over de uitgangspunten.
 
+---
+
 Als je vragen hebt: kijk eerst eens in de [Frequently Asked Questions](https://stasemsoft.github.io/softwarematerial/docs/FAQ)
  of anderen dezelfde vraag ook al hadden.
 
