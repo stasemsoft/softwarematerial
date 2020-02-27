@@ -9,3 +9,5 @@ Bouw je eigen 'vangnet' aan geprogrammeerde tests op die je programma keer op ke
 [Kent Beck on unit testing](https://www.youtube.com/watch?v=1zaCvLVU70o)
 
 [Martin Fowler on unit tests](https://www.martinfowler.com/bliki/UnitTest.html)
+
+[Collega Wilrik hands on in VS2019](https://www.youtube.com/watch?v=t0tPy4EzLzw&feature=youtu.be)
