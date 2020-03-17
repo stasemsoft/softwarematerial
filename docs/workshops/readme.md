@@ -27,7 +27,7 @@ Een mogelijk weekschema voor FHICT.
 + Files lezen/schrijven
 + Database select/insert/update  (Jeroen maakt deze)
 + API maken/aanroepen (van Joris)
-+ [Web API maken](workshops/WenApi01_CS/MaakJeEigenApi)
++ [Web API maken](workshops/WenApi01_CS/MaakJeEigenApi.pdf)
 + demo: voorproefje S2: interfaces & inheritance
         (als ze vlak voor de deadlin zitten is hier wellicht geen interesse voor...)
         voor de definitieve profielkeuze
@@ -47,4 +47,4 @@ Een mogelijk weekschema voor FHICT.
 ## Meer inspiratie...
 Een lange lijst, hopelijk... maar er staan ook losse ideeën en onaffe workshops in. Doe er uw voordeel mee!
 
-+ [Web API maken](workshops/WenApi01_CS/MaakJeEigenApi)
++ [Web API maken](workshops/WenApi01_CS/MaakJeEigenApi.pdf)
