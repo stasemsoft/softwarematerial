@@ -1,4 +1,4 @@
-!How to solve a programmer/programming problem
+# How to solve a programmer/programming problem
 
 
 ![fig:UPEAVL](figures/UPEAVL.png "Programmer Search Scheme")
