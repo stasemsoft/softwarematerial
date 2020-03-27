@@ -46,18 +46,24 @@ Leer:
 - Stel ik kom nog een keer een vergelijkbaar probleem tegen, kan ik dan sneller tot een oplossing komen?
 - Moet ik iets ervan vastleggen? Zoja, waar?
 
-Op
-[https://i889241.iris.fhict.nl/search/ProgrammerSearchScheme.pdf](https://i889241.iris.fhict.nl/search/ProgrammerSearchScheme.pdf)
-is een wat uitgebreider document te vinden met voorbeeld.
+
 Het idee komt in essentie van *How to solve it?* van de didacticus *Polya*.
 Het is begonnen als zogenaamd 100-uren-onderzoek van Coen bij FHICT.
 Veel collega's hebben feedback gegeven om te ont-wikkelen en beter te maken.
 Hierbij werden ook een aantal alternatieven genoemd, zoals
+
 #### bronnen
-[http://www.rba.co.uk/wordpress/2016/09/19/essential-non-google-search-tools-for-researchers-top-tips/](http://www.rba.co.uk/wordpress/2016/09/19/essential-non-google-search-tools-for-researchers-top-tips/)
-[https://decorrespondent.nl/5972/juist-nu-je-alles-kunt-googelen-moet-onderwijs-over-kennis-gaan/759327061724-15e0e58d](https://decorrespondent.nl/5972/juist-nu-je-alles-kunt-googelen-moet-onderwijs-over-kennis-gaan/759327061724-15e0e58d)
-[https://en.wikipedia.org/wiki/Comparison_of_web_search_engines](https://en.wikipedia.org/wiki/Comparison_of_web_search_engines)
-[https://www.ghacks.net/2016/09/09/duckduckgo-programmers-search-engine/](https://www.ghacks.net/2016/09/09/duckduckgo-programmers-search-engine/)
-[http://html.com/blog/specialty-search-engines/](http://html.com/blog/specialty-search-engines/)
-[http://www.academia.edu/34290333/Kritisch_zoeken_denken_en_evalueren_informatievaardigheden_als_21st_century_skill](http://www.academia.edu/34290333/Kritisch_zoeken_denken_en_evalueren_informatievaardigheden_als_21st_century_skill)
-[http://bit.ly/MixedExtras](http://bit.ly/MixedExtras)
+
++ [http://www.rba.co.uk/wordpress/2016/09/19/essential-non-google-search-tools-for-researchers-top-tips/](http://www.rba.co.uk/wordpress/2016/09/19/essential-non-google-search-tools-for-researchers-top-tips/)
+
++ [https://decorrespondent.nl/5972/juist-nu-je-alles-kunt-googelen-moet-onderwijs-over-kennis-gaan/759327061724-15e0e58d](https://decorrespondent.nl/5972/juist-nu-je-alles-kunt-googelen-moet-onderwijs-over-kennis-gaan/759327061724-15e0e58d)
+
++ [https://en.wikipedia.org/wiki/Comparison_of_web_search_engines](https://en.wikipedia.org/wiki/Comparison_of_web_search_engines)
+
++ [https://www.ghacks.net/2016/09/09/duckduckgo-programmers-search-engine/](https://www.ghacks.net/2016/09/09/duckduckgo-programmers-search-engine/)
+
++ [http://html.com/blog/specialty-search-engines/](http://html.com/blog/specialty-search-engines/)
+
++ [http://www.academia.edu/34290333/Kritisch_zoeken_denken_en_evalueren_informatievaardigheden_als_21st_century_skill](http://www.academia.edu/34290333/Kritisch_zoeken_denken_en_evalueren_informatievaardigheden_als_21st_century_skill)
+
++ [http://bit.ly/MixedExtras](http://bit.ly/MixedExtras)
