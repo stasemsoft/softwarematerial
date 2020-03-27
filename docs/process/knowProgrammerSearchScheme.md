@@ -8,14 +8,14 @@ Vanwege het hoge ezelsbrug-gehalte is ervoor gekozen
 de termen en de afkorting (UPEAVL) in het Engels te houden.
 Hieronder een bespreking *per stap*.
 
-### Understand
+## Understand
 To solve a problem you must first Understand what the problem is!
 - What is my starting point? An error? An exception? A bug? A feature on a wishlist?
 - Snap ik het probleem waarvoor ik een oplossing zoek?
 - Ken ik alle relevante begrippen?
 
 
-### (Create) Plan
+## (Create) Plan
 Maak een plannetje:
 - Waar ga ik naar zoeken?
 - Hoe?
@@ -23,18 +23,18 @@ Maak een plannetje:
 - Welke zoekmachine?
 
 
-### Execute Plan
+## Execute Plan
 Voer plan uit:
 - Gebruik de zoekmachine volgens plan.
 - Selecteer en lees.
 
 
-### Adjust
+## Adjust
 - Vernoem je bronnen.
 - Pas aan zodat je het resultaat snapt.
 
 
-### Validate Result
+## Validate Result
 Controleer het resultaat:
 - Heb ik gevonden wat ik zocht?
 - Is het probleem hiermee opgelost?
@@ -42,7 +42,7 @@ Controleer het resultaat:
 
 
 
-### Learn/Look back
+## Learn/Look back
 Leer:
 - Wat heb ik geleerd?
 - Nu je een antwoord kent: had je dit sneller, makkelijker, eleganter kunnen vinden? Heb je op het goeie gezocht?
