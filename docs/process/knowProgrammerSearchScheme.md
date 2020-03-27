@@ -2,11 +2,8 @@
 
 
 ![fig:UPEAVL](figures/UPEAVL.png "Programmer Search Scheme")
-Zie
-[figuur Programmer Search Scheme]().
-Vanwege het hoge ezelsbrug-gehalte is ervoor gekozen
-de termen en de afkorting (UPEAVL) in het Engels te houden.
-Hieronder een bespreking *per stap*.
+
+# Een bespreking *per stap*:
 
 ## Understand
 To solve a problem you must first Understand what the problem is!
