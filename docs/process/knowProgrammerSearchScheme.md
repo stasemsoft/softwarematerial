@@ -1,7 +1,10 @@
+!How to solve a programmer/programming problem
+
+
 ![fig:UPEAVL](figures/UPEAVL.png "Programmer Search Scheme")
 Zie
 [figuur Programmer Search Scheme]().
-Vanwege het hoge little-donkey-bridge-gehalte is ervoor gekozen
+Vanwege het hoge ezelsbrug-gehalte is ervoor gekozen
 de termen en de afkorting (UPEAVL) in het Engels te houden.
 Hieronder een bespreking *per stap*.
 
