@@ -54,3 +54,12 @@ Verdieping, programmeren met objecten
 Dit betreft een aantal niet-programmeer aspecten die een beginnend software engineer moet kennen en kunnen.
 
 [Software Engineering](https://stasemsoft.github.io/softwarematerial/docs/software%20engineering/)
+
+
+---
+
+### Over motivatie en concentratie (oa. bij thuiswerken)
+
+Niet onbelangrijk tijdens een gemiddelde  corona-crisis...
+
+[Motivatie, Concentratie, thuiswerken](docs/process/motivatieconcentratie)

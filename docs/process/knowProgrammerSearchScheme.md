@@ -49,7 +49,7 @@ Leer:
 
 Het idee komt in essentie van *How to solve it?* van de didacticus *Polya*.
 Het is begonnen als zogenaamd 100-uren-onderzoek van Coen bij FHICT.
-Veel collega's hebben feedback gegeven om te ont-wikkelen en beter te maken.
+Veel collega's hebben feedback gegeven om te ontwikkelen en beter te maken.
 Hierbij werden ook een aantal alternatieven genoemd, zoals
 
 #### bronnen

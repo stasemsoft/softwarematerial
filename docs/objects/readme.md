@@ -125,7 +125,7 @@ Als je nog wat meer de diepte in wilt kun je hier kijken:
 
 + [Chapter Introduction to OOP (uit Dive into Design Patterns)](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Documentation/Dive%20into%20design%20patterns%20-%20chapter%20Introduction%20to%20OOP.pdf)  
 
-+ [info Hoe zoek ik?](https://stasemsoft.github.io/softwarematerial/docs/process/knowProgrammerSearchScheme)
++ [howto: Als ik vasthang? OVer oplossen problemen](https://stasemsoft.github.io/softwarematerial/docs/process/knowProgrammerSearchScheme)
 
 ## Wat kan ik als ik de module 'objects' voldoende doorlopen heb?
 
