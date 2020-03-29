@@ -2,6 +2,8 @@
 
 Tijdens de coronacrisis is het lastig je goed te concentreren terwijl je alles van thuis uit moet doen. Zo is deze pagina ontstaan, maar er staat ook info over concentreren in het algemeen.
 
+De kunst is om op een thuiswerkdag ‘ritme’ in je dag te brengen waarmee jij je motivatie kunt behouden. Dat houdt in op normale tijd opstaan en naar bed gaan, kleren aan, op 'normale' tijden eten. Ook lichaamsbeweging hoort erbij, en zorg ook dat je niet de hele dag op een stoel zit! Misschien heb je de mogelijkheid je werkplek zo in te richten dat je af en toe een tijdje kunt staan tijdens het werk. 
+
 
 ## Aannames
 
@@ -34,4 +36,5 @@ Vind je het moeilijk om  je draai te vinden in deze situatie of kun je je moeili
 
 ## Bronnen
 
-+ Een mail van het startsemester aan alle studenten, 27mrt2020 (terug te vinden in canvas als announcement)
++ Een mail van het startsemester FHICT aan alle studenten, 27mrt2020 (terug te vinden in canvas als announcement)
++

@@ -1,11 +1,11 @@
 # softwarematerial
 
-Dit is een verzameling (open) software-materiaal van het startsemester FHICT (Fontys Hogeschool voor ICT). Het is openbaar toegankelijk voor iedereen. FHICT verwijst naar dit materiaal vanuit een canvas-course, daar staat de FHICT-specifieke info, terwijl deze github-pages zoveel mogelijk op inhoud en FHICT-onafhankelijk zijn. 
+Dit is een verzameling (open) software-materiaal van het startsemester FHICT (Fontys Hogeschool voor ICT). Het is openbaar toegankelijk voor iedereen en vrij van copyright. FHICT verwijst naar dit materiaal vanuit een canvas-course, daar staat de FHICT-specifieke info, terwijl deze github-pages zoveel mogelijk op inhoud en FHICT-onafhankelijk zijn.
 
 Vind dit materiaal
 + [op Github pages](https://stasemsoft.github.io/softwarematerial/) (hier het meest leesbaar)
 of in een
-+ [Github-repository](https://github.com/stasemsoft/softwarematerial)
++ [Github-repository](https://github.com/stasemsoft/softwarematerial) (pull requests met verbeteringen welkom)
 
 ---
 
