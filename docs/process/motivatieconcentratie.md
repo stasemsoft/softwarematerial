@@ -2,7 +2,7 @@
 
 Tijdens de coronacrisis is het lastig je goed te concentreren terwijl je alles van thuis uit moet doen. Zo is deze pagina ontstaan, maar er staat ook info over concentreren in het algemeen.
 
-De kunst is om op een thuiswerkdag ‘ritme’ in je dag te brengen waarmee jij je motivatie kunt behouden. Dat houdt in op normale tijd opstaan en naar bed gaan, kleren aan, op 'normale' tijden eten. Ook lichaamsbeweging hoort erbij, en zorg ook dat je niet de hele dag op een stoel zit! Misschien heb je de mogelijkheid je werkplek zo in te richten dat je af en toe een tijdje kunt staan tijdens het werk. 
+De kunst is om op een thuiswerkdag ‘ritme’ in je dag te brengen waarmee jij je motivatie kunt behouden. Dat houdt in op normale tijd opstaan en naar bed gaan, kleren aan, op 'normale' tijden eten. Ook lichaamsbeweging hoort erbij, en zorg ook dat je niet de hele dag op een stoel zit! Misschien heb je de mogelijkheid je werkplek zo in te richten dat je af en toe een tijdje kunt staan tijdens het werk.
 
 
 ## Aannames
@@ -33,6 +33,9 @@ De kunst is om op een thuiswerkdag ‘ritme’ in je dag te brengen waarmee jij 
 ## Omgaan met elkaar in deze situatie
 
 Vind je het moeilijk om  je draai te vinden in deze situatie of kun je je moeilijk focussen op je studie? Neem dan contact op met je semestercoach. Hij heeft een luisterend oor voor jouw situatie.
+
+Of zoek contact via het social medium:
+[Stay connected](https://fontys.edu/Student-guide-Fontys-helps/Stay-connected.htm)
 
 ## Bronnen
 
