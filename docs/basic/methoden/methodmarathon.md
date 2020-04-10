@@ -45,6 +45,15 @@ Voorbeeld: UmEnUmVoorAchter("Edsger Dijkstra") geeft: "DEidjskgsetrra"
 
 (xii) Maak een method *MeanLength* die een string binnenkrijgt met een tekst (bijvoorbeeld een van de quotes op deze pagina). De method returnt een double: het gemiddelde aantal letters per woord.  
 
+(xiii) Maak een method *IsSchrikkel* die gegeven een int parameter `jaartal` een bool teruggeeft: `true` als het een schrikkeljaar is, `false` anders. Programmeer de berekening zelf.
+Wanneer is een jaar een schrikkeljaar? Als het deelbaar is door 4 (2020 is een schrikkeljaar), maar niet wanneer het deelbaar is door 100 (2100 is geen schrikkeljaar), behalve een keer in de 400 jaar (2000 was wél een schrikkeljaar).
+Voor de liefhebber: er is al heel wat geschreven over kalenderberekeningen, zie bijvoorbeeld
+[The Calender FAQ](https://www.tondering.dk/claus/calendar.html)
+
+(xiv) Maak een method *aantalDagenInFebruari* die gegeven een jaartal (int) het aantal dagen in februari in dat jaar.
+
+(xv) Maak een method *aantalDagenInJaar* die gegeven een jaartal (int) het aantal dagen in dat jaar teruggeeft.
+
 
 # Eerste Hulp Bij Vasthangen
 
