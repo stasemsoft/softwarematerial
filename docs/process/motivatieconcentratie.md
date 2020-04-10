@@ -34,7 +34,7 @@ De kunst is om op een thuiswerkdag ‘ritme’ in je dag te brengen waarmee jij 
 
 Vind je het moeilijk om  je draai te vinden in deze situatie of kun je je moeilijk focussen op je studie? Neem dan contact op met je semestercoach. Hij heeft een luisterend oor voor jouw situatie.
 
-Of zoek contact via het social medium:
+Of zoek contact via het social medium 
 [Stay connected](https://fontys.edu/Student-guide-Fontys-helps/Stay-connected.htm)
 
 ## Bronnen
