@@ -22,7 +22,7 @@ De method returnt de voornaam.
 
 (vi) Idem *AchternaamVan*.
 
-`Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves. (Alan Kay)`
+`Quote: Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves. (Alan Kay)`
 
 (vii) Maak een method *VoornaamAchterstevoren* die van de parameter fullName de voornaam pakt en de letters achterstevoren achter elkaar plakt in een String: dit is de returnwaarde van deze methode.
 
