@@ -47,6 +47,6 @@ Voorbeeld: UmEnUmVoorAchter("Edsger Dijkstra") geeft: "DEidjskgsetrra"
 
 
 # Eerste Hulp Bij Vasthangen
-(maar probeer het eerst zelf!)
 
-+ [string methods](../basic/#string-methoden-aanroepen)
+Hoe pulk je letters uit een string? Hoe tel je het aantal letters in een string?  
++ [string methods](../#string-methoden-aanroepen)
