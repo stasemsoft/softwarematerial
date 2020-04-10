@@ -53,8 +53,6 @@ Als je een extra uitdaging wilt:
 + [Training: method Ampère](methoden/trainingMethodAmpere)
 + [Training: methods De Drie Vierkanten](methoden/trainingMethodDrieVierkanten)
 + [Training: method MaalDrie](methoden/trainigMethodMaaldrie)
-
-+ [Training: Diverse opdrachten 1](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%201.pdf)  
 + [Training: cijfers naar woorden](methoden/exerciseMethodCijfersNaarWoorden)
 + [Training: Diverse opdrachten 2](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%202.pdf)  
 + [Training: Oefenopdracht](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Toetsopdracht.pdf)
