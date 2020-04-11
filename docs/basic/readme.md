@@ -3,13 +3,17 @@
 
 ## Algemene info
 
+Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het later terug kunt zoeken!
+
 + [How-to: Visual Studio installatie](../process/infoVisualStudioInstallatie)
 + [How-to: Over het inleveren van programma's in Canvas](../process/infoInleverenProgrammas)
 + [Reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys)
 + [Wat kan ik als ik de module 'basis' voldoende doorlopen heb?](resultaatformulier)
 
 
-### Variabelen, assignment, typen, debugger
+## Variabelen, assignment, typen, debugger
+
+De eerste stapjes op programmeergebied.
 
 + [Presentatie: Variabelen, bewerkingen en conversies](var/Variabelen-bewerkingen-conversies.pptx)
 + [Tutorial: De Debugger](https://stasemsoft.github.io/softwarematerial/docs/basic/debugger/Debugger.pdf)
@@ -19,7 +23,7 @@
 + [Training: Euro Dollar converter](var/Euro-Dollar-converter.pdf)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! (Variabelen, bewerkingen, typen, conversie)
 + [Training: Diversen](var/Extra-opgaven-variabelen.pdf)
 
-### Conditioneel
+## Conditioneel
 
 + [Presentatie: Keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Keuzestructuren.pptx)
 + [Reference: Keuzestructuren in C#](conditioneel/naslag_Keuzestructuren.md)
@@ -28,12 +32,12 @@
 + [Training: Pincode-reminder](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Pincode-reminder.pdf)
 + [Training: Extra opgaven keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Extra-opgaven-keuzestructuren.pdf)
 
-### String Methoden: aanroepen
+## String Methoden: aanroepen
 
 + [Reference: string methoden](string_methoden/naslag_StringMethods.md)
 + [Training: String methods](string_methoden/Stringmethoden.pdf)
 
-### Lus / loop
+## Lus / loop
 
 + [Reference: while](lussen/naslag_While)
 + [Reference: for](lussen/naslag_For)
@@ -45,7 +49,7 @@
 Als je een extra uitdaging wilt:
 + [Training: Emmer vol laten lopen](https://git.fhict.nl/I872272/ProgrammingChallenges/tree/master/Challenges/Emmer%20vol%20laten%20lopen)
 
-### Method: zelf maken en aanroepen
+## Method: zelf maken en aanroepen
 + [Reference: Methodes in C#](methoden/naslag_methods.md)
 + [Training: methode ElkaarAchterstevoren](methoden/methodW1W2.md)
 + [Training: Bloeddruk](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Bloeddruk%20meten.pdf)  
@@ -57,7 +61,7 @@ Als je een extra uitdaging wilt:
 + [Training: Diverse opdrachten 2](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Opdracht%20methodes%202.pdf)  
 + [Training: Oefenopdracht](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Toetsopdracht.pdf)
 
-### Collectie (List, Array)
+## Collectie (List, Array)
 
 + [Reference: Dictaat Collecties](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_DictaatCollecties.pdf)
 + [Presentatie: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_Arrays.pptx)
@@ -67,6 +71,13 @@ Als je een extra uitdaging wilt:
 + [Presentatie: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_ListMethodes.pptx)
 + [Training: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12_ListMethodes.pdf)
 + [Training: method, list en array](methoden/exerciseMethodListArray)
+
+## How To ...  (veel voorkomende vragen)
+
+Hoe kan ik in een WinForm-app met meerdere Forms vanuit het ene Form het andere openen?
+Het antwoord op deze en nog veel meer vragen:
+[How to...](howto)
+
 
 ## Demo-filmpjes
 [van Jan](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/index.html)
