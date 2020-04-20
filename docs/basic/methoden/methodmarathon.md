@@ -10,7 +10,9 @@ Aanroep *FullName("Ada", "Lovelace")* geeft terug: "Ada Lovelace", de naam van d
 
 (ii) Maak een method genaamd *Times* met dezelfde parameters als de vorige. De returnwaarde is een *int* die het aantal letters in voornaam maal het aantal letters van de achternaam bevat.
 
-(iii) Maak een method genaamd *InCommon* met dezelfde parameters als de vorige, die precies de letters teruggeeft die in voor- én achternaam voorkomen (als String of als List).
+(iiia) Maak een method genaamd *IsIn* met een string-parameter `character` en een string-parameter 'word'. De method geeft een boolean terug: true als het 'character' in 'word' voorkomt, anders false. Als je hier niet zelf uit komt kijk dan eens beneden aan deze pagina naar 'Eerste Hulp Bij Vasthangen'.
+
+(iib) Maak weer een method genaamd *InCommon* met de string-parameters forename en surname, die precies de letters teruggeeft die in voor- én achternaam voorkomen (als String of als List).
 
 `Quote: Always remember, however, that there’s usually a simpler and better way to do something than the first way that pops into your head."  (Donald Knuth)`
 
@@ -57,5 +59,5 @@ Voor de liefhebber: er is al heel wat geschreven over kalenderberekeningen, zie 
 
 # Eerste Hulp Bij Vasthangen
 
-Hoe pulk je letters uit een string? Hoe tel je het aantal letters in een string?  
+Hoe pulk je letters uit een string? Hoe tel je het aantal letters in een string? Hoe kijk je of een string als deel van  een andere string voorkomt?
 + [string methods](../#string-methoden-aanroepen)
