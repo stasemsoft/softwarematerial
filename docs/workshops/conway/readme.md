@@ -5,12 +5,11 @@ Kijk ter introductie de uitleg wat the Game of Life is:
 
 Professor John Conway, de ontwikkelaar van de Game of Life, is in april 2020 gestorven aan Covid-19.
 
-![](figures/1g3_o_02.png "example")
+![](figures/1g3_o_02.gif "example")
 
-![](Galaxy(Conway's_Game_of_Life)
+![](figures/Galaxy_Conways_Game_of_Life.gif "galaxy")
 
-![](Conway_Game_of_Life_Trefoil_Knot)
-
+![](figures/Conway_Game_of_Life_Trefoil_Knot.gif "knot")
 
 
 
