@@ -14,6 +14,7 @@ begin bij CRC (Class Responsibility Collaboration).
 + [Theorie: Hoe programmeer je met Objecten?](theorie_Class.md)
 en ook:
 + [FUN12-dictaat classes](theorie_FUN12_DictaatKlassen.pdf)
++ [Voorbeeld pin-automaat](example_PinAutomaat)
 
 Let ook op de
 + [Coding Guidelines](../process/infoCodingGuidelines.md)

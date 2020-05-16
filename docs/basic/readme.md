@@ -49,8 +49,7 @@ De eerste stapjes op programmeergebied.
 Als je een extra uitdaging wilt:
 + [Training: Emmer vol laten lopen](https://git.fhict.nl/I872272/ProgrammingChallenges/tree/master/Challenges/Emmer%20vol%20laten%20lopen)
 
-## Method: zelf maken en aanroepen
-+ [Reference: Methodes in C#](methoden/naslag_methods.md)
+## Method: zelf maken en aanroepenyu+ [Reference: Methodes in C#](methoden/naslag_methods.md)
 + [Training: methode ElkaarAchterstevoren](methoden/methodW1W2.md)
 + [Training: Bloeddruk](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Bloeddruk%20meten.pdf)  
 + [Training: method marathon](methoden/methodmarathon)
