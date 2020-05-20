@@ -25,13 +25,14 @@ Aantal talen die interessant zijn om te bekijken omdat er een redelijk kans is d
 ## De opdracht
 
 Kies een taal uit die jou interessant lijkt en ga op internet zoeken hoe de OOP-concepten in die taal geïmplementeerd zijn.
-Is er een student of docent die een taal al kent?
+Is er een student of docent die een taal al kent? Misschien staat de docent te popelen om in haar/zijn favo taal een demo te geven?
 
 + Kun je alle concepten terugvinden? Zo nee, bestaan ze wel in die taal? Waarom niet? Hebben ze een andere oplossing?
 + Lijkt het op wat je gewend bent? Misschien lijkt het handiger? Elegante syntax? Of juist minder leesbaar?
 + Is de taal 'van huis uit' bedoeld voor OOP of lijkt het er later 'aan vastgeplakt' te zijn?
 + Neem een programma dat je eerder geprogrammeerd hebt en bedenk hoe anders het zou worden in deze taal. Leesbaarder? Korter?
 + Er komen vast nog andere vragen boven als je er  mee bezig bent.
++ Spreek ook af wat je op het einde wil opleveren: een (geschreven) document?, een video?, presentatie? 
 
 ## Bronnen
 
