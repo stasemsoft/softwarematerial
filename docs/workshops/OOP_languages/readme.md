@@ -20,7 +20,7 @@ Aantal talen die interessant zijn om te bekijken omdat er een redelijk kans is d
 + C++ : bedacht om OOP mogelijk te maken in (een uitbreiding op) C. C++ is net als C gericht op performance.
 + ... of ben je geïnteresseerd in een andere taal...
 
-![](figures/familytree "family tree")
+![](figures/familytree.png "family tree")
 
 ## De opdracht
 
