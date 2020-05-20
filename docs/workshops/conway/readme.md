@@ -59,18 +59,18 @@ Als dat gelukt is en je hebt de smaak te pakken kun je proberen een eigen variat
 
 ## Bronnen
 
-[conwaylife.com](https://conwaylife.com/)
++ [conwaylife.com](https://conwaylife.com/)
 
-[LifeWiki](https://conwaylife.com/wiki/Main_Page)
++ [LifeWiki](https://conwaylife.com/wiki/Main_Page)
 
-[Numberphile: Inventing the Game of Life](https://www.youtube.com/watch?v=ouipbDkwHWAf)
++ [Numberphile: Inventing the Game of Life](https://www.youtube.com/watch?v=ouipbDkwHWAf)
 
-[Princeton announces that Conway died](https://www.princeton.edu/news/2020/04/14/mathematician-john-horton-conway-magical-genius-known-inventing-game-life-dies-age)
++ [Princeton announces that Conway died](https://www.princeton.edu/news/2020/04/14/mathematician-john-horton-conway-magical-genius-known-inventing-game-life-dies-age)
 
-[Conway's lesser known results](https://mathoverflow.net/questions/357197/conways-lesser-known-results?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter&utm_content=4-22-20)
++ [Conway's lesser known results](https://mathoverflow.net/questions/357197/conways-lesser-known-results?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter&utm_content=4-22-20)
 
-[wiki:Conway](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
++ [wiki:Conway](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
-[Coding Challenge #85: The Game of Life](https://www.youtube.com/watch?v=ouipbDkwHWAf)
++ [Coding Challenge #85: The Game of Life](https://www.youtube.com/watch?v=ouipbDkwHWAf)
 
-[wikimedia](https://commons.wikimedia.org/wiki/Category:Animations_of_the_Game_of_Life)
++ [wikimedia](https://commons.wikimedia.org/wiki/Category:Animations_of_the_Game_of_Life)
