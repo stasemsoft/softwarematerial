@@ -1,19 +1,19 @@
 # Toolbox Basis (introductie in programmeren, zonder objecten)
 
-
 ## Algemene info
++ [Wat kan ik als ik de module 'basis' voldoende doorlopen heb?](resultaatformulier)
+
+
+## Algemene info Visual Studio en C#
 
 Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het later terug kunt zoeken!
 
 + [How-to: Visual Studio installatie](../process/infoVisualStudioInstallatie)
 + [How-to: Over het inleveren van programma's in Canvas](../process/infoInleverenProgrammas)
 + [Reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys)
-+ [Wat kan ik als ik de module 'basis' voldoende doorlopen heb?](resultaatformulier)
 
 
-## Variabelen, assignment, typen, debugger
-
-De eerste stapjes op programmeergebied.
+## Variabelen, assignment, typen, debugger: eerste stapjes in C#
 
 + [Presentatie: Variabelen, bewerkingen en conversies](var/Variabelen-bewerkingen-conversies.pptx)
 + [Tutorial: De Debugger](https://stasemsoft.github.io/softwarematerial/docs/basic/debugger/Debugger.pdf)
@@ -79,6 +79,7 @@ Het antwoord op deze en nog veel meer vragen:
 
 
 ## Demo-filmpjes
+
 [van Jan](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/index.html)
 
 ## Integrale opdrachten
@@ -91,7 +92,7 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 
 ## Diverse trainingsmogelijkheden, inspiratie, overige resources
 
-+ [mooie en laagdrempelig (microsoft)](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/?WT.mc_id=-blog-scottha)
++ [mooi en laagdrempelig (microsoft)](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/?WT.mc_id=-blog-scottha)
 + [Dictaat Basis programmeren](knowOis11dictaat).
 + [Code Wars](https://www.codewars.com/) - [Basis niveau](https://www.codewars.com/kata/search/csharp?q=&r%5B%5D=-8&tags=Fundamentals&beta=false)  
 + [Project Euler](https://projecteuler.net/) : een [overzicht van geschikte Basis en Verdiepings Challenges](https://stasemsoft.github.io/softwarematerial/docs/basic/OIS11%20en%20OIS12%20-%20Project%20Euler%20challenges.pdf)  
