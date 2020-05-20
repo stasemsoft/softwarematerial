@@ -32,3 +32,10 @@ Is er een student of docent die een taal al kent?
 + Is de taal 'van huis uit' bedoeld voor OOP of lijkt het er later 'aan vastgeplakt' te zijn?
 + Neem een programma dat je eerder geprogrammeerd hebt en bedenk hoe anders het zou worden in deze taal. Leesbaarder? Korter?
 + Er komen vast nog andere vragen boven als je er  mee bezig bent.
+
+## Bronnen
+
++ [https://en.wikipedia.org/wiki/Generational_list_of_programming_languages](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
++ [https://www.quora.com/Which-are-the-major-programming-language-families?share=1](https://www.quora.com/Which-are-the-major-programming-language-families?share=1)
++ [http://www.martinrinehart.com/pages/genealogy-programming-languages.html](http://www.martinrinehart.com/pages/genealogy-programming-languages.html)
++ [http://rigaux.org/language-study/diagram.html](http://rigaux.org/language-study/diagram.html)
