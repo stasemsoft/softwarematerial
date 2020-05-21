@@ -6,6 +6,7 @@ Een mogelijk weekschema voor FHICT.
 
 ### Week 12 (begin verdiepende periode)
 
++ [CRC workshop](../objects/crc/readme.md)
 + Overview inhoud van de verdieping
 + demo: introductie class / object / ctor
 
