@@ -31,22 +31,37 @@ Regels:
 
 
 Beginnend met de string:
+
 '000000010111111000000', krijgen we als volgende generatie:
+
 '000000001001101100000', daarna wordt het:
+
 '000000000110101010000', dan
+
 '000000001011111100000' en zo voort.
 
 Het ziet er wat leuker uit als je bijvoorbeeld met spatie en 'X' werkt:
+
 "       X XXXXXX      "
+
 "        X  XX XX     "
+
 "         XX X X X    "
+
 "        X XXXXXX     "
+
 "         X  XX XX    "
+
 "          XX X X X   "
+
 "         X XXXXXX    "
+
 "          X  XX XX   "
+
 "           XX X X X  "
+
 "          X XXXXXX   "
+
 Je ziet dat hier een opschuivend maar herhalend patroon in ontstaat.
 
 
