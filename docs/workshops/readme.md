@@ -20,7 +20,7 @@ Een mogelijk weekschema voor FHICT.
 
 + 'as' / (Casting?) / ('is'?)
 + multipliciteit: class diagram vs code
-+ [Compiler Error Quiz](errorquiz/read.md)
++ [Compiler Error Quiz](errorquiz/readme.md)
 + [Game of Life](conway/readme.md)
 
 ### Week 15
