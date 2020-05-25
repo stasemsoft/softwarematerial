@@ -21,10 +21,11 @@ Opties:
 + Kan 'zo snel mogelijk', of 'in een zo klein mogelijk programma'.
 + Dit kan in duo's.
 + Spreek af of de teams op internet mogen zoeken.
-+ Je mag geen voorbeelden letterlijk van internet af halen!
++ Je mag geen programmavoorbeelden letterlijk van internet af halen!
 + extra: maak een randomizer (virtuele danwel echte Hoge Hoed met papiertjes waarop de errors staan).
 + De teams kunnen elkaar ook errors voor elkaar verzinnen!
 + Kan ook met exceptions of warnings.
+
 
 Hier een mogelijke lijst met errors:
 + `;` expected
@@ -33,4 +34,4 @@ Hier een mogelijke lijst met errors:
 + Inconsistent accessibility: parameter type 'Hoed' is less accessible than method 'ZetOpJeHoofd'.
 + 'Hoed' does not contain a constructor that takes '2' arguments.
 + The name of type 'TYPE' is too long. (op de plek van TYPE moet je dus zelf een andere naam invullen).
-+
++ 'Groentetuin.LengteInMeter(Gereedschap) : not all code paths return a value. '
