@@ -1,6 +1,25 @@
-<a id="cha:knowProperty"></a>
+# Theorie Property
 
-Properties gebruik je om toegang te verlenen tot afgeschermde (private) fields.
+Een `property` verleent je toegang tot een *eigenschap* van een `object`.
+
+Je hebt properties vermoedelijk al eerder gebruikt, nu leer je hoe je ze ook zelf kan maken.
+
+## Gebruik van bestaande property
+
+Je hebt in Visual Studio waarschijnlijk al de `property editor` gezien, zeker als je een WinForm app gemaakt hebt. Je kunt hier allerlei *eigenschappen* (`properties`) van een *Form*, *Button*, *TextBox* en nog vele andere `Controls` bekijken en aanpassen.
+
+Als je vanuit code de *Text* van een *TextBox*  opvraagt (`get`) of een waarde geeft (`set`) gebruik je properties.
+
+```cs
+string input = TextBoxInput.Text;
+// dan een aantal berekeningen (weggelaten)
+result = ...
+// tot slot de uitkomst in een label terug:
+LabelOutput.Text = result;
+```
+
+## Eigen properties voor eigen objecten
+
 Stel, je hebt een Stopwatch klasse,
 dan zou deze een private field seconds kunnen hebben.
 Wil je dat dit field alleen gelezen kan worden door andere code,
