@@ -1,4 +1,4 @@
-<a id="cha:knowOverrideToString"></a>
+# override ToString()
 
 ```
 class Persoon {
@@ -26,11 +26,13 @@ class Persoon {
 ```
 
 
-Tip bij het programmeren: zet je eigen objecten in de user interface. Hiermee wordt bedoeld dat je objecten zelf in de UI zet, geen strings of andere variabelen. Bijvoorbeeld om een Persoon-object aan een listbox toe te voegen:```
+Tip bij het programmeren: zet je eigen objecten in de user interface. Hiermee wordt bedoeld dat je objecten zelf in de UI zet, geen strings of andere variabelen. Bijvoorbeeld om een Persoon-object aan een listbox toe te voegen:
+```
 listBox1.Items.Add(new Persoon("Sjakie"));
 ```
 
-Gebruik casting om het object uit een UI-control te halen:```
+Gebruik casting om het object uit een UI-control te halen:
+```
 Persoon p = (Persoon)listBox1.Items[2];
 ```
 

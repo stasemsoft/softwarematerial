@@ -70,7 +70,7 @@ en de training 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *e
 
 ### override ToString()
 
-+ [Theorie override ToString](theorie_OverrideToString.pdf)
++ [Theorie override ToString](theorie_OverrideToString)
 
 ### Private en public
 
