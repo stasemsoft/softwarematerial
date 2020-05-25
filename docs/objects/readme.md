@@ -44,7 +44,7 @@ Probeer nu de invuloefening Object Oriented te maken:
 
 ### property
 
-+ [Theorie Property](theorie_Property.pdf)
++ [Theorie Property](theorie_Property)
 
 Met properties oefenen kan prima met de challenge Bankrekening:
 
