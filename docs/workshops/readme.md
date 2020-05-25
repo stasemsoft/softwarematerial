@@ -12,7 +12,7 @@ Een mogelijk weekschema voor FHICT.
 
 ### Week 13
 
-+ demo: property & override ToString() (met herhaling class / object / ctor)
++ demo: property & override ToString() (met herhaling class / object / ctor), bijvoorbeeld [Crossing](Crossing)
 + Methods met (eigen) classes als parameter en returntype.
 + van class diagram naar code.
 
