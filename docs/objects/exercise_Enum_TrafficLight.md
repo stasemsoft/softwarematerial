@@ -51,7 +51,9 @@ public enum TrafficlightColors {
 - De `method` *NextState* geeft de kleur **na** het veranderen van de kleur terug: `public TrafficlightColors NextState() {...}`
 
 Een Console app heeft een *main*-method (`public static void Main(string [] args)`)
-waarin je code kunt zetten als:```
+waarin je code kunt zetten als:
+
+```
 TrafficLight trafficLight = new TrafficLight();
 // color has to be TrafficlightColors.Red.
 Console.WriteLine(trafficLight.GetCurrentcolor());
