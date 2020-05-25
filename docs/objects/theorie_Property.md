@@ -1,8 +1,6 @@
 # Theorie Property
 
-Een `property` verleent je toegang tot een *eigenschap* van een `object`.
-
-Je hebt properties vermoedelijk al eerder gebruikt, nu leer je hoe je ze ook zelf kan maken.
+Een `property` verleent je toegang tot een *eigenschap* van een `object`. Je hebt properties vermoedelijk al eerder gebruikt, nu leer je hoe je ze ook zelf kan maken.
 
 ## Gebruik van bestaande property
 
@@ -70,9 +68,11 @@ int tijd = sw.Seconds;                  // Uitlezen in seconden (300)
 
 
 
-#### Externe bronnen
+## Externe bronnen
 
 + [CSharp.Net tutorials](http://csharp.net-tutorials.com/classes/properties/)
+
++ [MS programming Guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/properties)
 
 + [CodeProject](https://www.codeproject.com/Articles/1006217/Diving-into-OOP-Day-Properties-in-Csharp-A-Practic)
 

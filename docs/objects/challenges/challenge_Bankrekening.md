@@ -27,7 +27,9 @@ Maak een nieuw Windows Forms project aan dat je bijvoorbeeld Bankzaken noemt. Ge
 ### STAP 2: DE GUI
 
 Sleep de benodigde componenten op het formulier. Het hoeft niet precies zoals in het voorbeeld staat, maar bedenk wel vooraf hoe je de vereiste functionaliteit koppelt aan de componenten. Geef de componenten een betekenisvolle naam bijvoorbeeld btnStortenLinks en txtEuroRechts.
- #### STAP 3: DE KLASSE BANKREKENING
+
+
+#### STAP 3: DE KLASSE BANKREKENING
 Voeg een nieuwe klasse toe en noem deze Bankrekening. Elke bankrekening heeft een rekeningnummer, staat op naam van een persoon en heeft een saldo. Zorg er voor dat de klasse Bankrekening-Fields heeft om de benodigde gegevens op te slaan en verder de volgende velden heeft:
 
 ```
