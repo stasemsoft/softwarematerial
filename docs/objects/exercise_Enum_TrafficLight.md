@@ -10,17 +10,20 @@ hierdoor kunnen allerlei bugs ontstaan:
 Neem bijvoorbeeld 2 TrafficLights, zeg *trafficLight1* en *trafficLight2*.
 Als de *color* van *trafficLight1* waarde *Oranje* heeft en
 de *color* van *trafficLight2* waarde *Orange* dan zal een vergelijking als
+
 ```
 if (trafficLight1.color == trafficLight2.color) {
   ...
 }
 ```
+
 *false* opleveren terwijl de programmeur *true* verwacht:
 een tikfout die grote gevolgen kan hebben voor het gedrag van de software.
 Om die bugs te voorkomen gaan we er ditmaal een Enum bij gebruiken:
 Door het gebruik van een *Enum* kan de compiler helpen fouten te
 ontdekken en voorkomen!
-Voor de *color* (toestand) van het TrafficLight maken we een `Enum` aan:```
+Voor de *color* (toestand) van het TrafficLight maken we een `Enum` aan:
+```
 public enum TrafficlightColors {
    Red,
    Orange,
