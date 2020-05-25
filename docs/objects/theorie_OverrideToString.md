@@ -34,5 +34,7 @@ Gebruik casting om het object uit een UI-control te halen:```
 Persoon p = (Persoon)listBox1.Items[2];
 ```
 
-Programmeer een `ToString()`-methode in al je `classes` om te zorgen dat je altijd een goede tekstu-ele representatie van je objecten hebt.
-[video 57 van kudvenkat over override ToString()](https://www.youtube.com/watch?v=MwPZLPNR3ns&t=0s&list=PLAC325451207E3105&index=57)
+Programmeer een `ToString()`-methode in al je `classes` om te zorgen dat je altijd een goede tekstuele representatie van je objecten hebt.
+
+
++ [video 57 van kudvenkat over override ToString()](https://www.youtube.com/watch?v=MwPZLPNR3ns&t=0s&list=PLAC325451207E3105&index=57)

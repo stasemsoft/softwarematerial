@@ -55,11 +55,11 @@ Met properties oefenen kan prima met de challenge Bankrekening:
 Zoals we gezien definiëren Classes een nieuw type.
 Een andere manier om een eigen type te definiëren is een 'enum'-type:
 
-+ [Theorie Enum](theorie_Enum.md)
++ [Theorie Enum](theorie_Enum)
 
 en de training 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *enum* zien:
 
-+ [Training met Enum: TrafficLight](exercise_Enum_TrafficLight.md)
++ [Training met Enum: TrafficLight](exercise_Enum_TrafficLight)
 
 
 
