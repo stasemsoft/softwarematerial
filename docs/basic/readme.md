@@ -49,7 +49,7 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 Als je een extra uitdaging wilt:
 + [Training: Emmer vol laten lopen](https://git.fhict.nl/I872272/ProgrammingChallenges/tree/master/Challenges/Emmer%20vol%20laten%20lopen)
 
-## Method: zelf maken en aanroepenyu
+## Method: zelf maken en aanroepen
 
 + [Reference: Methodes in C#](methoden/naslag_methods.md)
 + [Training: methode ElkaarAchterstevoren](methoden/methodW1W2.md)
