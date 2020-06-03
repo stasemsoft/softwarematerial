@@ -1,4 +1,4 @@
-# How To ...  (veel voorkomende vragen)
+# How To ...  (problem oriented)
 
 Hoe kan ik in een WinForm-app met meerdere Forms vanuit het ene Form het andere openen?
 Het antwoord op deze en nog veel meer vragen:
@@ -28,7 +28,7 @@ waarbij `MyMainForm` de naam is van je Form. Bij het opstarten van je app wordt 
 
 ### Informatie doorgeven tussen Forms
 
-In deze video wordt het uitgelegd: 
+In deze video wordt het uitgelegd:
 [Fox Learn](https://www.youtube.com/watch?v=dWHE7mx_U14)
 
 ## Bron
