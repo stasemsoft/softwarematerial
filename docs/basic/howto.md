@@ -26,6 +26,10 @@ waarbij `MyMainForm` de naam is van je Form. Bij het opstarten van je app wordt 
    otherForm.ShowDialog();
 ```
 
+### Informatie doorgeven tussen Forms
+
+In deze video wordt het uitgelegd: 
+[Fox Learn](https://www.youtube.com/watch?v=dWHE7mx_U14)
 
 ## Bron
 
