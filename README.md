@@ -20,8 +20,12 @@ of in een
 Zie [meer uitleg](https://stasemsoft.github.io/softwarematerial/docs/meta) over de uitgangspunten.
 
 ---
+### How-to
 
-Als je vragen hebt: kijk eerst eens in de [Frequently Asked Questions](https://stasemsoft.github.io/softwarematerial/docs/FAQ)
+Technisch-inhoudelijke vragen vind je in de How-to. Staat je antwoord er niet bij? Laat het horen! (ook als je het antwoord zelf al hebt gevonden. Vast dank!)
+[How-to](https://stasemsoft.github.io/softwarematerial/docs/basic/howto)
+
+Als je vragen hebt over de cursus bij FHICT: kijk eerst eens in de [Frequently Asked Questions](https://stasemsoft.github.io/softwarematerial/docs/FAQ)
  of anderen dezelfde vraag ook al hadden.
 
 
