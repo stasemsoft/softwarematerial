@@ -22,6 +22,8 @@ Een mogelijk weekschema voor FHICT.
 + multipliciteit: class diagram vs code
 + [Compiler Error Quiz](errorquiz/readme.md)
 + [Game of Life](conway/readme.md)
++ demo: een wat groter voorbeeld met class/object/ctor/propg etc... bijvoorbeeld [Virusinator](Virusinator)
++ [git-workshop](git)
 
 ### Week 15
 
@@ -31,16 +33,15 @@ Een mogelijk weekschema voor FHICT.
 + API maken/aanroepen (van Joris)
 + [Web API maken](webApi01_CS/MaakJeEigenApi.pdf)
 + demo: voorproefje S2: interfaces & inheritance
-        (als ze vlak voor de deadlin zitten is hier wellicht geen interesse voor...)
+        (studenten hebben hier vlak voor de deadline wellicht geen interesse in...)
         voor de definitieve profielkeuze
-        (Ruben vragen voor een overzicht)
 
 ### Week 16
 
 [Vergelijking OOP in andere talen?](OOP_languages/readme.md)
 + Python: Infra gebruikt python in semester 2.
 + Javascript: GUI steeds vaker web-GUI, dan is javascript nooit ver weg.
-+ PHP: Veel studenten komen in aanraking
++ PHP: Veel studenten komen sowieso in aanraking met PHP.
 
 ### Week 17
 + Hier laten we de studenten hard werken aan het product vanwege de deadlines, eventueel workshops op aanvraag of ad hoc.
