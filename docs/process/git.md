@@ -1,7 +1,36 @@
 # Git (versiebeheer)
 
+(deels NL, deels EN)
 
 ![](figures/gitlogo.png "git")
+
+## git basis begrippen
+
++ clone:             maak lokale kopie vd repos
++ checkout:          van je lokale repos, wijs 1 versie aan als work dir
++ commit:            wijzingen in work dir gaan naar lokale repos
++ push:              ALLE wijzigingen van de lokale repos gaan naar de server
++ fetch:             haal alle wijzigingen op van de server naar lokale repos (verandert de work dir niet)
++ pull:              fetch & checkout
++ branch/merge
++ .gitignore-file    
+
+
+## tools
+
++ command line
++ github (het tool)
++ git kraken
++ git desktop
++ git tortoise
++ atom / visual studio / xcode / (eigenlijk elke IDE)
+
+## sites met repositories
+
++ git.fhict.nl (gitlab)
++ github.com
++ gitlab.com
+
 
 ## What is Git?
 
