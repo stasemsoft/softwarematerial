@@ -76,11 +76,15 @@ en de training 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *e
 
 + [Theorie Private en Public](theorie_PrivatePublic.pdf)
 
-### Voor de wanna-be Software Engineer
+### Best practices Voor de wanna-be Software Engineer
 
-Als je nog wat meer de diepte in wilt kun je hier kijken:
+Mensen die Software Engineer willen worden zullen hier zeker van smullen:
 
 + [Theorie So you wanna be a Software Engineer](theorie_AdvancedSoftwareEngineering.pdf) of zelfde in [(markdown)](theorie_AdvancedSoftwareEngineering.md).
+
+Als je de volgende video van Tim Corey nog niet bekeken had is dat nu zeker een aanrader!
++ [video Tim Corey: Top 10 C# Best Practices](https://www.youtube.com/watch?v=-9b8NRqjUFM)
+
 + [Software Craftmanship Manifesto](http://manifesto.softwarecraftsmanship.org/)
 
 
