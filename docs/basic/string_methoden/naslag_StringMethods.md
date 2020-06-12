@@ -56,6 +56,28 @@ string deelTekst = tekst.Substring(0, 1);
 ```
 
 wat heeft als resultaat dat in deelTekst de waarde &quot;r&quot; komt te staan omdat van de oorspronkelijke tekst vanaf positie 0 precies 1 letter gekopieerd wordt.
+
+Nog enkele voorbeelden met Substring.
+```cs
+"abc".Substring(0,1)  // dit geeft "a" (begin vanaf karakter met index 0, neem 1 karakter)
+"abc".Substring(0,2)  // geeft "ab" (begin vanaf karakter met index 0, neem 2 karakters)
+"abc".Substring(1,1)  // geeft "b" (begin vanaf index 1, neem 1 karakter)
+```
+Goeie oefening: Typ deze eens in in een Console app, probeer te voorspellen wat er uitkomt en print de waarde met `Console.WriteLine()`, controleer of het klopt wat je dacht. Speel hiermee tot je snapt hoe het werkt. Dan kun je vast ook voorspellen wat hier uit komt:
+
+```cs
+Console.WriteLine("abcdef".Substring(1,1));  // hoe lang en welke letters?
+// Voer regel voor regel in (nadat je gezien hebt of je regel ervoor snapt):
+Console.WriteLine("abcdef".Substring(3,2));
+Console.WriteLine("abcdef".Substring(0,6));
+// Wat zou er gebeuren bij:
+Console.WriteLine("abcdef".Substring(0,7));
+// of bij:
+Console.WriteLine("abcdef".Substring(7,1));
+// belangrijk dat je gezien hebt wat er bij die laatste 2 gebeurt!
+```
+
+
 ```cs
 string tekst = "regel tekst";
 string deelTekst = tekst.Substring(6, 5);
