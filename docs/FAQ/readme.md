@@ -39,10 +39,15 @@ Alles staat op de Homepage en in de Modules, er zijn geen aparte kick-off-slides
 
 Nee, als de docent merkt dat er ’s middags mensen zijn die klaar zijn om Visual Studio in te duiken kan dat in overleg met de docent gebeuren. De student levert foto’s in over wat zij/hij op het whiteboard gedaan heeft. Niet verplicht maar wel handig: student maakt planning.
 
-## Is er een inhaalmoment voor de gemiste dag door de intro in AquaBest?
-Nee. Door de introductieactiviteit (AquaBest) valt de eerste maandag uit: hier is geen inhaaldag voor: de klassen die op maandag software hebben hebben dus een softwaredag minder. Mochten studenten hierdoor in de knoei komen: stimuleer ze om op een andere dag tijd aan software te besteden. Zeker in de grote proftaak vanaf week 12 hebben ze gelegenheid genoeg om te schuiven.
+## Is er een inhaalmoment voor een gemiste softwaredag door de introdag?
+
+Nee. Mochten studenten hierdoor in de knoei komen: stimuleer ze om op een andere dag tijd aan software te besteden. Zeker in de grote proftaak vanaf week 12 hebben ze gelegenheid genoeg om te schuiven.
+
+## Hoe wordt bepaald of ik het semester ga halen?
+
+Voor sommige studenten is niet duidelijk wat van hen verwacht wordt. De pagina ’Toelichting van de leeruitkomsten’ (voor een link zie de Home-page van je S1-SOFT-course) blijkt niet voor alle gevallen duidelijk genoeg. Het beantwoorden van de vraag (door docent gesteld): 'Wat heb je met de feedback gedaan?' is hierbij belangrijk! Om feedback te krijgen én vast te leggen (feedpulse) moet je in gesprek gaan met je docent.
 
 
-## Waar kan ik gevonden fouten melden?
+## Waar kan ik gevonden fouten in het materiaal melden?
 
 Het materiaal staat in git (op GitHub, om precies te zijn): verbeter fouten liefst via de 'verbeter deze pagina' onderaan de pagina's!  Het inhoudelijke materiaal vind je allemaal op: https://stasemsoft.github.io/softwarematerial/ .       
