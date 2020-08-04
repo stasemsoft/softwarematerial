@@ -32,7 +32,7 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 + [Training: Pincode-reminder](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Pincode-reminder.pdf)
 + [Training: Extra opgaven keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Extra-opgaven-keuzestructuren.pdf)
 
-## String Methoden: aanroepen
+## String manipulatie
 
 + [Reference: string methoden](string_methoden/naslag_StringMethods.md)
 + [Training: String methods](string_methoden/Stringmethoden.pdf)
