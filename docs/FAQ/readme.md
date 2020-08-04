@@ -15,7 +15,7 @@ url:  'https://stasemsoft.github.io/softwarematerial/docs/basic/'
 
 Je moet je docent overtuigen dat je de gewenste vaardigheden op het vereiste niveau beheerst! Voor een deel zal dit wellicht mogelijk zijn met stukken code in andere talen en omgevingen: overleg met je docent!
 
-Anderzijds: als je een taal mag blijven gebruiken die je al kent verwachten we natuurlijk dat je daar wat extra's in kunt laten zien, en niet alleen maar het minimale gevraagde. Ook willen we je erop wijzen dat semester 2 bij software verder op Asp.NET in gaat: het is daarvoor handig als je al thuis bent in C#. 
+Anderzijds: als je een taal mag blijven gebruiken die je al kent verwachten we natuurlijk dat je daar wat extra's in kunt laten zien, en niet alleen maar het minimale gevraagde. Ook willen we je erop wijzen dat semester 2 bij software verder op Asp.NET in gaat: het is daarvoor handig als je al thuis bent in C#.
 
 Een concept als 'methods met parameters en returnvalues' kun je in een heleboel talen laten zien. Een docent zal hierbij wellicht vragen stellen over types (in staticly typed languages).
 
@@ -37,7 +37,7 @@ Alles staat op de Homepage en in de Modules, er zijn geen aparte kick-off-slides
 
 ### Bestaat die eerste hele dag alleen maar uit 'Computational Thinking'?
 
-Nee, als je merkt dat er ’s middags mensen zijn die klaar zijn om Visual Studio in te duiken kunnen ze dat in overleg met jou doen. Laat ze wat foto’s inleveren over wat ze op het whiteboard gedaan hebben. Niet verplicht maar wel handig: laat ze een planning maken.
+Nee, als de docent merkt dat er ’s middags mensen zijn die klaar zijn om Visual Studio in te duiken kan dat in overleg met de docent gebeuren. De student levert foto’s in over wat zij/hij op het whiteboard gedaan heeft. Niet verplicht maar wel handig: student maakt planning.
 
 ## Is er een inhaalmoment voor de gemiste dag door de intro in AquaBest?
 Nee. Door de introductieactiviteit (AquaBest) valt de eerste maandag uit: hier is geen inhaaldag voor: de klassen die op maandag software hebben hebben dus een softwaredag minder. Mochten studenten hierdoor in de knoei komen: stimuleer ze om op een andere dag tijd aan software te besteden. Zeker in de grote proftaak vanaf week 12 hebben ze gelegenheid genoeg om te schuiven.
