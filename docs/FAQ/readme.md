@@ -15,6 +15,8 @@ url:  'https://stasemsoft.github.io/softwarematerial/docs/basic/'
 
 Je moet je docent overtuigen dat je de gewenste vaardigheden op het vereiste niveau beheerst! Voor een deel zal dit wellicht mogelijk zijn met stukken code in andere talen en omgevingen: overleg met je docent!
 
+Anderzijds: als je een taal mag blijven gebruiken die je al kent verwachten we natuurlijk dat je daar wat extra's in kunt laten zien, en niet alleen maar het minimale gevraagde. Ook willen we je erop wijzen dat semester 2 bij software verder op Asp.NET in gaat: het is daarvoor handig als je al thuis bent in C#. 
+
 Een concept als 'methods met parameters en returnvalues' kun je in een heleboel talen laten zien. Een docent zal hierbij wellicht vragen stellen over types (in staticly typed languages).
 
 En in de proftaak? Overleg altijd met de docent. Voor de verdieping in software moet je altijd wel zaken individueel moeten doen (overleg met je docent), daar kan de docent eventueel alsnog C# eisen.
