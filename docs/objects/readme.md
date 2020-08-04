@@ -131,7 +131,7 @@ Als je de volgende video van Tim Corey nog niet bekeken had is dat nu zeker een 
 
 + [Chapter Introduction to OOP (uit Dive into Design Patterns)](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Documentation/Dive%20into%20design%20patterns%20-%20chapter%20Introduction%20to%20OOP.pdf)  
 
-+ [howto: Als ik vasthang? OVer oplossen problemen](https://stasemsoft.github.io/softwarematerial/docs/process/knowProgrammerSearchScheme)
++ [howto: Als ik vasthang? Over oplossen problemen](https://stasemsoft.github.io/softwarematerial/docs/process/knowProgrammerSearchScheme)
 
 ## Wat kan ik als ik de module 'objects' voldoende doorlopen heb?
 
