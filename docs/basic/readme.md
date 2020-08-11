@@ -54,7 +54,9 @@ Als je een extra uitdaging wilt met loops:
 ## Method: zelf maken en aanroepen
 
 + [Reference: Methodes in C#](methoden/naslag_methods.md)
-+ [tutorial method deel 1 (alleen geschikt als je zelf ook in WinForms werkt)](https://youtu.be/SRwDqyyZFXY?list=PL0EE421AE8BCEBA4A) en [deel 2](https://youtu.be/ND8aXadDbyg?list=PL0EE421AE8BCEBA4A). 
++ Tutorial (alleen geschikt als je zelf ook in WinForms werkt):
+  1. [method in WinForms 1](https://youtu.be/SRwDqyyZFXY?list=PL0EE421AE8BCEBA4A)
+  1. [method in WinForms 2](https://youtu.be/ND8aXadDbyg?list=PL0EE421AE8BCEBA4A).
 + [Training: methode ElkaarAchterstevoren](methoden/methodW1W2.md)
 + [Training: Bloeddruk](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Bloeddruk%20meten.pdf)  
 + [Training: method marathon](methoden/methodmarathon)
