@@ -48,12 +48,13 @@ In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net
 + [Training: Diverse opdrachten lussen 1](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/Extra%20opgaven%20lussen.pdf)
 + [Training: Diverse opdrachten lussen 2](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/ExtraLussen.pdf)
 
-Als je een extra uitdaging wilt:
+Als je een extra uitdaging wilt met loops:
 + [Training: Emmer vol laten lopen](https://git.fhict.nl/I872272/ProgrammingChallenges/tree/master/Challenges/Emmer%20vol%20laten%20lopen)
 
 ## Method: zelf maken en aanroepen
 
 + [Reference: Methodes in C#](methoden/naslag_methods.md)
++ [tutorial method deel 1 (alleen geschikt als je zelf ook in WinForms werkt)](https://youtu.be/SRwDqyyZFXY?list=PL0EE421AE8BCEBA4A) en [deel 2](https://youtu.be/ND8aXadDbyg?list=PL0EE421AE8BCEBA4A). 
 + [Training: methode ElkaarAchterstevoren](methoden/methodW1W2.md)
 + [Training: Bloeddruk](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Bloeddruk%20meten.pdf)  
 + [Training: method marathon](methoden/methodmarathon)
