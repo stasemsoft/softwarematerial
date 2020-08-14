@@ -38,10 +38,13 @@ Een mogelijk weekschema voor FHICT.
 
 ### Week 16
 
-[Vergelijking OOP in andere talen?](OOP_languages/readme.md)
-+ Python: Infra gebruikt python in semester 2.
-+ Javascript: GUI steeds vaker web-GUI, dan is javascript nooit ver weg.
-+ PHP: Veel studenten komen sowieso in aanraking met PHP.
++ [99 bottloes of beer oin the wall](99bottlesOfBeer/readme)
+
++ [Vergelijking OOP in andere talen?](OOP_languages/readme.md)
+  1. Python: Infra gebruikt python in semester 2.
+  2. Javascript: GUI tegenwoordig vaak een web-GUI, dan is javascript nooit ver weg.
+  3. PHP: Veel studenten komen sowieso in aanraking met PHP.
+  4. ... nog andere talen?
 
 ### Week 17
 + Hier laten we de studenten hard werken aan het product vanwege de deadlines, eventueel workshops op aanvraag of ad hoc.
