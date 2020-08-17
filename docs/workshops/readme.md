@@ -1,8 +1,8 @@
 # Workshops (en inspi voor meer...)
-Allereerst per week een aantal workshops. Verderop inspiratie voor meer.
+Informatie voor workshops en inspiratie voor meer.
 
 ## Weekschema Workshops
-Een mogelijk weekschema voor FHICT.
+Een mogelijk weekschema voor FHICT. Het is de bedoeling dat softwaredocenten binnen hun cluster overleggen welke workshops wanneer door wie (samen?) gedaan worden.
 
 ### Week 12 (begin verdiepende periode)
 
@@ -38,7 +38,7 @@ Een mogelijk weekschema voor FHICT.
 
 ### Week 16
 
-+ [99 bottloes of beer oin the wall](99bottlesOfBeer/readme)
++ [99 bottloes of beer oin the wall](99bottlesOfBeer)
 
 + [Vergelijking OOP in andere talen?](OOP_languages/readme.md)
   1. Python: Infra gebruikt python in semester 2.
