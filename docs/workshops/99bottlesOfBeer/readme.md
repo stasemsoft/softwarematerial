@@ -16,4 +16,4 @@ No bottles of beer on the wall No bottles of beer There are no more to pass arou
 
 ## achtergrondinformatie
 
-[Kent Beck on 99 bottles...](https://leftsideagile.com/index.php?post/2020/02/16/The-Beginning-of-Extreme-Programming)
++ [On 99 bottles...](https://leftsideagile.com/index.php?post/2020/02/16/The-Beginning-of-Extreme-Programming)
