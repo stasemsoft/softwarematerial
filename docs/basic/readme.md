@@ -22,6 +22,7 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 + [Reference: operatoren](var/naslag_Operatoren.md)
 + [Training: Euro Dollar converter](var/Euro-Dollar-converter.pdf)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! (Variabelen, bewerkingen, typen, conversie)
 + [Training: Diversen](var/Extra-opgaven-variabelen.pdf)
++ [Training: Computerrekenen](var/trainingComputerRekenen)
 
 ## Conditioneel
 
