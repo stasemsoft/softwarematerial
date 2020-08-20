@@ -7,10 +7,77 @@ Als de computer dan toch zo'n krachtige calculator is, laten we hem dan ook als 
 
 100 x 0,7 - 25 x 0,6 = ...
 
-## Ff nadenken
+## Ik een beetje meer dan jij...
 
-Verhoudingen:
+Je verdeelt een geldbedrag over vier personen (A, B, C en D). Elke persoon krijgt een ander bedrag: A krijgt 20% meer dan het gemiddelde van de vier personen. Voor de duidelijkheid: uiteindelijk krijgen de vier personen samen het hele bedrag. A krijgt daarvan een kwart + 20% van zo'n kwart. Daarna verlaat persoon A de kamer.
 
+Er blijven drie personen over, met wie een soortgelijke verdeling plaatsvindt:
+B krijgt 20% meer dan het gemiddelde van de 3 overgebleven personen en verlaat de kamer. C krijgt 20% meer dan het gemiddelde van de 2 overgebleven personen. D ontvangt de overgebleven 168 euro.
+
+Het oorspronkelijke, te verdelen bedrag is ... euro.
+
+Schrijf een computerprogramma dat dit getal berekent.
+
+Hieronder een deel van de oplossing, maar probeer het eerst zelf!
+(Afkomstig van beterreken.nl, 12aug2020; een som van Henk van Huffelen)
+
+## Ik een beetje meer dan jij... aanzet tot een oplossing
+
+Als je het in C# doet:
+Maak een Console app aan en vul de Main-methode alsvolgt in: 
+
+```
+static void Main(string[] args)
+{
+    // Ik een beetje meer dan jij...
+    // ----------- een oplossing ---------------
+
+    // Je verdeelt een geldbedrag over vier personen(A, B, C en D). Elke persoon krijgt een ander bedrag:
+    // A krijgt 20 % meer dan het gemiddelde van de vier personen.
+    // Voor de duidelijkheid: uiteindelijk krijgen de vier personen samen het hele bedrag.
+    // A krijgt daarvan een kwart + 20 % van zo'n kwart. Daarna verlaat persoon A de kamer.
+
+    // Er blijven drie personen over, met wie een soortgelijke verdeling plaatsvindt:
+    // B krijgt 20 % meer dan het gemiddelde van de 3 overgebleven personen en verlaat de kamer. C krijgt 20 % meer dan het gemiddelde van de 2 overgebleven personen. D ontvangt de overgebleven 168 euro.
+
+    //  Het oorspronkelijke, te verdelen bedrag is ... euro.
+
+    // Schrijf een computerprogramma dat dit getal berekent.
+
+    // ----------- een oplossing ---------------
+    // "Achteruit terugredeneren: "
+    // Het bedrag dat persoon D krijgt noemen we 'd', c is het bedrag dat persoon C, krijgt enzovoort...
+    // Voor bedragen raden we het type 'decimal' aan:
+    decimal d = 168;
+            Console.WriteLine("d: {0}",d);
+
+    // c kreeg 20% meer dan het gemiddelde van de laatste 2 personen: c en d.
+    // Het gemiddelde van c en d is (c + d) / 2
+    // c is 20% meer ofwel 1.2 * dat gemiddelde:
+    // Er geldt:  c == 1.2 * ((c + d) / 2)
+    // ofwel: c == 0.6 * c + 0.6 * d
+    // ofwel: 0.4 * c == 0.6 * d
+    // dus c = 0,6 / 0,4 * d
+    decimal c = 3 / 2 * 168;
+            Console.WriteLine("c: {0}", c);
+
+    // b is 20% meer dan (b + c + d) / 3,
+    // ofwel: b == 1.2 * ((b + c + d) / 3),
+    // ofwel:
+
+    maak dit programma zelf verder af!
+
+
+    decimal b = 0;  // pas dit aan...
+    Console.WriteLine("b: {0}", b);
+
+    decimal a = 0;  // pas dit aan...
+    Console.WriteLine("a: {0}", a);
+    Console.WriteLine("Hello World!");
+}
+```
+
+Maak het programma hierna af.
 
 ## Een 1-2-3-tje
 
@@ -20,6 +87,7 @@ De prijs van het duurste artikel is een bedrag van 3 cijfers. Als je het eerste 
 
 De artikelen kosten samen 589 euro. Het middelste artikel is minder dan 30 keer zo duur als het goedkoopste artikel. Het verschil in prijs tussen het duurste en goedkoopste artikel is ... euro.
 
+Schrijf een computerprogramma dat dit getal berekent. (of kun je het zelfs zonder computerprogramma?)
 
 ## Hoeveel palindromen kan ik maken met ...?
 
