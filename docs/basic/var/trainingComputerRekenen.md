@@ -26,8 +26,15 @@ De afstand van rustpunt 5 tot het eindpunt B is meter.
 (Vul een geheel getal in, indien nodig afronden.)
 
 Na rustpunt 5 maakt hij geen stops meer, omdat hij anders nooit het eindpunt zal halen."
+
+
 (vraag 28aug2020, beterrekenen)
 
+Hint:
+Teken allereerst een plaatje. 
+Pauzepunt 1 ligt op 3/4 van 20km van punt B.
+Pauzepunt 2 ligt op 3/4 van het getal op de vorige regel...
+En zo voort...
 
 
 
