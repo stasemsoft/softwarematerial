@@ -5,7 +5,31 @@ Als de computer dan toch zo'n krachtige calculator is, laten we hem dan ook als 
 
 ## Recht-toe-recht-aan
 
-100 x 0,7 - 25 x 0,6 = ...
++ 100 x 0,7 - 25 x 0,6 = ...
++ 18.0 / 5.0 = ...
++ 100 / 30 = ...
+
+Schrijf een programma dat deze antwoorden berekent.
+
+Als je het op een rekenmachine (bijvoorbeeld de calculator-app op je laptop) berekent: komt er dan dezelfde uitkomst uit?
+Zo nee, probeer erachter te komen waarom dat zo is.
+
+## Al wandelend...
+
+Patrick maakt een wandeling van A naar B. De afstand is 20 km.
+
+Hij begint in A en als hij 1/4 deel van de afstand heeft afgelegd, rust hij een poosje (rustpunt 1).
+Na korte tijd hervat hij de wandeling en loopt 1/4 deel van het resterende gedeelte, Daar rust hij weer even uit (rustpunt 2).
+Op dezelfde manier wandelt hij verder. Elke keer rust hij een poosje als hij weer 1/4 deel van het resterende gedeelte heeft gelopen.
+
+De afstand van rustpunt 5 tot het eindpunt B is meter.
+(Vul een geheel getal in, indien nodig afronden.)
+
+Na rustpunt 5 maakt hij geen stops meer, omdat hij anders nooit het eindpunt zal halen."
+(vraag 28aug2020, beterrekenen)
+
+
+
 
 ## Ik een beetje meer dan jij...
 
@@ -24,7 +48,7 @@ Hieronder een deel van de oplossing, maar probeer het eerst zelf!
 ## Ik een beetje meer dan jij... aanzet tot een oplossing
 
 Als je het in C# doet:
-Maak een Console app aan en vul de Main-methode alsvolgt in: 
+Maak een Console app aan en vul de Main-methode alsvolgt in:
 
 ```
 static void Main(string[] args)
@@ -105,3 +129,8 @@ Hiermee kun je ... verschillende palindromen van 7 cijfers samenstellen.
 
 Een aantal van deze opgaven komen van
 [www.beterrekenen.nl](www.beterrekenen.nl) (ook als mobile app): Elke dag een paar minuten aan uitdagingen, soms makkelijk, soms moeilijker, some recht-toe-recht-aan, soms echt nodig om een plaatje te tekenen of een laptop te hulp te roepen... hersengym dus... een aanrader!
+
+## Spoilers...
+
+Enkele antwoorden:
++ `Al wandelend...`: 4746 meter
