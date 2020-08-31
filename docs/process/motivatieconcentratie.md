@@ -7,7 +7,7 @@ De kunst is om op een thuiswerkdag ‘ritme’ in je dag te brengen waarmee jij 
 
 ## Aannames
 
-+ We gaan ervan uit dat elke student vanaf 8.45 uur online is. De digitale lessen beginnen om 08.45 uur.
++ We gaan ervan uit dat elke student vanaf 9u00 online is. De digitale lessen beginnen om 9u00 uur.
 + Ben je er vanwege bijzondere omstandigheden niet bij, kun je niet inloggen of is er iets anders aan de hand, meld dit altijd bij je docent van de dag.
 + Elke dag vindt in de loop van de middag een feedpulse-moment plaats.
 
