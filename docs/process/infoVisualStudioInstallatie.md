@@ -2,28 +2,22 @@
 
 Visual Studio 2017 (afgekort: VS) kun je op twee manieren legaal downloaden:
 #### Manier 1
-Je zoek op internet naar &quot;Visual Studio 2017 community&quot;.
-Je komt dan bij de pagina van Microsoft uit waar je de
-gratis versie van VS kunt installeren. Deze noemen ze de Community Edition.
+Je zoekt op internet naar &quot;Visual Studio 2017 community&quot;.
+[Bijvoorbeeld hier](https://visualstudio.microsoft.com/vs/)
+
+De gratis versie van VS noemen ze de Community Edition.
 Kies bij het installeren voor &quot;.NET desktop development&quot;.
 Deze versie is voor het startsemester voldoende. Maar....
-#### Manier 2
-Er is ook een versie met veel meer opties en handigheden.
-Deze heet Visual Studio 2017 Enterprise (betaalde versie).
-Voor studenten van FHICT zijn er licensies voor de versie:
-Ga naar het
-[studentplein](https://portal.fhict.nl/Studentenplein/SitePages/Home.aspx)
+
+#### Manier 2: Via Studentenplein
+Het kan ook via [studentplein](https://portal.fhict.nl/Studentenplein/SitePages/Home.aspx)
 op de
-[FHICT-portal](https://portal.fhict.nl).
-Klik daarna op
-[Microsoft Imagine(DreamSpark)](https://apps.fhict.nl/OffCampusSSO/Dreamspark.aspx).
-Je komt dan uit in een webwinkel waar alles 0 euro kost.
-Zoek daar op &quot;Visual Studio Enterprise 2017&quot;.
-Let op dat je enterprise er bij tikt,
-anders laat de webwinkel eerst de community edition zien.
-Met deze enterprise versie kun je heel je opleiding vooruit.
-![](figures/VS020-components.png "VS020-components")
+[FHICT-portal](https://portal.fhict.nl),
+onder het kopje 'Software'.
+
 #### Heb je een Mac?
+Als je net begint met programmeren raden we het volgende aan:
+
 Voor Apple laptop gebruikers is het mogelijk om VS 2017 op te starten in
 een Virtual Machine(VM) of in een bootcamp-omgeving.
 VS 2017 in een VM zal niet snel aanvoelen. Bootcamp is de beste oplossing. Zie
@@ -33,6 +27,9 @@ Deze kun je gratis vinden in de webshop die gelinkt is in stap 2 hierboven.
 Let op: er is een VS versie die ook werkt op een Apple laptop.
 Maar die versie is niet uitgebracht in de configuratie
 die we nu nodig hebben voor deze course. Gebruik die dus niet.
+
+Als je al ervaren bent en WinForms niet nodig hebt kun je ook `Visual Studio for Mac` gebruiken, of `Visual Studio Code` (die laatste wordt bij Technology ook gebruikt).
+
 #### Je eerste programma
 Wil je weten of je VS werkt? Start Visual Studio op. We maken eerst een nieuw project aan en gaan daarna C# sourcecode intikken. Vervolgens starten we de C# sourcecode op. Je eerste programma!
 ![fig:visualstudio](figures/VS080-done.png "Dit is Visual Studio")
