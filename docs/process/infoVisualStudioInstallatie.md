@@ -1,6 +1,8 @@
 # Visual Studio installatie
 
-Visual Studio 2017 (afgekort: VS) kun je op twee manieren legaal downloaden:
+Visual Studio 2017 (afgekort: VS) kun je op verschillende manieren installeren:
+
+
 #### Manier 1
 Je zoekt op internet naar &quot;Visual Studio 2017 community&quot;.
 [Bijvoorbeeld hier](https://visualstudio.microsoft.com/vs/)
