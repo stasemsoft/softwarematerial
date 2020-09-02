@@ -33,6 +33,8 @@ enkele voorbeelden staan hier-onder. Merk op dat:
 - De regel moet worden beeindigd met een &quot;;&quot;-teken
 
 Op verschillende manieren kunnen variabelen worden aangemaakt. Programmeer op een lege regel het type van de variabele (zie hierboven), de naam die je de variabele wil geven (deze kies je zelf) en een &quot;;&quot; teken om het programmeercommando af te sluiten.
+
+```
 | Voorbeeld | Effect |
 | --- | --- |
 | String s; | Variabele met de naam s wordt aangemaakt. |
@@ -49,7 +51,7 @@ Op verschillende manieren kunnen variabelen worden aangemaakt. Programmeer op ee
 |  | De default waarde is 0 |
 | double straal; | Variabele met de naam "straal" wordt aangemaakt. |
 |  | De default waarde is 0.0 |
-
+```
 
 Direct na het aanmaken heeft een `variabele` een `waarde` die we
 de `default waarde` noemen. Dit kan per programmeertaal enigszins
@@ -61,12 +63,14 @@ toe te kennen.
 
 Als een variabele eenmaal is aangemaakt kan hier een waarde aan worden toegekend.
 Merk op:
+
 - Alleen geldige waarden kunnen worden toegekend (string waarden aan strings, getallen aan int, etc.), het programmeren van een niet geldige toekenning levert een fout op waardoor het programma niet kan worden uitgevoerd.
 - De variabele waaraan een waarde moet worden toegekend staat aan de linkerkant van het &quot;=&quot; teken, en de waarde welke in de variabele moet worden gestopt staat rechts van het &quot;=&quot; teken.
 - De regel code wordt weer beeindigd met het &quot;;&quot;-teken.
 
 Hier volgen enkele voorbeelden. In commentaar staat erbij uitgelegd
 wat het betekent.
+
 ```cs
 String s;     // maak een variabele aan met naam "s".
 s = "test";	  // Variabele met de naam "s" krijgt de waarde "test".
@@ -153,6 +157,7 @@ Een `bool` variabele kan niet worden geconverteerd.
 Zet de waarde van *i* om
 naar een tekst met dezelfde waarde. Het
 resultaat van de laatste regel is dat variabele *s* de waarde `81` krijgt.
+
 ```cs
 int i = 81;
 String s;
@@ -162,6 +167,7 @@ s = Convert.ToString(i);
 Zet de waarde van *d* om naar een tekst met dezelfde waarde.
 Het resultaat van de laatste regel is dat variabele *s*
 de waarde `"12.33"` krijgt:
+
 ```cs
 double d =12.33;
 String s;
@@ -172,6 +178,7 @@ Zet de waarde van *s* om naar een geheel getal (`integer`)
 met dezelfde waarde als dat lukt (anders krijg je een foutmelding).
 Het resultaat van de laatste regel is dat variabele *i* de
 waarde `7` krijgt:
+
 ```cs
 int i;
 String s = "7";
@@ -182,6 +189,7 @@ Zet de waarde van *s* om naar een *kommagetal* met
 dezelfde waarde als dat lukt (anders krijg je een foutmelding).
 Het resultaat van de laatste regel is dat variabele *d* de
 waarde `12.129` krijgt:
+
 ```cs
 double d;
 String s = "12.129";
