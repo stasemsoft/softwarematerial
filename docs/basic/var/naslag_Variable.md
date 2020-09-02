@@ -34,7 +34,7 @@ enkele voorbeelden staan hier-onder. Merk op dat:
 
 Op verschillende manieren kunnen variabelen worden aangemaakt. Programmeer op een lege regel het type van de variabele (zie hierboven), de naam die je de variabele wil geven (deze kies je zelf) en een &quot;;&quot; teken om het programmeercommando af te sluiten.
 
-```
+
 | Voorbeeld | Effect |
 | --- | --- |
 | String s; | Variabele met de naam s wordt aangemaakt. |
@@ -51,7 +51,7 @@ Op verschillende manieren kunnen variabelen worden aangemaakt. Programmeer op ee
 |  | De default waarde is 0 |
 | double straal; | Variabele met de naam "straal" wordt aangemaakt. |
 |  | De default waarde is 0.0 |
-```
+
 
 Direct na het aanmaken heeft een `variabele` een `waarde` die we
 de `default waarde` noemen. Dit kan per programmeertaal enigszins
