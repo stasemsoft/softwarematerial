@@ -10,15 +10,19 @@ dan heb je een `for` of `while` `statement` nodig.
 Deze structuur wordt gebruikt om een stukje code uit te voeren
 afhankelijk van een bepaalde situatie (de `conditie` genoemd).
 Algemene vorm:
+
 ```cs
 if ([conditie])
 {
   [Uit te voeren code als conditie waar is]
 }
 ```
+
 waarbij `conditie` is een stelling die de waarde
 `true` (*waar*) of `false` (*niet waar*) heeft.
+
 Voorbeelden van condities:
+
 | Conditie | Betekenis |
 | --- | --- |
 | true | Waar |
