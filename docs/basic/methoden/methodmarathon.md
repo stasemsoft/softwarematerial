@@ -60,4 +60,4 @@ Voor de liefhebber: er is al heel wat geschreven over kalenderberekeningen, zie 
 # Eerste Hulp Bij Vasthangen
 
 Hoe pulk je letters uit een string? Hoe tel je het aantal letters in een string? Hoe kijk je of een string als deel van  een andere string voorkomt?
-+ [string methods](../#string-methoden-aanroepen)
++ [string manipulatie (in Toolbox basis)](https://stasemsoft.github.io/softwarematerial/docs/basic/#string-manipulatie-in-c)
