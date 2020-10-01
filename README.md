@@ -35,7 +35,7 @@ Als je vragen hebt over de cursus bij FHICT: kijk eerst eens in de [Frequently A
 
 De manier van denken, goed om iets van te weten...
 
-[Computational Thinking](https://stasemsoft.github.io/softwarematerial/docs/computational)
++ [Computational Thinking](https://stasemsoft.github.io/softwarematerial/docs/computational)
 
 ---
 
@@ -43,7 +43,7 @@ De manier van denken, goed om iets van te weten...
 
 Een introductie in programmeren (nog zonder objecten).
 
-[Toolbox basis](https://stasemsoft.github.io/softwarematerial/docs/basic/)
++ [Toolbox basis](https://stasemsoft.github.io/softwarematerial/docs/basic/)
 
 ---
 
@@ -51,7 +51,7 @@ Een introductie in programmeren (nog zonder objecten).
 
 Verdieping, programmeren met objecten
 
-[Toolbox Verdiepend: OOP (Object Oriented Programming)](https://stasemsoft.github.io/softwarematerial/docs/objects/)
++ [Toolbox Verdiepend: OOP (Object Oriented Programming)](https://stasemsoft.github.io/softwarematerial/docs/objects/)
 
 ---
 
@@ -59,13 +59,14 @@ Verdieping, programmeren met objecten
 
 Dit betreft een aantal niet-programmeer aspecten die een beginnend software engineer moet kennen en kunnen.
 
-[Software Engineering](https://stasemsoft.github.io/softwarematerial/docs/software%20engineering/)
++ [Software Engineering](https://stasemsoft.github.io/softwarematerial/docs/software%20engineering/)
 
 
 ---
 
-### Over motivatie en concentratie (oa. bij thuiswerken)
+### Diversen
 
 Niet onbelangrijk tijdens een gemiddelde  corona-crisis...
 
-[Motivatie, Concentratie, thuiswerken](docs/process/motivatieconcentratie)
++ [Motivatie, Concentratie, thuiswerken](docs/process/motivatieconcentratie)
++ [Workshops](https://stasemsoft.github.io/softwarematerial/docs/workshops/)
