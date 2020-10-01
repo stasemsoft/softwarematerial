@@ -2,21 +2,27 @@
 Informatie voor workshops en inspiratie voor meer.
 
 ## Weekschema Workshops
-Een mogelijk weekschema voor FHICT. Het is de bedoeling dat softwaredocenten binnen hun cluster overleggen welke workshops wanneer door wie (samen?) gedaan worden.
+Een mogelijk weekschema voor FHICT. Het is de bedoeling dat softwaredocenten tijdens de Verdieping binnen hun cluster overleggen welke workshops wanneer door wie (samen?) gedaan worden.
 
-### Week 12 (begin verdiepende periode)
+## Design Challenge (tussen oriëntatie en verdieping)
+
++ git-workshop (versiebeheer)
+
+## Verdiepingsperiode
+
+### 1e week Verdieping
 
 + [CRC workshop](../objects/crc/readme.md)
 + Overview inhoud van de verdieping
 + demo: introductie class / object / ctor
 
-### Week 13
+### 2e week Verdieping
 
 + demo: property & override ToString() (met herhaling class / object / ctor), bijvoorbeeld [Crossing](Crossing)
 + Methods met (eigen) classes als parameter en returntype.
 + van class diagram naar code.
 
-### Week 14
+### 3e week Verdieping
 
 + 'as' / (Casting?) / ('is'?)
 + multipliciteit: class diagram vs code
@@ -25,7 +31,7 @@ Een mogelijk weekschema voor FHICT. Het is de bedoeling dat softwaredocenten bin
 + demo: een wat groter voorbeeld met class/object/ctor/propg etc... bijvoorbeeld [Virusinator](Virusinator)
 + [git-workshop](git)
 
-### Week 15
+### 4e week Verdieping
 
 + unit test (game)
 + Files lezen/schrijven
@@ -36,7 +42,10 @@ Een mogelijk weekschema voor FHICT. Het is de bedoeling dat softwaredocenten bin
         (studenten hebben hier vlak voor de deadline wellicht geen interesse in...)
         voor de definitieve profielkeuze
 
-### Week 16
+### Laatste weken Verdieping
+
+Hier laten we de studenten hard werken aan het product vanwege de deadlines, eventueel workshops op aanvraag of ad hoc.
+
 
 + [99 bottloes of beer oin the wall](99bottlesOfBeer)
 
@@ -46,15 +55,10 @@ Een mogelijk weekschema voor FHICT. Het is de bedoeling dat softwaredocenten bin
   3. PHP: Veel studenten komen sowieso in aanraking met PHP.
   4. ... nog andere talen?
 
-### Week 17
-+ Hier laten we de studenten hard werken aan het product vanwege de deadlines, eventueel workshops op aanvraag of ad hoc.
-
-
-
 
 
 ## Meer inspiratie...
-Een lange lijst, hopelijk... maar er staan ook losse ideeën en onaffe workshops in. Doe er uw voordeel mee!
+
+Losse ideeën en onaffe workshops in. Doe er uw voordeel mee!
 
 + [Web API maken](webApi01_CS/MaakJeEigenApi.pdf)
-+
