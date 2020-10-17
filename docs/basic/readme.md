@@ -103,6 +103,7 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 
 + [mooi en laagdrempelig (microsoft)](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/?WT.mc_id=-blog-scottha)
 + [Dictaat Basis programmeren](knowOis11dictaat).
++ [Programming Challenges](https://git.fhict.nl/I872272/ProgrammingChallenges) 67+ Programming Challenges (zowel game als non-game)
 + [Code Wars](https://www.codewars.com/) - [Basis niveau](https://www.codewars.com/kata/search/csharp?q=&r%5B%5D=-8&tags=Fundamentals&beta=false)  
 + [Project Euler](https://projecteuler.net/) : een [overzicht van geschikte Basis en Verdiepings Challenges](https://stasemsoft.github.io/softwarematerial/docs/basic/OIS11%20en%20OIS12%20-%20Project%20Euler%20challenges.pdf)  
 + [Coding Game](https://www.codingame.com/)  
