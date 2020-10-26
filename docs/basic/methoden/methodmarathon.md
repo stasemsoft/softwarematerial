@@ -6,7 +6,7 @@ Wellicht is het hier en daar handig een flowchart of ander hulpmiddel te gebruik
 `Quote: Understand well as I may, my comprehension can only be an infinitesimal fraction of all I want to understand. (Ada Lovelace)`
 
 (i) Maak een method *FullName* met de parameters *forename* en *surname* (voor- en achternaam, als je het liever in het NL doet).
-Aanroep *FullName("Ada", "Lovelace")* geeft terug: "Ada Lovelace", de naam van de eerste programmeur ooit.
+Aanroep *FullName("Ada", "Lovelace")* geeft terug: "Ada Lovelace", de naam van de eerste programmeur ooit. De aanroep *FullName("Alan", "Kay")* geeft terug: "Alan Kay". 
 
 (ii) Maak een method genaamd *Times* met dezelfde parameters als de vorige. De returnwaarde is een *int* die het aantal letters in voornaam maal het aantal letters van de achternaam bevat.
 
