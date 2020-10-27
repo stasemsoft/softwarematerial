@@ -1,12 +1,14 @@
 # Training method marathon
 
-Maak een console-app aan en programmeer hierin de hieronder genoemde methods. Roep ze allemaal minstens 1 keer aan, of vaker. Controleer of je overtuigt bent dat het antwoord klopt!
+Maak een console-app aan en programmeer hierin de hieronder genoemde methods. Roep ze allemaal aan. Controleer of je overtuigt bent dat het antwoord klopt!
 Wellicht is het hier en daar handig een flowchart of ander hulpmiddel te gebruiken. Maak daar dan een foto van en voeg die aan je Trainingsopdrachten toe.
+
+Tussendoor vind je hier en daar quotes van beroemde informatici.
 
 `Quote: Understand well as I may, my comprehension can only be an infinitesimal fraction of all I want to understand. (Ada Lovelace)`
 
 (i) Maak een method *FullName* met de parameters *forename* en *surname* (voor- en achternaam, als je het liever in het NL doet).
-Aanroep *FullName("Ada", "Lovelace")* geeft terug: "Ada Lovelace", de naam van de eerste programmeur ooit. De aanroep *FullName("Alan", "Kay")* geeft terug: "Alan Kay". 
+Aanroep *FullName("Ada", "Lovelace")* geeft terug: "Ada Lovelace", Zij was de eerste programmeur ooit! De aanroep *FullName("Alan", "Kay")* geeft terug: "Alan Kay". Denk er ook aan dat er een spatie tussen voor- en achternaam moet staan!  
 
 (ii) Maak een method genaamd *Times* met dezelfde parameters als de vorige. De returnwaarde is een *int* die het aantal letters in voornaam maal het aantal letters van de achternaam bevat.
 
@@ -43,7 +45,7 @@ Voorbeeld: UmEnUmVoorAchter("Edsger Dijkstra") geeft: "DEidjskgsetrra"
 
 `Quote: The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly. A programmer is ideally an essayist who works with traditional aesthetic and literary forms as well as mathematical concepts, to communicate the way that an algorithm works and to convince a reader that the results will be correct. (Donald Knuth)`
 
-(xi) Maak een method *WordCount* die een string binnenkrijgt met een tekst (bijvoorbeeld een van de quotes op deze pagina). De method returnt een getal: het aantal woorden in de string.
+(xi) Maak een method *WordCount* die een string binnenkrijgt met een tekst (bijvoorbeeld een van de quotes op deze pagina). De method returnt een geheel getal: het aantal woorden in de string.
 
 (xii) Maak een method *MeanLength* die een string binnenkrijgt met een tekst (bijvoorbeeld een van de quotes op deze pagina). De method returnt een double: het gemiddelde aantal letters per woord.  
 
@@ -55,6 +57,15 @@ Voor de liefhebber: er is al heel wat geschreven over kalenderberekeningen, zie 
 (xiv) Maak een method *aantalDagenInFebruari* die gegeven een jaartal (int) het aantal dagen in februari in dat jaar.
 
 (xv) Maak een method *aantalDagenInJaar* die gegeven een jaartal (int) het aantal dagen in dat jaar teruggeeft.
+
+# Heb ik het allemaal goed gedaan?
+
+Het is goed om zelf de volgende zaken te bekijken en/of testen:
+
+- Er zijn géén variabelen buiten een method gedefinieerd: er zijn alleen maar lokale variabelen (en namen van lokale variabelen beginnen met een `kleine` letter).
+- De `Main`-method is de enige plek waar `Console.ReadLine()` en `Console.WriteLine()` voorkomt!
+- Roep elke methode meerdere keren aan! Bijvoorbeeld een methode die 2 strings als parameter heeft roep je minstens 1 keer aan met 2 strings van verschillende lengte, maar ook met 2 strings van gelijke lengte. Controleer het antwoord!
+- De `happy flow` testen we tijdens het programmeren meestal wel. Probeer ook uitzonderingssituaties te testen! Geef eens een lege string mee aan een methode die een string-parameter heeft, en een methode die een List of een array verwacht wordt aangeroepen met een lege List of array.
 
 
 # Eerste Hulp Bij Vasthangen
