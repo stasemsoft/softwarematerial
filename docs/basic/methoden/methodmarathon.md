@@ -1,6 +1,6 @@
 # Training method marathon
 
-Maak een console-app aan en programmeer hierin de hieronder genoemde methods. Roep ze allemaal aan. Controleer of je overtuigt bent dat het antwoord klopt!
+Maak een console-app aan en programmeer hierin de hieronder genoemde methods. Roep ze allemaal aan. Controleer of je overtuigd bent dat het antwoord klopt!
 Wellicht is het hier en daar handig een flowchart of ander hulpmiddel te gebruiken. Maak daar dan een foto van en voeg die aan je Trainingsopdrachten toe.
 
 Tussendoor vind je hier en daar quotes van beroemde informatici.
