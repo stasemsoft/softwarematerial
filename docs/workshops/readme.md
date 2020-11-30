@@ -62,4 +62,4 @@ Hier laten we de studenten hard werken aan het product vanwege de deadlines, eve
 Losse ideeën en onaffe workshops in. Doe er uw voordeel mee!
 
 + [Web API maken](webApi01_CS/MaakJeEigenApi.pdf)
-+ [inspiratie](inspi)
++ [inspiratie](inspi/SintEnPiet.zip)
