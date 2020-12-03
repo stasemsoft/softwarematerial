@@ -15,8 +15,9 @@ begin bij CRC (Class Responsibility Collaboration).
 en ook:
 + [FUN12-dictaat classes](theorie_FUN12_DictaatKlassen.pdf)
 + [Voorbeeld OOP: pin-automaat](example_PinAutomaat)
++ [(external) video over OOP](https://www.youtube.com/watch?v=SiBw7os-_zI&feature=youtu.be)
 
-Als je een software engineer wilt worden is het belangrijk dat je je houdt aan afspraken en best practices: 
+Als je een software engineer wilt worden is het belangrijk dat je je houdt aan afspraken en best practices:
 + [video Tim Corey: Top 10 C# Best Practices](https://www.youtube.com/watch?v=-9b8NRqjUFM)
 + [Coding Guidelines](../process/infoCodingGuidelines.md)
 
