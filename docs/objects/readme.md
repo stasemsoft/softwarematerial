@@ -89,6 +89,8 @@ Als je de volgende video van Tim Corey nog niet bekeken had is dat nu zeker een 
 
 + [Software Craftmanship Manifesto](http://manifesto.softwarecraftsmanship.org/)
 
++ [Clean Code - Uncle Bob / Lesson 1](https://www.youtube.com/watch?v=7EmboKQH8lM)
+
 
 
 
