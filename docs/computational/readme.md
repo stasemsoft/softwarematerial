@@ -1,5 +1,6 @@
 # Computational thinking
 
+
 ## Wat is Computational Thinking?
 We bekijken enkele voorbeelden:
 
@@ -18,16 +19,19 @@ Om een groot 'probleem' op te lossen is het handig het probleem in kleinere prob
 Je ziet dat computational thinking ook 'buiten de computer' speelt.
 
 ## Training
+
 Hieronder een aantal opdrachten waarmee je zogenaamde 'computational thinking' wordt uitgedaagd.
 
 ### Binair 1
+
 De digitale wereld is opgebouwd uit nullen en enen, '0' en '1' is alles wat een computer kent. Oh ja? Ja.  
 Deze opdracht introduceert het binaire tellen:
 
 + [Binary01](binary01.pdf)
 
 ### Binair 2
-Kun je tot 31 tellen op 1 hand? Typ **'count to 31 on one hand'** in je favoriete zoekmachine.
+
+Kun je tot 31 tellen op 1 hand? Typ **'count to 31 on one hand'** in je favoriete zoekmachine. Tot hoever zou je dan kunnen tellen als je twéé gebruikt?
 
 ### Getal raden: hoger lager
 
@@ -94,10 +98,14 @@ Gegeven een stukje stamboom. Van de personen in de stamboom is gegeven of ze ma
 
 ### Tafeltjes
 Een standaardoefening voor programmeurs is het tonen van de tafeltjes, dus iets als:
+
+```
 1 x 7 = 7
 2 x 7 = 14
 3 x 7 = 21
 en zo voort.
+```
+
 Maak hier een flow chart voor.
 
 ### Rekenspelletje

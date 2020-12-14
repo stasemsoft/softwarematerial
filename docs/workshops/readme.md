@@ -40,6 +40,7 @@ Een mogelijk weekschema voor FHICT. Het is de bedoeling dat softwaredocenten tij
 + demo: voorproefje S2: interfaces & inheritance
         (studenten hebben hier vlak voor de deadline wellicht geen interesse in...)
         voor de definitieve profielkeuze
++ [GUI vs Domain](GuiVsDomain)
 
 ### Laatste weken Verdieping
 
