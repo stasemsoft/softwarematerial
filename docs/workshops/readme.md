@@ -36,7 +36,6 @@ Een mogelijk weekschema voor FHICT. Het is de bedoeling dat softwaredocenten tij
 + unit test (game)
 + Files lezen/schrijven
 + Database select/insert/update  (Jeroen maakt deze)
-+ API maken/aanroepen (van Joris)
 + [Web API maken](webApi01_CS/MaakJeEigenApi.pdf)
 + demo: voorproefje S2: interfaces & inheritance
         (studenten hebben hier vlak voor de deadline wellicht geen interesse in...)
