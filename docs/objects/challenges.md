@@ -39,7 +39,7 @@ maar gebruik ze gerust als inspiratie voor eigen werk!
 
 + [challenge_PatientDossier](challenges/challenge_PatientDossier)
 
-+ [challengeGalgje](challenges/challengeGalgje)
++ [challenge Galgje](challenges/challenge_Galgje)
 
 + [challengeMemory](challenges/challengeMemory)
 
@@ -50,9 +50,6 @@ maar gebruik ze gerust als inspiratie voor eigen werk!
 + [challengeWindowsPhone](challenges/challengeWindowsPhone)
 
 ### Inspiratie
-
-+ [galgje-ish (demo)](inspi/galgje-ish/galgjeish)
-
 
 
 Op internet zijn veel sites te vinden met uitdagend oefenmateriaal op programmeergebied:
