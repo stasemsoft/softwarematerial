@@ -8,7 +8,7 @@
 | Challenge Type | Programming |
 
 
-![](figures/BattleSim.png "battlesim")
+![sim](figures/BattleSim.png "battlesim")
 
 
 ### Inleiding
