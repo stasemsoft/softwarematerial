@@ -1,13 +1,9 @@
 # Challenge DinoGame
 
 | Niveau | 3 of 5 |
-
 | --- | --- |
-
 | Leerdoelen | Analyse, class, enum, (pijltjes)toetsen, file read/write. |
-
 | Vereiste voorkennis | Basiskennis over objecten. |
-
 | Challenge Type | Realiseren. |
 
 
