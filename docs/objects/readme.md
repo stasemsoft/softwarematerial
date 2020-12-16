@@ -76,6 +76,9 @@ en de training 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *e
 
 + [Training DinoGame](challenges/challengeDinoGame)
 
++ [challenge_BattleSim](challenges/challenge_BattleSim)
+
+
 ### Private en public
 
 + [Theorie Private en Public](theorie_PrivatePublic.pdf)

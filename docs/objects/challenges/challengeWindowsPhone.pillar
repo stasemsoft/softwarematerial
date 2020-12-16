@@ -4,7 +4,7 @@
 }
 @cha:challengeWindowsPhone
 
-${inputFile:Chapters/challengeBattleSim/learningGoals.pillar}$
+
 %!!Windows Phone
 Als je bij OIS11 nog niet hebt gewerkt aan een Windows Phone-app dan kun je dat nu mooi doen!
 Doel: het programmeren van een Windows Phone app die aan de hand van de GPS-locatie laat zien of je thuis bent of op school bent.

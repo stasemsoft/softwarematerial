@@ -37,8 +37,6 @@ maar gebruik ze gerust als inspiratie voor eigen werk!
 
 + [challenge BankRekening](challenges/challenge_Bankrekening)
 
-+ [challenge_BattleSim](challenges/challenge_BattleSim)
-
 + [challenge_PatientDossier](challenges/challenge_PatientDossier)
 
 + [challengeGalgje](challenges/challengeGalgje)
