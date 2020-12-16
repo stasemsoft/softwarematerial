@@ -74,6 +74,8 @@ en de training 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *e
 
 + [Theorie override ToString](theorie_OverrideToString)
 
++ [Training DinoGame](challenges/challengeDinoGame)
+
 ### Private en public
 
 + [Theorie Private en Public](theorie_PrivatePublic.pdf)
