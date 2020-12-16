@@ -8,7 +8,8 @@
 | Challenge Type | Programming |
 
 
-![fig:BattleSim](figures/BattleSim.png "battlesim")
+![](figures/BattleSim.png "battlesim")
+
 
 ### Inleiding
 In het spel BattleSim kun je met twee spelers tegen elkaar vechten.
