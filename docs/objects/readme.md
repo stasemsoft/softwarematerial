@@ -78,6 +78,8 @@ en de training 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *e
 
 + [challenge_BattleSim](challenges/challenge_BattleSim)
 
++ [challenge Galgje](challenges/challenge_Galgje)
+
 
 ### Private en public
 

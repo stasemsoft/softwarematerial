@@ -41,8 +41,6 @@ maar gebruik ze gerust als inspiratie voor eigen werk!
 
 + [challengeGalgje](challenges/challengeGalgje)
 
-+ [challengeGalgje](challenges/challengeGalgje)
-
 + [challengeMemory](challenges/challengeMemory)
 
 + [challengeSnailRace](challenges/challengeSnailRace)
