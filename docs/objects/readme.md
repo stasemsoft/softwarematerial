@@ -87,6 +87,8 @@ en de training 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *e
 
 + [challenge Galgje](challenges/challenge_Galgje)
 
++ [challenge Eendenvijver](challenges/challenge_Eendenvijver)
+
 
 
 
