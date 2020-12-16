@@ -1,4 +1,5 @@
-<a id="cha:challengeDinoGame"></a>
+# Challenge DinoGame
+
 | Niveau | 3 of 5 |
 
 | --- | --- |
