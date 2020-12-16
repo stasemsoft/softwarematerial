@@ -41,8 +41,6 @@ maar gebruik ze gerust als inspiratie voor eigen werk!
 
 + [challenge_PatientDossier](challenges/challenge_PatientDossier)
 
-+ [challengeDinoGame](challenges/challengeDinoGame)
-
 + [challengeGalgje](challenges/challengeGalgje)
 
 + [challengeGalgje](challenges/challengeGalgje)
