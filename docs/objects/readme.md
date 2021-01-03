@@ -1,4 +1,4 @@
-# Toolbox Verdiepend
+# Toolbox Verdiepend: Objects en Classes
 
 ## Programmeren met Objects en Classes
 

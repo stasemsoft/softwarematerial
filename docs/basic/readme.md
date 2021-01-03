@@ -1,4 +1,4 @@
-# Toolbox Basis (introductie in programmeren, zonder objecten)
+# Toolbox Basis: Basisconcepten van programmeren (zonder objecten)
 
 ## Algemene info
 + [Wat kan ik als ik de module 'basis' voldoende doorlopen heb?](resultaatformulier)

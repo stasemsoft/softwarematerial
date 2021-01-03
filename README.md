@@ -39,7 +39,7 @@ De manier van denken, goed om iets van te weten...
 
 ---
 
-### Toolbox Basis: Basisconcepten van programmeren
+### Toolbox Basis: Basisconcepten van programmeren (zonder objecten)
 
 Een introductie in programmeren (nog zonder objecten).
 
