@@ -1,4 +1,5 @@
-<a id="cha:challengeBattleSim"></a>
+# challenge BattleSim
+
 | Datum | Week 11/12 |
 | --- | --- |
 | Versie | 1 - Inge van Engeland |
@@ -7,7 +8,9 @@
 | Challenge Type | Programming |
 
 
-![fig:BattleSim](figures/BattleSim.png "battlesim")
+![sim](figures/BattleSim.png "battlesim")
+
+
 ### Inleiding
 In het spel BattleSim kun je met twee spelers tegen elkaar vechten.
 In deze versie is de linkerspeler een Knight en de rechterspeler een Ranger.

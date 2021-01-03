@@ -4,11 +4,6 @@ Verzameling Challenges, niet direct gekoppeld aan 1 onderwerp/concept.
 Niet bedoeld om per se letterlijk uit te voeren maar vooral als inspiratie!:
 varieer er dus gerust op!
 
-+ [challenge AutoDagWaarde (pdf)](challenges/challenge_AutoDagWaarde.pdf)
-|
-[(markdown)](challenges/challenge_AutoDagWaarde)
-
-
 + [challenge Eendenvijver](challenges/challenge_Class_Exploratie.pdf)
 
 + [challenge PlatenMaatschappij](challenges/challengePlatenMaatschappij.pdf)
@@ -42,15 +37,9 @@ maar gebruik ze gerust als inspiratie voor eigen werk!
 
 + [challenge BankRekening](challenges/challenge_Bankrekening)
 
-+ [challenge_BattleSim](challenges/challenge_BattleSim)
-
 + [challenge_PatientDossier](challenges/challenge_PatientDossier)
 
-+ [challengeDinoGame](challenges/challengeDinoGame)
-
-+ [challengeGalgje](challenges/challengeGalgje)
-
-+ [challengeGalgje](challenges/challengeGalgje)
++ [challenge Galgje](challenges/challenge_Galgje)
 
 + [challengeMemory](challenges/challengeMemory)
 
@@ -61,9 +50,6 @@ maar gebruik ze gerust als inspiratie voor eigen werk!
 + [challengeWindowsPhone](challenges/challengeWindowsPhone)
 
 ### Inspiratie
-
-+ [galgje-ish (demo)](inspi/galgje-ish/galgjeish)
-
 
 
 Op internet zijn veel sites te vinden met uitdagend oefenmateriaal op programmeergebied:

@@ -62,4 +62,5 @@ Hier laten we de studenten hard werken aan het product vanwege de deadlines, eve
 Losse ideeën en onaffe workshops in. Doe er uw voordeel mee!
 
 + [Web API maken](webApi01_CS/MaakJeEigenApi.pdf)
-+ [inspiratie](inspi/SintEnPiet.zip)
++ [Sinterklaas-demo-inspiratie](inspi/SintEnPiet.zip)
++ [galgje-ish (demo)](galgje-ish/galgjeish)

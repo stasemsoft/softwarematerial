@@ -5,9 +5,9 @@
 + Als je al wat ervaring hebt kun je al eens naar [versiebeheer met git](../process/git) kijken (maar als je nieuw bent in OOP is het wellicht beter eerst daarop te richten).
 + Als je al wat ervaring hebt kun je al eens naar [unit testing](unittesting) kijken (maar als je nieuw bent in OOP is het wellicht beter eerst op het programmeren zelf te richten).
 
-### Introductie Objects en Classes
+### Introductie Objects en Classes: OOP
 
-Bekijk onderstaande drie links voor je gaat programmeren,
+Bekijk onderstaande links voor je gaat programmeren,
 begin bij CRC (Class Responsibility Collaboration).
 
 + [Start Objects met CRC](crc/readme.md)
@@ -22,7 +22,7 @@ Als je een software engineer wilt worden is het belangrijk dat je je houdt aan a
 + [Coding Guidelines](../process/infoCodingGuidelines.md)
 
 
-#### Training met objecten
+#### Training OOP
 
 Kies 1 van de 2 trainingen 'Trafficlight' of 'Marimba and the Bass'
 als eerste oefening met Objecten en Classes. Als je dat moeilijk vindt is het verstandig de ander ook te doen.
@@ -77,6 +77,20 @@ en de training 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *e
 ### Private en public
 
 + [Theorie Private en Public](theorie_PrivatePublic.pdf)
+
+
+### Enkele Challenges
+
++ [Training DinoGame](challenges/challengeDinoGame)
+
++ [challenge_BattleSim](challenges/challenge_BattleSim)
+
++ [challenge Galgje](challenges/challenge_Galgje)
+
++ [challenge Eendenvijver](challenges/challenge_Eendenvijver)
+
+
+
 
 ### Best practices Voor de wanna-be Software Engineer
 
