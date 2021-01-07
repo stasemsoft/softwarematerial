@@ -64,6 +64,13 @@ Dit betreft een aantal niet-programmeer aspecten die een beginnend software engi
 
 ---
 
+### Het Software Profiel bij FHICT
+
++ [Het Software Profiel](https://stasemsoft.github.io/softwarematerial/docs/softwareprofiel/)
+
+
+---
+
 ### Diversen
 
 + [Motivatie, Concentratie, thuiswerken](docs/process/motivatieconcentratie): Niet onbelangrijk tijdens een gemiddelde  corona-crisis...
