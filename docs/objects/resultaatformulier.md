@@ -47,3 +47,24 @@ Een "soort" checklist (niet-compleet) die kan helpen:
 + Om jezelf en een docent te overtuigen dat je classes kunt maken heb je minstens 10 classes gemaakt, waarvan minstens 5 binnen 1 wedstrijd-app.
 + Deze classes hebben methods, fields, properties, constructors
 + In minstens 5 classes heb je een zinvolle 'override ToString()' toegevoegd.
+
+---
+
+## Info voor docenten
+Hoi collega's,
+
+Het zal je opgevallen zijn dat de klok op het einde vh startsemester aan gaat! Dit betekent dat er meestal op het einde een paar twijfelgevallen ontstaan. Schroom in dat geval niet om met een of meer van je Unit-collega's te overleggen. Het is een idee om vast samen met je Unitters vast ergens in tijd een uur(?) te plannen waarop je die twijfelgevallen bespreekt. Als het binnen de unit niet lukt laat het dan svp. weten, dan kijken we of we het over Units heen geregeld krijgen. Als er vragen zijn over de precieze leeruitkomsten of het niveau, neem dan contact met de opperhoofden op.
+
+Zoals bekend gaat het er niet om dat ze 'vinklijstjes' afwerken maar dat ze snappen wat ze aan het doen zijn, jou hier van overtuigd hebben, en liefst een behoorlijke brok aan evidence hebben, individueel danwel proftaak. Als iemand in de proftaak een fantastisch framework gebruikt heeft en beweert dat daardoor classes overbodig geworden zijn, laat ze dat dan vooral beargumenteren (schriftelijk in het verdiepingsverslag) en laat ze een indivuele challenge maken waarin ze laten zien dat ze classes wel beheersen: misschien ben je wel overtuigd!?
+
+Zelfde wat betreft GUI: Veel tijd aan een GUI besteden (WinForms, Asp.NET, verzin het maar...) is helemaal niet erg: áls ze tenminste ook flink wat classes, instances, ctors,... hebben gemaakt die voldoen aan onze wensen. Dat laatste draait het immers om.
+
+Puntje op de i: Design, specifiek class diagram: ze moeten er over nagedacht hebben, hoeft niet individueel, mag in proftaak, wordt vaak achteraf gedaan (bespreek dan wat ze anders zouden doen, achteraf gezien), hoeft NIET formaal UML Class Diagram, maar wel graag consequent, het gaat erom dat ze (idealiter van te voren) nadenken over het probleem en niet spreekwoordelijk beginnen te 'debuggen met de lege file', wel hopelijk met docent besproken en feedback verwerkt!
+
+Vraag ook naar de leercurve!
+
+Voorbeeld: Bij een MBO Applicatie-ontwikkelaar die aangeeft dat ie alles al wist, niks nieuws heeft geleerd, kun je vertellen dat je het jammer vindt dat ie niet de kans heeft gegrepen iets nieuws te leren. Vraag vooral ook waarom niet.
+
+Ander voorbeeld: iemand die nog nooit geprogrammeerd heeft, aangeeft dat ie pas vrij laat snapte hoe dat zat met bv. class vs. instance, of met encapsulation of constructors, maar wel een paar opdrachten laat zien en uitlegt heeft misschien wel superveel geleerd! (ook al is misschien niet alles comme-il-faut).    
+
+succes bij de afrondingen!
