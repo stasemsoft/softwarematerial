@@ -33,7 +33,9 @@ public class Clown
 ```
 
 
-Dan is mogelijk:```
+Dan is mogelijk:
+
+```
 Clown oneClown = new Clown();   //aanmaken object oneClown
 oneClown.Name = "Boffo";
 oneClown.Height = 14;
