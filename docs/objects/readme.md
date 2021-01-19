@@ -30,8 +30,7 @@ als eerste training met Objecten en Classes. Als je dat moeilijk vindt is het ve
 
 + [Training met Class: TrafficLight](exercise_Class_TrafficLight)
 
-+ [Training Marimba_and_Bass](exercise_Marimba_and_Bass.pdf) , in markdown:
-[Training Marimba_and_Bass](exercise_Marimba_and_Bass)
++ [Training Marimba_and_Bass](exercise_Marimba_and_Bass)
 
 De default Challenge is 'AutoDagWaarde'.
 (hiervoor heb je properties en enums nodig, waarover je meer hieronder kunt lezen).
