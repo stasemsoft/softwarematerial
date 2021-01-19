@@ -1,4 +1,4 @@
-# challenge BattleSim
+# Training BattleSim
 
 | Datum | Week 11/12 |
 | --- | --- |

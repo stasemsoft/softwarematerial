@@ -26,7 +26,7 @@ Als je een software engineer wilt worden is het belangrijk dat je je houdt aan a
 #### Training OOP
 
 Kies 1 van de 2 trainingen 'Trafficlight' of 'Marimba and the Bass'
-als eerste oefening met Objecten en Classes. Als je dat moeilijk vindt is het verstandig de ander ook te doen.
+als eerste training met Objecten en Classes. Als je dat moeilijk vindt is het verstandig de ander ook te doen. (als je al ervaring hebt kun je ook meteen de Eendenvijver uitgebreid gaan doen om  je docent te overtuigen dat je dat al kunt). 
 
 + [Training met Class: TrafficLight](exercise_Class_TrafficLight)
 

@@ -1,4 +1,4 @@
-# Challenge Auto Dagwaarde
+# Training Auto Dagwaarde
 
 | Niveau | 2 of 5 |
 | --- | --- |

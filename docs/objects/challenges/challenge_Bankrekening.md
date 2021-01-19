@@ -1,4 +1,4 @@
-# Challenge Bankrekening
+# Training Bankrekening
 
 | Niveau | ![](figures/niveau3.png "niveau") |
 | --- | --- |
