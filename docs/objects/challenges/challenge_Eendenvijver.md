@@ -39,6 +39,8 @@ Enkele ideeën:
 
 + Een kikker kan 3 geslachten hebben: mannelijk, vrouwelijk of wil-ik-niet-zeggen.
 
-+ Laat af en toe willekeurig een kikker van geslacht veranderen. De ooievaar lust dan alleen kikkers die hetzelfde geslacht hebben als de ooievaar (of juist een ander).  
++ Laat af en toe willekeurig een kikker van geslacht veranderen. De ooievaar lust dan alleen kikkers die hetzelfde geslacht hebben als de ooievaar.
 
-Verzin zelf nog meer.
++ Als geslacht gebruik je géén *string* of *int* maar een daarvoor geschikt *type*!
+
+Verzin zelf nog meer features.
