@@ -4,7 +4,7 @@ Verzameling Challenges, niet direct gekoppeld aan 1 onderwerp/concept.
 Niet bedoeld om per se letterlijk uit te voeren maar vooral als inspiratie!:
 varieer er dus gerust op!
 
-+ [challenge Eendenvijver](challenges/challenge_Class_Exploratie.pdf)
++ [challenge Eendenvijver](challenges/challenge_Eendenvijver)
 
 + [challenge PlatenMaatschappij](challenges/challengePlatenMaatschappij.pdf)
 
