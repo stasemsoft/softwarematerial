@@ -9,7 +9,7 @@ of in een
 
 ---
 
-### Uitgangspunten bij het structureren:
+### Uitgangspunten bij het structureren van dit materiaal:
 + `Tutorial`: practical steps, learning oriented.
 + `How-to guide`: practical steps, problem oriented.
 + `Discussion`: theoretical, understanding oriented.
