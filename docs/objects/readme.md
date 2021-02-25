@@ -40,9 +40,9 @@ De default Challenge is 'AutoDagWaarde'.
 
 Probeer nu de invuloefening Object Oriented te maken:
 
-+ [Training ObjectOriented invuloefening](exerciseObjectOrientedOefening.pdf)
++ [Training ObjectOriented invuloefening](exerciseObjectOrientedOefening)
 
-+ [Oplossing bij Training ObjectOriented invuloefening](solutionObjectOrientedOefening.pdf)
++ [Oplossing bij Training ObjectOriented invuloefening](solutionObjectOrientedOefening)
 
 
 ### property
