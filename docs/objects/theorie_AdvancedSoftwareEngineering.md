@@ -5,7 +5,7 @@ van het *programmeren* te pakken hebt gekregen en
 wilt meer over *Software Engineering* te weten komen.
 In dit *part* enkele onderwerpen die
 eerder nog niet (uitgebreid) aan bod zijn gekomen
-maar ook belangrijk zijn. Dit stuk tekst komt voornamelijk af van Alexander.
+maar ook belangrijk zijn. Dit stuk tekst komt voornamelijk af van docent Alexander.
 
 
 ## Achtergronden bij  Software Engineering: Inleiding
@@ -386,7 +386,7 @@ Auto auto = boot;
 Hier geldt ongeveer hetzelfde: In het geheugen is wel IVoertuig en Boot beschikbaar,
 maar niet Auto. Hierdoor is het niet mogelijk het geheugen te benaderen
 alsof het een auto is.
-13
+
 
 ### Software Architecture
 

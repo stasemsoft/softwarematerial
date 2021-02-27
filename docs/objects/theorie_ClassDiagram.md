@@ -1,8 +1,12 @@
+# Class Diagram
+
 Al eerder heb je `class diagrams` gezien:
-*plaatjes waarin classes als rechthoeken worden getoond*.
+*plaatjes waarin classes als rechthoeken worden getoond*:
+
 ![fig:ClassAenB](figures/ClassDiagram_multiplicity.png "Relation in class diagram")
 In figuur
 [](#fig:ClassAenB)
+
 zie je steeds twee `classes`, *A* en *B*.
 De relatie tussen *A* en *B* is steeds anders:
 De pijl geeft een relatie aan tussen de `classes`,
