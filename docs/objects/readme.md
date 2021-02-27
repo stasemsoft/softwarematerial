@@ -11,7 +11,7 @@ Bekijk onderstaande links voor je gaat programmeren,
 begin bij CRC (Class Responsibility Collaboration).
 
 + [Start Objects met CRC](crc/readme.md)
-+ [Theorie: Hoe programmeer je met Objecten?](theorie_Class.md)
++ [Theorie: Hoe programmeer je met Objecten?](theorie_Class)
 en ook:
 + [FUN12-dictaat classes](theorie_FUN12_DictaatKlassen.pdf)
 + [Voorbeeld OOP: pin-automaat](example_PinAutomaat)
@@ -77,7 +77,7 @@ en de training 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *e
 
 ### Private en public
 
-+ [Theorie Private en Public](theorie_PrivatePublic.pdf)
++ [Theorie Private en Public](theorie_PrivatePublic)
 
 
 ### Enkele Challenges
@@ -111,17 +111,17 @@ Als je de volgende video van Tim Corey nog niet bekeken had is dat nu zeker een 
 
 ## Classes in samenhang: Relations / CRC / Class diagrams
 
-+ [Theorie Class Diagram](theorie_ClassDiagram.pdf)
++ [Theorie Class Diagram](theorie_ClassDiagram)
 
-+ [Theorie GUI Separation](theorie_GuiSeparation.pdf)
++ [Theorie GUI Separation](theorie_GuiSeparation)
 
-+ [Theorie Which Class](theorie_WhichClass.pdf)
++ [Theorie Which Class](theorie_WhichClass)
 
 
 
 ### File Handling en Exception Handling
 
-+ [Theorie File Handling](theorie_FileHandling.pdf)
++ [Theorie File Handling](theorie_FileHandling)
 
 + [Training FileHandling](challenges/challengeFileHandling.pdf)
 

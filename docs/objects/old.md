@@ -3,7 +3,7 @@
 
 ## GDI graphics en het Paint-Event in C# / WinForms
 
-+ [Theorie Graphics](theorie_Graphics.pdf)
++ [Theorie Graphics](theorie_Graphics)
 
 + [challenge IedereenKanSchilderen](challenges/challengeIedereenKanSchilderen.pdf)
 

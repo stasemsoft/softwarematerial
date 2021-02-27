@@ -14,7 +14,9 @@ inclusief richting (`class` *A* kent `class` *B*).
 We gaan nu kijken hoe die relaties naar C#-code vertaald kunnen worden:
 
 
-Mogelijk bij (a) behorende C#-code```
+Mogelijk bij (a) behorende C#-code
+
+```
 pubic class A {
 
 	// Fields
@@ -22,13 +24,16 @@ pubic class A {
 
 }
 ```
+
 Hierbij *kent* `class` *A* `class` *B*.
 Het `Field` krijgt vaak de naam van de `class` maar dan beginnend met kleine letter.
 De waarde van *b* kan
 `null` zijn of een object van type *B*.
 
 
-In situatie (b)```
+In situatie (b)
+
+```
 pubic class A {
 
 	// Fields
@@ -36,11 +41,14 @@ pubic class A {
 
 }
 ```
+
 Hierbij *kent* `class` *A* `class` *B*.
 De waarde van *b* wordt direct ingevuld, deze zal dus niet `null` zijn.
 
 
-Bij (c) behorende C#-code:```
+Bij (c) behorende C#-code:
+
+```
 pubic class A {
 
 	// Fields
@@ -48,6 +56,7 @@ pubic class A {
 
 }
 ```
+
 Een `object` van `type` A kent 0 of meer (vanwege de `0..*`)
 objecten van `type` B.
 Voor de naam van het `Field` (hier *bs*)
