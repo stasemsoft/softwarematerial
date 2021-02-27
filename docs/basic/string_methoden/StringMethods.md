@@ -32,8 +32,8 @@ Programmeer deze user requirement.
 + Elke letter a wordt vervangen door een 4. 
 + Elke letter s wordt vervangen door een 5. 
 + Elke letter e wordt vervangen door een 3. 
-+ De letters v en V wordt vervangen door \\/. 
-+ De letters m en M worden vervangen door |V|. 
++ De letters v en V wordt vervangen door \\/ . 
++ De letters m en M worden vervangen door \|V\|. 
 
 
 ### Opdracht 3 – Hallo jij! 
