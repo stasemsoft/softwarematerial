@@ -28,7 +28,7 @@ varieer er dus gerust op!
 
 + [challenge lesrooster](challenges/challenge_lesrooster.pdf)
 
-+ [challenge Create Your Own challenge](challenges/challengeCreateYourOwn.pdf)
++ [challenge Create Your Own challenge](challenges/challenge_CreateYourOwn)
 
 ## Under construction
 

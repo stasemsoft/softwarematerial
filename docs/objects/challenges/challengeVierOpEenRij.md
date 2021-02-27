@@ -1,4 +1,5 @@
-<a id="cha:challengeVieropeenrij"></a>
+# Challenge Vier-op-een-rij
+	   
 | Leerdoelen | Class, method, constructor, object, private, enum. |
 | --- | --- |
 | Extra | Algoritme, |
