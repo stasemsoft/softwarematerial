@@ -10,7 +10,7 @@
 
 Je bent als software engineer ingehuurd om een tool te programmeren waarmee de dagwaarde van auto’s kan worden bepaald. Deze dagwaarde mag in deze Challenge berekend met de formule
 
-```
+```cs
 (500000/kilometerstand) * factor
 ```
 

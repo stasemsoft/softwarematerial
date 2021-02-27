@@ -45,7 +45,7 @@ Deze vier principes illustreren we aan de hand van de bankrekening-casus.
 **Fout**: Binnen een ChangeBalance-methode van de Bankaccount-klasse een messagebox (MessageBox.Show)
 activeren zodra er wordt geprobeerd om teveel geld van het BankAccount-object af te schrijven.
 
-```
+```cs
 public class Bankaccount {
   private decimal balance;
   private decimal threshold; // not negative
@@ -63,7 +63,7 @@ public class Bankaccount {
 
 **Goed**: De ChangeBalance-methode van de Bankaccount class retourneert  bijvoorbeeld een string. De betreffende string representeert of het opnemen van het geldbedrag al dan niet is geaccepteerd. Vervolgens kan deze returnwaarde naderhand in de GUI binnen een MessageBox als een message worden getoond.
 
-```
+```cs
 public class Bankaccount {
   private decimal balance;
   private decimal threshold;
@@ -83,7 +83,8 @@ Merk op, in plaats van de string als returnwaarde kan er ook met een simpele boo
 
 ### ad 2.
 **Fout**: Binnen de GUI-klasse wordt een hulpmethode CheckValidTransaction gedefinieerd waarbinnen alvast wordt gecontroleerd of het overmaken van geld, van de ene bankrekening naar een andere bankrekening uitvoerbaar is.
-```
+
+```cs
 // een methode binnen de GUI-klasse
 bool CheckValidTransaction(Bankaccount ba, decimal amount) {
   if (ba.getBalance() + amount < -ba.getTreshold()) {
@@ -95,7 +96,8 @@ bool CheckValidTransaction(Bankaccount ba, decimal amount) {
 ```
 
 **Goed**: Stuur het verzoek tot overmaken door naar het betreffende Bank-object van de bankrekening waar het geld van wordt afgeschreven. Later rapporteert het Bank-object of het overmaken is geslaagd, bijvoorbeeld door middel van een string (zie ook ad 1.)
-```
+
+```cs
 public class Bank {
   ...
   public string Transfer(string from, string to, decimal amount) {
@@ -125,7 +127,7 @@ Neem even aan dat er bij een bank geen twee klanten mogen voorkomen met dezelfde
 
 **Fout**: Binnen de Bank-klasse wordt er, zodra er een nieuwe klant wordt toegevoegd, niet gecontroleerd of er al een klant bestaat met dezelfde naam, adres en geboortdedatum.
 
-```
+```cs
 public class Bank {
   private List<Client> clients;
   ...
@@ -140,7 +142,7 @@ public class Bank {
 
 **Goed**: Binnen een AddClient-methode van de Bank-klasse wordt eerst gecontroleerd of er al een klant bestaat met dezelfde naam, adres en geboortdedatum. Zo ja, dan wordt het nieuwe Client-object niet gecreëerd en geregistreerd; anders wel. De AddClient-methode heeft als returnwaarde het nieuwe Client-object. Als de returnwaarde null is, is er geen Client-object gecreëerd.
 
-```
+```cs
 public class Bank {
   private List<Client> clients;
   ...
@@ -160,7 +162,7 @@ public class Bank {
 
 Binnen de GUI wordt een lijst met gegevens van alle bankrekeningen van een specifieke klant getoond. Dan is het handig als de  ToString-methode van de Bankaccount-klasse wordt geherdefinieerd; bijvoorbeeld door te volstaan met het rekeningnummer en de naam van de eigenaar van de bankrekening:
 
-```
+```cs
 public class Bankaccount {
   private string nr;
   private Client owner;

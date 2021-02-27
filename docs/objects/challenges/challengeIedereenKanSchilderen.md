@@ -17,7 +17,9 @@ Met deze opdracht kun je laten zien dat je File Handling, Exception Handling en 
 ### Casus 1 - Iedereen kan schilderen
 
 Schrijf een Windows Forms C#-programma dat een tekstbestand uitleest waar graphics-commando's in staan. Het programma gaat vervolgens al die commando's uitvoeren. Een commando in het tekstbestand is een instructie waarmee jouw programma cirkels en lijnen mee kan tekenen.
-Voorbeeld van de inhoud van het tekstbestand:```
+Voorbeeld van de inhoud van het tekstbestand:
+
+```cs
 cirkelR
 lijn
 lijn

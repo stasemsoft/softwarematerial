@@ -18,7 +18,8 @@ Wat gebeurt er dan precies onder water als je een object aanmaakt met new?
 Zie figuur
 [](#fig:clown).
 ![fig:clown](figures/class1-uml.png "class")
-```
+
+```cs
 public class Clown
 {
    // velden  
@@ -35,7 +36,7 @@ public class Clown
 
 Dan is mogelijk:
 
-```
+```cs
 Clown oneClown = new Clown();   //aanmaken object oneClown
 oneClown.Name = "Boffo";
 oneClown.Height = 14;
@@ -47,7 +48,7 @@ anotherClown.TalkAboutYourself();
 ```
 
 
-```
+```cs
 public class Guy
 {
    //velden
@@ -72,7 +73,7 @@ Constructor heeft altijd exact dezelfde naam als de klasse.
 Constructor heeft nooit een return-type  en ook geen void ervoor.
 Een klasse kan meerdere constructors hebben.
 
-```
+```cs
 Guy someGuy;
 Guy anotherGuy;
 someGuy = new Guy("Joe",20);

@@ -6,6 +6,7 @@
 Deze structuur wordt gebruikt om een stukje code een
 vooraf bekend aantal keer uit te laten voeren.
 Algemene vorm:
+
 ```cs
 for([teller variabele aanmaken]; [herhalingsconditie]; [teller variabele aanpassen])
 {

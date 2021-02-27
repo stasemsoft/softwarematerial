@@ -32,7 +32,7 @@ Sleep de benodigde componenten op het formulier. Het hoeft niet precies zoals in
 #### STAP 3: DE KLASSE BANKREKENING
 Voeg een nieuwe klasse toe en noem deze Bankrekening. Elke bankrekening heeft een rekeningnummer, staat op naam van een persoon en heeft een saldo. Zorg er voor dat de klasse Bankrekening-Fields heeft om de benodigde gegevens op te slaan en verder de volgende velden heeft:
 
-```
+```cs
 // Fields
 private int rekeningnummer;
 private string naam;
@@ -46,7 +46,7 @@ Programmeer de volgende attributen als READ ONLY (!) property's:
 - Naam (type string)
 - Saldo (type int)
 
-```
+```cs
 // Methods
 public void NeemOp(int bedrag)
 {
@@ -78,7 +78,7 @@ Elke nieuwe bankrekening moet natuurlijk een uniek rekeningnummer hebben. Bij de
 
 Een Constructor is een speciale methode met dezelfde naam als de klasse die wordt uitgevoerd als een object van die aangemaakt wordt en dient om de Fields of Properties van de klasse te initialiseren. We hebben twee Constructors nodig. Een om een Bankrekening aan te maken als de naam van de rekeninghouder bekend is en het beginsaldo 0 en een voor het geval dat er wel sprake is van een beginsaldo, bijvoorbeeld als onderdeel van een wervingsactie van de bank.
 
-```
+```cs
 // Constructors
 public Bankrekening(string naam)
 {
@@ -103,7 +103,8 @@ Het is in veel C# teams gebruikelijk om de Contructors na de Properties en voor 
 
 ### STAP 4: DE KLASSE BANKREKENINGFORM
 Declareer binnen de BankrekeningForm twee Fields, voor de 2 bankrekeningen. Initialiseer deze twee Fields vervolgens in de Constructor van het formulier.
-```
+
+```cs
 public partial class BankrekeningForm : Form
 {
     // Fields
@@ -120,7 +121,9 @@ public partial class BankrekeningForm : Form
 ```
 
 Maak nu de EventHandlers voor de knoppen aan. Weet je het nog? Door dubbel te klikken op de Button in het ontwerpscherm, wordt de standaard EventHandler (Click) automatisch aangemaakt. Vul de EventHandlers voor alle Buttons nu in om de gevraagde functionaliteit en de foutafhandeling te realiseren. Gebruik daarbij de methoden van de klasse Bankrekening die je al gemaakt hebt. Controleer op geldige invoer en vergeet ook niet de Labels met saldoinformatie bij te werken. Je kunt hiervoor de methode ToString gebruiken, waarbij je opgeeft dat je het saldo als valuta wilt.
-<p class="note">Als je wilt dat een numerieke waarde als valuta weergeven wordt dan kun je daarvoor de methode `ToString()` gebruiken. Je geeft dan als parameter een hoofdletter C mee om aan te duiden dat het currency (valuta) is:</p>```
+<p class="note">Als je wilt dat een numerieke waarde als valuta weergeven wordt dan kun je daarvoor de methode `ToString()` gebruiken. Je geeft dan als parameter een hoofdletter C mee om aan te duiden dat het currency (valuta) is:</p>
+
+```cs
 double saldo = 120.55;
 lblSaldo.Text = saldo.ToString(“C”);
 ```
@@ -130,13 +133,14 @@ lblSaldo.Text = saldo.ToString(“C”);
 Test als je klaar bent of alle functies en de foutafhandeling goed werken. Gebruik hiervoor ook de lijst van gewenste functionaliteit op de eerste pagina’s van deze opdracht.
 #### TryParse
 Als je wilt controleren of een ingetypte tekst een geheel getal is, kun je gebruik maken van onderstaande methode.
-```
+
+```cs
 bool int.TryParse(string text, out int result);
 ```
 
 Zoals je ziet is bij de declaratie van de tweede parameter out vermeld. Dit betekent dat deze methode de waarde van result mag aanpassen. Bij het aanroepen van de methode moet ook out vermeld worden. De waarde van de parameter result kan na het aanroepen van TryParse veranderd zijn. Als true wordt teruggegeven, bevat tekst een heel getal en heeft result de waarde. Zo niet, dan is er iets anders ingegeven dan een geheel getal en bevat result geen geldige waarde. Let op: een negatief geheel getal is ook een geheel getal.
 
-```
+```cs
 if (int.TryParse(txtEuroLinks.Text, out getal))
 {
     // de invoer in txtEuroLinks is een geheel getal en
@@ -155,7 +159,8 @@ Voeg een ListBox op het scherm waarin de transacties worden weergegeven onder ve
 
 
 ## UWP
-```
+
+```cs
 File -> New -> Project -> Windows Universal -> Blank Universal App.
 ```
 

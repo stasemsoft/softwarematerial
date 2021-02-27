@@ -10,7 +10,7 @@ Het antwoord op deze en nog veel meer vragen:
 
 Als je in een WinForms-app de `Program.cs` opent zie je soortgelijke code als:
 
-```
+```cs
 static void Main()
 {
     Application.EnableVisualStyles();
@@ -18,9 +18,10 @@ static void Main()
     Application.Run(new MyMainForm());
 }
 ```
+
 waarbij `MyMainForm` de naam is van je Form. Bij het opstarten van je app wordt met `new MyMainForm` een form aangemaakt. Vanuit dit form kun je het mainform zelf (`this`) `hidden` maken. Vervolgens een ander form aanmaken en daar de method `ShowDialog()` van aanroepen:
 
-```
+```cs
    this.hide();  
    SecondForm otherForm = new SecondForm();
    otherForm.ShowDialog();

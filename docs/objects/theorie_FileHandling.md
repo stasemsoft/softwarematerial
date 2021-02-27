@@ -3,7 +3,7 @@
 Om te kunnen schrijven naar een Text File of het lezen van
 een Text File moet je bovenaan in de C#-File het volgende toevoegen:
 
-```
+```cs
 using System.IO;
 ```
 
@@ -16,13 +16,13 @@ Het pad waar de File wordt weggeschreven is relatief ten opzichte van de executa
 
 Maak een StreamReader aan op de stream:
 
-```
+```cs
 StreamReader reader = new StreamReader(fileStream);
 ```
 
 en vervolgens kan één regel ingelezen worden met
 
-```
+```cs
 regel = reader.ReadLine();
 ```
 
@@ -42,7 +42,7 @@ succesvol is uitgevoerd. Door de *Close* in de `finally`
 te zetten weet je zeker dat na afloop de file gesloten is.
 Dat ziet er dus alsvolgt uit:
 
-```
+```cs
 String line;
 try
 {
@@ -75,7 +75,7 @@ finally
 ### Schrijven van een Text File
 
 Het schrijven gaat vergelijkbaar met het lezen:
-```
+```cs
 try
 {
 	StreamWriter writer = new StreamWriter("C:\\spruitjes.txt");
@@ -100,7 +100,7 @@ finally
 Het aanmaken van een StreamWriter kan ook met andere parameters,
 bijvoorbeeld:
 
-```
+```cs
 new StreamWriter("C:\\spruitjes.txt", true, Encoding.ASCII);
 ```
 

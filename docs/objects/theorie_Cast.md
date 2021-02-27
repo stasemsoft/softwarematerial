@@ -2,9 +2,11 @@
 
 ## Wat is casting?
 Een voorbeeld van casting in C#
-```
+
+```cs
 Product product = (Product) ListBoxProducten.Items[2];
 ```
+
 Uit de `Items` van een `ListBox` genaamd *ListBoxProducten*
 wordt hier het item met *index* 2 uitgelezen.
 De Items zijn van type *Object* maar de ontwikkelaar wéét dat alle
@@ -39,22 +41,25 @@ Zodra er op een knop gedrukt wordt, moet de tekst van het label veranderen in: �
 
 De gemakkelijkste manier om dit te programmeren is door alle 3 de buttons 1 gezamenlijke buttonhandler methode te laten hebben:
 
-```
+```cs
 private void NumberButton_Click(object sender, EventArgs e)
 {
   Button numberButton = (Button)sender;
   lblResult.Text = "You pressed button: " + numberButton.text;
 }
 ```
+
 Maar stel nou dat je per ongeluk het label Click event ook aan deze methode koppelt.
 Als je dan op het label klikt dan krijg je:
-```
+
+```cs
 Exception Unhandled
 System.InvalidCastException: "unable to cast object object of type ... to ... . "
 ```
 
 Het casten lukt hier niet en dus crasht je programma. Er is een nettere manier om van type te veranderen: met de *as* operator. Met *as* zeg je niet tegen de compiler: “vertrouw me, ik weet wat ik doe”, maar zeg je juist: “ik denk dat dit gaat, maar controleer het even voor me!”. De code ziet er dan als volgt uit:
-```
+
+```cs
 Button numberButton = sender as Button;
 ```
 
@@ -62,7 +67,7 @@ Het mooie hiervan is dat `numberButton` nu een geldig `Button` object wordt, maa
 
 Hier kunnen we gebruik van maken door te controleren op null:
 
-```
+```cs
 private void NumberButton_Click(object sender,  EventArgs e)
 {
   Button numberButton = sender as Button;
@@ -74,7 +79,8 @@ private void NumberButton_Click(object sender,  EventArgs e)
 ```
 
 Of netter nog:
-```
+
+```cs
 private void NumberButton_Click(object sender,  EventArgs e)
 {
   Button numberButton = sender as Button;
