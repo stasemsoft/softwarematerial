@@ -38,7 +38,7 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net iets anders: het knippen/plakken met strings.
 
 + [Reference: string methoden in C#](string_methoden/naslag_StringMethods.md)
-+ [Training: String methods in C#](string_methoden/Stringmethods)
++ [Training: String methods in C#](string_methoden/StringMethods)
 
 ## Lus / loop / herhaling
 
