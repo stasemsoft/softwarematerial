@@ -1,5 +1,6 @@
-<a id="cha:infoExternalResources"></a>
-Enkele alternatieve bronnen:
+# External Resources
+
+Enkele externe bronnen:
 
 #### Het youtube-kanaal van FHICT-docent Wilrik
 [YouTube Wilrik](https://www.youtube.com/watch?v=IuStUzWuPrw)

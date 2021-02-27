@@ -10,4 +10,7 @@ hou dan rekening met het volgende:
 - Gebruik in Canvas de `Submit`-button om de zip in te leveren.
 
 ![](figures/defaultDirectoryVS.png "default project directory van Visual Studio")
+
+
+
 ![](figures/contextmenuzip.png "default project directory van Visual Studio")
