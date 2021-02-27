@@ -69,7 +69,8 @@ Een ander voorbeeld:
 Een site waar allerlei (vaak wiskundige) programmeeruitdagingen op staan is
 [projecteuler.net](https://projecteuler.net/)
 Door softwaredocenten is Euler-project 54 (genaamd *poker hands*) al genoemd
-als een voorbeeld van een leuke uitdaging.
+als een voorbeeld van een leuke uitdaging. 
+Andere relevante Eulers: [[../basic/OIS11 en OIS12 - Project Euler challenges.pdf]]
 
 #### Dwitter.com
 
