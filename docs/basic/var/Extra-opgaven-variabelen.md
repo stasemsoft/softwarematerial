@@ -1,4 +1,5 @@
 # Extra opgaven variabelen/strings 
+
 ## Casus 1 - Vind het woord 
 Schrijf een programma dat voldoet aan de volgende requirements: 
 + Gebruiker kan een zin (een regel tekst) invoeren. 
