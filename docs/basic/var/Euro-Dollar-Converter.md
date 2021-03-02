@@ -1,12 +1,12 @@
- # Euro-Dollar Converter
- 
- ## Doelen
+# Euro-Dollar Converter
+
+## Doelen
  + Omgaan met verschillende typen (int, double, string).
  + Gebruik van variabelen. 
  + Converteren van typen.
   
- ## Inleiding 
- Reisbureau “FLUX vakanties” organiseert rondreizen in landen van alle continenten. Veel van de geboekte reizen gaan naar landen waar niet met euro’s maar met dollars betaald moet worden. Om de reisvoorbereidingen voor klanten wat te vergemakkelijken wil FLUX vakanties daarom een applicatie laten ontwikkelen om euro’s gemakkelijk naar dollars om te kunnen rekenen en andersom. 
+## Inleiding 
+Reisbureau “FLUX vakanties” organiseert rondreizen in landen van alle continenten. Veel van de geboekte reizen gaan naar landen waar niet met euro’s maar met dollars betaald moet worden. Om de reisvoorbereidingen voor klanten wat te vergemakkelijken wil FLUX vakanties daarom een applicatie laten ontwikkelen om euro’s gemakkelijk naar dollars om te kunnen rekenen en andersom. 
  
 ## Bronnen
 Voorbeelden over het werken met variabelen in C#: zie het OIS-dictaat. 
