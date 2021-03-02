@@ -9,10 +9,10 @@
 Reisbureau “FLUX vakanties” organiseert rondreizen in landen van alle continenten. Veel van de geboekte reizen gaan naar landen waar niet met euro’s maar met dollars betaald moet worden. Om de reisvoorbereidingen voor klanten wat te vergemakkelijken wil FLUX vakanties daarom een applicatie laten ontwikkelen om euro’s gemakkelijk naar dollars om te kunnen rekenen en andersom. 
  
 ## Bronnen
-Voorbeelden over het werken met variabelen in C#: zie het OIS-dictaat. 
+Voorbeelden over het werken met variabelen in C#: zie 'Reference: variable'. 
 
 ## Opdracht 
-De user interface is inmiddels ontworpen. 
+De user interface is al ontworpen: 
 
 ![Aangeleverd ontwerp user interface](figures/euro-dollar-conv.png)
 
