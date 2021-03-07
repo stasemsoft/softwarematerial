@@ -22,7 +22,7 @@ Zoals je ziet zijn ook de sneltoetsen in dit menu weergegeven. Dubbelklik in de 
 Type de onderstaande code in de "Main"-method (tussen de accolades)
 
 ```cs
-string\[\] namen = { "naam1", "naam2","naam3", "naam4", "naam5", "naam6" };
+string[] namen = { "naam1", "naam2","naam3", "naam4", "naam5", "naam6" };
 
 foreach (string naam in namen)
 Console.WriteLine(naam);
@@ -30,7 +30,7 @@ Console.ReadLine();
 ```
 
 ```
-Wat gebeurt er als deze code wordt uitgevoerd? Beschrijf het voordat je het programma uitvoert. 
+Wat gebeurt er als deze code wordt uitgevoerd? Beschrijf het voordat je het programma uitvoert.
 ```
 
 Een druk op de `Start`-knop heeft hetzelfde effect als `F5`. De applicatie runt na een eventuele build.
