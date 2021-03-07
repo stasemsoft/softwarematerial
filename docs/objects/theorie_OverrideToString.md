@@ -1,6 +1,6 @@
 # override ToString()
 
-```
+```cs
 class Persoon {
 
    // Field
@@ -27,12 +27,14 @@ class Persoon {
 
 
 Tip bij het programmeren: zet je eigen objecten in de user interface. Hiermee wordt bedoeld dat je objecten zelf in de UI zet, geen strings of andere variabelen. Bijvoorbeeld om een Persoon-object aan een listbox toe te voegen:
-```
+
+```cs
 listBox1.Items.Add(new Persoon("Sjakie"));
 ```
 
 Gebruik casting om het object uit een UI-control te halen:
-```
+
+```cs
 Persoon p = (Persoon)listBox1.Items[2];
 ```
 

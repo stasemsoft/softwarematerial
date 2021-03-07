@@ -1,4 +1,4 @@
-# Toolbox Basis (introductie in programmeren, zonder objecten)
+# Toolbox Basis: Basisconcepten van programmeren (zonder objecten)
 
 ## Algemene info
 + [Wat kan ik als ik de module 'basis' voldoende doorlopen heb?](resultaatformulier)
@@ -20,8 +20,8 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 + [Training: Goeroe-calc: variabele, bewerkingen, conversies](var/trainingVariabelenBewerkingenConversies)
 + [Reference: variable](var/naslag_Variable.md)
 + [Reference: operatoren](var/naslag_Operatoren.md)
-+ [Training: Euro Dollar converter](var/Euro-Dollar-converter.pdf)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! (Variabelen, bewerkingen, typen, conversie)
-+ [Training: Diversen](var/Extra-opgaven-variabelen.pdf)
++ [Training: Euro Dollar converter](var/Euro-Dollar-Converter)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! (Variabelen, bewerkingen, typen, conversie)
++ [Training: Diversen](var/Extra-opgaven-variabelen)
 + [Training: Computerrekenen](var/trainingComputerRekenen)
 
 ## Conditioneel
@@ -38,7 +38,7 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net iets anders: het knippen/plakken met strings.
 
 + [Reference: string methoden in C#](string_methoden/naslag_StringMethods.md)
-+ [Training: String methods in C#](string_methoden/Stringmethoden.pdf)
++ [Training: String methods in C#](string_methoden/StringMethods)
 
 ## Lus / loop / herhaling
 

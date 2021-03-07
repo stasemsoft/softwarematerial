@@ -57,7 +57,7 @@ Hieronder een deel van de oplossing, maar probeer het eerst zelf!
 Als je het in C# doet:
 Maak een Console app aan en vul de Main-methode alsvolgt in:
 
-```
+```cs
 static void Main(string[] args)
 {
     // Ik een beetje meer dan jij...

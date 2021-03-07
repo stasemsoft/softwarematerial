@@ -29,7 +29,8 @@ Voor we beginnen code te typen denken we eerst altijd na wat we willen bereiken:
 
 Een Console app heeft een *main*-method (`public static void Main(string [] args)`)
 waarin je code kunt zetten als:
-```
+
+```cs
 TrafficLight trafficLight = new TrafficLight();
 // color has to be "Red".
 Console.WriteLine(trafficLight.GetCurrentcolor());
@@ -43,6 +44,7 @@ trafficLight.NextState();
 // and 'red' again!
 Console.WriteLine(trafficLight.GetCurentColor());
 ```
+
 Bovenstaande code is wat slordig in elkaar gezet: kijk goed of er geen fouten in staan!
 Verbeter ze zonodig en test het programma uit.
 Kun je verbeteringen op het programma bedenken?

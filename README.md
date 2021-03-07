@@ -9,7 +9,7 @@ of in een
 
 ---
 
-### Uitgangspunten bij het structureren:
+### Uitgangspunten bij het structureren van dit materiaal:
 + `Tutorial`: practical steps, learning oriented.
 + `How-to guide`: practical steps, problem oriented.
 + `Discussion`: theoretical, understanding oriented.
@@ -39,7 +39,7 @@ De manier van denken, goed om iets van te weten...
 
 ---
 
-### Toolbox Basis: Basisconcepten van programmeren
+### Toolbox Basis: Basisconcepten van programmeren (zonder objecten)
 
 Een introductie in programmeren (nog zonder objecten).
 
@@ -60,6 +60,13 @@ Verdieping, programmeren met objecten
 Dit betreft een aantal niet-programmeer aspecten die een beginnend software engineer moet kennen en kunnen.
 
 + [Software Engineering](https://stasemsoft.github.io/softwarematerial/docs/software%20engineering/)
+
+
+---
+
+### Het Software Profiel bij FHICT
+
++ [Het Software Profiel](https://stasemsoft.github.io/softwarematerial/docs/softwareprofiel/)
 
 
 ---

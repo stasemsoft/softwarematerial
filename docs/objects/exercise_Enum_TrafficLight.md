@@ -11,7 +11,7 @@ Neem bijvoorbeeld 2 TrafficLights, zeg *trafficLight1* en *trafficLight2*.
 Als de *color* van *trafficLight1* waarde *Oranje* heeft en
 de *color* van *trafficLight2* waarde *Orange* dan zal een vergelijking als
 
-```
+```cs
 if (trafficLight1.color == trafficLight2.color) {
   ...
 }
@@ -23,7 +23,8 @@ Om die bugs te voorkomen gaan we er ditmaal een Enum bij gebruiken:
 Door het gebruik van een *Enum* kan de compiler helpen fouten te
 ontdekken en voorkomen!
 Voor de *color* (toestand) van het TrafficLight maken we een `Enum` aan:
-```
+
+```cs
 public enum TrafficlightColors {
    Red,
    Orange,
@@ -53,7 +54,7 @@ public enum TrafficlightColors {
 Een Console app heeft een *main*-method (`public static void Main(string [] args)`)
 waarin je code kunt zetten als:
 
-```
+```cs
 TrafficLight trafficLight = new TrafficLight();
 // color has to be TrafficlightColors.Red.
 Console.WriteLine(trafficLight.GetCurrentcolor());
@@ -67,6 +68,7 @@ trafficLight.NextState();
 // and TrafficlightColors.Red again!
 Console.WriteLine(trafficLight.GetCurentColor());
 ```
+
 Is deze code slordig in elkaar gezet? Kijk goed of er geen fouten in staan!
 Verbeter ze zonodig en test het programma uit.
 Kun je verbeteringen op het programma bedenken?

@@ -4,7 +4,7 @@ Deze opdracht is ooit geschreven als een WinForm-opdracht, maar je mag ook een v
 
 Gegeven is de volgende methode:
 
-```
+```cs
 int MaalDrie(int input)
 {
   int output = input * 3;

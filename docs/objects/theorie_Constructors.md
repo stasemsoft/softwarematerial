@@ -1,19 +1,25 @@
-<a id="cha:knowConstructor"></a>
+# Constructor
 
-Wat gebeurt er dan precies onder water als je een object aanmaakt met new? Dat is het leerdoel van deze week.
+Wat gebeurt er dan precies onder water als je een object aanmaakt met new?
 
-### Leerdoelen
+## Wat is method overloading?
 
-Kunnen uitleggen wat method overloading is (het is: dat je binnen een klasse methoden met dezelfde naam kunt hebben)
-Nieuwe constructors kunnen programmeren vanuit een gegeven specificatie.
+*Method overloading* betekent dat binnen een class meerdere  methods met dezelfde naam bestaan.
+
+## Wat is constructor overloading?
+
+*Constructor overloading* betekent dat binnen een class meerdere  constructors bestaan.
+
+
 ![](figures/class1-uml.png "class")
 
-### Nog een voorbeeld
+## Een voorbeeld
 
 Zie figuur
 [](#fig:clown).
 ![fig:clown](figures/class1-uml.png "class")
-```
+
+```cs
 public class Clown
 {
    // velden  
@@ -28,7 +34,9 @@ public class Clown
 ```
 
 
-Dan is mogelijk:```
+Dan is mogelijk:
+
+```cs
 Clown oneClown = new Clown();   //aanmaken object oneClown
 oneClown.Name = "Boffo";
 oneClown.Height = 14;
@@ -39,10 +47,8 @@ anotherClown.Height = oneClown.Height + 2;
 anotherClown.TalkAboutYourself();
 ```
 
-Een `klasse`/`class` is een blauwdruk van een `object`. Je kunt zo veel `objecten` van een zeker `type` opvoeren als je wilt. Elk `object` heeft zijn eigen `data`.
-Naast de term `object` kom je ook vaak de term `instantie` of `instantie van een klasse` tegen. Ze betekenen hetzelfde.
-### Constructor
-```
+
+```cs
 public class Guy
 {
    //velden
@@ -64,10 +70,10 @@ public class Guy
 ```
 
 Constructor heeft altijd exact dezelfde naam als de klasse.
-Constructor heeft nooit een return-waarde en ook geen void ervoor.
-Een klasse kan meerdere constructoren hebben.
-Gelijk is nu:
-```
+Constructor heeft nooit een return-type  en ook geen void ervoor.
+Een klasse kan meerdere constructors hebben.
+
+```cs
 Guy someGuy;
 Guy anotherGuy;
 someGuy = new Guy("Joe",20);
@@ -75,7 +81,11 @@ anotherGuy = new Guy("Jack");
 ```
 
 
-Vanaf nu is het belangrijk dat je veel gaat programmeren met klassen, methoden en constructoren en property's. Probeer zo veel mogelijk opdrachten uit te werken maar let op: code hoort thuis in klassen, niet in forms!
-Zorg ervoor dat je de feedback van je docent noteert in de FeedPulse, want zo weet je hoe je ervoor staat en wat je nog moet gaan doen om OIS12 succesvol af te sluiten.
-### Relevante challenges
+Vanaf nu is het belangrijk dat je veel gaat programmeren met classes, methods, constructors en properties.
+
+Let op: code hoort thuis in klassen, niet in forms!
+
+Zorg ervoor dat je de feedback van je docent noteert in de FeedPulse, want zo weet je hoe je ervoor staat.
+
+## Relevante challenges
 Invaders en Galgje.

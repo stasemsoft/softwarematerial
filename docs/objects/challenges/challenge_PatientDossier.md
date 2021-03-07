@@ -29,7 +29,7 @@ Daarna (hoofdstuk 'En nu verder...') lees je wat er verder aan functionaliteit b
 ## Opwarmer
 Bekijk het class diagram (plak de url in een browser naar keuze). Maak de classes vast aan:
 
-```
+```cs
 http://yuml.me/diagram/scruffy/class/edit/OIS12,[Patient|naam:string;geboortejaar:int|GetLeeftijd();]&lt;*-arts-[Afspraak],[Afspraak|dagEnTijd:DateTime],[Afspraak]patient-*&gt;[Huisarts|naam:string], [Patient]
 ```
 
@@ -48,11 +48,17 @@ Huisarts huisarts2 = new Huisarts("Barend");
 Maar misschien slimmer om een List van Huisartsen te maken?
 
 Een nieuwe Patient kan ik maken met behulp van:
+
 ```cs
 new Patient("Joris", 1999)  // naam en geboortejaar
 ```
 
-Maak een lijst van patienten aan: ```List<Patient>```
+Maak een lijst van patienten aan: 
+
+```cs
+List<Patient>
+```
+
 en voeg daar minstens 25 patienten aan toe.
 
 Van zowel Huisarts als Patient kan de naam opgevraagd worden, maar niet veranderd (behalve bij het aanmaken van de Patient).

@@ -22,21 +22,25 @@ een stuk van het programma dat we een `Class`
 (klasse) noemen en dat (in dit voorbeeld)
 de naam **Monster** krijgt.
 Voorbeeld in C# (hoe je dit in Visual Studio kunt doen komt een stukje verder):
-```
+
+```cs
 class Monster {
       ...
 }
 ```
+
 waarbij op de plaats van de puntjes de code voor deze `class` komt.
 Voorbeeld in Java:
-```
+
+```cs
 class Monster {
       ...
 }
 ```
 
 Voorbeeld in Swift:
-```
+
+```cs
 class Monster {
       ...
 }
@@ -84,7 +88,8 @@ Een waarde als *health* die elk `object`
 van een bepaald `type` met zich meedraagt
 noemen we een `Field`
 We maken hiertoe in Monster een `veld` *levenspunten* aan.
-```
+
+```cs
 class Monster {
   int health = 100;
 }
@@ -100,7 +105,8 @@ van die `class` (meestal zeggen we: alle `objecten` van dat `type`,
 want een `class` is een manier om een `type` te definiëren).
 Om een `object` van `class` *Monster* aan te maken:
 C# of Java:
-```
+
+```cs
 new Monster()
 ```
 
@@ -122,7 +128,8 @@ De code van het *Game* `object` komt in de `class` Game te staan.
 
 ![](figures/ClassDiagram_B.png "Iets handigere schematische weergave")
 In `class` Hero is een `Field`
-```
+
+```cs
 int numberDefeatedMonsters = 0;
 ```
 aangemaakt. De held wil namelijk graag dat de hele wereld weet hoeveel
@@ -132,7 +139,8 @@ De `Class` *Game* heeft referenties naar 1 *hero* en
 `type` (dat zijn de `class` namen) kun je zien dat
 de *hero* zich gedraagt zoals in `class` 'Hero' geprogrammeerd is,
 terwijl de beide monsters zich gedragen volgens de code in `class` Monster.
-```
+
+```cs
 public Game()
  {
      Hero hero = new Hero();
@@ -162,7 +170,8 @@ Nu gaan we coderen hoe het afhandelen van het bericht
 er uit kan zien. We zeggen dan dat we de `method`
 (want zo'n bericht heet in veel programmeertalen een `method`)
 *Attack* in de `class` *Hero* programmeren
-```
+
+```cs
 void Attack(Monster monster, int damage)
 {
   monster.LooseHealth(damage);
@@ -185,12 +194,14 @@ wat voor soort waarde er terug gegeven wordt.
 
 In `class` *Monster* moet vervolgens de `method` *LooseHealth*
 gecodeerd worden:
-```
+
+```cs
 void LooseHealth(int damage)
 {
     this.health = this.health - damage;
 }
 ```
+
 Uitleg:
 - Wederom begint het met *void* omdat de methode niks teruggeeft.
 - Dan de methodenaam *LooseHealth*.
@@ -209,7 +220,8 @@ Net zoals we bij een methode aanvullende informatie mee kunnen
 geven in de vorm van `parameters` kunnen we dat bij het aanmaken
 van een nieuw `object` ook. Hiertoe gebruiken we een `constructor`:
 Een `constructor` ziet er ongeveer uit als een methode:
-```
+
+```cs
 Monster(int initialHealth)
 {
   this.health = initialHealth;
@@ -247,7 +259,8 @@ Later wordt nog uitgelegd waarom, maar onthoudt vast dat we elk *Field* `private
 
 Voor de volledigheid volgt nu de code van de classes zoals die tot hier beschreven is.
 Allereerst de `class` *Game*
-```
+
+```cs
 namespace HereComeTheMonsters
 {
     public class Game
@@ -263,7 +276,7 @@ namespace HereComeTheMonsters
 ```
 
 dan `class` *Hero*
-```
+```cs
 namespace HereComeTheMonsters
 {
     public class Hero
@@ -284,7 +297,8 @@ namespace HereComeTheMonsters
 ```
 
 en tot slot `class` *Monster*
-```
+
+```cs
 namespace HereComeTheMonsters
 {
     public class Monster

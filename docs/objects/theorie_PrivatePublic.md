@@ -11,7 +11,7 @@
 ### Properties
 Een property definieert vaak een manier om de waarde van een veld op te vragen of zelfs te veranderen. Het opvragen kan vaak `public` zijn, maar het is bij de meeste velden niet de bedoeling dat de waarde van buitenaf veranderd kan worden.
 
-```
+```cs
 class Persoon
 {
    // Maak Velden private
@@ -29,14 +29,14 @@ class Persoon
 
 Het is nu niet mogelijk van buitenaf de waarde van een `veld` als `leeftijd` te veranderen:
 
-```
+```cs
 Persoon persoon = new Persoon("Pietje Puk");
 int leeftijd = persoon.leeftijd;  // dit werkt dus NIET!
 ```
 
 Uiteraard kan er in `class` *Persoon* een `methode` gemaakt worden die de waarde van `veld` *leeftijd* teruggeeft, een zogenaamde *get-method*:
 
-```
+```cs
 public int GetLeeftijd()
 {
    return this.leeftijd;
@@ -45,7 +45,7 @@ public int GetLeeftijd()
 
 zodat de leeftijd opgevraagd kan worden:
 
-```
+```cs
 int leeftijd = persoon.GetLeeftijd();
 ```
 
@@ -57,7 +57,7 @@ Wat is hier nu het voordeel van? Nou, binnen een jaar zal de ontwikkelaar van de
 In dit geval kun je zien dat het verstandiger is de *geboortedatum* van de persoon op te slaan (die verandert namelijk niet) en dan wordt bij het opvragen van de *leeftijd* de goede waarde berekend.
 De programmeur kan nu zonder problemen de `class` veranderen:
 
-```
+```cs
 class Persoon
 {
    // velden

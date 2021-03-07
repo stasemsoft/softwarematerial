@@ -1,5 +1,9 @@
+# Text File Handling 
+
 Om te kunnen schrijven naar een Text File of het lezen van
-een Text File moet je bovenaan in de C#-File het volgende toevoegen:```
+een Text File moet je bovenaan in de C#-File het volgende toevoegen:
+
+```cs
 using System.IO;
 ```
 
@@ -7,12 +11,18 @@ using System.IO;
 
 Om een `Text File` te kunnen lezen heb je een zogenaamde `Stream`
 nodig op de File.
-<p class="note">Het pad waar de File wordt weggeschreven is relatief ten opzichte van de executable, dus zoek (by default) in je *bin* *debug*. Met '..' ga je een directory hoger: '../bloemkool.txt'</p>
-Maak een StreamReader aan op de stream:```
+
+Het pad waar de File wordt weggeschreven is relatief ten opzichte van de executable, dus zoek (by default) in je *bin* *debug*. Met '..' ga je een directory hoger: '../bloemkool.txt'. 
+
+Maak een StreamReader aan op de stream:
+
+```cs
 StreamReader reader = new StreamReader(fileStream);
 ```
 
-en vervolgens kan één regel ingelezen worden met```
+en vervolgens kan één regel ingelezen worden met
+
+```cs
 regel = reader.ReadLine();
 ```
 
@@ -30,7 +40,9 @@ Tot slot het `finally` blok: dit wordt ALTIJD uitgevoerd:
 zowel als er een Exception is als wanneer het `try` blok
 succesvol is uitgevoerd. Door de *Close* in de `finally`
 te zetten weet je zeker dat na afloop de file gesloten is.
-Dat ziet er dus alsvolgt uit:```
+Dat ziet er dus alsvolgt uit:
+
+```cs
 String line;
 try
 {
@@ -63,7 +75,7 @@ finally
 ### Schrijven van een Text File
 
 Het schrijven gaat vergelijkbaar met het lezen:
-```
+```cs
 try
 {
 	StreamWriter writer = new StreamWriter("C:\\spruitjes.txt");
@@ -86,9 +98,12 @@ finally
 ```
 
 Het aanmaken van een StreamWriter kan ook met andere parameters,
-bijvoorbeeld:```
+bijvoorbeeld:
+
+```cs
 new StreamWriter("C:\\spruitjes.txt", true, Encoding.ASCII);
 ```
+
 - De encoding geeft aan hoe de karakters in de File worden geëncodeerd.
 - De *true* geeft in het voorbeeld hierboven aan of er ge*append* moet worden of dat de File overschreven moet worden.
 

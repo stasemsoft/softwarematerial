@@ -94,7 +94,8 @@ Het gaat om het toevoegen van alleen deze regel.
 Sommige namen in de regels erboven en eronder heten wat anders.
 Dat komt omdat in het voorbeeldprogramma de namen
 misschien net wat anders gekozen zijn. Dat is niet erg.
-```
+
+```cs
 MessageBox.Show(System.Text.Encoding.UTF8.GetString(System.Convert.FromBase64String("SGVsbG8gV29ybGQh")));
 ```
 
@@ -142,6 +143,6 @@ Als je een knop dubbelklikt kun je deze code gebruiken om neer te zetten
 dat dan zichtbaar wordt als je op de knop drukt.
 (Plak deze code op de lege regel tussen de { en }.)
 
-```
+```cs
 MessageBox.Show("Dank je wel voor het klikken!");
 ```

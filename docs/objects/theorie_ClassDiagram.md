@@ -1,8 +1,12 @@
+# Class Diagram
+
 Al eerder heb je `class diagrams` gezien:
-*plaatjes waarin classes als rechthoeken worden getoond*.
+*plaatjes waarin classes als rechthoeken worden getoond*:
+
 ![fig:ClassAenB](figures/ClassDiagram_multiplicity.png "Relation in class diagram")
 In figuur
 [](#fig:ClassAenB)
+
 zie je steeds twee `classes`, *A* en *B*.
 De relatie tussen *A* en *B* is steeds anders:
 De pijl geeft een relatie aan tussen de `classes`,
@@ -10,7 +14,9 @@ inclusief richting (`class` *A* kent `class` *B*).
 We gaan nu kijken hoe die relaties naar C#-code vertaald kunnen worden:
 
 
-Mogelijk bij (a) behorende C#-code```
+Mogelijk bij (a) behorende C#-code
+
+```cs
 pubic class A {
 
 	// Fields
@@ -18,13 +24,16 @@ pubic class A {
 
 }
 ```
+
 Hierbij *kent* `class` *A* `class` *B*.
 Het `Field` krijgt vaak de naam van de `class` maar dan beginnend met kleine letter.
 De waarde van *b* kan
 `null` zijn of een object van type *B*.
 
 
-In situatie (b)```
+In situatie (b)
+
+```cs
 pubic class A {
 
 	// Fields
@@ -32,11 +41,14 @@ pubic class A {
 
 }
 ```
+
 Hierbij *kent* `class` *A* `class` *B*.
 De waarde van *b* wordt direct ingevuld, deze zal dus niet `null` zijn.
 
 
-Bij (c) behorende C#-code:```
+Bij (c) behorende C#-code:
+
+```cs
 pubic class A {
 
 	// Fields
@@ -44,6 +56,7 @@ pubic class A {
 
 }
 ```
+
 Een `object` van `type` A kent 0 of meer (vanwege de `0..*`)
 objecten van `type` B.
 Voor de naam van het `Field` (hier *bs*)

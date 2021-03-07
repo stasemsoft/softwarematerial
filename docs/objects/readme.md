@@ -1,4 +1,4 @@
-# Toolbox Verdiepend
+# Toolbox Verdiepend: Objects en Classes
 
 ## Programmeren met Objects en Classes
 
@@ -11,11 +11,12 @@ Bekijk onderstaande links voor je gaat programmeren,
 begin bij CRC (Class Responsibility Collaboration).
 
 + [Start Objects met CRC](crc/readme.md)
-+ [Theorie: Hoe programmeer je met Objecten?](theorie_Class.md)
++ [Theorie: Hoe programmeer je met Objecten?](theorie_Class)
 en ook:
 + [FUN12-dictaat classes](theorie_FUN12_DictaatKlassen.pdf)
 + [Voorbeeld OOP: pin-automaat](example_PinAutomaat)
 + [(external) video over OOP](https://www.youtube.com/watch?v=SiBw7os-_zI&feature=youtu.be)
++ [Constructor (en constructor overloading)](theorie_Constructors)
 
 Als je een software engineer wilt worden is het belangrijk dat je je houdt aan afspraken en best practices:
 + [video Tim Corey: Top 10 C# Best Practices](https://www.youtube.com/watch?v=-9b8NRqjUFM)
@@ -25,11 +26,11 @@ Als je een software engineer wilt worden is het belangrijk dat je je houdt aan a
 #### Training OOP
 
 Kies 1 van de 2 trainingen 'Trafficlight' of 'Marimba and the Bass'
-als eerste oefening met Objecten en Classes. Als je dat moeilijk vindt is het verstandig de ander ook te doen.
+als eerste training met Objecten en Classes. Als je dat moeilijk vindt is het verstandig de ander ook te doen. (als je al ervaring hebt kun je ook meteen de Eendenvijver uitgebreid gaan doen om  je docent te overtuigen dat je dat al kunt).
 
 + [Training met Class: TrafficLight](exercise_Class_TrafficLight)
 
-+ [Training Marimba_and_Bass](exercise_Marimba_and_Bass.pdf)
++ [Training Marimba_and_Bass](exercise_Marimba_and_Bass)
 
 De default Challenge is 'AutoDagWaarde'.
 (hiervoor heb je properties en enums nodig, waarover je meer hieronder kunt lezen).
@@ -39,9 +40,9 @@ De default Challenge is 'AutoDagWaarde'.
 
 Probeer nu de invuloefening Object Oriented te maken:
 
-+ [Training ObjectOriented invuloefening](exerciseObjectOrientedOefening.pdf)
++ [Training ObjectOriented invuloefening](exerciseObjectOrientedOefening)
 
-+ [Oplossing bij Training ObjectOriented invuloefening](solutionObjectOrientedOefening.pdf)
++ [Oplossing bij Training ObjectOriented invuloefening](solutionObjectOrientedOefening)
 
 
 ### property
@@ -76,7 +77,7 @@ en de training 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *e
 
 ### Private en public
 
-+ [Theorie Private en Public](theorie_PrivatePublic.pdf)
++ [Theorie Private en Public](theorie_PrivatePublic)
 
 
 ### Enkele Challenges
@@ -96,7 +97,7 @@ en de training 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *e
 
 Mensen die Software Engineer willen worden zullen hier zeker van smullen:
 
-+ [Theorie So you wanna be a Software Engineer](theorie_AdvancedSoftwareEngineering.pdf) of zelfde in [(markdown)](theorie_AdvancedSoftwareEngineering.md).
++ [Theorie So you wanna be a Software Engineer](theorie_AdvancedSoftwareEngineering).
 
 Als je de volgende video van Tim Corey nog niet bekeken had is dat nu zeker een aanrader!
 + [video Tim Corey: Top 10 C# Best Practices](https://www.youtube.com/watch?v=-9b8NRqjUFM)
@@ -110,17 +111,17 @@ Als je de volgende video van Tim Corey nog niet bekeken had is dat nu zeker een 
 
 ## Classes in samenhang: Relations / CRC / Class diagrams
 
-+ [Theorie Class Diagram](theorie_ClassDiagram.pdf)
++ [Theorie Class Diagram](theorie_ClassDiagram)
 
-+ [Theorie GUI Separation](theorie_GuiSeparation.pdf)
++ [Theorie GUI Separation](theorie_GuiSeparation)
 
-+ [Theorie Which Class](theorie_WhichClass.pdf)
++ [Theorie Which Class](theorie_WhichClass)
 
 
 
 ### File Handling en Exception Handling
 
-+ [Theorie File Handling](theorie_FileHandling.pdf)
++ [Theorie File Handling](theorie_FileHandling)
 
 + [Training FileHandling](challenges/challengeFileHandling.pdf)
 

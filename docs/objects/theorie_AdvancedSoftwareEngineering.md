@@ -5,7 +5,7 @@ van het *programmeren* te pakken hebt gekregen en
 wilt meer over *Software Engineering* te weten komen.
 In dit *part* enkele onderwerpen die
 eerder nog niet (uitgebreid) aan bod zijn gekomen
-maar ook belangrijk zijn. Dit stuk tekst komt voornamelijk af van Alexander.
+maar ook belangrijk zijn. Dit stuk tekst komt voornamelijk af van docent Alexander.
 
 
 ## Achtergronden bij  Software Engineering: Inleiding
@@ -43,7 +43,8 @@ wordt een commando in het programma uitgevoerd. Hierbij kun je denken
 aan het declareren van een variabele, het toekennen van een waarde aan een variabele
 en het aanroepen van een methode. In code zien statements er als volgt
 uit:
-```
+
+```cs
 int i = 4;
 int j = 5;
 int uitkomst = BerekenProduct(i, j);
@@ -60,7 +61,8 @@ conditie niet waar is. Dit wordt schematisch weergegeven in
 ![fig:keuzestructuur_01](figures/keuzestructuur_01.jpg "keuzestructuur")
 
 In code ziet dit er dan als volgt uit:
-```
+
+```cs
 if (Leeftijd > 65)
 {
    prijs = 25;
@@ -88,7 +90,8 @@ maar onder 1 conditie uitgevoerd worden: De prijs wordt 25 als de leeftijd boven
 de 65 is, de prijs wordt 0 als de leeftijd NIET boven de 65 is, maar wel onder
 de 4 en in alle andere gevallen wordt de prijs 35.
 In de code komt er dan een ’else if’ bij:
-```
+
+```cs
 if (Leeftijd > 65)
 {
    prijs = 25;
@@ -121,7 +124,8 @@ conditie voldaan is. Stel dat je bijvoorbeeld een getal moet ophogen met 5 tot
 dit getal boven de 100 komt, dan gebruik je hiervoor een conditie-gebaseerde
 structuur.
 In code ziet dit er als volgt uit:
-```
+
+```cs
 int i = 1;
 while (i < 100)
 {
@@ -133,7 +137,8 @@ while niet uitgevoerd. Een alternatief van deze variant is de do-while construct
 Bij de do-while wordt de code uitgevoerd, totdat de conditie niet meer waar is
 en wordt de code dus altijd ten minste 1x uitgevoerd. De code hiervoor ziet er
 als volgt uit:
-```
+
+```cs
 int i = 1;
 do
 {
@@ -150,7 +155,8 @@ moet vinden en dit aantal zal niet veranderen. Dit kan opgelost worden met
 de conditie-gebaseerde structuur, maar in (bijna) alle programmeertalen is hier
 een speciale constructie voor: de for-herhalingsstructuur. In code ziet deze er
 als volgt uit:
-```
+
+```cs
 for (int i = 0; i < 10; i++)
 {
    Console.WriteLine(i * 10);
@@ -173,7 +179,8 @@ Als je op alle elementen van een lijst een actie wilt uitvoeren, dan kun je hier
 een for-lus gebruiken waarbij de conditie voor de eindwaarde het aantal
 elementen uit de lijst bevat. De meeste talen bieden hier ook een specifieke
 structuur voor aan: de foreach-lus. In code ziet dit er als volgt uit:
-```
+
+```cs
 List<Persoon> personen = HaalAllePersonenOp();
 foreach (Persoon persoon in personen)
 {
@@ -184,13 +191,15 @@ foreach (Persoon persoon in personen)
 Je ziet dat je in deze structuur niet expliciet hoeft aan te geven hoeveel iteraties
 uitgevoerd gaan worden, en je hebt direct de instantie van de Persoon
 beschikbaar.
+
 ## Variabelen
 
 ### Scope
 
 Elke variabele heeft een scope. De scope van een variabele geeft aan wanneer
 de variabele bestaat. Neem bijvoorbeeld de volgende code:
-```
+
+```cs
 int i = 1;
 if (i == 1)
 {
@@ -237,6 +246,7 @@ helemaal niet handig. Daarom is de string in een aantal OO-talen een hybride
 vorm. In C# bijvoorbeeld, wordt de string toegepast als primitief type als
 je strings opslaat, maar als object als je string-functionaliteiten gebruikt zoals
 Split, Replace en Substring.
+
 ### Value typen versus Reference typen
 
 We hebben in de vorige sectie gekeken naar primitieve typen versus object typen.
@@ -257,7 +267,8 @@ de integer waarde 4 is opgeslagen. Dit heeft een aantal gevolgen:
 - Wanneer de variabele leeftijd niet meer bestaat, wordt het geheugen weer vrijgegeven.
 
 Stel je hebt de volgende code:
-```
+
+```cs
 int leeftijd = 4;
 string naam = "Paul";
 ```
@@ -272,7 +283,8 @@ dan wordt er in het geheugen een kopie gemaakt van de waarde in leeftijd en
 deze wordt toegekend aan oudeLeeftijd. Dit betekent dus, dat als je daarna de
 waarde van leeftijd aanpast, de waarde van oudeLeeftijd NIET mee verandert.
 Stel dus dat je de volgende code uitvoert:
-```
+
+```cs
 int leeftijd = 4;
 int oudeLeeftijd = leeftijd;
 leeftijd = 10;
@@ -289,9 +301,11 @@ dat moment worden er niet één, maar twee stukjes geheugen gereserveerd:
 In één stuk geheugen wordt de inhoud van de variabele opgeslagen en in het andere
 stuk geheugen wordt een referentie naar deze inhoud opgeslagen. Stel dus dat
 je de volgende code uitvoert:
-```
+
+```cs
 Auto opel = new Auto("Opel Zafira");
 ```
+
 dan ziet het geheugen er uit als in
 
 ![fig:geheugenLayout03](figures/geheugenLayout03.jpg "Geheugen layout bij uitvoeren code")
@@ -302,7 +316,8 @@ Ook het toekennen van de ene variabele aan de andere werkt bij reference
 typen anders. Wanneer je een variabele toekent aan een andere, wordt er één
 extra stukje geheugen gereserveerd, waarin een referentie naar de al bestaande
 inhoud van wordt opgeslagen. Stel dus dat je de volgende code hebt:
-```
+
+```cs
 Auto opel = new Auto("Opel Zafira");
 Auto nogEenOpel = opel;
 ```
@@ -338,7 +353,7 @@ classes) en *interfacing*. In dit hoofdstuk komt aan bod hoe inheritance in het 
 
 Een voorbeeld van een *class diagram* dat gebruik maakt van *inheritance*. Als je dit class diagram geïmplementeerd hebt, dan kun je al deze classes gebruiken om objecten mee te maken. Stel dat je de volgende code schrijft:
 
-```
+```cs
 Motorboot yamaha = new Motorboot();
 ```
 
@@ -350,7 +365,7 @@ type van de variabele geeft aan bij welke van deze gegevens je mag. In het geval
 van Motorboot betekent dit dat je bij alle gegevens mag.
 Stel dat je nu de volgende code hebt:
 
-```
+```cs
 Motorboot yamaha = new Motorboot();
 Boot boot = yamaha;
 IVoertuig voertuig = yamaha;
@@ -368,7 +383,7 @@ geheugen is waar alle data staat.
 
 In het voorbeeld van de Motorboot werd een motorboot aangemaakt, waarna deze als Boot en IVoertuig gebruikt werd. Andersom kan dit niet. De volgende code zal dus niet compilen:
 
-```
+```cs
 Boot boot = new Boot();
 Motorboot yamaha = boot;
 ```
@@ -379,14 +394,14 @@ wilt benaderen als Motorboot zou er een stukje geheugen moeten zijn waarin
 het aantalPk opgeslagen is, maar dit is er niet.
 Wat ook niet kan is het volgende:
 
-```
+```cs
 Boot boot = new Boot();
 Auto auto = boot;
 ```
 Hier geldt ongeveer hetzelfde: In het geheugen is wel IVoertuig en Boot beschikbaar,
 maar niet Auto. Hierdoor is het niet mogelijk het geheugen te benaderen
 alsof het een auto is.
-13
+
 
 ### Software Architecture
 

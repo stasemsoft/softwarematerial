@@ -91,6 +91,7 @@ How?
 Suppose you want to create a directory (`mkdir` means *make dir*)
 *myProject* in your *Documents* `directory`
 you type the commands:
+
 ```
 cd Documents
 mkdir myProject
