@@ -15,3 +15,4 @@ Als er vragen zijn kun je daarmee terecht bij je eigen softwaredocent, of natuur
 Voor latere semesters bestaan er speciale PCI-courses (zoek op 'PCI' in canvas), zodat je als Fontys-student alvast een kijkje kunt nemen in een volgend semester. Hieronder links naar semester S2:
 + [S-S2-Proftaak-PCI](https://fhict.instructure.com/courses/8652)
 + [S-S2-Individueel-PCI](https://fhict.instructure.com/courses/8649)
++ [achtergrondinformatie](http://i874317.hera.fhict.nl/doku.php)
