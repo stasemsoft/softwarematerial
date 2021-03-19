@@ -21,6 +21,8 @@ en ook:
 Als je een software engineer wilt worden is het belangrijk dat je je houdt aan afspraken en best practices:
 + [video Tim Corey: Top 10 C# Best Practices](https://www.youtube.com/watch?v=-9b8NRqjUFM)
 + [Coding Guidelines](../process/infoCodingGuidelines.md)
++ [Reference: C# .NET Coding Standard/Conventions](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)  
+
 
 
 #### Training OOP

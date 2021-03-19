@@ -13,6 +13,7 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 + [Reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys)
 
 
+
 ## Variabelen, assignment, typen, debugger: eerste stapjes in C#
 
 + [Presentatie: Variabelen, bewerkingen en conversies](var/Variabelen-bewerkingen-conversies.pptx)
@@ -101,23 +102,39 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 
 ## Diverse trainingsmogelijkheden, inspiratie, overige resources
 
-+ [mooi en laagdrempelig (microsoft)](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/?WT.mc_id=-blog-scottha)
-+ [Dictaat Basis programmeren](knowOis11dictaat).
+### Tekst Tutorial
++ [Tekst: mooi en laagdrempelig (microsoft)](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/?WT.mc_id=-blog-scottha)
++ [Reference: C# .NET Documentation](https://docs.microsoft.com/en-us/dotnet/#pivot=docs&panel=getstarted)  
+
+### Video tutorial - Console
++ [C# 101](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN). 
++ [Reference: C# Basics by Stev Bishop ](https://www.youtube.com/playlist?list=PLYMOUCVo86jGzNXPgyKB-B1IvE1LoXKi6) - video 1 t/m 39  
++ [Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)  
+
+### About algorithm & Problem Solving 
++ [Source Code: How to Make Algorithm and Flowchart from a given problem](https://www.youtube.com/watch?v=NdS8J9lHWgE)
++ [Eugene O'Loughlin in Problem Solving Techniques #8: Flow Charts](https://www.youtube.com/watch?v=hN9xemJYwos&list=PL9F789252CC28FB3A&index=8)
++ [CS Dojo: 5 Problem Solving Technics](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)  
+
+### Vingeroefening, Training, Challenge
 + [Programming Challenges](https://git.fhict.nl/I872272/ProgrammingChallenges) 67+ Programming Challenges (zowel game als non-game)
 + [Code Wars](https://www.codewars.com/) - [Basis niveau](https://www.codewars.com/kata/search/csharp?q=&r%5B%5D=-8&tags=Fundamentals&beta=false)  
-+ [Project Euler](https://projecteuler.net/) : een [overzicht van geschikte Basis en Verdiepings Challenges](https://stasemsoft.github.io/softwarematerial/docs/basic/OIS11%20en%20OIS12%20-%20Project%20Euler%20challenges.pdf)  
++ [Project Euler](https://projecteuler.net/) : een [overzicht van geschikte Basis (en Verdiepings) Challenges](https://stasemsoft.github.io/softwarematerial/docs/basic/OIS11%20en%20OIS12%20-%20Project%20Euler%20challenges.pdf)  
 + [Coding Game](https://www.codingame.com/)  
-+ [Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)  
-+ [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)  
+
+### Dictaat, Boek, Kennis
++ [Dictaat Basis programmeren](knowOis11dictaat).
++ [C# Begrippen 'flash cards'](https://quizlet.com/18210232/c-sharp-terminology-flash-cards/) bijv. Method, Property, Class, ...
++ [Reference: Head First C#](https://www.oreilly.com/library/view/head-first-c/9781449358846/) - Basis=Hoofdstuk 1 tm 4
+
+### W.V.T.T.K., diversen
 + [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)  
 + [Computerphile](https://www.youtube.com/user/Computerphile)  
 + [TED talk 8 secrets of success](https://www.ted.com/talks/richard_st_john_s_8_secrets_of_success?language=nl)  
-+ [C# Begrippen 'flash cards'](https://quizlet.com/18210232/c-sharp-terminology-flash-cards/) bijv. Method, Property, Class, ...
-+ [C# 101](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN) van [dotnet.microsoft.com/learn/videos](https://dotnet.microsoft.com/learn/videos)
-+ [Reference: Head First C#](https://www.oreilly.com/library/view/head-first-c/9781449358846/) - Basis=Hoofdstuk 1 tm 4
-+ [Reference: C# .NET Documentation](https://docs.microsoft.com/en-us/dotnet/#pivot=docs&panel=getstarted)  
-+ [Reference: C# .NET Coding Standard/Conventions](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)  
-+ [Reference: C# Basics ](https://www.youtube.com/playlist?list=PLYMOUCVo86jGzNXPgyKB-B1IvE1LoXKi6) - video 1 t/m 39  
+
++ [dotnet.microsoft.com/learn/videos](https://dotnet.microsoft.com/learn/videos)
+
+
 + [Tutorials Point](https://www.tutorialspoint.com/csharp/) - Basis=C# Basic Tutorial tm onderwerp Enums  
 + [Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51) - Basis=module 1 tm 8, Verdieping=module 9+  
 + [Solo Learn](https://www.sololearn.com/Course/CSharp) - Basis=module 1 tm 3, Verdieping=module 4+  
