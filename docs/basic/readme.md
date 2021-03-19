@@ -88,10 +88,6 @@ Het antwoord op deze en nog veel meer vragen:
 [How to...](howto)
 
 
-## Demo-filmpjes
-
-[van Jan](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/index.html)
-
 ## Integrale opdrachten
 
 Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bij elkaar komen.
@@ -110,6 +106,14 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 + [C# 101](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN). 
 + [Reference: C# Basics by Stev Bishop ](https://www.youtube.com/playlist?list=PLYMOUCVo86jGzNXPgyKB-B1IvE1LoXKi6) - video 1 t/m 39  
 + [Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)  
++ [Tutorials Point: C# Tutorial](https://www.tutorialspoint.com/csharp/) - Basis=C# Basic Tutorial tm onderwerp Enums  
++ [Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51) - Basis=module 1 tm 8, Verdieping=module 9+  
++ [Derek Banas](https://www.youtube.com/watch?v=0p0JLFZj2C8&list=PLGLfVvz_LVvRX6xK1oi0reKci6ignjdSa) - Basis=tutorial 1 tm 4, Verdieping=tutorial 5+  
+
+### Video tutorial - WinForms
++ [C# Programming: Windows Forms and Event Handlers](https://www.youtube.com/watch?v=W6vJ_c9Mt6A)
++ [Coding Cafe: WinForms series](https://www.youtube.com/watch?v=8ARnYQgShY8&list=PLxefhmF0pcPlDKe7smJMoHPNS1tJQ7w7q)
+
 
 ### About algorithm & Problem Solving 
 + [Source Code: How to Make Algorithm and Flowchart from a given problem](https://www.youtube.com/watch?v=NdS8J9lHWgE)
@@ -128,6 +132,7 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 + [Reference: Head First C#](https://www.oreilly.com/library/view/head-first-c/9781449358846/) - Basis=Hoofdstuk 1 tm 4
 
 ### W.V.T.T.K., diversen
++ [Videos van Collega Jan](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/index.html)
 + [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)  
 + [Computerphile](https://www.youtube.com/user/Computerphile)  
 + [TED talk 8 secrets of success](https://www.ted.com/talks/richard_st_john_s_8_secrets_of_success?language=nl)  
@@ -135,7 +140,3 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 + [dotnet.microsoft.com/learn/videos](https://dotnet.microsoft.com/learn/videos)
 
 
-+ [Tutorials Point](https://www.tutorialspoint.com/csharp/) - Basis=C# Basic Tutorial tm onderwerp Enums  
-+ [Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51) - Basis=module 1 tm 8, Verdieping=module 9+  
-+ [Solo Learn](https://www.sololearn.com/Course/CSharp) - Basis=module 1 tm 3, Verdieping=module 4+  
-+ [Derek Banas](https://www.youtube.com/watch?v=0p0JLFZj2C8&list=PLGLfVvz_LVvRX6xK1oi0reKci6ignjdSa) - Basis=tutorial 1 tm 4, Verdieping=tutorial 5+  
