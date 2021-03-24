@@ -58,7 +58,10 @@ Als je een extra uitdaging wilt met loops:
 + [Reference: Methodes in C#](methoden/naslag_methods.md)
 + Tutorial (alleen geschikt als je zelf ook in WinForms werkt):
   1. [method in WinForms 1](https://youtu.be/SRwDqyyZFXY?list=PL0EE421AE8BCEBA4A)
-  1. [method in WinForms 2](https://youtu.be/ND8aXadDbyg?list=PL0EE421AE8BCEBA4A).
+  2. [method in WinForms 2](https://youtu.be/ND8aXadDbyg?list=PL0EE421AE8BCEBA4A).
+ + [w3schools : methods](https://www.w3schools.com/cs/cs_methods.asp)
+	+ OPMERKING: hier worden `static` methods gebruikt: OK voor de oriëntatie maar zogauw je met objecten werkt doe je dit bijna niet meer. 
++ [w3schools : method parameters](https://www.w3schools.com/cs/cs_method_parameters.asp)
 + [Training: methode ElkaarAchterstevoren](methoden/methodW1W2.md)
 + [Training: Bloeddruk](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Bloeddruk%20meten.pdf)  
 + [Training: method marathon](methoden/methodmarathon)
@@ -99,11 +102,13 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 ## Diverse trainingsmogelijkheden, inspiratie, overige resources
 
 ### Tekst Tutorial
++ [w3schools - c#](https://www.w3schools.com/cs/default.asp)
 + [Tekst: mooi en laagdrempelig (microsoft)](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/?WT.mc_id=-blog-scottha)
 + [Reference: C# .NET Documentation](https://docs.microsoft.com/en-us/dotnet/#pivot=docs&panel=getstarted)  
 
 ### Video tutorial - Console
 + [C# 101](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN). 
++ [CSharp for beginners](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/)
 + [Reference: C# Basics by Stev Bishop ](https://www.youtube.com/playlist?list=PLYMOUCVo86jGzNXPgyKB-B1IvE1LoXKi6) - video 1 t/m 39  
 + [Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)  
 + [Tutorials Point: C# Tutorial](https://www.tutorialspoint.com/csharp/) - Basis=C# Basic Tutorial tm onderwerp Enums  
