@@ -17,7 +17,7 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 ## Variabelen, assignment, typen, debugger: eerste stapjes in C#
 
 + [Presentatie: Variabelen, bewerkingen en conversies](var/Variabelen-bewerkingen-conversies.pptx)
-+ [Tutorial: De Debugger](debugger/Debugger), of [oud/pdf](https://stasemsoft.github.io/softwarematerial/docs/basic/debugger/Debugger.pdf)
++ [Tutorial: De Debugger](debugger/Debugger)
 + [Training: Goeroe-calc: variabele, bewerkingen, conversies](var/trainingVariabelenBewerkingenConversies)
 + [Reference: variable](var/naslag_Variable.md)
 + [Reference: operatoren](var/naslag_Operatoren.md)
