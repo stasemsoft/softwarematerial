@@ -1,4 +1,4 @@
-<a id="cha:challengeCodingGuidelines"></a>
+About Coding Guidelines (FHICT)
 
 In elke programmeertaal zijn er afspraken over hoe code er uit ziet. Veel teams maken hier extra afspraken over.
 
