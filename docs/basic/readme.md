@@ -30,8 +30,8 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 + [Presentatie: Keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Keuzestructuren.pptx)
 + [Reference: Keuzestructuren in C#](conditioneel/naslag_Keuzestructuren.md)
 + [Training: Calorieën tracker](conditioneel/Calorieen-tracker.md)
-+ [Training: Dobbelsteen](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Dobbelsteen.pdf)
-+ [Training: Pincode-reminder](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Pincode-reminder.pdf)
++ [Training: Dobbelsteen](conditioneel/Dobbelsteen.md)
++ [Training: Pincode-reminder](conditioneel/Pincode-reminder.md)
 + [Training: Extra opgaven keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Extra-opgaven-keuzestructuren.pdf)
 
 ## String manipulatie (in C#)
