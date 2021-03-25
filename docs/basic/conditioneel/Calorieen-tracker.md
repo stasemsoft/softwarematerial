@@ -15,6 +15,6 @@ Je collega heeft een vooronderzoek uitgevoerd en de volgende informatie verzamel
 Het ontwerp voor de user interface is reeds gedaan. De gebruiker kan met een radiobutton zijn/haar geslacht en levensstijl aangeven, zijn/haar leeftijd invullen en op de knop
 **Bereken** klikken. Nadat er op die knop is geklikt verschijnt de caloriebehoefte in beeld (hoe dat mag jij weten: met een messagebox of je voegt een label toe op het form).
 
-!\[User interface\](figures/Calorieen-tracker-ui.png)
+![Aangeleverd ontwerp user interface](figures/Calorieen-tracker-ui.png)
 
 
