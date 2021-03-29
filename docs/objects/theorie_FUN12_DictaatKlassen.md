@@ -1,18 +1,18 @@
-            
+
 
 # Dictaat C# classes
 
-# 1. Classes 
+# 1. Classes
 
-Een `Class` is een soort *blauwdruk*. Zie het als een tekening van hoe iets er uit moet gaan zien en wat dat “ding” kan gaan doen zodra je het daadwerkelijk gaat maken. Van een boot maak je eerst een `design`, een `ontwerp`: Wat voor soort hout heb je nodig? Waar liggen de verbindingen? Wat voor een motor komt er in te liggen? Et cetera. Deze tekening, de blauwdruk, kan niet varen. Je kunt er niet op dobberen. Pas wanneer de boot wordt gemaakt kun je er iets mee gaan doen. Je kunt er zelfs meerdere boten van maken! Zo is het met classes ook. Een class is de blauwdruk voor “iets”. Je kunt er pas mee aan de slag op het moment dat je de blauwdruk ***instantieert***: een **object** van dat ***type*** maakt. 
+Een `Class` is een soort *blauwdruk*. Zie het als een tekening van hoe iets er uit moet gaan zien en wat dat “ding” kan gaan doen zodra je het daadwerkelijk gaat maken. Van een boot maak je eerst een `design`, een `ontwerp`: Wat voor soort hout heb je nodig? Waar liggen de verbindingen? Wat voor een motor komt er in te liggen? Et cetera. Deze tekening, de blauwdruk, kan niet varen. Je kunt er niet op dobberen. Pas wanneer de boot wordt gemaakt kun je er iets mee gaan doen. Je kunt er zelfs meerdere boten van maken! Zo is het met classes ook. Een class is de blauwdruk voor “iets”. Je kunt er pas mee aan de slag op het moment dat je de blauwdruk ***instantieert***: een **object** van dat ***type*** maakt.
 
-Een andere vergelijking is dat van een ***lopende band***: Van een lopende band kunnen meerdere dingen (objecten) van een bepaald type afrollen: Elke keer dat ik `new` roep tegen de class komt er een object van dat type van de lopende band afrollen. Hoe de lopende band is 'geprogrammeerd' bepaalt wat een object van dat type uiteindelijk kan. 
+Een andere vergelijking is dat van een ***lopende band***: Van een lopende band kunnen meerdere dingen (objecten) van een bepaald type afrollen: Elke keer dat ik `new` roep tegen de class komt er een object van dat type van de lopende band afrollen. Hoe de lopende band is 'geprogrammeerd' bepaalt wat een object van dat type uiteindelijk kan.
 
 We gaan eerst naar wat voorbeelden kijken die je al kent. Daarna gaan we zelf een **class** maken.
 
 ## 2.1. Classes gebruiken
 
-Je hebt al eerder de `class Random` gezien, waarschijnlijk zonder te weten dat het een class was. Een voorbeeld: 
+Je hebt al eerder de `class Random` gezien, waarschijnlijk zonder te weten dat het een class was. Een voorbeeld:
 
 ```cs
 Random dobbelsteen;
@@ -22,9 +22,9 @@ int getal = dobbelsteen.Next();
 
 Eerst wordt een variabele aangemaakt van het type Random met de naam 'dobbelsteen'. (ja, een `class` is een `type`, hoewel in C# niet alle types ook een class zijn). De `Random` is hier de class, de lopende band: door er `new` tegen te roepen (volgende regel) wordt een nieuw object van dit type aangemaakt en de variabele 'dobbelsteen' verwijst naar dit object.  
 
-We zeggen dat dobbelsteen een `instance` (instantie) of `object` is van de Random class. Vandaar de term object-georiënteerd: `Object Oriented Programming`, kortweg O.O.P.). 
+We zeggen dat dobbelsteen een `instance` (instantie) of `object` is van de Random class. Vandaar de term object-georiënteerd: `Object Oriented Programming`, kortweg O.O.P.).
 
-In de derde regel zie je dat de dobbelsteen gebruikt wordt om een willekeurig getal op te vragen. Daar gebruik je dus functionaliteit die beschreven staat in de Random class. We zeggen dan dat je de `method` 'Next' aanroept (`call`t) op het object 'dobbelsteen'. 
+In de derde regel zie je dat de dobbelsteen gebruikt wordt om een willekeurig getal op te vragen. Daar gebruik je dus functionaliteit die beschreven staat in de Random class. We zeggen dan dat je de `method` 'Next' aanroept (`call`t) op het object 'dobbelsteen'.
 
 Tip: Je krijgt een `NullPointerException` wanneer je een instantie van een `class` gebruikt zonder dat deze is aangemaakt met new.
 
@@ -50,10 +50,10 @@ public partial class FormDemo : Form
 
 In het voorbeeld is een `field` aan form toegevoegd van het type Random en als naam dobbelsteen. Deze wordt direct, op dezelfde regel nog, geïnitialiseerd. In de rest van het programma kun je de dobbelsteen veilig gebruiken.
 
-Er is ook een `method` aan het form toegevoegd. Deze kan, net als de variabele, overal in deze FormDemo class gebruikt worden. Dit wordt ook gedaan bij de click-`event handler` van de knop. Wanneer de gebruiker op de knop drukt zal er een *next* worp met de dobbelsteen worden gegooid. Het willekeurige getal wordt door de GooiDobbelsteen methode teruggegeven (`return value`. De output van deze methode wordt opgevangen in een integer met de naam getal.
+Er is ook een `method` aan het form toegevoegd. Deze kan, net als de variabele, overal in deze FormDemo class gebruikt worden. Dit wordt ook gedaan bij de click-`event handler` van de knop. Wanneer de gebruiker op de knop drukt zal er een *next* worp met de dobbelsteen worden gegooid. Het willekeurige getal wordt door de GooiDobbelsteen methode teruggegeven (`return value`). De output van deze methode wordt opgevangen in een integer met de naam 'getal'.
 
 
-# StringBuilder
+### Voorbeeld bestaande class:  StringBuilder
 Hieronder zie je een ander voorbeeld van het gebruik van een class.
 
 ```cs
@@ -65,7 +65,7 @@ MessageBox.Show(welkom.ToString());
 
 Hier wordt gebruik gemaakt van de StringBuilder class. Probeer het bovenstaande stukje code ook even zelf uit. Op de eerste regel code wordt een variabele van het type StringBuilder aangemaakt. De variabele heet welkom en wordt meteen geïnitialiseerd. Via de 'Append' method kunnen er stukken tekst aan worden toegevoegd. Deze wordt in zijn geheel, door de 'ToString()'' methode aan te roepen, aan de gebruiker laten zien.
 
-Probeer zelf ook wat `fields` en `methodes` toe te voegen aan je form. Kijk eens wat je er allemaal mee kunt doen. 
+Probeer zelf ook wat `fields` en `methodes` toe te voegen aan je form. Kijk eens wat je er allemaal mee kunt doen.
 
 ## 2.2. Zelf classes maken
 
@@ -78,15 +78,15 @@ class Boot
    private string Naam;
    private int Gewicht;
    private int AantalBemanningsleden;
-   
+
    // Hieronder staan de methodes.
-   public int GetSnelheid() { 
-      return Snelheid; 
+   public int GetSnelheid() {
+      return Snelheid;
    }
 
-   public void SetSnelheid(int snelheid) 
-   { 
-      Snelheid = snelheid; 
+   public void SetSnelheid(int snelheid)
+   {
+      Snelheid = snelheid;
    }
 
    public void Varen(int snelheid) { ... }
@@ -117,9 +117,9 @@ Tot slot kun je hierboven een van de meest krachtige aspecten van OOP zien. Elke
 
 Probeer eens je eigen klasse te maken en te gebruiken! Wat kun je verzinnen en wat ga je er mee doen?
 
-## 2.3. Je klasse als string
+## 2.3. Je class als string
 
-![[figures/FUN12_boot.png]]
+![](figures/FUN12_boot.png "Boot")
 
 Soms wil je de instantie die je hebt gemaakt van je eigen klasse afbeelden als string.  Bijvoorbeeld om in een ListBox te zetten. Gelukkig heeft C# daar de 'ToString' methode voor bedacht. Elke klasse heeft deze methode. Probeer maar uit.
 
@@ -143,10 +143,11 @@ public override string ToString()
 
 Hier zie je een 'ToString method' die wat meer gegevens over de boot zal weergeven. Dit is ook te zien in onderstaande screenshot. Deze ToString methode kun je gewoon copy-pasten in je Boot klasse. Nadat je dat gedaan hebt kun je de nieuwe ToString methode gebruiken en uitproberen.
 
-![[figures/titanic.png]]
+![](figures/titanic.png "Titanic")
+
 
 Let op dat je het `override` keyword ook meeneemt in de methode definitie. Daarmee weet C# dat je de standaard ToString methode wilt herschrijven. Die was toch al niet zo nuttig. Dus je eigen invulling is vast beter.
-  
+
 De ToString methode is ook handig om een andere reden. C# gebruikt die namelijk in de weergave van je objecten. Bekijk wat er is gebeurd in het volgende voorbeeld.
 
 
@@ -160,7 +161,7 @@ Op het moment dat je een boot toevoegd aan de ListBox zal C# voor jou de ToStrin
 
 Ga zelf aan de slag met de ToString methode en probeer deze uit in verschillende klassen die je zelf hebt gemaakt. Kun je deze dan ook in een ListBox zetten?
 
-![[figures/boot_toevoegen.png]]
+![](figures/boot_toevoegen.png "Boot toevoegen")
 
 ## 2.4. Voorbeelden
 
@@ -177,7 +178,7 @@ class Aapje {
    public string MaakGeluid() {
       return "Oek oek oek";
    }
- 
+
    public override string ToString() {
       return Soort + " zegt " +
       MaakGeluid();
@@ -231,7 +232,7 @@ verzorger.Verzorg(kong);
 
 Probeer zelf de verzorger eens een datum te geven voor zijn of haar indiensttreding. _DateTime_ is ook een klasse.
 
-  
+
 ### Voorbeeld
 
 ```cs
@@ -261,10 +262,10 @@ class Speler {
       }
    }
 
-   // lees goed wat hier staat!: 
+   // lees goed wat hier staat!:
    public bool IsGameOver() {
       return (AantalLevens <= 0);  
-	  // bedenk: (AantalLevens <= 0) is al een Boolean. 
+	  // bedenk: (AantalLevens <= 0) is al een Boolean.
    }
 
    public override string ToString() {
