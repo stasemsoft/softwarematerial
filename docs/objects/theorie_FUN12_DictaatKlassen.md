@@ -141,7 +141,7 @@ public override string ToString()
 }
 ```
 
-Hier zie je een ToString methode die wat meer gegevens over de boot zal weergeven. Dit is ook te zien in onderstaande screenshot. Deze ToString methode kun je gewoon copy-pasten in je Boot klasse. Nadat je dat gedaan hebt kun je de nieuwe ToString methode gebruiken en uitproberen.
+Hier zie je een 'ToString method' die wat meer gegevens over de boot zal weergeven. Dit is ook te zien in onderstaande screenshot. Deze ToString methode kun je gewoon copy-pasten in je Boot klasse. Nadat je dat gedaan hebt kun je de nieuwe ToString methode gebruiken en uitproberen.
 
 ![[figures/titanic.png]]
 
@@ -164,38 +164,24 @@ Ga zelf aan de slag met de ToString methode en probeer deze uit in verschillende
 
 ## 2.4. Voorbeelden
 
-
-
-**Voorbeeld**
-
-**Uitleg**
-
+### Voorbeeld
 ```cs
 class Aapje {
+   private string Soort;
+   private int Leeftijd;
 
- private string Soort;
+   public void SetSoort(string soort) {
+      Soort = soort;
+   }
 
- private int Leeftijd;
-
- public void SetSoort(string soort) {
-
- Soort = soort;
-
- }
-
- public string MaakGeluid() {
-
- return "Oek oek oek";
-
- }
-
- public override string ToString() {
-
- return Soort + " zegt " +
-
- MaakGeluid();
-
- }
+   public string MaakGeluid() {
+      return "Oek oek oek";
+   }
+ 
+   public override string ToString() {
+      return Soort + " zegt " +
+      MaakGeluid();
+   }
 
 }
 ```
@@ -204,138 +190,104 @@ Hier wordt een klasse _Aapje_ gemaakt. Elk aapje wat je aanmaakt in de code is v
 
 Maak een aapje aan met:
 
+```cs
 Aapje kong = new Aapje();
-
 kong.SetSoort("Gorilla");
+```
 
-Elk aapje kan ook als string worden weergegeven met de ToString methode. Probeer het zelf eens uit:
+Elk aapje kan ook als string worden weergegeven met de ToString method. Probeer het zelf eens uit:
 
+```cs
 Console.Out.WriteLine(kong);
+```
 
+
+### Voorbeeld
+```cs
 class DierenVerzorger {
+   private string Naam;
+   private DateTime InDienstSinds;
 
- private string Naam;
+   public void SetNaam(string naam) {
+      Naam = naam;
+   }
 
- private DateTime InDienstSinds;
-
- public void SetNaam(string naam) {
-
- Naam = naam;
-
- }
-
- public bool Verzorg(Aapje aap) {
-
- // Verzorg aapje...
-
- Console.Out.WriteLine(
-
- aap.MaakGeluid()
-
- );
-
- return true;
-
- }
+   public bool Verzorg(Aapje aap) {
+      // Verzorg aapje...
+      Console.Out.WriteLine( aap.MaakGeluid() );
+      return true;
+   }
 
 }
+```
 
 Hier zie je een nieuwe class, _DierenVerzorger_. Deze heeft een naam en een datum van indiensttreding. Elke verzorger kan ook een aapje verzorgen. Zo zie je dat je ook andere klassen die je maakt kunt gebruiken in zelfgemaakte klassen:
 
-DierenVerzorger verzorger =
-
- new DierenVerzorger();
-
+```cs
+DierenVerzorger verzorger = new DierenVerzorger();
 verzorger.SetNaam("Henk");
-
 verzorger.Verzorg(kong);
+```
 
 Probeer zelf de verzorger eens een datum te geven voor zijn of haar indiensttreding. _DateTime_ is ook een klasse.
 
   
+### Voorbeeld
 
+```cs
 class Speler {
 
- private string Naam;
+   private string Naam;
+   private int AantalLevens;
+   private int Score;
 
- private int AantalLevens;
+   public void SetNaam(string naam) {
+      Naam = naam;
+   }
 
- private int Score;
+   public void SetAantalLevens(int levens) {
+      AantalLevens = levens;
+   }
 
- public void SetNaam(string naam) {
+   public void VerdienPunten(int punten) {
+      if (IsGameOver() == false) {
+         Score = Score + punten;
+      }
+   }
 
- Naam = naam;
+   public void VerliesLeven() {
+      if (IsGameOver() == false) {
+         AantalLevens = AantalLevens - 1;
+      }
+   }
 
- }
+   // lees goed wat hier staat!: 
+   public bool IsGameOver() {
+      return (AantalLevens <= 0);  
+	  // bedenk: (AantalLevens <= 0) is al een Boolean. 
+   }
 
- public void SetAantalLevens(int levens) {
-
- AantalLevens = levens;
-
- }
-
- public void VerdienPunten(int punten) {
-
- if (IsGameOver() == false) {
-
- Score = Score + punten;
-
- }
-
- }
-
- public void VerliesLeven() {
-
- if (IsGameOver() == false) {
-
- AantalLevens = AantalLevens - 1;
-
- }
-
- }
-
- public bool IsGameOver() {
-
- if (AantalLevens <= 0) {
-
- return true;
-
- } else {
-
- return false;
-
- }
-
- }
-
- public override string ToString() {
-
- return Naam + ": " + Score;
-
- }
+   public override string ToString() {
+      return Naam + ": " + Score;
+   }
 
 }
+```
 
-Hier links zie je een klasse voor een speler in een game. Elke speler heeft een naam, een huidige score en een aantal levens. Er zijn drie methoden. Met de VerdienPunten methode kan een bepaald aantal punten worden toegevoegd aan de score van de speler. Dit kan echter alleen maar wanneer de speler nog niet game over is.
+Hier links zie je een class voor een speler in een game. Elke speler heeft een naam, een huidige score en een aantal levens. Er zijn drie methoden. Met de VerdienPunten methode kan een bepaald aantal punten worden toegevoegd aan de score van de speler. Dit kan echter alleen maar wanneer de speler nog niet game over is.
 
 Een speler is game over wanneer het aantal levens 0 of lager is. De speler verliest punten met de VerliesLeven methode. Deze zal het aantal levens met 1 verlagen wanneer de speler nog niet game over is.
 
 Wat is de totaalscore van Scott in na het uitvoeren van het stukje code op de volgende pagina? Voer de code uit ter controle!
 
+```cs
 Speler s = new Speler();
-
 s.SetNaam("Scott Pilgrim");
-
 s.SetAantalLevens(3);
-
 while (s.IsGameOver() != false)
-
 {
-
- s.VerdienPunten(100);
-
- s.VerliesLeven();
-
+   s.VerdienPunten(100);
+   s.VerliesLeven();
 }
-
 Console.Out.WriteLine(s);
+```
