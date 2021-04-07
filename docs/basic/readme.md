@@ -27,7 +27,6 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 
 ## Conditioneel
 
-+ [Presentatie: Keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Keuzestructuren.pptx)
 + [Reference: Keuzestructuren in C#](conditioneel/naslag_Keuzestructuren.md)
 + [Training: BTW-berekenen](conditioneel/BTW-berekenen.md)
 + [Training: Hoger lager](conditioneel/Hoger-lager.md)
