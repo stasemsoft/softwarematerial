@@ -14,8 +14,8 @@ Er staan zes objecten van het type **PictureBox** een “Werp dobbelsteen!”-Bu
 Het is de bedoeling dat telkens als op de “Werp dobbelsteen!”-**Button** geklikt wordt, precies één willekeurige PictureBoxzichtbaar wordt. De andere pictureboxen worden dus onzichtbaar. Programmeer deze functionaliteit.
 
 ## Uitbreidingen
--       Niveau * - Plaats alle **PictureBox**-objecten precies over elkaar heen (zo lijkt het alsof telkens dezelfde dobbelsteen opnieuw wordt gegooid).
--       Niveau ** - Maak gebruik van één switch statement (tip: Zoek op internet naar een bron) in plaats van verschillende “if … else … ” statements.
+- Niveau * - Plaats alle **PictureBox**-objecten precies over elkaar heen (zo lijkt het alsof telkens dezelfde dobbelsteen opnieuw wordt gegooid).
+- Niveau ** - Maak gebruik van één switch statement (tip: Zoek op internet naar een bron) in plaats van verschillende “if … else … ” statements.
 
 ## Checklist
 Als je de opdracht op de juiste manier hebt uitgevoerd heb je voldaan aan onderstaande punten:

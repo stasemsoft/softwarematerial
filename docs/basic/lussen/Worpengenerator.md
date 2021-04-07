@@ -37,3 +37,23 @@ Zorg dat in de EventHandler van de Button de code wordt toegevoegd waarmee het t
 	- Je hoogt de variabele totaalOgen niet op maar overschrijft deze met het aantal gegooide ogen.
 	- Je hebt de totaalOgen variabele niet buiten de for of while lus gedeclareerd (aangemaakt), zie de tip hierboven voor wat je daaraan kunt doen.*
 - *Tip 3: Test of het totaal aantal ogen juist wordt opgeteld door dit zelf na te tellen voor een aantal verschillende worpen, met telkens een andere hoeveelheid dobbelstenen.*
+
+### Deel 3
+Breid de user interface uit met een Label en een NumericUpDown zoals onderstaande afbeelding. Op het Label komt de tekst “ogen op dobbelsteen”, de NumericUpDown krijgt als minimumwaarde 2 en als maximumwaarde 100. De standaardwaarde komt op 6 te staan (dit is immers de meest voorkomende hoeveelheid ogen op een dobbelsteen).
+
+![Userinterface Worpengenerator deel 2](figures/Worpengenerator-ui-deel-3.png)
+
+Zorg dat in plaats van een waarde van 1 t/m 6 nu een waarde van 1 t/m de waarde in de nieuwe NumericUpDown wordt gegenereerd.
+
+## Uitbreidingen
+- Niveau ** - Voeg twee extra Label objecten toe onder het totaal aantal ogen en houd hierin de "Hoogte worp tot nu toe" in bij. Doe hetzelfde voor het laagste aantal worpen tot nu toe.
+
+## Checklist
+Als je de opdracht op de juiste manier hebt uitgevoerd heb je voldaan aan onderstaande punten: 
+- De NumericUpDown aantal-worpen heeft een minimumwaarde van 1 en een maximumwaarde van 1000. 
+- De NumericUpDown aantal-ogen-op-dobbelsteen heeft een minimumwaarde van 2, een maximumwaarde van 100 en een standaard waarde van 6. 
+- Het Label totaal-aantal-ogen staat bij het opstarten op ‘0’ 
+- De gegenereerde waarden kloppen met de mogelijke waarden die je hebt opgegeven in de NumericUpDown aantal-ogen-op-dobbelsteen. De maximum- en minimumwaarde komen voor in het lijstje (als je lang genoeg dobbelstenen gooit). Test dit met een kleine hoeveelheid ogen, anders ben je lang bezig. 
+- Het aantal gegenereerde waarden komt precies overeen met de waarde in de NumericUpDown aantal-worpen (je zit er bijv. niet precies eentje naast). 
+- Uitbreiding: Controleer of het maximum en minimum kloppen na veel verschillende worpen. 
+- Is alles in orde? Kijk dan je uitwerking na met behulp van de standaarduitwerking op de volgende pagina. Heb je alles goed? Geef dan jezelf een **schouderklopje** of vraag je favoriete klasgenoot jou er een te geven, want je hebt ‘m verdiend.
