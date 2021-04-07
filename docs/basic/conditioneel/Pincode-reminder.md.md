@@ -7,7 +7,7 @@ Maak in je nieuwe project een grafische user interface voor het programma waarme
 
 Je user interface zou er bijvoorbeeld zo uit kunnen zien:
 
-![Aangeleverd ontwerp user interface](figures/Dobbelsteen-pincode-reminder-ui.png)
+![Aangeleverd ontwerp user interface](figures/Pincode-reminder-ui.png)
 
 Geef, zoals je in een eerdere opdracht gedaan hebt, de objecten die je gebruikt een duidelijke naam. Als je straks namelijk code toe gaat voegen is het handiger om te werken met namen als **labelRight**, **labelWrong** en **showPincodeButton** dan met namen als **label1**, **label2** en **button1**.
 
