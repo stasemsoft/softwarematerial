@@ -29,10 +29,15 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 
 + [Presentatie: Keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Keuzestructuren.pptx)
 + [Reference: Keuzestructuren in C#](conditioneel/naslag_Keuzestructuren.md)
++ [Training: BTW-berekenen](conditioneel/BTW-berekenen.md)
++ [Training: Hoger lager](conditioneel/Hoger-lager.md)
 + [Training: Calorieën tracker](conditioneel/Calorieen-tracker.md)
 + [Training: Dobbelsteen](conditioneel/Dobbelsteen.md)
 + [Training: Pincode-reminder](conditioneel/Pincode-reminder.md)
-+ [Training: Extra opgaven keuzestructuren](https://stasemsoft.github.io/softwarematerial/docs/basic/conditioneel/Extra-opgaven-keuzestructuren.pdf)
++ [Training: Wachtwoord check](conditioneel/Wachtwoord-check.md)
++ [Training: Dr Bobby](conditioneel/Dr-Bobby.md)
++ [Training: Batman vs Superman](conditioneel/Batman-vs-Superman.md)
+
 
 ## String manipulatie (in C#)
 
