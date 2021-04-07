@@ -9,3 +9,5 @@ De batarang doet tussen de 1 en 8 schade. Kung-fu doet tussen de 5 en 7 schade.
 De laser doet tussen de 5 en 7 schade. Superkracht doet tussen de 6 en 9 schade. 
 
 Laat met een druk op de knop zien wie er heeft gewonnen bij het gebruik van bepaalde wapens.
+
+![Aangeleverd ontwerp user interface](figures/Batman-vs-Superman-ui.png)

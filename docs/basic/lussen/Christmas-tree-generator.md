@@ -31,4 +31,3 @@ Tip: gebruik **Console.ReadKey()** om te voorkomen dat het programma direct na o
 - [Color in Console App](https://www.dotnetperls.com/console-color)
 - [Console.SetCursorPosition](https://docs.microsoft.com/en-us/dotnet/api/system.console.setcursorposition?view=net-5.0)
 - [Console.ReadLine](https://docs.microsoft.com/en-us/dotnet/api/system.console.readline?view=net-5.0)
-- 

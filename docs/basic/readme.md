@@ -49,12 +49,14 @@ In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net
 
 + [Reference: while](lussen/naslag_While)
 + [Reference: for](lussen/naslag_For)
++ [Training: Drankjesschema](lussen/Drankjesschema.md)
++ [Training: Wiskunde en zo](lussen/Wiskunde-en-zo.md)
++ [Training: Muziekgenerator](lussen/Muziekgenerator.md)
++ [Training: Het goede getal](lussen/Het-goede-getal.md)
 + [Training: Worpengenerator](lussen/Worpengenerator.md)
-+ [Training: Diverse opdrachten lussen 1](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/Extra%20opgaven%20lussen.pdf)
-+ [Training: Diverse opdrachten lussen 2](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/ExtraLussen.pdf)
-+ [Training: Christmas Tree Generator](lussen/Christmas-tree-generator.md)
 
 Als je een extra uitdaging wilt met loops:
++ [Training: Christmas Tree Generator](lussen/Christmas-tree-generator.md)
 + [Training: Emmer vol laten lopen](https://git.fhict.nl/I872272/ProgrammingChallenges/tree/master/Challenges/Emmer%20vol%20laten%20lopen)
 
 ## Method: zelf maken en aanroepen
