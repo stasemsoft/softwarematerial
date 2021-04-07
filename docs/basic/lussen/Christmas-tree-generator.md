@@ -21,11 +21,11 @@ Tip: gebruik **Console.ReadKey()** om te voorkomen dat het programma direct na o
 6. Meerdere kerstbomen
 
 ## Uitbreidingen
-- ** Vul de kerstboom met de karakters van een gegeven string, dus bijv. "abc" dan wordt de hele kerstboom gevuld met deze letters
-- ** Vraag aan de gebruiker op welke positie de kerstoom moet worden geplaatst
-- *** Plaats een willekeurig aantal kerstbomen met allemaal verschillende eigenschappen op een willekeurige plek, echter wel geheel binnen het venster.
-- ** Versier de kerstboom met willekeurig op te hangen gekleurde kerstbomen (een letter O). De kerstballen mogen niet te dicht bij elkaar hangen, er moeten minimaal 2 vakjes tussen zitten.
-- *** Maak een grafische variant in WinForms die van Windows GDI Graphics gebruik maakt.
+- Niveau ** Vul de kerstboom met de karakters van een gegeven string, dus bijv. "abc" dan wordt de hele kerstboom gevuld met deze letters
+- Niveau ** Vraag aan de gebruiker op welke positie de kerstoom moet worden geplaatst
+- Niveau *** Plaats een willekeurig aantal kerstbomen met allemaal verschillende eigenschappen op een willekeurige plek, echter wel geheel binnen het venster.
+- Niveau ** Versier de kerstboom met willekeurig op te hangen gekleurde kerstbomen (een letter O). De kerstballen mogen niet te dicht bij elkaar hangen, er moeten minimaal 2 vakjes tussen zitten.
+- Niveau *** Maak een grafische variant in WinForms die van Windows GDI Graphics gebruik maakt.
 
 ## Bronnen
 - [Color in Console App](https://www.dotnetperls.com/console-color)

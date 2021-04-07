@@ -57,7 +57,7 @@ In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net
 
 Als je een extra uitdaging wilt met loops:
 + [Training: Christmas Tree Generator](lussen/Christmas-tree-generator.md)
-+ [Training: Emmer vol laten lopen](https://git.fhict.nl/I872272/ProgrammingChallenges/tree/master/Challenges/Emmer%20vol%20laten%20lopen)
++ [Training: Emmer vol laten lopen](lussen/Emmer-vol-laten-lopen.md)
 
 ## Method: zelf maken en aanroepen
 
