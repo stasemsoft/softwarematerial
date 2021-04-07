@@ -49,10 +49,10 @@ In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net
 
 + [Reference: while](lussen/naslag_While)
 + [Reference: for](lussen/naslag_For)
-+ [Training: Christmas Tree Generator](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Challenges/Christmas%20Tree%20Generator/Christmas%20Tree%20Generator.pdf)
 + [Training: Worpengenerator](lussen/Worpengenerator.pdf)
 + [Training: Diverse opdrachten lussen 1](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/Extra%20opgaven%20lussen.pdf)
 + [Training: Diverse opdrachten lussen 2](https://stasemsoft.github.io/softwarematerial/docs/basic/lussen/ExtraLussen.pdf)
++ [Training: Christmas Tree Generator](lussen/Christmas-tree-generator.md)
 
 Als je een extra uitdaging wilt met loops:
 + [Training: Emmer vol laten lopen](https://git.fhict.nl/I872272/ProgrammingChallenges/tree/master/Challenges/Emmer%20vol%20laten%20lopen)
