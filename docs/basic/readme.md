@@ -74,12 +74,11 @@ Als je een extra uitdaging wilt met loops:
 + [Training: Listige listboxen](methoden/Listige-listboxen.md)
 + [Training: Mad Lad Teksten](methoden/Madlad-teksten.md)
 + [Training: ElkaarAchterstevoren](methoden/methodW1W2.md)
-+ [Training: Cijfers door woorden vervangen](Cijfers-door-woorden-vervangen.md)
++ [Training: Cijfers door woorden vervangen](methoden/Cijfers-door-woorden-vervangen.md)
 + [Training: Marathon](methoden/methodmarathon.md)
 + [Training: Galgje](methoden/galgje.md)
 + [Training: Cijfers naar woorden](methoden/exerciseMethodCijfersNaarWoorden.md)
 + [Training: Boter, kaas en eieren](methoden/Boter-kaas-eieren.md)
-+ [Training: Oefenopdracht](https://stasemsoft.github.io/softwarematerial/docs/basic/methoden/Toetsopdracht.pdf)
 
 ## Collectie (List, Array)
 
