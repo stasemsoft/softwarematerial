@@ -2,9 +2,9 @@
 
 Maak een scherm met daarop **2 listboxen**, **1 knop** en **een textbox**. Het scherm ziet er dan bijvoorbeeld als volgt uit.
 
-![Aangeleverd ontwerp user interface](figures/Listige-listboxen-ui.png)
+![Aangeleverd ontwerp user interface](figures/Listige-listboxen-ui.png?s=200)
 
-Vul de listboxen met 10 willekeurige getallen. Gebruik hierbij de **random generator** (dobbelsteen opdracht in week 4) en de methode **listbox.items.add**
+Vul de listboxen met 10 willekeurige getallen. Gebruik hierbij de **random generator** en de methode **listbox.items.add**
 
 Zorg er voor dat er na het klikken op de button een event wordt gestart die onderstaande handelingen uitvoert:
 1. Ga in een **methode** met een **FOR**\-loop door de 1e listbox en tel de getallen op in een variabele. Je moet dus deze methode programmeren en die vanuit het button-click-event aanroepen. Geef de waarde van de variabele terug (return-statement in de methode). 
