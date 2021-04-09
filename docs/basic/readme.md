@@ -31,8 +31,8 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 + [Training: BTW-berekenen](conditioneel/BTW-berekenen.md)
 + [Training: Hoger lager](conditioneel/Hoger-lager.md)
 + [Training: Calorieën tracker](conditioneel/Calorieen-tracker.md)
-+ [Training: Dobbelsteen](conditioneel/Dobbelsteen.md)
-+ [Training: Pincode-reminder](conditioneel/Pincode-reminder.md)
++ [Training: Dobbelsteen](Dobbelsteen.md)
++ [Training: Pincode-reminder](Pincode-reminder.md)
 + [Training: Wachtwoord check](conditioneel/Wachtwoord-check.md)
 + [Training: Dr Bobby](conditioneel/Dr-Bobby.md)
 + [Training: Batman vs Superman](conditioneel/Batman-vs-Superman.md)
@@ -82,7 +82,7 @@ Als je een extra uitdaging wilt met loops:
 
 ## Collectie (List, Array)
 
-+ [Reference: Dictaat Collecties](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_DictaatCollecties.pdf)
++ [Explanation: Collecties Array & Lists](Explanation-Array-Lists.md)
 + [Presentatie: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_Arrays.pptx)
 + [Tutorialspoint: arrays](http://www.tutorialspoint.com/csharp/csharp_arrays.htm)
 + [Training: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12_Arrays.pdf)
