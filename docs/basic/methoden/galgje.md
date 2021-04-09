@@ -6,7 +6,8 @@ De gebruiker mag 10 keer een letter raden. Heeft hij daarna het woord goed dan h
 
 Ontwerpideeën: houdt in een (string-) variabele het te raden woord bij en houdt in een andere variabele bij wat de gebruiker allemaal heeft geraden.
 
-![Aangeleverd ontwerp user interface](figures/galgje-ui.png)
+<img src="figures/galgje-ui.png" alt="ui" width="300" />
+
 
 ## Uitbreidingen
 1. Maak een PictureBox waarin je middels een aantal plaatjes van een galgje en poppetje het aantal fouten laat zien. Laad dynamisch elke keer het volgende plaatje in als er een fout wordt gemaakt. Kijk eens naar de methode PictureBox.Load().
