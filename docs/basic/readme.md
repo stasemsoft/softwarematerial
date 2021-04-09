@@ -82,7 +82,7 @@ Als je een extra uitdaging wilt met loops:
 
 ## Collectie (List, Array)
 
-+ [Explanation: Collecties Array & Lists](Explanation-Array-Lists.md)
++ [Explanation: Collecties Array & Lists](collecties/Explanation-Array-Lists.md)
 + [Presentatie: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_Arrays.pptx)
 + [Tutorialspoint: arrays](http://www.tutorialspoint.com/csharp/csharp_arrays.htm)
 + [Training: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12_Arrays.pdf)
