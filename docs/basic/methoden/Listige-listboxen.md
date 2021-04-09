@@ -2,7 +2,7 @@
 
 Maak een scherm met daarop **2 listboxen**, **1 knop** en **een textbox**. Het scherm ziet er dan bijvoorbeeld als volgt uit.
 
-![Aangeleverd ontwerp user interface](figures/Listige-listboxen-ui.png?s=200)
+<img src="figures/Listige-listboxen-ui.png" alt="ui" width="100">
 
 Vul de listboxen met 10 willekeurige getallen. Gebruik hierbij de **random generator** en de methode **listbox.items.add**
 
