@@ -22,11 +22,11 @@ Schrijf een programma dat voldoet aan de volgende requirements:
 ## Casus 4 - Geneste lus
 Schrijf een programma (console app) dat de volgende tekst op het scherm kan laten zien:
 
-1
-22
-333
-4444
-55555
+1\
+22\
+333\
+4444\
+55555\
 
 Het algoritme moet werken met een **geneste lus (een lus in een lus)**.
 

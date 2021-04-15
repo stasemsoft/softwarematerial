@@ -6,7 +6,7 @@ Indien je geen dobbelstenen voor handen hebt of je een digitale variant van een 
 
 Het programma dat je aan het eind van deze opdracht hebt gemaakt is ziet er als volgt uit:
 
-![Userinterface Worpengenerator](figures/Worpengenerator-ui.png)
+<img src="figures/Worpengenerator-ui.png" alt="ui" width="300" />
 
 ## Deel 1
 Maak een nieuw C# Windows Forms-project aan. Maak een user interface welke er als hieronder uitziet (dit is een vereenvoudigde vorm van het eindresultaat, we gaan nog even uit van dobbelstenen met 6 ogen). De kaders (Instellingen en Resultaten) zijn **GroupBox** objecten. Hiermee kun je een aantal GUI-objecten die bij elkaar horen als groepje bij elkaar zetten en later, mocht het nodig zijn, bijv. als geheel verplaatsen. Het is het handigste om de **GroupBox**\-en eerst aan te maken zodat je de andere objecten hier op kunt zetten. Het witte uitvoer vlak is een **ListBox**.
@@ -16,7 +16,7 @@ Maak een nieuw C# Windows Forms-project aan. Maak een user interface welke er al
 - Zorg dat als eerste de ListBox wordt leeggemaakt. Doe dit door de Items.Clear() methode aan te roepen van de ListBox. Dus: als je ListBox als naam mijnListBox heeft gaat dit zo: mijnListBox.Items.Clear() 
 - In de EventHandler moet vervolgens de code komen te staan waardoor “aantal worpen” keer een willekeurig getal van 1 t/m 6 wordt toegevoegd aan de ListBox. Maak deze code.
 
-![Userinterface Worpengenerator deel 1](figures/Worpengenerator-ui-deel-1.png)
+<img src="figures/Worpengenerator-ui-deel-1.png" alt="ui" width="300" />
 
 ### Tips
 
@@ -29,7 +29,7 @@ Maak een nieuw C# Windows Forms-project aan. Maak een user interface welke er al
 ## Deel 2
 Breid de user interface uit met twee **Label** objecten zoals hieronder. De ene bevat de tekst “Totaal aantal ogen:”, de andere bevat de standaard waarde “0” en zal straks het totaal aantal ogen voor de worp bevatten. Geef de **Label** objecten duidelijke namen.
 
-![Userinterface Worpengenerator deel 2](figures/Worpengenerator-ui-deel-2.png)
+<img src="figures/Worpengenerator-ui-deel-2.png" alt="ui" width="300" />
 
 Zorg dat in de EventHandler van de Button de code wordt toegevoegd waarmee het totaal aantal gegooide ogen wordt bijgehouden. Maak hiervoor gebruik van een “totaalOgen” variabele van het type int.
 
@@ -43,7 +43,7 @@ Zorg dat in de EventHandler van de Button de code wordt toegevoegd waarmee het t
 ## Deel 3
 Breid de user interface uit met een Label en een NumericUpDown zoals onderstaande afbeelding. Op het Label komt de tekst “ogen op dobbelsteen”, de NumericUpDown krijgt als minimumwaarde 2 en als maximumwaarde 100. De standaardwaarde komt op 6 te staan (dit is immers de meest voorkomende hoeveelheid ogen op een dobbelsteen).
 
-![Userinterface Worpengenerator deel 2](figures/Worpengenerator-ui-deel-3.png)
+<img src="figures/Worpengenerator-ui-deel-3.png" alt="ui" width="300" />
 
 Zorg dat in plaats van een waarde van 1 t/m 6 nu een waarde van 1 t/m de waarde in de nieuwe NumericUpDown wordt gegenereerd.
 
