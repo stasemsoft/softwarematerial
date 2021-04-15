@@ -1,4 +1,4 @@
-# Collecties
+# Explanation - Array & Lists
 
 C# kent, net als de meeste andere programmeertalen, naast klassen nog meer complexe datatypes. Twee voorbeelden daarvan zijn **array’s** en **lists**. Beide types zijn bedoeld om meerdere waardes van een type te kunnen bewaren. Bijvoorbeeld een verzameling getallen, een lijst van strings of een aantal boten. Soms weet je van te voren niet hoeveel waardes je precies moet onthouden en soms zijn het er gewoon te veel om allemaal op te slaan als losse variabelen. Dit zijn allemaal goede redenen om collecties te gebruiken. 
 

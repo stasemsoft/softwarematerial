@@ -84,11 +84,11 @@ Als je een extra uitdaging wilt met loops:
 
 + [Explanation: Collecties Array & Lists](collecties/Explanation-Array-Lists.md)
 + [Presentatie: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_Arrays.pptx)
++ [Presentatie: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_Lists.pptx)
++ [Presentatie: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_ListMethodes.pptx)
 + [Tutorialspoint: arrays](http://www.tutorialspoint.com/csharp/csharp_arrays.htm)
 + [Training: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12_Arrays.pdf)
-+ [Presentatie: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_Lists.pptx)
 + [Training: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12Lists.pdf)
-+ [Presentatie: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_ListMethodes.pptx)
 + [Training: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12_ListMethodes.pdf)
 + [Training: method, list en array](methoden/exerciseMethodListArray)
 
