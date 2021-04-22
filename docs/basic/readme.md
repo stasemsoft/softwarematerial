@@ -88,6 +88,7 @@ Als je een extra uitdaging wilt met loops:
 + [Presentatie: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_ListMethodes.pptx)
 + [Tutorialspoint: arrays](http://www.tutorialspoint.com/csharp/csharp_arrays.htm)
 + [Training: Array - Televisie](collecties/Televisie.md)
++ [Training: Array - Netflix and random](collecties/Netflix-and-random.md)
 + [Training: Array - Fruitautomaat](collecties/Fruitautomaat.md)
 + [Training: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12Lists.pdf)
 + [Training: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12_ListMethodes.pdf)

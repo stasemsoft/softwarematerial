@@ -39,7 +39,7 @@ Daarna maak je de methode  **public void VoegZenderToe(string zender)** aan. Hie
 ## Deel 5 - Zappen en huidige zender laten zien
 Als dit is gelukt maak je nog twee extra buttons aan waarmee je een zender verder (btVerder) en terug (btTerug) kan "zappen" en een label (lbZender) waarin je laat zien op welke zender de televisie staat.
 
-![Deel 3](figures/Televisie-ui-deel-4.png)
+![Deel 4](figures/Televisie-ui-deel-4.png)
 
 Maak **twee methodes** waarmee je een zender verder en terug kunt zappen. Het is handig om hiervoor een variabele int aan te maken die huidigeZender heet. Hier houd je bij welke zender er nu op staat. Maak ook een methode die **public string HaalHuidigeZenderOp()** heet. Deze laat de naam van de huidige zender zien.
 
