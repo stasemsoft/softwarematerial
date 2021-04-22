@@ -90,6 +90,8 @@ Als je een extra uitdaging wilt met loops:
 + [Training: Array - Televisie](collecties/Televisie.md)
 + [Training: Array - Netflix and random](collecties/Netflix-and-random.md)
 + [Training: Array - Fruitautomaat](collecties/Fruitautomaat.md)
++ [Training: List - Prijzen toevoegen](collecties/Prijzen-toevoegen.md)
++ [Training: Array - Ticketmeester](collecties/Ticketmeester.md)
 + [Training: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12Lists.pdf)
 + [Training: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12_ListMethodes.pdf)
 + [Training: method, list en array](methoden/exerciseMethodListArray)

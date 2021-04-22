@@ -7,9 +7,9 @@ List<double> prijzen = new List<double>();
 double totaalPrijs = 0.0; 
 // Hier moet je nog een aantal prijzen (doubles) aan de List toevoegen. 
 
-foreach (double prijs in prijzen) 
+for(int i = 0; i <= prijzen.Length; i++) 
 { 
-	totaalPrijs = totaalPrijs + prijs; 
+	totaalPrijs = totaalPrijs + prijzen[i]; 
 } 
 
 Console.Out.WriteLine("De totaalprijs is " + totaalPrijs.ToString("C"));
