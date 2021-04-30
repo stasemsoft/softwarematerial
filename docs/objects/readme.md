@@ -143,7 +143,7 @@ Als je de volgende video van Tim Corey nog niet bekeken had is dat nu zeker een 
 
 + [info over git](https://stasemsoft.github.io/softwarematerial/docs/process/infoENGit.pdf)
 
-+ [external resources](https://stasemsoft.github.io/softwarematerial/docs/process/infoExternalResources.pdf)
++ [external resources](https://stasemsoft.github.io/softwarematerial/docs/process/infoExternalResources)
 
 + [C# Basics ](https://www.youtube.com/playlist?list=PLYMOUCVo86jGzNXPgyKB-B1IvE1LoXKi6) - video 1 t/m 39  
 
