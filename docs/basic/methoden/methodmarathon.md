@@ -14,7 +14,7 @@ Aanroep *FullName("Ada", "Lovelace")* geeft terug: "Ada Lovelace", Zij was de ee
 
 (iiia) Maak een method genaamd *IsIn* met een string-parameter `character` en een string-parameter 'word'. De method geeft een boolean terug: true als het 'character' in 'word' voorkomt, anders false. Als je hier niet zelf uit komt kijk dan eens beneden aan deze pagina naar 'Eerste Hulp Bij Vasthangen'.
 
-(iib) Maak weer een method genaamd *InCommon* met de string-parameters forename en surname, die precies de letters teruggeeft die in voor- én achternaam voorkomen (als String of als List).
+(iiib) Maak weer een method genaamd *InCommon* met de string-parameters forename en surname, die precies de letters teruggeeft die in voor- én achternaam voorkomen (als String of als List).
 
 `Quote: Always remember, however, that there’s usually a simpler and better way to do something than the first way that pops into your head."  (Donald Knuth)`
 

@@ -17,13 +17,13 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 ## Variabelen, assignment, typen, debugger: eerste stapjes in C#
 
 + [Presentatie: Variabelen, bewerkingen en conversies](var/Variabelen-bewerkingen-conversies.pptx)
-+ [Tutorial: De Debugger](debugger/Debugger)
-+ [Training: Goeroe-calc: variabele, bewerkingen, conversies](var/trainingVariabelenBewerkingenConversies)
++ [Tutorial: De Debugger](debugger/Debugger.md)
++ [Training: Goeroe-calc: variabele, bewerkingen, conversies](var/trainingVariabelenBewerkingenConversies.md)
 + [Reference: variable](var/naslag_Variable.md)
 + [Reference: operatoren](var/naslag_Operatoren.md)
-+ [Training: Euro Dollar converter](var/Euro-Dollar-Converter)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! (Variabelen, bewerkingen, typen, conversie)
-+ [Training: Diversen](var/Extra-opgaven-variabelen)
-+ [Training: Computerrekenen](var/trainingComputerRekenen)
++ [Training: Euro Dollar converter](var/Euro-Dollar-Converter.md)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! (Variabelen, bewerkingen, typen, conversie)
++ [Training: Diversen](var/Extra-opgaven-variabelen.md)
++ [Training: Computerrekenen](var/trainingComputerRekenen.md)
 
 ## Conditioneel
 
@@ -87,10 +87,18 @@ Als je een extra uitdaging wilt met loops:
 + [Presentatie: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_Lists.pptx)
 + [Presentatie: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_ListMethodes.pptx)
 + [Tutorialspoint: arrays](http://www.tutorialspoint.com/csharp/csharp_arrays.htm)
-+ [Training: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12_Arrays.pdf)
++ [Training: Array - Televisie](collecties/Televisie.md)
++ [Training: Array - Netflix and random](collecties/Netflix-and-random.md)
++ [Training: Array - Fruitautomaat](collecties/Fruitautomaat.md)
++ [Training: List - Prijzen toevoegen](collecties/Prijzen-toevoegen.md)
++ [Training: Array - Ticketmeester](collecties/Ticketmeester.md)
 + [Training: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12Lists.pdf)
 + [Training: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12_ListMethodes.pdf)
 + [Training: method, list en array](methoden/exerciseMethodListArray)
+
+Als je een extra uitdaging wilt met collecties:
++ [Training: Array - Woordvervormer](collecties/Woordvervormer.md)
+
 
 ## How To ...  (veel voorkomende vragen)
 
