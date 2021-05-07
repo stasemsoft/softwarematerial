@@ -29,7 +29,7 @@ Een mogelijk weekschema voor FHICT. Het is de bedoeling dat softwaredocenten tij
 + [Compiler Error Quiz](errorquiz/readme.md)
 + [Game of Life](conway/readme.md)
 + demo: een wat groter voorbeeld met class/object/ctor/propg etc... bijvoorbeeld [Virusinator](Virusinator)
-+ [git-workshop](git)
++ [git-workshop](git/readme)
 
 ### 4e week Verdieping
 

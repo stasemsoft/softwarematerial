@@ -2,8 +2,8 @@
 
 ## Programmeren met Objects en Classes
 
-+ Als je al wat ervaring hebt kun je al eens naar [versiebeheer met git](../process/git) kijken (maar als je nieuw bent in OOP is het wellicht beter eerst daarop te richten).
-+ Als je al wat ervaring hebt kun je al eens naar [unit testing](unittesting) kijken (maar als je nieuw bent in OOP is het wellicht beter eerst op het programmeren zelf te richten).
++ Als je al wat ervaring hebt kun je al eens naar [versiebeheer met git](../workshops/git/readme) kijken (maar als je nieuw bent in OOP is het wellicht beter eerst op Object Oriented Programming te richten).
++ Als je al wat ervaring hebt kun je al eens naar [unit testing](unittesting) kijken (maar als je nieuw bent in OOP is het wellicht beter eerst op het programmeren zelf te richten). 
 
 ### Introductie Objects en Classes: OOP
 
