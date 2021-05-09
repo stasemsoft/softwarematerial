@@ -18,9 +18,10 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 
 + [Presentatie: Variabelen, bewerkingen en conversies](var/Variabelen-bewerkingen-conversies.pptx)
 + [Tutorial: De Debugger](debugger/Debugger.md)
-+ [Training: Goeroe-calc: variabele, bewerkingen, conversies](var/trainingVariabelenBewerkingenConversies.md)
 + [Reference: variable](var/naslag_Variable.md)
 + [Reference: operatoren](var/naslag_Operatoren.md)
++ [Training: Goeroe-calc: variabele, bewerkingen, conversies](var/trainingVariabelenBewerkingenConversies.md)
++ [Training: software baas](var/softwareBaas.md)
 + [Training: Euro Dollar converter](var/Euro-Dollar-Converter.md)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! (Variabelen, bewerkingen, typen, conversie)
 + [Training: Diversen](var/Extra-opgaven-variabelen.md)
 + [Training: Computerrekenen](var/trainingComputerRekenen.md)
@@ -91,7 +92,7 @@ Als je een extra uitdaging wilt met loops:
 + [Training: Array - Netflix and random](collecties/Netflix-and-random.md)
 + [Training: Array - Fruitautomaat](collecties/Fruitautomaat.md)
 + [Training: List - Prijzen toevoegen](collecties/Prijzen-toevoegen.md)
-+ [Training: Array - Ticketmeester](collecties/Ticketmeester.md)
++ [Training: List - Ticketmeester](collecties/Ticketmeester.md)
 + [Training: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12Lists.pdf)
 + [Training: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12_ListMethodes.pdf)
 + [Training: method, list en array](methoden/exerciseMethodListArray)
@@ -155,9 +156,8 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 ### W.V.T.T.K., diversen
 + [Videos van Collega Jan](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/index.html)
 + [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)  
-+ [Computerphile](https://www.youtube.com/user/Computerphile)  
++ [Computerphile](https://www.youtube.com/user/Computerphile) 
 + [TED talk 8 secrets of success](https://www.ted.com/talks/richard_st_john_s_8_secrets_of_success?language=nl)  
-
 + [dotnet.microsoft.com/learn/videos](https://dotnet.microsoft.com/learn/videos)
 
 
