@@ -145,11 +145,10 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 ### Vingeroefening, Training, Challenge
 + [Programming Challenges](https://git.fhict.nl/I872272/ProgrammingChallenges) 67+ Programming Challenges (zowel game als non-game)
 + [Code Wars](https://www.codewars.com/) - [Basis niveau](https://www.codewars.com/kata/search/csharp?q=&r%5B%5D=-8&tags=Fundamentals&beta=false)  
-+ [Project Euler](https://projecteuler.net/) : een [overzicht van geschikte Basis (en Verdiepings) Challenges](https://stasemsoft.github.io/softwarematerial/docs/basic/OIS11%20en%20OIS12%20-%20Project%20Euler%20challenges.pdf)  
++ [Project Euler](https://projecteuler.net/)
 + [Coding Game](https://www.codingame.com/)  
 
 ### Dictaat, Boek, Kennis
-+ [Dictaat Basis programmeren](knowOis11dictaat).
 + [C# Begrippen 'flash cards'](https://quizlet.com/18210232/c-sharp-terminology-flash-cards/) bijv. Method, Property, Class, ...
 + [Reference: Head First C#](https://www.oreilly.com/library/view/head-first-c/9781449358846/) - Basis=Hoofdstuk 1 tm 4
 
