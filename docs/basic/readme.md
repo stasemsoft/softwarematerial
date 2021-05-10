@@ -105,15 +105,15 @@ Als je een extra uitdaging wilt met collecties:
 
 Hoe kan ik in een WinForm-app met meerdere Forms vanuit het ene Form het andere openen?
 Het antwoord op deze en nog veel meer vragen:
-[How to...](howto)
+[How to...](howto.md)
 
 
 ## Integrale opdrachten
 
 Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bij elkaar komen.
 
-+ [Training: Rock Paper Scissors](integraal/rockpaperscissors)
-+ [Training: Kaartspel](integraal/kaartspel)
++ [Training: Rock Paper Scissors](integraal/rockpaperscissors.md)
++ [Training: Kaartspel](integraal/kaartspel.md)
 
 
 ## Diverse trainingsmogelijkheden, inspiratie, overige resources
