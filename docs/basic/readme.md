@@ -21,7 +21,7 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 + [Reference: variable](var/naslag_Variable.md)
 + [Reference: operatoren](var/naslag_Operatoren.md)
 + [Training: Goeroe-calc: variabele, bewerkingen, conversies](var/trainingVariabelenBewerkingenConversies.md)
-+ [Training: software baas](var/softwareBaas.md)
++ [Training: Software baas](var/softwareBaas.md)
 + [Training: Euro Dollar converter](var/Euro-Dollar-Converter.md)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! (Variabelen, bewerkingen, typen, conversie)
 + [Training: Diversen](var/Extra-opgaven-variabelen.md)
 + [Training: Computerrekenen](var/trainingComputerRekenen.md)
@@ -48,8 +48,8 @@ In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net
 
 ## Lus / loop / herhaling
 
-+ [Reference: while](lussen/naslag_While)
-+ [Reference: for](lussen/naslag_For)
++ [Reference: while](lussen/naslag_While.md)
++ [Reference: for](lussen/naslag_For.md)
 + [Training: Drankjesschema](lussen/Drankjesschema.md)
 + [Training: Wiskunde en zo](lussen/Wiskunde-en-zo.md)
 + [Training: Worpengenerator](lussen/Worpengenerator.md)
@@ -83,7 +83,7 @@ Als je een extra uitdaging wilt met loops:
 
 ## Collectie (List, Array)
 
-+ [Explanation: Collecties Array & Lists](collecties/Explanation-Array-Lists.md)
++ [Explanation: Collecties Array & Lists](Explanation-Array-Lists.md)
 + [Presentatie: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_Arrays.pptx)
 + [Presentatie: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_Lists.pptx)
 + [Presentatie: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_ListMethodes.pptx)
@@ -93,9 +93,9 @@ Als je een extra uitdaging wilt met loops:
 + [Training: Array - Fruitautomaat](collecties/Fruitautomaat.md)
 + [Training: List - Prijzen toevoegen](collecties/Prijzen-toevoegen.md)
 + [Training: List - Ticketmeester](collecties/Ticketmeester.md)
-+ [Training: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12Lists.pdf)
-+ [Training: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12_ListMethodes.pdf)
-+ [Training: method, list en array](methoden/exerciseMethodListArray)
++ [Training: Listmethodes - Muziekcollectie](collecties/Muziekcollectie.md)
++ [Training: Listmethodes - Raad het getal](collecties/RaadHetGetal.md)
++ [Training: Listmethodes - Vlaggen van de wereld](collecties/VlaggenVanDeWereld.md)
 
 Als je een extra uitdaging wilt met collecties:
 + [Training: Array - Woordvervormer](collecties/Woordvervormer.md)
@@ -113,7 +113,7 @@ Het antwoord op deze en nog veel meer vragen:
 Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bij elkaar komen.
 
 + [Training: Rock Paper Scissors](integraal/rockpaperscissors)
-+ [Training: kaartspel](integraal/kaartspel)
++ [Training: Kaartspel](integraal/kaartspel)
 
 
 ## Diverse trainingsmogelijkheden, inspiratie, overige resources
