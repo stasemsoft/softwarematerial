@@ -1,16 +1,16 @@
 # Toolbox Basis: Basisconcepten van programmeren (zonder objecten)
 
 ## Algemene info
-+ [Wat kan ik als ik de module 'basis' voldoende doorlopen heb?](resultaatformulier)
++ [Wat kan ik als ik de module 'basis' voldoende doorlopen heb?](resultaatformulier.md)
 
 
 ## Algemene info Visual Studio en C#
 
 Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het later terug kunt zoeken!
 
-+ [How-to: Visual Studio installatie](../process/infoVisualStudioInstallatie)
-+ [How-to: Over het inleveren van programma's in Canvas](../process/infoInleverenProgrammas)
-+ [Reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys)
++ [How-to: Visual Studio installatie](../process/infoVisualStudioInstallatie.md)
++ [How-to: Over het inleveren van programma's in Canvas](../process/infoInleverenProgrammas.md)
++ [Reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys.md)
 
 
 
