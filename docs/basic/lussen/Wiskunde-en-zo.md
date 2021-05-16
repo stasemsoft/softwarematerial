@@ -26,7 +26,7 @@ Schrijf een programma (console app) dat de volgende tekst op het scherm kan late
 22\
 333\
 4444\
-55555\
+55555
 
 Het algoritme moet werken met een **geneste lus (een lus in een lus)**.
 

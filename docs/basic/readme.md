@@ -1,16 +1,16 @@
 # Toolbox Basis: Basisconcepten van programmeren (zonder objecten)
 
 ## Algemene info
-+ [Wat kan ik als ik de module 'basis' voldoende doorlopen heb?](resultaatformulier)
++ [Wat kan ik als ik de module 'basis' voldoende doorlopen heb?](resultaatformulier.md)
 
 
 ## Algemene info Visual Studio en C#
 
 Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het later terug kunt zoeken!
 
-+ [How-to: Visual Studio installatie](../process/infoVisualStudioInstallatie)
-+ [How-to: Over het inleveren van programma's in Canvas](../process/infoInleverenProgrammas)
-+ [Reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys)
++ [How-to: Visual Studio installatie](../process/infoVisualStudioInstallatie.md)
++ [How-to: Over het inleveren van programma's in Canvas](../process/infoInleverenProgrammas.md)
++ [Reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys.md)
 
 
 
@@ -18,9 +18,10 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 
 + [Presentatie: Variabelen, bewerkingen en conversies](var/Variabelen-bewerkingen-conversies.pptx)
 + [Tutorial: De Debugger](debugger/Debugger.md)
-+ [Training: Goeroe-calc: variabele, bewerkingen, conversies](var/trainingVariabelenBewerkingenConversies.md)
 + [Reference: variable](var/naslag_Variable.md)
 + [Reference: operatoren](var/naslag_Operatoren.md)
++ [Training: Goeroe-calc: variabele, bewerkingen, conversies](var/trainingVariabelenBewerkingenConversies.md)
++ [Training: Software baas](var/softwareBaas.md)
 + [Training: Euro Dollar converter](var/Euro-Dollar-Converter.md)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! (Variabelen, bewerkingen, typen, conversie)
 + [Training: Diversen](var/Extra-opgaven-variabelen.md)
 + [Training: Computerrekenen](var/trainingComputerRekenen.md)
@@ -47,8 +48,8 @@ In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net
 
 ## Lus / loop / herhaling
 
-+ [Reference: while](lussen/naslag_While)
-+ [Reference: for](lussen/naslag_For)
++ [Reference: while](lussen/naslag_While.md)
++ [Reference: for](lussen/naslag_For.md)
 + [Training: Drankjesschema](lussen/Drankjesschema.md)
 + [Training: Wiskunde en zo](lussen/Wiskunde-en-zo.md)
 + [Training: Worpengenerator](lussen/Worpengenerator.md)
@@ -82,7 +83,7 @@ Als je een extra uitdaging wilt met loops:
 
 ## Collectie (List, Array)
 
-+ [Explanation: Collecties Array & Lists](collecties/Explanation-Array-Lists.md)
++ [Explanation: Collecties Array & Lists](Explanation-Array-Lists.md)
 + [Presentatie: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_Arrays.pptx)
 + [Presentatie: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_Lists.pptx)
 + [Presentatie: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_ListMethodes.pptx)
@@ -91,10 +92,10 @@ Als je een extra uitdaging wilt met loops:
 + [Training: Array - Netflix and random](collecties/Netflix-and-random.md)
 + [Training: Array - Fruitautomaat](collecties/Fruitautomaat.md)
 + [Training: List - Prijzen toevoegen](collecties/Prijzen-toevoegen.md)
-+ [Training: Array - Ticketmeester](collecties/Ticketmeester.md)
-+ [Training: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12Lists.pdf)
-+ [Training: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/exercises_FUN12_ListMethodes.pdf)
-+ [Training: method, list en array](methoden/exerciseMethodListArray)
++ [Training: List - Ticketmeester](collecties/Ticketmeester.md)
++ [Training: Listmethodes - Muziekcollectie](collecties/Muziekcollectie.md)
++ [Training: Listmethodes - Raad het getal](collecties/RaadHetGetal.md)
++ [Training: Listmethodes - Vlaggen van de wereld](collecties/VlaggenVanDeWereld.md)
 
 Als je een extra uitdaging wilt met collecties:
 + [Training: Array - Woordvervormer](collecties/Woordvervormer.md)
@@ -104,15 +105,15 @@ Als je een extra uitdaging wilt met collecties:
 
 Hoe kan ik in een WinForm-app met meerdere Forms vanuit het ene Form het andere openen?
 Het antwoord op deze en nog veel meer vragen:
-[How to...](howto)
+[How to...](howto.md)
 
 
 ## Integrale opdrachten
 
 Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bij elkaar komen.
 
-+ [Training: Rock Paper Scissors](integraal/rockpaperscissors)
-+ [Training: kaartspel](integraal/kaartspel)
++ [Training: Rock Paper Scissors](integraal/rockpaperscissors.md)
++ [Training: Kaartspel](integraal/kaartspel.md)
 
 
 ## Diverse trainingsmogelijkheden, inspiratie, overige resources
@@ -144,20 +145,18 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 ### Vingeroefening, Training, Challenge
 + [Programming Challenges](https://git.fhict.nl/I872272/ProgrammingChallenges) 67+ Programming Challenges (zowel game als non-game)
 + [Code Wars](https://www.codewars.com/) - [Basis niveau](https://www.codewars.com/kata/search/csharp?q=&r%5B%5D=-8&tags=Fundamentals&beta=false)  
-+ [Project Euler](https://projecteuler.net/) : een [overzicht van geschikte Basis (en Verdiepings) Challenges](https://stasemsoft.github.io/softwarematerial/docs/basic/OIS11%20en%20OIS12%20-%20Project%20Euler%20challenges.pdf)  
++ [Project Euler](https://projecteuler.net/)
 + [Coding Game](https://www.codingame.com/)  
 
 ### Dictaat, Boek, Kennis
-+ [Dictaat Basis programmeren](knowOis11dictaat).
 + [C# Begrippen 'flash cards'](https://quizlet.com/18210232/c-sharp-terminology-flash-cards/) bijv. Method, Property, Class, ...
 + [Reference: Head First C#](https://www.oreilly.com/library/view/head-first-c/9781449358846/) - Basis=Hoofdstuk 1 tm 4
 
 ### W.V.T.T.K., diversen
 + [Videos van Collega Jan](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/index.html)
 + [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)  
-+ [Computerphile](https://www.youtube.com/user/Computerphile)  
++ [Computerphile](https://www.youtube.com/user/Computerphile) 
 + [TED talk 8 secrets of success](https://www.ted.com/talks/richard_st_john_s_8_secrets_of_success?language=nl)  
-
 + [dotnet.microsoft.com/learn/videos](https://dotnet.microsoft.com/learn/videos)
 
 
