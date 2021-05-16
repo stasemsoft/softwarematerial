@@ -20,6 +20,7 @@ of in een
 Zie [meer uitleg](https://stasemsoft.github.io/softwarematerial/docs/meta) over de uitgangspunten.
 
 ---
+
 ### How-to
 
 Technisch-inhoudelijke vragen vind je in de How-to. Staat je antwoord er niet bij? Laat het horen! (ook als je het antwoord zelf al hebt gevonden. Vast dank!)
@@ -27,7 +28,6 @@ Technisch-inhoudelijke vragen vind je in de How-to. Staat je antwoord er niet bi
 
 Als je vragen hebt over de cursus bij FHICT: kijk eerst eens in de [Frequently Asked Questions](https://stasemsoft.github.io/softwarematerial/docs/FAQ)
  of anderen dezelfde vraag ook al hadden.
-
 
 ---
 
@@ -67,7 +67,6 @@ Dit betreft een aantal niet-programmeer aspecten die een beginnend software engi
 ### Het Software Profiel bij FHICT
 
 + [Het Software Profiel](https://stasemsoft.github.io/softwarematerial/docs/softwareprofiel/)
-
 
 ---
 
