@@ -33,7 +33,8 @@ Deze opdrachten vind je in de [Toolkit basis](../basic) in de categorieën 'Vari
 
 -   Wat is een herhalingsstructuur/loop, welke zijn er (in C#), en waarvoor gebruik ik die?
 
-De opdrachten vind je in de [Toolkit basis](../basic/#variabelen-assignment-typen-debugger-eerste-stapjes-in-c)
+Ook hierover vind je opdrachten in de  [Toolkit basis](../basic): 
++ Worpengenerator
 
 
 ---
@@ -42,13 +43,21 @@ De opdrachten vind je in de [Toolkit basis](../basic/#variabelen-assignment-type
 
 -   Wat is een method, hoe werk ik met returnvalues en hoe kan ik parameters gebruiken?
 
+Ook hierover vind je opdrachten in de  [Toolkit basis](../basic): 
++ Bloeddruk. 
++ MaalDrie
++ Ampere
+
 
 ---
 
 ## Stap 4
 
--   Herhaal methods.
+-   Methods (herhaling/uitbreiding)
 -   Wat kan ik met Collections (met name List en Array in C#)?
+
+Ook hierover vind je opdrachten in de  [Toolkit basis](../basic): 
++ Christmas tree generator
 
 
 ---
@@ -58,10 +67,15 @@ De opdrachten vind je in de [Toolkit basis](../basic/#variabelen-assignment-type
 + Vanaf nu blijf ik methods gebruiken. 
 + Loops / herhaling algo: project-Euler? 
 
+Ook hierover vind je opdrachten in de  [Toolkit basis](../basic): 
++ Method marathon
 
 
 ---
 
 ## Stap 6
-+ Combineer verschillende zaken in wat grotere apps (dat noemen we een ***Wedstrijd***-app). 
++ Combineer verschillende zaken in grotere apps (dat noemen we een ***Wedstrijd***-app). 
 + Probeer ook eens voordat je begint met coderen om op te schrijven WAT een app moet gaan doen en HOE. 
+
+In de  [Toolkit basis](../basic) staan (onder andere onder 'Integrale Opdrachten', maar ook bij 'Vingeroefening, Training, Challenge') ideeën voor wedstrijd-apps. Ook mag je zelf wat verzinnen! Het gaat er om dat je grotere apps maakt waarin je veelvuldig methods maakt, loops gebruikt, collecties, ... , hoe meer hoe beter!!  Succes en veel plezier. 
+
