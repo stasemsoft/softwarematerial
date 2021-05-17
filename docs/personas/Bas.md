@@ -2,6 +2,7 @@
 Waar 'Bas' staat mag naar eigen behoefte ook 'Barbara' gelezen worden en waar 'hij' staat mag ook 'zij' gelezen worden. 
 
 Bas heeft nog niet (of bijna niet) geprogrammeerd. 
+
 Hieronder een aantal fasen of stappen die je zou kunnen  doorlopen. Een Stap zou ongeveer 1 dag werk kunnen zijn voor een gemiddelde student. 
 
 ---
