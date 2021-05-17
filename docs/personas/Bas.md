@@ -2,7 +2,7 @@
 Waar 'Bas' staat mag naar eigen behoefte ook 'Barbara' gelezen worden en waar 'hij' staat mag ook 'zij' gelezen worden. 
 
 Bas heeft nog niet (of bijna niet) geprogrammeerd. 
-
+Hieronder een aantal fasen of stappen die je zou kunnen  doorlopen. Een Stap zou ongeveer 1 dag werk kunnen zijn voor een gemiddelde student. 
 
 ## Stap 1
 
@@ -13,6 +13,9 @@ Bas heeft nog niet (of bijna niet) geprogrammeerd.
 -   Wat is een project in programmeertermen?
 -   Wat is een statement?
 -   Wat is een conditioneel statement en waarvoor gebruik ik het?
+
+Mogelijke opdracht: 
++ [Goeroe-Calculator](basic/#variabelen-assignment-typen-debugger-eerste-stapjes-in-c)
 
 ## Stap 2
 
@@ -34,6 +37,5 @@ Bas heeft nog niet (of bijna niet) geprogrammeerd.
 
 
 ## Stap 6
-
-Test Plan & Report (vgl. BugSweeper)
-
++ Combineer verschillende zaken in wat grotere apps (dat noemen we een ***Wedstrijd***-app). 
++ Probeer ook eens voordat je begint met coderen om op te schrijven WAT een app moet gaan doen en HOE. 
