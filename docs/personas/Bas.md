@@ -16,8 +16,15 @@ Als je deze vragen kunt beantwoorden ben je klaar met Stap 1:
 -   Wat is een statement?
 -   Wat is een conditioneel statement en waarvoor gebruik ik het?
 
-Kies een opdracht om te maken: 
-+ [Vind ze hier](../basic/#variabelen-assignment-typen-debugger-eerste-stapjes-in-c)
+Kies een opdracht om te maken. ALs dat moeilijk is raden we aan er meer uit die categorie te maken: 
+
++ Training goeroe-calc
++ Training Software baas
++ Training Computerrekenen. 
+
+Deze opdrachten vind je in de [Toolkit basis](../basic) in de categorieën 'Variabelen, assignment, typen, debugger: eerste stapjes in C#'. Ook in categorie 'Conditioneel' staan relevante opdrachten, zoals: 
++ EuroDollarConvertor
++ CalorieënTracker
 
 ---
 
@@ -25,6 +32,8 @@ Kies een opdracht om te maken:
 ## Stap 2
 
 -   Wat is een herhalingsstructuur/loop, welke zijn er (in C#), en waarvoor gebruik ik die?
+
+De opdrachten vind je in de [Toolkit basis](../basic/#variabelen-assignment-typen-debugger-eerste-stapjes-in-c)
 
 
 ---
