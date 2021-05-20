@@ -45,6 +45,10 @@ In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net
 + [Reference: string methoden in C#](string_methoden/naslag_StringMethods.md)
 + [Training: String methods in C#](string_methoden/StringMethods)
 
+## DateTime (in C#)
+In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net iets anders: datum en tijd!
++ [Reference: DateTime in C#](datetime/naslag_datetime.md)
+
 ## Lus / loop / herhaling
 
 + [Reference: while](lussen/naslag_While.md)
