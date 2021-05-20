@@ -50,11 +50,12 @@ In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net
 
 + [Reference: while](lussen/naslag_While.md)
 + [Reference: for](lussen/naslag_For.md)
-+ [Training: Drankjesschema](lussen/Drankjesschema.md)
-+ [Training: Wiskunde en zo](lussen/Wiskunde-en-zo.md)
-+ [Training: Worpengenerator](lussen/Worpengenerator.md)
-+ [Training: Muziekgenerator](lussen/Muziekgenerator.md)
-+ [Training: Het goede getal](lussen/Het-goede-getal.md)
++ [Training: For - Drankjesschema](lussen/Drankjesschema.md)
++ [Training: For - Wiskunde en zo](lussen/Wiskunde-en-zo.md)
++ [Training: For - Worpengenerator](lussen/Worpengenerator.md)
++ [Training: For - Muziekgenerator](lussen/Muziekgenerator.md)
++ [Training: While - Het grote geheel](lussen/HetGroteGeheel.md)
++ [Training: While - Het goede getal](lussen/Het-goede-getal.md)
 
 Als je een extra uitdaging wilt met loops:
 + [Training: Christmas Tree Generator](lussen/Christmas-tree-generator.md)

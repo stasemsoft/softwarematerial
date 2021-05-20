@@ -1,4 +1,4 @@
-# Training - Worpengenerator
+# Training - For - Worpengenerator
 
 In veel bordspellen (of digitale varianten hiervan) worden worpen gedaan met meerdere dobbelstenen (in het bijzonder bij spellen als Yahtzee, Risk, etc.) 
 
