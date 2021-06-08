@@ -1,4 +1,4 @@
-# Training - Wiskunde en zo
+# Training - For - Wiskunde en zo
 
 Niets is zo leuk als wiskunde! Waarom zou je niet wiskunde gebruiken om herhalingsstructuren te leren?
 

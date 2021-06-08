@@ -21,7 +21,6 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 + [Reference: variable](var/naslag_Variable.md)
 + [Reference: operatoren](var/naslag_Operatoren.md)
 + [Training: Goeroe-calc: variabele, bewerkingen, conversies](var/trainingVariabelenBewerkingenConversies.md)
-+ [Training: Software baas](var/softwareBaas.md)
 + [Training: Euro Dollar converter](var/Euro-Dollar-Converter.md)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! (Variabelen, bewerkingen, typen, conversie)
 + [Training: Diversen](var/Extra-opgaven-variabelen.md)
 + [Training: Computerrekenen](var/trainingComputerRekenen.md)
@@ -46,15 +45,20 @@ In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net
 + [Reference: string methoden in C#](string_methoden/naslag_StringMethods.md)
 + [Training: String methods in C#](string_methoden/StringMethods)
 
+## DateTime (in C#)
+In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net iets anders: datum en tijd!
++ [Reference: DateTime in C#](datetime/naslag_datetime.md)
+
 ## Lus / loop / herhaling
 
 + [Reference: while](lussen/naslag_While.md)
 + [Reference: for](lussen/naslag_For.md)
-+ [Training: Drankjesschema](lussen/Drankjesschema.md)
-+ [Training: Wiskunde en zo](lussen/Wiskunde-en-zo.md)
-+ [Training: Worpengenerator](lussen/Worpengenerator.md)
-+ [Training: Muziekgenerator](lussen/Muziekgenerator.md)
-+ [Training: Het goede getal](lussen/Het-goede-getal.md)
++ [Training: For - Drankjesschema](lussen/Drankjesschema.md)
++ [Training: For - Wiskunde en zo](lussen/Wiskunde-en-zo.md)
++ [Training: For - Worpengenerator](lussen/Worpengenerator.md)
++ [Training: For - Muziekgenerator](lussen/Muziekgenerator.md)
++ [Training: While - Het grote geheel](lussen/HetGroteGeheel.md)
++ [Training: While - Het goede getal](lussen/Het-goede-getal.md)
 
 Als je een extra uitdaging wilt met loops:
 + [Training: Christmas Tree Generator](lussen/Christmas-tree-generator.md)
