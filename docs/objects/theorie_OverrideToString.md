@@ -42,3 +42,4 @@ Programmeer een `ToString()`-methode in al je `classes` om te zorgen dat je alti
 
 
 + [video 57 van kudvenkat over override ToString()](https://www.youtube.com/watch?v=MwPZLPNR3ns&t=0s&list=PLAC325451207E3105&index=57)
++ [docs.microsoft over ToString()](https://docs.microsoft.com/en-us/dotnet/api/system.object.tostring?view=net-5.0)
