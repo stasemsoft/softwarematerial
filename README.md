@@ -1,29 +1,33 @@
-# softwarematerial
+# softwarematerial - Overzicht
 
 
 ## Inleiding 
-Dit is een verzameling (open) software-materiaal van het startsemester FHICT (Fontys Hogeschool voor ICT). Het is openbaar toegankelijk voor iedereen en vrij van copyright. FHICT verwijst naar dit materiaal vanuit een canvas-course, daar staat de FHICT-specifieke info, terwijl deze github-pages zoveel mogelijk op inhoud en redelijk FHICT-onafhankelijk zijn.
+Dit is een verzameling (open) software-materiaal van het startsemester FHICT (Fontys Hogeschool voor ICT). Het is openbaar toegankelijk voor iedereen en vrij van copyright. Het is in de loop der jaren gemaakt en verzameld door docenten, met hier en daar toevoegingen door studenten! FHICT verwijst naar dit materiaal vanuit een canvas-course, daar staat de FHICT-specifieke info, terwijl deze github-pages zoveel mogelijk op inhoud en redelijk FHICT-onafhankelijk zijn.
 
 Vind dit materiaal
 + [op Github pages](https://stasemsoft.github.io/softwarematerial/) (hier het meest leesbaar)
 of in een
 + [Github-repository](https://github.com/stasemsoft/softwarematerial) (pull requests met verbeteringen welkom)
 
----
+--- 
 
-### Uitgangspunten bij het structureren van dit materiaal:
+## Structuur van dit materiaal
+
+In het theorie-meteriaal onderscheiden we: 
 + `Tutorial`: practical steps, learning oriented.
 + `How-to guide`: practical steps, problem oriented.
 + `Discussion`: theoretical, understanding oriented.
 + `Reference`: theoretical, information oriented. Accurate and complete.
-+ `Training` (voorheen exercises): 'vingeroefeningen', horen bij een stukje theorie om te oefenen, maar zijn als bewijsmateriaal om je docent te overtuigen niet te gebruiken.
+
+De opdrachten zijn te verdelen in: 
++ `Training` (voorheen exercises): 'vingeroefeningen', horen bij een stukje theorie om te oefenen, maar zijn als bewijsmateriaal om je docent te overtuigen niet te gebruiken. 
 + `Wedstrijd`: Om je docent te overtuigen dat je het niet alleen snapt maar ook doet ga je zelf opdrachten verzinnen, variëren en uitbreiden op bestaande opdrachten!
 
-Zie [meer uitleg](https://stasemsoft.github.io/softwarematerial/docs/meta) over de uitgangspunten.
+Zie [meer uitleg](https://stasemsoft.github.io/softwarematerial/docs/meta) over de uitgangspunten. 
 
 ---
 
-### How-to
+## Eerste Hulp Bij Vasthangen
 
 Technisch-inhoudelijke vragen vind je in de How-to. Staat je antwoord er niet bij? Laat het horen! (ook als je het antwoord zelf al hebt gevonden. Vast dank!)
 [How-to](https://stasemsoft.github.io/softwarematerial/docs/basic/howto)
@@ -33,15 +37,17 @@ Als je vragen hebt over de cursus bij FHICT: kijk eerst eens in de [Frequently A
 
 ---
 
-### Computational Thinking
+## Onderdelen 
 
-De manier van denken, goed om iets van te weten...
+### 1. Computational Thinking
+
+De manier van denken, goed om iets van te weten... Oorspronkelijk gebruikt als materiaal om kennis met elkaar en met de docent te maken. Werkt het best al discussiërend met stift bij het whiteboard. 
 
 + [Computational Thinking](https://stasemsoft.github.io/softwarematerial/docs/computational)
 
 ---
 
-### Toolbox Basis: Basisconcepten van programmeren (zonder objecten)
+### 2. Toolbox Basis: Basisconcepten van programmeren (zonder objecten)
 
 Een introductie in programmeren (nog zonder objecten).
 
@@ -49,13 +55,16 @@ Een introductie in programmeren (nog zonder objecten).
 
 ---
 
-### Toolbox Verdiepend: Objects en Classes
+### 3. Toolbox Verdiepend: Objects en Classes
 
 Verdieping, programmeren met objecten
 
 + [Toolbox Verdiepend: OOP (Object Oriented Programming)](https://stasemsoft.github.io/softwarematerial/docs/objects/)
 
 ---
+
+
+## Diversen
 
 ### Software Engineering
 
@@ -72,7 +81,7 @@ Dit betreft een aantal niet-programmeer aspecten die een beginnend software engi
 
 ---
 
-### Diversen
+### Tot slot
 
 + [Motivatie, Concentratie, thuiswerken](docs/process/motivatieconcentratie): Niet onbelangrijk tijdens een gemiddelde  corona-crisis...
 
