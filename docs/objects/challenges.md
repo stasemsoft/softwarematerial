@@ -16,7 +16,7 @@ varieer er dus gerust op!
 
 + [challenge WoordenZoeker](challenges/challengeWoordenZoeker.pdf)
 
-+ [challenge_VierOpEenRij](challenges/challenge_VierOpEenRij.md)
++ [challenge_VierOpEenRij](challenge_VierOpEenRij.md)
 
 + [challenge DamSpel](challenges/challenge_DamSpel.pdf)
 
@@ -69,7 +69,7 @@ Een ander voorbeeld:
 Een site waar allerlei (vaak wiskundige) programmeeruitdagingen op staan is
 [projecteuler.net](https://projecteuler.net/)
 Door softwaredocenten is Euler-project 54 (genaamd *poker hands*) al genoemd
-als een voorbeeld van een leuke uitdaging. 
+als een voorbeeld van een leuke uitdaging.
 Andere relevante Eulers: [[OIS11 en OIS12 - Project Euler challenges.pdf]]
 
 #### Dwitter.com
