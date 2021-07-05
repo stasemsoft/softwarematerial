@@ -30,10 +30,8 @@ varieer er dus gerust op!
 
 ## Under construction
 
-Nog meer challenges die wellicht nog niet helemaal getest zijn,
-maar gebruik ze gerust als inspiratie voor eigen werk!
-
-+ [challenge BankRekening](challenges/challenge_Bankrekening)
+Nog meer challenges die wellicht nog niet helemaal perfect uitgewerkt zijn,
+maar je kunt ze natuurlijk gerust gebruiken als inspiratie voor eigen werk!
 
 + [challenge_PatientDossier](challenges/challenge_PatientDossier)
 

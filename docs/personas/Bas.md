@@ -9,7 +9,8 @@ Hieronder een aantal fasen of stappen die je zou kunnen  doorlopen. Een Stap zou
 
 ## Stap 1
 Als je deze vragen kunt beantwoorden ben je klaar met Stap 1: 
--   Vraag: Wat zijn de basisconstructies van programmeren?
+
+-   [Vraag: Wat zijn de basisconstructies van programmeren?](../basic/#variabelen-assignment-typen-debugger-eerste-stapjes-in-c). 
 -   variabelen / variables
 -   Types zoals int, Double, Boolean.
 -   Type conversie/conversion (zoals Convert.ToString())
@@ -20,6 +21,7 @@ Als je deze vragen kunt beantwoorden ben je klaar met Stap 1:
 Kies een opdracht om te maken. ALs dat moeilijk is raden we aan er meer uit die categorie te maken: 
 
 + Training goeroe-calc
+
 + Training Software baas
 + Training Computerrekenen. 
 
