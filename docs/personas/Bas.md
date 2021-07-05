@@ -18,7 +18,7 @@ Als je deze vragen kunt beantwoorden ben je klaar met Stap 1:
 -   Wat is een statement?
 -   Wat is een conditioneel statement en waarvoor gebruik ik het?
 
-Kies een opdracht om te maken. ALs dat moeilijk is raden we aan er meer uit die categorie te maken: 
+Kies een opdracht om te maken. Als dat moeilijk is raden we aan er meer uit die categorie te maken: 
 
 + Training goeroe-calc
 
