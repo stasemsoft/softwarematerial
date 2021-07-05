@@ -28,7 +28,7 @@ De afstand van rustpunt 5 tot het eindpunt B is meter.
 Na rustpunt 5 maakt hij geen stops meer, omdat hij anders nooit het eindpunt zal halen."
 
 
-(vraag 28aug2020, beterrekenen)
+(bron: vraag 28aug2020, beterrekenen)
 
 Hint:
 Teken allereerst een plaatje. 
