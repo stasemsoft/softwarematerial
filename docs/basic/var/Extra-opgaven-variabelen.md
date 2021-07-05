@@ -10,7 +10,7 @@ Bijvoorbeeld in de zin "De appel valt niet ver van de boom." komt het woord "app
 
 ## Casus 2 - BMI-calculator 
 Schrijf een programma dat de BMI van een persoon uitrekent en op het scherm laat zien. 
-Tip: voorafgaand aan het programmeren (=realisatiefase) ga je een kort vooronderzoek (=analyse) uitvoeren waarbij je de volgende vragen beantwoord: 
+Tip: voorafgaand aan het programmeren (=realisatiefase) ga je een kort vooronderzoek (=analyse) uitvoeren waarbij je de volgende vragen beantwoordt: 
 + Wat is BMI? 
 + Hoe reken je voor een man/vrouw van een bepaalde leeftijd de BMI uit? 
  

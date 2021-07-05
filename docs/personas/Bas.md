@@ -11,12 +11,12 @@ Hieronder een aantal fasen of stappen die je zou kunnen  doorlopen. Een Stap zou
 Als je deze vragen kunt beantwoorden ben je klaar met Stap 1: 
 
 -   [Vraag: Wat zijn de basisconstructies van programmeren?](../basic/#variabelen-assignment-typen-debugger-eerste-stapjes-in-c). 
--   variabelen / variables
--   Types zoals int, Double, Boolean.
--   Type conversie/conversion (zoals Convert.ToString())
+-   [variabelen / variables](../basic/#variabelen-assignment-typen-debugger-eerste-stapjes-in-c). 
+-   [Types zoals int, Double, Boolean](../basic/#variabelen-assignment-typen-debugger-eerste-stapjes-in-c). 
+-   [Type conversie/conversion (zoals Convert.ToString())](../basic/#variabelen-assignment-typen-debugger-eerste-stapjes-in-c). 
 -   Wat is een project in programmeertermen?
 -   Wat is een statement?
--   Wat is een conditioneel statement en waarvoor gebruik ik het?
+-   [Wat is een conditioneel statement en waarvoor gebruik ik het?](../basic/#conditioneel)
 
 Kies een opdracht om te maken. Als dat moeilijk is raden we aan er meer uit die categorie te maken: 
 
