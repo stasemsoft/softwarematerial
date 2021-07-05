@@ -85,13 +85,9 @@ en de training 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *e
 ### Enkele Challenges
 
 + [Training DinoGame](challenges/challengeDinoGame)
-
 + [challenge_BattleSim](challenges/challenge_BattleSim)
-
 + [challenge Galgje](challenges/challenge_Galgje)
-
 + [challenge Eendenvijver](challenges/challenge_Eendenvijver)
-
 
 
 
@@ -103,9 +99,7 @@ Mensen die Software Engineer willen worden zullen hier zeker van smullen:
 
 Als je de volgende video van Tim Corey nog niet bekeken had is dat nu zeker een aanrader!
 + [video Tim Corey: Top 10 C# Best Practices](https://www.youtube.com/watch?v=-9b8NRqjUFM)
-
 + [Software Craftmanship Manifesto](http://manifesto.softwarecraftsmanship.org/)
-
 + [Clean Code - Uncle Bob / Lesson 1](https://www.youtube.com/watch?v=7EmboKQH8lM)
 
 
@@ -114,9 +108,7 @@ Als je de volgende video van Tim Corey nog niet bekeken had is dat nu zeker een 
 ## Classes in samenhang: Relations / CRC / Class diagrams
 
 + [Theorie Class Diagram](theorie_ClassDiagram)
-
 + [Theorie GUI Separation](theorie_GuiSeparation)
-
 + [Theorie Which Class](theorie_WhichClass)
 
 
@@ -124,11 +116,8 @@ Als je de volgende video van Tim Corey nog niet bekeken had is dat nu zeker een 
 ### File Handling en Exception Handling
 
 + [Theorie File Handling](theorie_FileHandling)
-
 + [Training FileHandling](challenges/challengeFileHandling.pdf)
-
-+ [Training Exception Handling (pdf)](challenges/challengeExceptionHandling.pdf),
-[Training Exception Handling (markdown)](challenges/challengeExceptionHandling.md),
++ [Training Exception Handling (pdf)](challenges/challengeExceptionHandling.pdf), of in markdown: [Training Exception Handling (markdown)](challenges/challengeExceptionHandling.md), zie ook 
 [zip met startmateriaal](challenges/challengeException-Naamgenerator.zip).
 
 

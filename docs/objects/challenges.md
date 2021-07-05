@@ -16,7 +16,7 @@ varieer er dus gerust op!
 
 + [challenge WoordenZoeker](challenges/challengeWoordenZoeker.pdf)
 
-+ [challenge 4opeenrij](challenges/challenge_4opeenrij.pdf)
++ [challenge_VierOpEenRij](challenges/challenge_VierOpEenRij.md)
 
 + [challenge DamSpel](challenges/challenge_DamSpel.pdf)
 
