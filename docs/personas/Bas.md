@@ -21,13 +21,15 @@ Als je deze vragen kunt beantwoorden ben je klaar met Stap 1:
 Kies een opdracht om te maken. Als dat moeilijk is raden we aan er meer uit die categorie te maken:
 
 + [Training goeroe-calc](../basic/var/trainingVariabelenBewerkingenConversies)
-
 + [Training Software baas](../basic/var/softwareBaas)
 + [Training Computerrekenen](../basic/var/trainingComputerRekenen)
 
 Deze opdrachten vind je in de [Toolkit basis](../basic) in de categorieën 'Variabelen, assignment, typen, debugger: eerste stapjes in C#'. Ook in categorie 'Conditioneel' staan relevante opdrachten, zoals:
 + [EuroDollarConvertor](../basic/var/Euro-Dollar-Converter)
 + [CalorieënTracker](../basic/conditioneel/Calorieen-tracker)
+
+
+Praat regelmatig met je docent! Dat is degene die uiteindelijk bepaalt of hij/zij/ie overtuigd is van je kunnen. 
 
 ---
 
@@ -40,6 +42,8 @@ Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
 + [Worpengenerator](../docs/basic/lussen/Worpengenerator)
 
 
+Praat regelmatig met je docent! Dat is degene die uiteindelijk bepaalt of hij/zij/ie overtuigd is van je kunnen. (bij de volgende stappen wordt dit niet meer elke keer genoemd, maar blijf het doen). 
+
 ---
 
 ## Stap 3
@@ -47,9 +51,9 @@ Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
 -   Wat is een method, hoe werk ik met returnvalues en hoe kan ik parameters gebruiken?
 
 Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
-+ [Bloeddruk](../basic/methoden/Bloeddruk%20meten.pdf)
-+ [MaalDrie](../basic/methoden/training_MethodMaaldrie.md)
-+ [Ampere](../basic/methoden/training_MethodAmpere.md)
++ [Bloeddruk](../basic/methoden/training_Bloeddruk)
++ [MaalDrie](../basic/methoden/training_MethodMaaldrie)
++ [Ampere](../basic/methoden/training_MethodAmpere)
 
 ---
 
@@ -70,13 +74,13 @@ Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
 + Loops / herhaling algo: project-Euler?
 
 Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
-+ [methodmarathon](../basic/methoden/training_methodmarathon.md)
++ [methodmarathon](../basic/methoden/training_methodmarathon)
 
 
 ---
 
 ## Stap 6
 + Combineer verschillende zaken in grotere apps (dat noemen we een ***Wedstrijd***-app).
-+ Probeer ook eens voordat je begint met coderen om op te schrijven WAT een app moet gaan doen en HOE.
++ Probeer ook eens voordat je begint met coderen om op te schrijven WAT een app moet gaan doen en HOE. Het antwoord op de de **Wat**-vraag nooemen we Analyse, het antwoord op de **Hoe**-vraag is het (technisch) design of ontwerp. 
 
 In de  [Toolkit basis](../basic) staan (onder andere onder 'Integrale Opdrachten', maar ook bij 'Vingeroefening, Training, Challenge') ideeën voor wedstrijd-apps. Ook mag je zelf wat verzinnen! Het gaat er om dat je grotere apps maakt waarin je veelvuldig methods maakt, loops gebruikt, collecties, ... , hoe meer hoe beter!!  Succes en veel plezier.
