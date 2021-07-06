@@ -14,13 +14,13 @@ Als je deze vragen kunt beantwoorden ben je klaar met Stap 1:
 -   [variabelen / variables](../basic/#variabelen-assignment-typen-debugger-eerste-stapjes-in-c). 
 -   [Types zoals int, Double, Boolean](../basic/#variabelen-assignment-typen-debugger-eerste-stapjes-in-c). 
 -   [Type conversie/conversion (zoals Convert.ToString())](../basic/#variabelen-assignment-typen-debugger-eerste-stapjes-in-c). 
--   Wat is een project in programmeertermen?
+-   [Wat is een project in programmeertermen?](../process/infoVisualStudioInstallatie)
 -   Wat is een statement?
 -   [Wat is een conditioneel statement en waarvoor gebruik ik het?](../basic/#conditioneel)
 
 Kies een opdracht om te maken. Als dat moeilijk is raden we aan er meer uit die categorie te maken: 
 
-+ Training goeroe-calc
++ [Training goeroe-calc]
 
 + Training Software baas
 + Training Computerrekenen. 
