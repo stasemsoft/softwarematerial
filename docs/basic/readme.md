@@ -71,19 +71,19 @@ Als je een extra uitdaging wilt met loops:
   1. [method in WinForms 1](https://youtu.be/SRwDqyyZFXY?list=PL0EE421AE8BCEBA4A)
   2. [method in WinForms 2](https://youtu.be/ND8aXadDbyg?list=PL0EE421AE8BCEBA4A).
  + [w3schools : methods](https://www.w3schools.com/cs/cs_methods.asp)
-	+ OPMERKING: hier worden `static` methods gebruikt: OK voor de oriëntatie maar zogauw je met objecten werkt doe je dit bijna niet meer. 
+	+ OPMERKING: hier worden `static` methods gebruikt: OK voor de oriëntatie maar zogauw je met objecten werkt doe je dit bijna niet meer.
 + [w3schools : method parameters](https://www.w3schools.com/cs/cs_method_parameters.asp)
-+ [Training: Ampère](methoden/trainingMethodAmpere.md)
-+ [Training: MaalDrie](methoden/trainigMethodMaaldrie.md)
-+ [Training: De Drie Vierkanten](methoden/trainingMethodDrieVierkanten.md)
-+ [Training: Listige listboxen](methoden/Listige-listboxen.md)
-+ [Training: Mad Lad Teksten](methoden/Madlad-teksten.md)
-+ [Training: ElkaarAchterstevoren](methoden/methodW1W2.md)
++ [Training: Ampère](methoden/training_MethodAmpere.md)
++ [Training: MaalDrie](methoden/training_MethodMaaldrie.md)
++ [Training: De Drie Vierkanten](methoden/training_MethodDrieVierkanten.md)
++ [Training: Listige listboxen](methoden/training_Listige-listboxen.md)
++ [Training: Mad Lad Teksten](methoden/training_Madlad-teksten.md)
++ [Training: ElkaarAchterstevoren](methoden/training_methodElkaarAchterstevoren.md)
 + [Training: Cijfers door woorden vervangen](methoden/Cijfers-door-woorden-vervangen.md)
-+ [Training: Marathon](methoden/methodmarathon.md)
++ [Training: Marathon](methoden/training_methodmarathon.md)
 + [Training: Galgje](methoden/galgje.md)
-+ [Training: Cijfers naar woorden](methoden/exerciseMethodCijfersNaarWoorden.md)
-+ [Training: Boter, kaas en eieren](methoden/Boter-kaas-eieren.md)
++ [Training: Cijfers naar woorden](methoden/training_MethodCijfersNaarWoorden.md)
++ [Training: Boter, kaas en eieren](methoden/training_BoterKaasEnEieren.md)
 
 ## Collectie (List, Array)
 
@@ -128,7 +128,7 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 + [Reference: C# .NET Documentation](https://docs.microsoft.com/en-us/dotnet/#pivot=docs&panel=getstarted)  
 
 ### Video tutorial - Console
-+ [C# 101](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN). 
++ [C# 101](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN).
 + [CSharp for beginners](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/)
 + [Reference: C# Basics by Stev Bishop ](https://www.youtube.com/playlist?list=PLYMOUCVo86jGzNXPgyKB-B1IvE1LoXKi6) - video 1 t/m 39  
 + [Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)  
@@ -141,7 +141,7 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 + [Coding Cafe: WinForms series](https://www.youtube.com/watch?v=8ARnYQgShY8&list=PLxefhmF0pcPlDKe7smJMoHPNS1tJQ7w7q)
 
 
-### About algorithm & Problem Solving 
+### About algorithm & Problem Solving
 + [Source Code: How to Make Algorithm and Flowchart from a given problem](https://www.youtube.com/watch?v=NdS8J9lHWgE)
 + [Eugene O'Loughlin in Problem Solving Techniques #8: Flow Charts](https://www.youtube.com/watch?v=hN9xemJYwos&list=PL9F789252CC28FB3A&index=8)
 + [CS Dojo: 5 Problem Solving Technics](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)  
@@ -159,8 +159,6 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 ### W.V.T.T.K., diversen
 + [Videos van Collega Jan](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/index.html)
 + [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)  
-+ [Computerphile](https://www.youtube.com/user/Computerphile) 
++ [Computerphile](https://www.youtube.com/user/Computerphile)
 + [TED talk 8 secrets of success](https://www.ted.com/talks/richard_st_john_s_8_secrets_of_success?language=nl)  
 + [dotnet.microsoft.com/learn/videos](https://dotnet.microsoft.com/learn/videos)
-
-
