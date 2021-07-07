@@ -7,6 +7,7 @@ zolang aan bepaalde voorwaarden is voldaan.
 Dit varieert van `0` keer de code uitvoeren tot het
 in de oneindigheid aantal keer uitvoeren van de code).
 Algemene vorm:
+
 ```cs
 while ([conditie])
 {
@@ -20,6 +21,7 @@ while ([conditie])
 
 Deze structuur wordt gebruikt om een stukje code uit te voeren. Elke keer nadat het stukje code is uitgevoerd wordt gecontroleerd of nog aan bepaalde voorwaarden is voldaan, zo ja, dan wordt de code opnieuw uitgevoerd. Het aantal keer uitvoeren van de code varieert van 1 keer de code uitvoeren tot het in de oneindigheid aantal keer uitvoeren van de code.
 Algemene vorm:
+
 ```cs
 do
 {
@@ -48,6 +50,7 @@ totdat *i* kleiner dan `10` is.
 De code wordt dus doorlopen met achtereenvolgens
 de waarden `0` , `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8` en `9`.
 Er worden daarom `10` *Messageboxes* getoond met de tekst `"Test"`.
+
 ```cs
 int i = 5;
 while(i > 0)
@@ -62,6 +65,7 @@ direct gestopt als *i* de waarde `0` krijgt toegekend.
 De code wordt dus doorlopen met
 de waarden `5`, `4`, `3`, `2`, `1`.
 Er worden daarom `5` *Messageboxes* getoond met de tekst `"Test"`.
+
 ```cs
 int i = 10;
 do

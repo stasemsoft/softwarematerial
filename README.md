@@ -2,12 +2,7 @@
 
 
 ## Inleiding 
-Dit is een verzameling (open) software-materiaal van het startsemester FHICT (Fontys Hogeschool voor ICT). Het is openbaar toegankelijk voor iedereen en vrij van copyright. Het is in de loop der jaren gemaakt en verzameld door docenten, met hier en daar toevoegingen door studenten! FHICT verwijst naar dit materiaal vanuit een canvas-course, daar staat de FHICT-specifieke info, terwijl deze github-pages zoveel mogelijk op inhoud en redelijk FHICT-onafhankelijk zijn.
-
-Vind dit materiaal
-+ [op Github pages](https://stasemsoft.github.io/softwarematerial/) (hier het meest leesbaar)
-of in een
-+ [Github-repository](https://github.com/stasemsoft/softwarematerial) (pull requests met verbeteringen welkom)
+Dit is een verzameling (open) software-materiaal van het startsemester FHICT (Fontys Hogeschool voor ICT). Het is openbaar toegankelijk voor iedereen en vrij van copyright. Het is in de loop der jaren gemaakt en verzameld door docenten, met hier en daar toevoegingen door studenten! FHICT verwijst naar dit materiaal vanuit een canvas-course, daar staat de FHICT-specifieke info, terwijl deze github-pages redelijk FHICT-onafhankelijk zijn. 
 
 --- 
 
@@ -81,8 +76,14 @@ Dit betreft een aantal niet-programmeer aspecten die een beginnend software engi
 
 ---
 
-### Tot slot
+### verder... 
 
 + [Motivatie, Concentratie, thuiswerken](docs/process/motivatieconcentratie): Niet onbelangrijk tijdens een gemiddelde  corona-crisis...
 
 + [Workshops](https://stasemsoft.github.io/softwarematerial/docs/workshops/)
+
+### Waar vind ik dit materiaal
++ [op Github pages](https://stasemsoft.github.io/softwarematerial/) (hier het meest leesbaar)
+of in een
++ [Github-repository](https://github.com/stasemsoft/softwarematerial) (pull requests met verbeteringen welkom)
+

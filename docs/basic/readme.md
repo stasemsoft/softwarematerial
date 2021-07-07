@@ -14,18 +14,18 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 
 
 
-## Variabelen, assignment, typen, debugger: eerste stapjes in C#
+## Variabele, assignment, typen, debugger: eerste stapjes in C#
 
 + [Presentatie: Variabelen, bewerkingen en conversies](var/Variabelen-bewerkingen-conversies.pptx)
 + [Tutorial: De Debugger](debugger/Debugger.md)
 + [Reference: variable](var/naslag_Variable.md)
 + [Reference: operatoren](var/naslag_Operatoren.md)
-+ [Training: Goeroe-calc: variabele, bewerkingen, conversies](var/trainingVariabelenBewerkingenConversies.md)
-+ [Training: Euro Dollar converter](var/Euro-Dollar-Converter.md)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! (Variabelen, bewerkingen, typen, conversie)
-+ [Training: Diversen](var/Extra-opgaven-variabelen.md)
-+ [Training: Computerrekenen](var/trainingComputerRekenen.md)
++ [Training: Goeroe-calc: variabele, bewerkingen, conversies](training_GuruCalc.md)
++ [Training: Euro Dollar converter](training_Euro-Dollar-Converter.md)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! (Variabelen, bewerkingen, typen, conversie)
++ [Training: Diversen](training_Extra-opgaven-variabelen.md)
++ [Training: Computerrekenen](training_ComputerRekenen.md)
 
-## Conditioneel
+## Conditionele Statement
 
 + [Reference: Keuzestructuren in C#](conditioneel/naslag_Keuzestructuren.md)
 + [Training: BTW-berekenen](conditioneel/BTW-berekenen.md)
@@ -53,16 +53,16 @@ In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net
 
 + [Reference: while](lussen/naslag_While.md)
 + [Reference: for](lussen/naslag_For.md)
-+ [Training: For - Drankjesschema](lussen/Drankjesschema.md)
-+ [Training: For - Wiskunde en zo](lussen/Wiskunde-en-zo.md)
-+ [Training: For - Worpengenerator](lussen/Worpengenerator.md)
-+ [Training: For - Muziekgenerator](lussen/Muziekgenerator.md)
-+ [Training: While - Het grote geheel](lussen/HetGroteGeheel.md)
-+ [Training: While - Het goede getal](lussen/Het-goede-getal.md)
++ [Training: For - Drankjesschema](training_Drankjesschema.md)
++ [Training: For - Wiskunde en zo](training_Wiskunde-en-zo.md)
++ [Training: For - Worpengenerator](training_Worpengenerator.md)
++ [Training: For - Muziekgenerator](training_Muziekgenerator.md)
++ [Training: While - Het grote geheel](training_HetGroteGeheel.md)
++ [Training: While - Het goede getal](training_Het-goede-getal.md)
 
 Als je een extra uitdaging wilt met loops:
-+ [Training: Christmas Tree Generator](lussen/Christmas-tree-generator.md)
-+ [Training: Emmer vol laten lopen](lussen/Emmer-vol-laten-lopen.md)
++ [Training: Christmas Tree Generator](training_Christmas-tree-generator.md)
++ [Training: Emmer vol laten lopen](training_Emmer-vol-laten-lopen.md)
 
 ## Method: zelf maken en aanroepen
 

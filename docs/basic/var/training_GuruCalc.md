@@ -1,6 +1,6 @@
-# Training variabelen, bewerkingen en conversies
+# Training Guru-calc: variabelen, bewerkingen en conversies
 
-(Concepten: )int, double, bewerkingen en conversies)
+(Concepten: int, double, bewerkingen en conversies)
 
 ## Voorbereiding
 

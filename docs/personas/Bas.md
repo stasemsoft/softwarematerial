@@ -18,17 +18,17 @@ Als je deze vragen kunt beantwoorden ben je klaar met Stap 1:
 -   [Types zoals int, Double, Boolean](../basic/#variabelen-assignment-typen-debugger-eerste-stapjes-in-c).
 -   [Type conversie/conversion (zoals Convert.ToString())](../basic/#variabelen-assignment-typen-debugger-eerste-stapjes-in-c).
 -   [Wat is een project in programmeertermen?](../process/infoVisualStudioInstallatie)
--   Wat is een statement?
+-   [Wat is een statement?](../process/infoVisualStudioInstallatie)
 -   [Wat is een conditioneel statement en waarvoor gebruik ik het?](../basic/#conditioneel)
 
 Kies een opdracht om te maken. Als dat moeilijk is raden we aan er meer uit die categorie te maken:
 
-+ [Training goeroe-calc](../basic/var/trainingVariabelenBewerkingenConversies)
-+ [Training Software baas](../basic/var/softwareBaas)
-+ [Training Computerrekenen](../basic/var/trainingComputerRekenen)
++ [Training goeroe-calc](training_GuruCalc.md)
++ [Training Software baas](training_softwareBaas.md)
++ [Training Computerrekenen](training_ComputerRekenen.md)
 
 Deze opdrachten vind je in de [Toolkit basis](../basic) in de categorieën 'Variabelen, assignment, typen, debugger: eerste stapjes in C#'. Ook in categorie 'Conditioneel' staan relevante opdrachten, zoals:
-+ [EuroDollarConvertor](../basic/var/Euro-Dollar-Converter)
++ [EuroDollarConvertor](training_Euro-Dollar-Converter.md)
 + [CalorieënTracker](../basic/conditioneel/Calorieen-tracker)
 
 
@@ -66,7 +66,7 @@ Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
 -   Wat kan ik met Collections (met name List en Array in C#)?
 
 Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
-+ [Christmas-tree-generator](../basic/lussen/Christmas-tree-generator)
++ [Christmas-tree-generator](training_Christmas-tree-generator.md)
 
 
 ---
