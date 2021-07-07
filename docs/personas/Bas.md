@@ -23,9 +23,11 @@ Als je deze vragen kunt beantwoorden ben je klaar met Stap 1:
 
 Kies een opdracht om te maken. Als dat moeilijk is raden we aan er meer uit die categorie te maken:
 
-+ [Training goeroe-calc](training_GoeroeCalc.md)
-+ [Training Software baas](training_softwareBaas.md)
-+ [Training Computerrekenen](training_ComputerRekenen.md)
++ [Training goeroe-calc](../basic/var/training_GoeroeCalc)
++ [Training Software baas](../basic/var/training_softwareBaas.md)
++ [Training Computerrekenen](../basic/var/training_ComputerRekenen.md)
+
+
 
 Deze opdrachten vind je in de [Toolkit basis](../basic) in de categorieën 'Variabelen, assignment, typen, debugger: eerste stapjes in C#'. Ook in categorie 'Conditioneel' staan relevante opdrachten, zoals:
 + [EuroDollarConvertor](training_Euro-Dollar-Converter.md)
