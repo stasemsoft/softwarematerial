@@ -20,7 +20,7 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 + [Tutorial: De Debugger](debugger/Debugger.md)
 + [Reference: variable](var/naslag_Variable.md)
 + [Reference: operatoren](var/naslag_Operatoren.md)
-+ [Training: Goeroe-calc: variabele, bewerkingen, conversies](training_GuruCalc.md)
++ [Training: Goeroe-calc: variabele, bewerkingen, conversies](training_GoeroeCalc.md)
 + [Training: Euro Dollar converter](training_Euro-Dollar-Converter.md)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! (Variabelen, bewerkingen, typen, conversie)
 + [Training: Diversen](training_Extra-opgaven-variabelen.md)
 + [Training: Computerrekenen](training_ComputerRekenen.md)
@@ -43,7 +43,7 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net iets anders: het knippen/plakken met strings.
 
 + [Reference: string methoden in C#](string_methoden/naslag_StringMethods.md)
-+ [Training: String methods in C#](string_methoden/StringMethods)
++ [Training: String methods in C#](training_StringMethods.md)
 
 ## DateTime (in C#)
 In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net iets anders: datum en tijd!

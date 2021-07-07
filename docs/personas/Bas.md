@@ -23,7 +23,7 @@ Als je deze vragen kunt beantwoorden ben je klaar met Stap 1:
 
 Kies een opdracht om te maken. Als dat moeilijk is raden we aan er meer uit die categorie te maken:
 
-+ [Training goeroe-calc](training_GuruCalc.md)
++ [Training goeroe-calc](training_GoeroeCalc.md)
 + [Training Software baas](training_softwareBaas.md)
 + [Training Computerrekenen](training_ComputerRekenen.md)
 
