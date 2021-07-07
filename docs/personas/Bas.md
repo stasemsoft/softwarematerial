@@ -45,7 +45,7 @@ Praat regelmatig met je docent! Dat is degene die uiteindelijk bepaalt of hij/zi
 -   Wat is een herhalingsstructuur/loop, welke zijn er (in C#), en waarvoor gebruik ik die?
 
 Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
-+ [Training Worpengenerator](../basic/lussen/Worpengenerator)
++ [Training Worpengenerator](../basic/lussen/training_Worpengenerator)
 
 
 Praat regelmatig met je docent! Dat is degene die uiteindelijk bepaalt of hij/zij/ie overtuigd is van je kunnen. (bij de volgende stappen wordt dit niet meer elke keer genoemd, maar blijf het doen). 
