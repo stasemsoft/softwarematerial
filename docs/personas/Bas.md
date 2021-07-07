@@ -58,9 +58,9 @@ Praat regelmatig met je docent! Dat is degene die uiteindelijk bepaalt of hij/zi
 
 Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
 
-+ [Bloeddruk](../basic/methoden/training_Bloeddruk)
-+ [MaalDrie](../basic/methoden/training_MethodMaaldrie)
-+ [Ampere](../basic/methoden/training_MethodAmpere)
++ [Training Bloeddruk](../basic/methoden/training_Bloeddruk)
++ [Training MaalDrie](../basic/methoden/training_MethodMaaldrie)
++ [Training Ampere](../basic/methoden/training_MethodAmpere)
 
 ---
 
@@ -71,7 +71,7 @@ Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
 
 Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
 
-+ [Christmas-tree-generator](training_Christmas-tree-generator.md)
++ [Training Christmas-tree-generator](training_Christmas-tree-generator.md)
 
 
 ---
@@ -82,7 +82,8 @@ Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
 + Loops / herhaling algo: project-Euler?
 
 Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
-+ [methodmarathon](../basic/methoden/training_methodmarathon)
+
++ [Training method marathon](../basic/methoden/training_methodmarathon)
 
 
 ---
