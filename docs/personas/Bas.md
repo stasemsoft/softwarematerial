@@ -1,4 +1,5 @@
 # Bas, the absolute beginner
+![Bas](figures/bas-small.png)
 Waar 'Bas' staat mag naar eigen behoefte ook 'Barbara' gelezen worden en waar 'hij' staat mag ook 'zij' gelezen worden.
 
 Bas heeft nog niet (of bijna niet) geprogrammeerd.

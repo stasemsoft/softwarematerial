@@ -1,4 +1,5 @@
 # Olaf met de OOP ervaring
+![Olaf](figures/olaf-small.png)
 
 ## Dieper
 Waar 'Olaf' staat mag naar eigen behoefte ook 'Olivia' gelezen worden en waar 'hij' staat mag ook 'zij' gelezen worden. 
