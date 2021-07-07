@@ -1,123 +1,123 @@
 # Toolbox Basis: Basisconcepten van programmeren (zonder objecten)
 
 ## Algemene info
-+ [Wat kan ik als ik de module 'basis' voldoende doorlopen heb?](resultaatformulier.md)
++ [Wat kan ik als ik de module 'basis' voldoende doorlopen heb?](resultaatformulier)
 
 
 ## Algemene info Visual Studio en C#
 
 Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het later terug kunt zoeken!
 
-+ [How-to: Visual Studio installatie](../process/infoVisualStudioInstallatie.md)
-+ [How-to: Over het inleveren van programma's in Canvas](../process/infoInleverenProgrammas.md)
-+ [Reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys.md)
++ [How-to: Visual Studio installatie](../process/infoVisualStudioInstallatie)
++ [How-to: Over het inleveren van programma's in Canvas](../process/infoInleverenProgrammas)
++ [Reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys)
 
 
 
 ## Variabele, assignment, typen, debugger: eerste stapjes in C#
 
 + [Presentatie: Variabelen, bewerkingen en conversies](var/Variabelen-bewerkingen-conversies.pptx)
-+ [Tutorial: De Debugger](debugger/Debugger.md)
-+ [Reference: variable](var/naslag_Variable.md)
-+ [Reference: operatoren](var/naslag_Operatoren.md)
-+ [Training: Goeroe-calc: variabele, bewerkingen, conversies](training_GoeroeCalc.md)
-+ [Training: Euro Dollar converter](training_Euro-Dollar-Converter.md)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! (Variabelen, bewerkingen, typen, conversie)
-+ [Training: Diversen](training_Extra-opgaven-variabelen.md)
-+ [Training: Computerrekenen](training_ComputerRekenen.md)
++ [Tutorial: De Debugger](debugger/Debugger)
++ [Reference: variable](var/naslag_Variable)
++ [Reference: operatoren](var/naslag_Operatoren)
++ [Training: Goeroe-calc: variabele, bewerkingen, conversies](training_GoeroeCalc)
++ [Training: Euro Dollar converter](training_Euro-Dollar-Converter)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! (Variabelen, bewerkingen, typen, conversie)
++ [Training: Diversen](training_Extra-opgaven-variabelen)
++ [Training: Computerrekenen](training_ComputerRekenen)
 
 ## Conditionele Statement
 
-+ [Reference: Keuzestructuren in C#](conditioneel/naslag_Keuzestructuren.md)
-+ [Training: BTW-berekenen](conditioneel/BTW-berekenen.md)
-+ [Training: Hoger lager](conditioneel/Hoger-lager.md)
-+ [Training: Calorieën tracker](conditioneel/Calorieen-tracker.md)
-+ [Training: Dobbelsteen](conditioneel/Dobbelsteen.md)
-+ [Training: Pincode-reminder](conditioneel/Pincode-reminder.md)
-+ [Training: Wachtwoord check](conditioneel/Wachtwoord-check.md)
-+ [Training: Dr Bobby](conditioneel/Dr-Bobby.md)
-+ [Training: Batman vs Superman](conditioneel/Batman-vs-Superman.md)
++ [Reference: Keuzestructuren in C#](conditioneel/naslag_Keuzestructuren)
++ [Training: BTW-berekenen](conditioneel/BTW-berekenen)
++ [Training: Hoger lager](conditioneel/Hoger-lager)
++ [Training: Calorieën tracker](conditioneel/Calorieen-tracker)
++ [Training: Dobbelsteen](conditioneel/Dobbelsteen)
++ [Training: Pincode-reminder](conditioneel/Pincode-reminder)
++ [Training: Wachtwoord check](conditioneel/Wachtwoord-check)
++ [Training: Dr Bobby](conditioneel/Dr-Bobby)
++ [Training: Batman vs Superman](conditioneel/Batman-vs-Superman)
 
 
 ## String manipulatie (in C#)
 
 In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net iets anders: het knippen/plakken met strings.
 
-+ [Reference: string methoden in C#](string_methoden/naslag_StringMethods.md)
-+ [Training: String methods in C#](training_StringMethods.md)
++ [Reference: string methoden in C#](string_methoden/naslag_StringMethods)
++ [Training: String methods in C#](training_StringMethods)
 
 ## DateTime (in C#)
 In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net iets anders: datum en tijd!
-+ [Reference: DateTime in C#](datetime/naslag_datetime.md)
++ [Reference: DateTime in C#](datetime/naslag_datetime)
 
 ## Lus / loop / herhaling
 
-+ [Reference: while](lussen/naslag_While.md)
-+ [Reference: for](lussen/naslag_For.md)
-+ [Training: For - Drankjesschema](training_Drankjesschema.md)
-+ [Training: For - Wiskunde en zo](training_Wiskunde-en-zo.md)
-+ [Training: For - Worpengenerator](training_Worpengenerator.md)
-+ [Training: For - Muziekgenerator](training_Muziekgenerator.md)
-+ [Training: While - Het grote geheel](training_HetGroteGeheel.md)
-+ [Training: While - Het goede getal](training_Het-goede-getal.md)
++ [Reference: while](lussen/naslag_While)
++ [Reference: for](lussen/naslag_For)
++ [Training: For - Drankjesschema](training_Drankjesschema)
++ [Training: For - Wiskunde en zo](training_Wiskunde-en-zo)
++ [Training: For - Worpengenerator](training_Worpengenerator)
++ [Training: For - Muziekgenerator](training_Muziekgenerator)
++ [Training: While - Het grote geheel](training_HetGroteGeheel)
++ [Training: While - Het goede getal](training_Het-goede-getal)
 
 Als je een extra uitdaging wilt met loops:
-+ [Training: Christmas Tree Generator](training_Christmas-tree-generator.md)
-+ [Training: Emmer vol laten lopen](training_Emmer-vol-laten-lopen.md)
++ [Training: Christmas Tree Generator](training_Christmas-tree-generator)
++ [Training: Emmer vol laten lopen](training_Emmer-vol-laten-lopen)
 
 ## Method: zelf maken en aanroepen
 
-+ [Reference: Methodes in C#](methoden/naslag_methods.md)
++ [Reference: Methodes in C#](methoden/naslag_methods)
 + Tutorial (alleen geschikt als je zelf ook in WinForms werkt):
   1. [method in WinForms 1](https://youtu.be/SRwDqyyZFXY?list=PL0EE421AE8BCEBA4A)
   2. [method in WinForms 2](https://youtu.be/ND8aXadDbyg?list=PL0EE421AE8BCEBA4A).
  + [w3schools : methods](https://www.w3schools.com/cs/cs_methods.asp)
 	+ OPMERKING: hier worden `static` methods gebruikt: OK voor de oriëntatie maar zogauw je met objecten werkt doe je dit bijna niet meer.
 + [w3schools : method parameters](https://www.w3schools.com/cs/cs_method_parameters.asp)
-+ [Training: Ampère](methoden/training_MethodAmpere.md)
-+ [Training: MaalDrie](methoden/training_MethodMaaldrie.md)
-+ [Training: De Drie Vierkanten](methoden/training_MethodDrieVierkanten.md)
-+ [Training: Listige listboxen](methoden/training_Listige-listboxen.md)
-+ [Training: Mad Lad Teksten](methoden/training_Madlad-teksten.md)
-+ [Training: ElkaarAchterstevoren](methoden/training_methodElkaarAchterstevoren.md)
-+ [Training: Cijfers door woorden vervangen](methoden/Cijfers-door-woorden-vervangen.md)
-+ [Training: Marathon](methoden/training_methodmarathon.md)
-+ [Training: Galgje](methoden/galgje.md)
-+ [Training: Cijfers naar woorden](methoden/training_MethodCijfersNaarWoorden.md)
-+ [Training: Boter, kaas en eieren](methoden/training_BoterKaasEnEieren.md)
++ [Training: Ampère](methoden/training_MethodAmpere)
++ [Training: MaalDrie](methoden/training_MethodMaaldrie)
++ [Training: De Drie Vierkanten](methoden/training_MethodDrieVierkanten)
++ [Training: Listige listboxen](methoden/training_Listige-listboxen)
++ [Training: Mad Lad Teksten](methoden/training_Madlad-teksten)
++ [Training: ElkaarAchterstevoren](methoden/training_methodElkaarAchterstevoren)
++ [Training: Cijfers door woorden vervangen](methoden/Cijfers-door-woorden-vervangen)
++ [Training: Marathon](methoden/training_methodmarathon)
++ [Training: Galgje](methoden/galgje)
++ [Training: Cijfers naar woorden](methoden/training_MethodCijfersNaarWoorden)
++ [Training: Boter, kaas en eieren](methoden/training_BoterKaasEnEieren)
 
 ## Collectie (List, Array)
 
-+ [Explanation: Collecties Array & Lists](Explanation-Array-Lists.md)
++ [Explanation: Collecties Array & Lists](Explanation-Array-Lists)
 + [Presentatie: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_Arrays.pptx)
 + [Presentatie: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_Lists.pptx)
 + [Presentatie: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_ListMethodes.pptx)
 + [Tutorialspoint: arrays](http://www.tutorialspoint.com/csharp/csharp_arrays.htm)
-+ [Training: Array - Televisie](collecties/Televisie.md)
-+ [Training: Array - Netflix and random](collecties/Netflix-and-random.md)
-+ [Training: Array - Fruitautomaat](collecties/Fruitautomaat.md)
-+ [Training: List - Prijzen toevoegen](collecties/Prijzen-toevoegen.md)
-+ [Training: List - Ticketmeester](collecties/Ticketmeester.md)
-+ [Training: Listmethodes - Muziekcollectie](collecties/Muziekcollectie.md)
-+ [Training: Listmethodes - Raad het getal](collecties/RaadHetGetal.md)
-+ [Training: Listmethodes - Vlaggen van de wereld](collecties/VlaggenVanDeWereld.md)
++ [Training: Array - Televisie](collecties/Televisie)
++ [Training: Array - Netflix and random](collecties/Netflix-and-random)
++ [Training: Array - Fruitautomaat](collecties/Fruitautomaat)
++ [Training: List - Prijzen toevoegen](collecties/Prijzen-toevoegen)
++ [Training: List - Ticketmeester](collecties/Ticketmeester)
++ [Training: Listmethodes - Muziekcollectie](collecties/Muziekcollectie)
++ [Training: Listmethodes - Raad het getal](collecties/RaadHetGetal)
++ [Training: Listmethodes - Vlaggen van de wereld](collecties/VlaggenVanDeWereld)
 
 Als je een extra uitdaging wilt met collecties:
-+ [Training: Array - Woordvervormer](collecties/Woordvervormer.md)
++ [Training: Array - Woordvervormer](collecties/Woordvervormer)
 
 
 ## How To ...  (veel voorkomende vragen)
 
 Hoe kan ik in een WinForm-app met meerdere Forms vanuit het ene Form het andere openen?
 Het antwoord op deze en nog veel meer vragen:
-[How to...](howto.md)
+[How to...](howto)
 
 
 ## Integrale opdrachten
 
 Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bij elkaar komen.
 
-+ [Training: Rock Paper Scissors](integraal/rockpaperscissors.md)
-+ [Training: Kaartspel](integraal/kaartspel.md)
++ [Training: Rock Paper Scissors](integraal/rockpaperscissors)
++ [Training: Kaartspel](integraal/kaartspel)
 
 
 ## Diverse trainingsmogelijkheden, inspiratie, overige resources

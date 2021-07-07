@@ -2,21 +2,21 @@
 
 Links naar diverse naslag-hoofdstukken (voorheen bekend als OIS11-dictaat).
 
-+ [Naslag variable](var/naslag_Variable.md)
++ [Naslag variable](var/naslag_Variable)
 
-+ [string methoden](string_methoden/naslag_StringMethods.md)
++ [string methoden](string_methoden/naslag_StringMethods)
 
-+ [int en double bewerkingen (operatoren)](var/naslag_Operatoren.md)
++ [int en double bewerkingen (operatoren)](var/naslag_Operatoren)
 
-+ [Keuzestructuren in C#](conditioneel/naslag_Keuzestructuren.md)
++ [Keuzestructuren in C#](conditioneel/naslag_Keuzestructuren)
 
-+ [While statement](lussen/naslag_While.md)
++ [While statement](lussen/naslag_While)
 
-+ [For statement](lussen/naslag_For.md)
++ [For statement](lussen/naslag_For)
 
-+ [Methodes in C#](methoden/naslag_methods.md)
++ [Methodes in C#](methoden/naslag_methods)
 
-+ [Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys.md)
++ [Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys)
 
 
 

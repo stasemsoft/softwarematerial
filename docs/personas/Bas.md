@@ -24,8 +24,8 @@ Als je deze vragen kunt beantwoorden ben je klaar met Stap 1:
 Kies een opdracht om te maken. Als dat moeilijk is raden we aan er meer uit die categorie te maken:
 
 + [Training goeroe-calc](../basic/var/training_GoeroeCalc)
-+ [Training Software baas](../basic/var/training_softwareBaas.md)
-+ [Training Computerrekenen](../basic/var/training_ComputerRekenen.md)
++ [Training Software baas](../basic/var/training_softwareBaas)
++ [Training Computerrekenen](../basic/var/training_ComputerRekenen)
 
 
 
@@ -71,7 +71,7 @@ Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
 
 Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
 
-+ [Training Christmas-tree-generator](training_Christmas-tree-generator.md)
++ [Training Christmas-tree-generator](training_Christmas-tree-generator)
 
 
 ---

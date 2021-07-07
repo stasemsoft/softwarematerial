@@ -12,7 +12,7 @@ Een mogelijk weekschema voor FHICT. Het is de bedoeling dat softwaredocenten tij
 
 ### 1e week Verdieping
 
-+ [CRC workshop](../objects/crc/readme.md)
++ [CRC workshop](../objects/crc/readme)
 + Overview inhoud van de verdieping
 + demo: introductie class / object / ctor
 
@@ -26,8 +26,8 @@ Een mogelijk weekschema voor FHICT. Het is de bedoeling dat softwaredocenten tij
 
 + 'as' / (Casting?) / ('is'?)
 + multipliciteit: class diagram vs code
-+ [Compiler Error Quiz](errorquiz/readme.md)
-+ [Game of Life](conway/readme.md)
++ [Compiler Error Quiz](errorquiz/readme)
++ [Game of Life](conway/readme)
 + demo: een wat groter voorbeeld met class/object/ctor/propg etc... bijvoorbeeld [Virusinator](Virusinator)
 + [git-workshop](git/readme)
 
@@ -49,7 +49,7 @@ Hier laten we de studenten hard werken aan het product vanwege de deadlines, eve
 
 + [99 bottloes of beer oin the wall](99bottlesOfBeer)
 
-+ [Vergelijking OOP in andere talen?](OOP_languages/readme.md)
++ [Vergelijking OOP in andere talen?](OOP_languages/readme)
   1. Python: Infra gebruikt python in semester 2.
   2. Javascript: GUI tegenwoordig vaak een web-GUI, dan is javascript nooit ver weg.
   3. PHP: Veel studenten komen sowieso in aanraking met PHP.

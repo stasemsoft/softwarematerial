@@ -10,7 +10,7 @@
 Bekijk onderstaande links voor je gaat programmeren,
 begin bij CRC (Class Responsibility Collaboration).
 
-+ [Start Objects met CRC](crc/readme.md)
++ [Start Objects met CRC](crc/readme)
 + [Theorie: Hoe programmeer je met Objecten?](theorie_Class)
 en ook:
 + [FUN12-dictaat classes](theorie_FUN12_DictaatKlassen.pdf) or [in markdown (under construction)](theorie_FUN12_DictaatKlassen)
@@ -20,8 +20,8 @@ en ook:
 
 Als je een software engineer wilt worden is het belangrijk dat je je houdt aan afspraken en best practices:
 + [video Tim Corey: Top 10 C# Best Practices](https://www.youtube.com/watch?v=-9b8NRqjUFM)
-+ [Coding Guidelines](../process/infoCodingGuidelines.md)
-+ [Reference: C# .NET Coding Standard/Conventions](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)  
++ [Coding Guidelines](../process/infoCodingGuidelines)
++ [Reference: C# .NET Coding Standard/Conventions](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions)  
 
 
 
@@ -117,7 +117,7 @@ Als je de volgende video van Tim Corey nog niet bekeken had is dat nu zeker een 
 
 + [Theorie File Handling](theorie_FileHandling)
 + [Training FileHandling](challenges/challengeFileHandling.pdf)
-+ [Training Exception Handling (pdf)](challenges/challengeExceptionHandling.pdf), of in markdown: [Training Exception Handling (markdown)](challenges/challengeExceptionHandling.md), zie ook 
++ [Training Exception Handling (pdf)](challenges/challengeExceptionHandling.pdf), of in markdown: [Training Exception Handling (markdown)](challenges/challengeExceptionHandling), zie ook 
 [zip met startmateriaal](challenges/challengeException-Naamgenerator.zip).
 
 
@@ -149,4 +149,4 @@ Als je de volgende video van Tim Corey nog niet bekeken had is dat nu zeker een 
 ---
 ## Oud materiaal, niet meer gebruikt bij FHICT
 
-+ [link naar oud materiaal](old.md)
++ [link naar oud materiaal](old)
