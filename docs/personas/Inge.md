@@ -1,6 +1,6 @@
 # Inge, intermediate
 
-![Inge](figures/inge-small.png)
+<img style="float: left; padding-right: 10px;" width="150" src="https://stasemsoft.github.io/softwarematerial/docs/personas/figures/inge-small.png">
 Waar 'Inge' staat mag naar eigen behoefte ook 'Ivo' gelezen worden en waar 'zij' staat mag ook 'hij' gelezen worden. 
 
 Inge heeft al programmeerervaring. Misschien heeft ze al *methods* gemaakt, misschien nog niet, of bijna niet. We duiken er dan ook meteen in om daar achter te komen, daarna van daaruit verder te werken. 

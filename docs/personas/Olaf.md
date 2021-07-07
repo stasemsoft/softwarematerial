@@ -1,8 +1,7 @@
 # Olaf met de OOP ervaring
-![Olaf](figures/olaf-small.png)
 
 ## Dieper
-Waar 'Olaf' staat mag naar eigen behoefte ook 'Olivia' gelezen worden en waar 'hij' staat mag ook 'zij' gelezen worden. 
+<img style="float: left; padding-right: 10px;" width="150" src="https://stasemsoft.github.io/softwarematerial/docs/personas/figures/olaf-small.png">Waar 'Olaf' staat mag naar eigen behoefte ook 'Olivia' gelezen worden en waar 'hij' staat mag ook 'zij' gelezen worden. 
 
 Olaf heeft al kennis gemaakt met Objecten. Olaf gaat dan ook niet van voor af aan beginnen maar gaat meteen door naar de [Toolkit Verdiepend](../objects/). 
 
