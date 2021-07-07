@@ -5,6 +5,6 @@ In den beginne... had nog niemand programmeerervaring... Op het moment dat je aa
 Als je al ervaring hebt is het jammer helemaal aan het begin te beginnen. Vandaar dat we verschillende persona's beschreven hebben. Bepaal welke het best bij je past en kijk eens wat er over jouw persona gezegd wordt. 
 
 
-+ [Bas (of Barbara) the Absolute Beginner](Bas.md)
-+ [Intermediate Inge (of Ivo)](Inge.md)
-+ [OOP-experienced Olaf (of Olivia)](Olaf.md)
+| [Bas (of Barbara) the Absolute Beginner](Bas.md)  | [Intermediate Inge (of Ivo)](Inge.md) | [OOP-experienced Olaf (of Olivia)](Olaf.md) |
+| ------------- | ------------- | ------------- |
+| ![Bas](figures/bas-small.png) | ![Inge](figures/inge-small.png)|![Olaf](figures/olaf-small.png)|
