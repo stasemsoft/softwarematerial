@@ -45,7 +45,7 @@ Praat regelmatig met je docent! Dat is degene die uiteindelijk bepaalt of hij/zi
 -   Wat is een herhalingsstructuur/loop, welke zijn er (in C#), en waarvoor gebruik ik die?
 
 Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
-+ [Worpengenerator](../docs/basic/lussen/Worpengenerator)
++ [Training Worpengenerator](../basic/lussen/Worpengenerator)
 
 
 Praat regelmatig met je docent! Dat is degene die uiteindelijk bepaalt of hij/zij/ie overtuigd is van je kunnen. (bij de volgende stappen wordt dit niet meer elke keer genoemd, maar blijf het doen). 
@@ -57,6 +57,7 @@ Praat regelmatig met je docent! Dat is degene die uiteindelijk bepaalt of hij/zi
 -   Wat is een method, hoe werk ik met returnvalues en hoe kan ik parameters gebruiken?
 
 Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
+
 + [Bloeddruk](../basic/methoden/training_Bloeddruk)
 + [MaalDrie](../basic/methoden/training_MethodMaaldrie)
 + [Ampere](../basic/methoden/training_MethodAmpere)
@@ -69,6 +70,7 @@ Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
 -   Wat kan ik met Collections (met name List en Array in C#)?
 
 Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
+
 + [Christmas-tree-generator](training_Christmas-tree-generator.md)
 
 
