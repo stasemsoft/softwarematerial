@@ -1,5 +1,7 @@
 # Bas, the absolute beginner
-![Bas](figures/bas-small.png)
+
+<img style="float: left; padding-right: 10px;" width="150" src="https://stasemsoft.github.io/softwarematerial/docs/personas/figures/bas-small.png">
+
 Waar 'Bas' staat mag naar eigen behoefte ook 'Barbara' gelezen worden en waar 'hij' staat mag ook 'zij' gelezen worden.
 
 Bas heeft nog niet (of bijna niet) geprogrammeerd.
