@@ -30,8 +30,9 @@ Kies een opdracht om te maken. Als dat moeilijk is raden we aan er meer uit die 
 
 
 Deze opdrachten vind je in de [Toolkit basis](../basic) in de categorieën 'Variabelen, assignment, typen, debugger: eerste stapjes in C#'. Ook in categorie 'Conditioneel' staan relevante opdrachten, zoals:
-+ [EuroDollarConvertor](training_Euro-Dollar-Converter.md)
-+ [CalorieënTracker](../basic/conditioneel/Calorieen-tracker)
+
++ [Training EuroDollarConvertor](../basic/var/training_Euro-Dollar-Converter)
++ [Training CalorieënTracker](../basic/conditioneel/Calorieen-tracker)
 
 
 Praat regelmatig met je docent! Dat is degene die uiteindelijk bepaalt of hij/zij/ie overtuigd is van je kunnen. 
