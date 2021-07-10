@@ -15,6 +15,7 @@ Je bent als software engineer ingehuurd om een tool te programmeren waarmee de d
 ```
 
 maar kijk vooral ook op internet naar de echte berekening: misschien kom je op iets meer realistisch uit.
+
 De factor is een waarde die afhankelijk is van het brandstoftype:
 - 100 voor een benzine-auto is
 - 150 voor een dieselauto is.
@@ -23,10 +24,8 @@ De factor is een waarde die afhankelijk is van het brandstoftype:
 
 Technisch Ontwerp
 - Definieer een enum BrandstofSoort met bovenstaande waarden.
-- Een class Auto met properties kilometerstand en Brandstof.
+- Een class Auto met fields kilometerstand en Brandstof.
 - Auto heeft een public property KmStand met beginwaarde 1 (private setter). (Enig idee waarom we niet bij 0 beginnen?).
-
-
 - Auto heeft een read only property Kenteken (een String) die als parameter aan de constructor meegegeven wordt.
 - Auto heeft een method RijdKilometers met als parameter een geheel getal.
 - RijdKilometers controleert of de parameter een positief getal is. Zoja, dan wordt de KmStand met dat bedrag verhoogd.
