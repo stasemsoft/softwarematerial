@@ -89,8 +89,10 @@ Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
 
 ---
 
-## Stap 6
+## Stap 6: Wedstrijd
 + Combineer verschillende zaken in grotere apps (dat noemen we een ***Wedstrijd***-app).
 + Probeer ook eens voordat je begint met coderen om op te schrijven WAT een app moet gaan doen en HOE. Het antwoord op de de **Wat**-vraag nooemen we Analyse, het antwoord op de **Hoe**-vraag is het (technisch) design of ontwerp. 
 
-In de  [Toolkit basis](../basic) staan (onder andere onder 'Integrale Opdrachten', maar ook bij 'Vingeroefening, Training, Challenge') ideeën voor wedstrijd-apps. Ook mag je zelf wat verzinnen! Het gaat er om dat je grotere apps maakt waarin je veelvuldig methods maakt, loops gebruikt, collecties, ... , hoe meer hoe beter!!  Succes en veel plezier.
+In de  [Toolkit basis](../basic) staan (onder andere in categorie 
+['Integrale Opdrachten'](../basic/#integrale-opdrachten)
+, maar ook bij ['Vingeroefening, Training, Challenge'](../basic/#vingeroefening-training-challenge) ) ideeën voor wedstrijd-apps. Ook mag je zelf wat verzinnen! Het gaat er om dat je grotere apps maakt waarin je veelvuldig methods maakt, loops gebruikt, collecties, ... , hoe meer hoe beter!!  Succes en veel plezier.
