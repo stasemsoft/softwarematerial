@@ -116,8 +116,8 @@ Als je de volgende video van Tim Corey nog niet bekeken had is dat nu zeker een 
 ### File Handling en Exception Handling
 
 + [Theorie File Handling](theorie_FileHandling)
-+ [Training FileHandling](challenges/challengeFileHandling.pdf)
-+ [Training Exception Handling (pdf)](challenges/challengeExceptionHandling.pdf), of in markdown: [Training Exception Handling (markdown)](challenges/challengeExceptionHandling), zie ook
++ [Training FileHandling](challenges/challengeFileHandling)
++ [Training Exception Handling](challenges/challengeExceptionHandling), zie ook
 [zip met startmateriaal](challenges/challengeException-Naamgenerator.zip).
 
 

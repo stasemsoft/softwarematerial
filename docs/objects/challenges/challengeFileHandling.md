@@ -1,4 +1,5 @@
-<a id="cha:challengeFileHandling"></a>
+# FileHandling
+	   
 | Niveau | 5 of 5: integraal. |
 | --- | --- |
 | Leerdoelen | Class, Property, Constructor, private/public, UI separation, algoritme. |

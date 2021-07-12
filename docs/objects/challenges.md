@@ -18,9 +18,9 @@ varieer er dus gerust op!
 
 + [challenge DamSpel](challenges/challenge_DamSpel.pdf)
 
-+ [challenge ExceptionHandling](challenges/challengeExceptionHandling.pdf)
++ [challenge ExceptionHandling](challenges/challengeExceptionHandling)
 
-+ [challenge FileHandling](challenges/challengeFileHandling.pdf)
++ [challenge FileHandling](challenges/challengeFileHandling)
 
 + [challenge Schaakspel](challenges/challenge_Schaakspel.pdf)
 
