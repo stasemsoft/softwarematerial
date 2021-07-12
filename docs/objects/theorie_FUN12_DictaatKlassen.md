@@ -15,8 +15,7 @@ We gaan eerst naar wat voorbeelden kijken die je al kent. Daarna gaan we zelf ee
 Je hebt al eerder de `class Random` gezien, waarschijnlijk zonder te weten dat het een class was. Een voorbeeld:
 
 ```cs
-Random dobbelsteen;
-dobbelsteen = new Random();
+Random dobbelsteen = new Random();
 int getal = dobbelsteen.Next();
 ```
 

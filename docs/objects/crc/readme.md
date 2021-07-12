@@ -21,3 +21,5 @@ Als je na het bekijken van bovenstaande bronnen geen idee hebt kun je hier nog v
 + [Example (helaas met een digitaal tool)](https://www.youtube.com/watch?v=otKUer13HnA)
 
 + [CRC cards](https://www.youtube.com/watch?v=19ULQDkEkd8)
+
+## Oefenmateriaal

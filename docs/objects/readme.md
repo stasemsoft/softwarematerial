@@ -13,7 +13,7 @@ begin bij CRC (Class Responsibility Collaboration).
 + [Start Objects met CRC](crc/readme)
 + [Theorie: Hoe programmeer je met Objecten?](theorie_Class)
 en ook:
-+ [FUN12-dictaat classes](theorie_FUN12_DictaatKlassen.pdf) or [in markdown (under construction)](theorie_FUN12_DictaatKlassen)
++ [FUN12-dictaat classes](theorie_FUN12_DictaatClasses)
 + [Voorbeeld OOP: pin-automaat](example_PinAutomaat)
 + [(external) video over OOP](https://www.youtube.com/watch?v=SiBw7os-_zI&feature=youtu.be)
 + [Constructor (en constructor overloading)](theorie_Constructors)
