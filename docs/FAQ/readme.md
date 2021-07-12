@@ -35,13 +35,6 @@ Doel: kennismaken: studenten onderling en ook met de docent. We willen dat ze wa
 
 Alles staat op de Homepage en in de Modules, er zijn geen aparte kick-off-slides. Afhankelijk van je eigen stijl loop je er kort doorheen of zet je zelf aan het lezen. Demand Based: laat ze ook zelf maar een beetje zoeken! Een beetje onrust mag er best ontstaan in de klas…  ;-)
 
-### Bestaat die eerste hele dag alleen maar uit 'Computational Thinking'?
-
-Nee, als de docent merkt dat er ’s middags mensen zijn die klaar zijn om Visual Studio in te duiken kan dat in overleg met de docent gebeuren. De student levert foto’s in over wat zij/hij op het whiteboard gedaan heeft. Niet verplicht maar wel handig: student maakt planning.
-
-## Is er een inhaalmoment voor een gemiste softwaredag door de introdag?
-
-Nee. Mochten studenten hierdoor in de knoei komen: stimuleer ze om op een andere dag tijd aan software te besteden. Zeker in de grote proftaak vanaf week 12 hebben ze gelegenheid genoeg om te schuiven.
 
 ## Hoe wordt bepaald of ik het semester ga halen?
 
