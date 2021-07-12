@@ -15,7 +15,6 @@ Deze opdracht is heel *open* geformuleerd. Maak er wat leuks van, verzin er ding
 
 Zoek hier en daar vooral ook wat algoritmische uitdaging! 
 Zo zijn er supersimpele opdrachten (
-TrafficLight, 
 [Taining TrafficLight](../objects/training_Class_TrafficLight), 
 [Training Marimba and Bass](../objects/training_Marimba_and_Bass)
 ), maar ga liever voor de iets uitdagendere
@@ -25,7 +24,7 @@ Test en reken hierbij wat antwoorden na!!
 Verderop in die Toolbox vind je een link naar een 
 '*Verzameling Challenges*' en naar 
 '*Codewars*': 
-[ter inspi](../objects/#diverse-uitdagingen-ter-inspi): leef je uit! Vergeet niet om regelmatig met je docent te praten!! 
+[ter inspiratie](../objects/#diverse-uitdagingen-ter-inspi): leef je uit! Vergeet niet om regelmatig met je docent te praten!! 
 
 
 
