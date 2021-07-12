@@ -71,8 +71,9 @@ Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
 
 Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
 
-+ [Training Christmas-tree-generator](training_Christmas-tree-generator)
 
++ [Training Televisie](../basic/collecties/Televisie) 
++ [Training Christmas-tree-generator (moeilijk)](training_Christmas-tree-generator)
 
 ---
 
