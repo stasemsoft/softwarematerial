@@ -1,13 +1,13 @@
 # Inge, intermediate
 
 <img style="float: left; padding-right: 10px;" width="150" src="https://stasemsoft.github.io/softwarematerial/docs/personas/figures/inge-small.png">
-Waar 'Inge' staat mag naar eigen behoefte ook 'Ivo' gelezen worden en waar 'zij' staat mag ook 'hij' gelezen worden. 
+Waar 'Inge' staat mag naar eigen behoefte ook 'Ivo' gelezen worden en waar 'zij' staat mag ook 'hij' gelezen worden.
 
-Inge heeft al programmeerervaring. Misschien heeft ze al *methods* gemaakt, misschien nog niet, of bijna niet. We duiken er dan ook meteen in om daar achter te komen, daarna van daaruit verder te werken. 
+Inge heeft al programmeerervaring. Misschien heeft ze al *methods* gemaakt, misschien nog niet, of bijna niet. We duiken er dan ook meteen in om daar achter te komen, daarna van daaruit verder te werken.
 
-Hieronder een aantal fasen of stappen die Inga kan  doorlopen. Een Stap zou ongeveer 1 dag werk kunnen zijn voor een gemiddelde student. 
+Hieronder een aantal fasen of stappen die Inga kan  doorlopen. Een Stap zou ongeveer 1 dag werk kunnen zijn voor een gemiddelde student.
 
-Deze opdrachten vind je in de [Toolkit basis](../basic) in de categorieën 
+Deze opdrachten vind je in de [Toolkit basis](../basic) in de categorieën
 [Variabele, assignment, types, debugger](../basic/#variabele-assignment-typen-debugger-eerste-stapjes-in-c)
 
 
@@ -15,7 +15,7 @@ Deze opdrachten vind je in de [Toolkit basis](../basic) in de categorieën
 
 -   Wat is een method, hoe werk ik met returnvalues en hoe kan ik parameters gebruiken?
 
-Hierover vind ik een opdracht in de  [Toolkit basis](../basic): 
+Hierover vind ik een opdracht in de  [Toolkit basis](../basic):
 + [Training methodmarathon](../basic/methoden/training_methodmarathon)
 
 
@@ -26,16 +26,15 @@ Hierover vind ik een opdracht in de  [Toolkit basis](../basic):
 -   Methods (herhaling/uitbreiding)
 -   Wat kan ik met Collections (met name List en Array in C#)?
 
-Ook hierover vind je opdrachten in de  [Toolkit basis](../basic): 
-+ [Training Christmas tree generator](../basic/lussen/training_Christmas-tree-generator.md)
+Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
++ [Training Christmas tree generator](../basic/lussen/training_Christmas-tree-generator)
 
 
 ---
 
 ## Stap 3
 
-+ Combineer verschillende zaken in grotere apps (dat noemen we een ***Wedstrijd***-app). 
-+ Probeer ook eens voordat je begint met coderen om op te schrijven WAT een app moet gaan doen en HOE. 
++ Combineer verschillende zaken in grotere apps (dat noemen we een ***Wedstrijd***-app).
++ Probeer ook eens voordat je begint met coderen om op te schrijven WAT een app moet gaan doen en HOE.
 
-In de  [Toolkit basis](../basic) staan (onder andere onder 'Integrale Opdrachten', maar ook bij 'Vingeroefening, Training, Challenge') ideeën voor wedstrijd-apps. Ook mag je zelf wat verzinnen! Het gaat er om dat je grotere apps maakt waarin je veelvuldig methods maakt, loops gebruikt, collecties, ... , hoe meer hoe beter!!  Succes en veel plezier. 
-
+In de  [Toolkit basis](../basic) staan (onder andere onder 'Integrale Opdrachten', maar ook bij 'Vingeroefening, Training, Challenge') ideeën voor wedstrijd-apps. Ook mag je zelf wat verzinnen! Het gaat er om dat je grotere apps maakt waarin je veelvuldig methods maakt, loops gebruikt, collecties, ... , hoe meer hoe beter!!  Succes en veel plezier.

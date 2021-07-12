@@ -7,14 +7,25 @@ Olaf heeft al kennis gemaakt met Objecten. Olaf gaat dan ook niet van voor af aa
 
 Maar: Let op: U gaat niet door start, u ontvangt geen 20.000 gulden... Wat bedoelen we daarmee: Je mag classes en objecten gebruiken vanaf het begin, maar dat wil niet zeggen dat je docent al overtuigd is dat je de concepten uit de oriëntatie beheerst: praat regelmatig met je docent en laat zien dat je methods maakt, loops, en alles wat er verder bij komt kijken! 
 
-Een opdracht waarmee je zou kunnen beginnen is de '***Challenge Eendenvijver***'. Deze opdracht is heel *open* geformuleerd. Maak er wat leuks van, verzin er dingen bij! Als je al weet hoe je *properties* en *constructors* kunt gebruiken: Laat zien dat je dat al kent en kunt! 
+Een opdracht waarmee je zou kunnen beginnen is de 
+[Challenge Eendenvijver](../objects/challenges/challenge_Eendenvijver). 
+Deze opdracht is heel *open* geformuleerd. Maak er wat leuks van, verzin er dingen bij! Als je al weet hoe je *properties* en *constructors* kunt gebruiken: Laat zien dat je dat al kent en kunt! 
 
 ## Algo
 
 Zoek hier en daar vooral ook wat algoritmische uitdaging! 
-Zo zijn er supersimpele opdrachten (TrafficLight, Marimba and Bass), maar ga liever voor de ***AutoDagwaarde***. Test en reken hierbij wat antwoorden na!! 
+Zo zijn er supersimpele opdrachten (
+TrafficLight, 
+[Taining TrafficLight](../objects/training_Class_TrafficLight), 
+[Training Marimba and Bass](../objects/training_Marimba_and_Bass)
+), maar ga liever voor de iets uitdagendere
+[Training AutoDagWaarde](../objects/challenges/training_AutoDagWaarde).
+Test en reken hierbij wat antwoorden na!! 
 
-Verderop in die Toolbox staat een link naar een '*Verzameling Challenges*', en naar '*Codewars*': leef je uit! Vergeet niet om regelmatig met je docent te praten!! 
+Verderop in die Toolbox vind je een link naar een 
+'*Verzameling Challenges*' en naar 
+'*Codewars*': 
+[ter inspi](../objects/#diverse-uitdagingen-ter-inspi): leef je uit! Vergeet niet om regelmatig met je docent te praten!! 
 
 
 

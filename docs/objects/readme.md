@@ -3,7 +3,7 @@
 ## Programmeren met Objects en Classes
 
 + Als je al wat ervaring hebt kun je al eens naar [versiebeheer met git](../workshops/git/readme) kijken (maar als je nieuw bent in OOP is het wellicht beter eerst op Object Oriented Programming te richten).
-+ Als je al wat ervaring hebt kun je al eens naar [unit testing](unittesting) kijken (maar als je nieuw bent in OOP is het wellicht beter eerst op het programmeren zelf te richten). 
++ Als je al wat ervaring hebt kun je al eens naar [unit testing](unittesting) kijken (maar als je nieuw bent in OOP is het wellicht beter eerst op het programmeren zelf te richten).
 
 ### Introductie Objects en Classes: OOP
 
@@ -30,21 +30,21 @@ Als je een software engineer wilt worden is het belangrijk dat je je houdt aan a
 Kies 1 van de 2 trainingen 'Trafficlight' of 'Marimba and the Bass'
 als eerste training met Objecten en Classes. Als je dat moeilijk vindt is het verstandig de ander ook te doen. (als je al ervaring hebt kun je ook meteen de Eendenvijver uitgebreid gaan doen om  je docent te overtuigen dat je dat al kunt).
 
-+ [Training met Class: TrafficLight](exercise_Class_TrafficLight)
++ [Training met Class: TrafficLight](training_Class_TrafficLight)
 
-+ [Training Marimba_and_Bass](exercise_Marimba_and_Bass)
++ [Training Marimba_and_Bass](training_Marimba_and_Bass)
 
 De default Challenge is 'AutoDagWaarde'.
 (hiervoor heb je properties en enums nodig, waarover je meer hieronder kunt lezen).
 
 
-+ [Training AutoDagWaarde](challenges/challenge_AutoDagWaarde)
++ [Training AutoDagWaarde](challenges/training_AutoDagWaarde)
 
 Probeer nu de invuloefening Object Oriented te maken:
 
 + [Training ObjectOriented invuloefening](exerciseObjectOrientedOefening)
 
-+ [Oplossing bij Training ObjectOriented invuloefening](solutionObjectOrientedOefening)
++ [Oplossing bij Training ObjectOriented invuloefening](solution_ObjectOriented)
 
 
 ### property
@@ -64,7 +64,7 @@ Een andere manier om een eigen type te definiëren is een 'enum'-type:
 
 en de training 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *enum* zien:
 
-+ [Training met Enum: TrafficLight](exercise_Enum_TrafficLight)
++ [Training met Enum: TrafficLight](training_Enum_TrafficLight)
 
 
 
@@ -117,7 +117,7 @@ Als je de volgende video van Tim Corey nog niet bekeken had is dat nu zeker een 
 
 + [Theorie File Handling](theorie_FileHandling)
 + [Training FileHandling](challenges/challengeFileHandling.pdf)
-+ [Training Exception Handling (pdf)](challenges/challengeExceptionHandling.pdf), of in markdown: [Training Exception Handling (markdown)](challenges/challengeExceptionHandling), zie ook 
++ [Training Exception Handling (pdf)](challenges/challengeExceptionHandling.pdf), of in markdown: [Training Exception Handling (markdown)](challenges/challengeExceptionHandling), zie ook
 [zip met startmateriaal](challenges/challengeException-Naamgenerator.zip).
 
 
