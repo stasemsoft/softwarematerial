@@ -7,7 +7,8 @@ Inge heeft al programmeerervaring. Misschien heeft ze al *methods* gemaakt, miss
 
 Hieronder een aantal fasen of stappen die Inga kan  doorlopen. Een Stap zou ongeveer 1 dag werk kunnen zijn voor een gemiddelde student. 
 
-Deze opdrachten vind je in de [Toolkit basis](../basic) in de categorieën 'Variabelen, 
+Deze opdrachten vind je in de [Toolkit basis](../basic) in de categorieën 
+[Variabele, assignment, types, debugger](../basic/#variabele-assignment-typen-debugger-eerste-stapjes-in-c)
 
 
 ## Stap 1
@@ -15,8 +16,7 @@ Deze opdrachten vind je in de [Toolkit basis](../basic) in de categorieën 'Vari
 -   Wat is een method, hoe werk ik met returnvalues en hoe kan ik parameters gebruiken?
 
 Hierover vind ik een opdracht in de  [Toolkit basis](../basic): 
-+ Method marathon. 
-
++ [Training methodmarathon](../basic/methoden/training_methodmarathon)
 
 
 ---
@@ -27,7 +27,7 @@ Hierover vind ik een opdracht in de  [Toolkit basis](../basic):
 -   Wat kan ik met Collections (met name List en Array in C#)?
 
 Ook hierover vind je opdrachten in de  [Toolkit basis](../basic): 
-+ Christmas tree generator
++ [Training Christmas tree generator](../basic/lussen/training_Christmas-tree-generator.md)
 
 
 ---
