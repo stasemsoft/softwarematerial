@@ -32,9 +32,14 @@ Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
 
 ---
 
-## Stap 3
+## Stap 3: Wedstrijd 
 
 + Combineer verschillende zaken in grotere apps (dat noemen we een ***Wedstrijd***-app).
 + Probeer ook eens voordat je begint met coderen om op te schrijven WAT een app moet gaan doen en HOE.
 
-In de  [Toolkit basis](../basic) staan (onder andere onder 'Integrale Opdrachten', maar ook bij 'Vingeroefening, Training, Challenge') ideeën voor wedstrijd-apps. Ook mag je zelf wat verzinnen! Het gaat er om dat je grotere apps maakt waarin je veelvuldig methods maakt, loops gebruikt, collecties, ... , hoe meer hoe beter!!  Succes en veel plezier.
+In de  [Toolkit basis](../basic) staan (onder andere onder 'Integrale Opdrachten', maar ook bij 'Vingeroefening, Training, Challenge') ideeën voor wedstrijd-apps. Ook mag je zelf wat verzinnen! Het gaat er om dat je grotere apps maakt waarin je veelvuldig methods maakt, loops gebruikt, collecties, ... , hoe meer hoe beter!!  
+
+Programmeren zit in de basis van ICT, elke ICT'er moet 'iets' weten over programmeren. **Inge** heeft al wat programmeerervaring en heeft dus tijd om ***extra aandacht*** te besteden aan het leren programmeren. Heeft ze in haar verdere ICT-carriëre altijd wat aan! 
+
+
+Succes en veel plezier! 
