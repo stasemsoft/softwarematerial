@@ -28,7 +28,15 @@ Technisch-inhoudelijke vragen vind je in de How-to. Staat je antwoord er niet bi
 [How-to](https://stasemsoft.github.io/softwarematerial/docs/basic/howto)
 
 Als je vragen hebt over de cursus bij FHICT: kijk eerst eens in de [Frequently Asked Questions](https://stasemsoft.github.io/softwarematerial/docs/FAQ)
- of anderen dezelfde vraag ook al hadden.
+ of anderen dezelfde vraag ook al hadden. 
+
+---
+
+## Personas / Volgorde 
+
+Vergelijk jezelf met de personas en lees de tips: Heb je al programmeerervaring? Of juist nog helemaal niet? 
+
+[intro](docs/personas/intro.md)
 
 ---
 
