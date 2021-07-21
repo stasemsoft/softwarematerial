@@ -18,7 +18,6 @@ varieer er dus gerust op!
 
 + [challenge_VierOpEenRij](challenges/challenge_VierOpEenRij)
 
-+ [challenge DamSpel](challenges/challenge_DamSpel.pdf)
 + [challenge DamSpel](challenges/challenge_DamSpel)
 
 + [challenge ExceptionHandling](challenges/challengeExceptionHandling)
