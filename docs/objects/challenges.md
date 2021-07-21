@@ -5,24 +5,31 @@ Niet bedoeld om per se letterlijk uit te voeren maar vooral als inspiratie!:
 varieer er dus gerust op!
 
 + [challenge Trajectorinator](challenges/challengeTrajectorinator.pdf)
++ [challenge Trajectorinator](challenges/challengeTrajectorinator)
 
 + [challenge WebshopSpierballetje](challenges/challengeWebshopSpierballetje.pdf)
++ [challenge WebshopSpierballetje](challenges/challengeWebshopSpierballetje)
 
 + [challenge Winstpercentage](challenges/challengeWinstpercentage.pdf)
++ [challenge Winstpercentage](challenges/challengeWinstpercentage)
 
 + [challenge WoordenZoeker](challenges/challengeWoordenZoeker.pdf)
++ [challenge WoordenZoeker](challenges/challengeWoordenZoeker)
 
 + [challenge_VierOpEenRij](challenges/challenge_VierOpEenRij)
 
 + [challenge DamSpel](challenges/challenge_DamSpel.pdf)
++ [challenge DamSpel](challenges/challenge_DamSpel)
 
 + [challenge ExceptionHandling](challenges/challengeExceptionHandling)
 
 + [challenge FileHandling](challenges/challengeFileHandling)
 
 + [challenge Schaakspel](challenges/challenge_Schaakspel.pdf)
++ [challenge Schaakspel](challenges/challenge_Schaakspel)
 
 + [challenge lesrooster](challenges/challenge_lesrooster.pdf)
++ [challenge lesrooster](challenges/challenge_lesrooster)
 
 + [challenge Create Your Own challenge](challenges/challenge_CreateYourOwn)
 
