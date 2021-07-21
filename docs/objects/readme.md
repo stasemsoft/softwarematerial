@@ -13,9 +13,7 @@ begin bij CRC (Class Responsibility Collaboration).
 + [Start Objects met CRC](crc)
 + [Tutorial: Programmeer een Monster Game met Objecten?](tutorial_Class)
 en ook:
-
-+ deprecated: [FUN12-dictaat classes](theorie_FUN12_DictaatClasses)
-+ [Reference Wat is een clas?](theorie_FUN12_DictaatClasses_v_wat-is-een-clas)
++ [Reference Wat is een clas?](theorie_FUN12_DictaatClasses_v_wat-is-een-class)
 + [Reference Classes gebruiken](theorie_FUN12_DictaatClasses_w_classes-gebruiken)
 + [Reference Zelf classes maken](theorie_FUN12_DictaatClasses_x_zelf-classes-maken)
 + [Reference Je object als string](theorie_FUN12_DictaatClasses_y_je-class-als-string)
