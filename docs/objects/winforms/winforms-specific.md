@@ -7,7 +7,5 @@ WinForms is al oud en dit WinForms-materiaal wordt daarom in het algemeen niet m
 
 + [Tutorial Graphics](tutorial_Graphics)
 + [Training Iedereen Kan Schilderen](challengeIedereenKanSchilderen)
-+ [Training MsPacman](challengeMsPacman.pdf)
-+ [challengeMsPacman](challengeMsPacman)
-
++ [Training MsPacman](challengeMsPacman)
 + [Training Draw Cube](training_Cube)
