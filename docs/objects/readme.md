@@ -10,7 +10,7 @@
 Bekijk onderstaande links voor je gaat programmeren,
 begin bij CRC (Class Responsibility Collaboration).
 
-+ [Start Objects met CRC](crc/readme)
++ [Start Objects met CRC](crc)
 + [Theorie: Hoe programmeer je met Objecten?](theorie_Class)
 en ook:
 + [FUN12-dictaat classes](theorie_FUN12_DictaatClasses)
