@@ -12,7 +12,7 @@ Een mogelijk weekschema voor FHICT. Het is de bedoeling dat softwaredocenten tij
 
 ### 1e week Verdieping
 
-+ [CRC workshop](../objects/crc/crc.md)
++ [CRC workshop](../objects/crc/crc)
 + Overview inhoud van de verdieping
 + demo: introductie class / object / ctor
 

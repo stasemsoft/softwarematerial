@@ -1,49 +1,49 @@
 # softwarematerial - Overzicht
 
 
-## Inleiding 
-Dit is een verzameling (open) software-materiaal van het startsemester FHICT (Fontys Hogeschool voor ICT). Het is openbaar toegankelijk voor iedereen en vrij van copyright. Het is in de loop der jaren gemaakt en verzameld door docenten, met hier en daar toevoegingen door studenten! FHICT verwijst naar dit materiaal vanuit een canvas-course, daar staat de FHICT-specifieke info, terwijl deze github-pages redelijk FHICT-onafhankelijk zijn. 
+## Inleiding
+Dit is een verzameling (open) software-materiaal van het startsemester FHICT (Fontys Hogeschool voor ICT). Het is openbaar toegankelijk voor iedereen en vrij van copyright. Het is in de loop der jaren gemaakt en verzameld door docenten, met hier en daar toevoegingen door studenten! FHICT verwijst naar dit materiaal vanuit een canvas-course, daar staat de FHICT-specifieke info, terwijl deze github-pages redelijk FHICT-onafhankelijk zijn.
 
---- 
+---
 
 ## Structuur van dit materiaal
 
-In het theorie-meteriaal onderscheiden we: 
+In het theorie-meteriaal onderscheiden we:
 + `Tutorial`: practical steps, learning oriented.
 + `How-to guide`: practical steps, problem oriented.
 + `Discussion`: theoretical, understanding oriented.
 + `Reference`: theoretical, information oriented. Accurate and complete.
 
-De opdrachten zijn te verdelen in: 
-+ `Training` (voorheen exercises): 'vingeroefeningen', horen bij een stukje theorie om te oefenen, maar zijn als bewijsmateriaal om je docent te overtuigen niet te gebruiken. 
+De opdrachten zijn te verdelen in:
++ `Training` (voorheen exercises): 'vingeroefeningen', horen bij een stukje theorie om te oefenen, maar zijn als bewijsmateriaal om je docent te overtuigen niet te gebruiken.
 + `Wedstrijd`: Om je docent te overtuigen dat je het niet alleen snapt maar ook doet ga je zelf opdrachten verzinnen, variëren en uitbreiden op bestaande opdrachten!
 
-Zie [meer uitleg](https://stasemsoft.github.io/softwarematerial/docs/meta) over de uitgangspunten. 
+Zie [meer uitleg](https://stasemsoft.github.io/softwarematerial/docs/meta) over de uitgangspunten.
 
 ---
 
 ## Eerste Hulp Bij Vasthangen
 
-+ [How-to](https://stasemsoft.github.io/softwarematerial/docs/basic/howto): Technisch-inhoudelijke vragen vind je in de How-to. Staat je antwoord er niet bij? Laat het horen! (ook als je het antwoord zelf al hebt gevonden. Vast dank!) 
++ [How-to](https://stasemsoft.github.io/softwarematerial/docs/basic/howto): Technisch-inhoudelijke vragen vind je in de How-to. Staat je antwoord er niet bij? Laat het horen! (ook als je het antwoord zelf al hebt gevonden. Vast dank!)
 
 + [Frequently Asked Questions](https://stasemsoft.github.io/softwarematerial/docs/FAQ): Als je vragen hebt over de cursus bij FHICT: kijk eerst eens in de FAQ
- of anderen dezelfde vraag ook al hadden. 
+ of anderen dezelfde vraag ook al hadden.
 
 ---
 
-## Personas / Volgorde 
+## Personas / Volgorde
 
-Vergelijk jezelf met de personas en lees de tips: Heb je al programmeerervaring? Of juist nog helemaal niet? 
+Vergelijk jezelf met de personas en lees de tips: Heb je al programmeerervaring? Of juist nog helemaal niet?
 
-[intro](docs/personas/intro.md)
+[intro](docs/personas/intro)
 
 ---
 
-## Onderdelen 
+## Onderdelen
 
 ### 1. Computational Thinking
 
-De manier van denken, goed om iets van te weten... Oorspronkelijk gebruikt als materiaal om kennis met elkaar en met de docent te maken. Werkt het best al discussiërend met stift bij het whiteboard. 
+De manier van denken, goed om iets van te weten... Oorspronkelijk gebruikt als materiaal om kennis met elkaar en met de docent te maken. Werkt het best al discussiërend met stift bij het whiteboard.
 
 + [Computational Thinking](https://stasemsoft.github.io/softwarematerial/docs/computational)
 
@@ -83,7 +83,7 @@ Dit betreft een aantal niet-programmeer aspecten die een beginnend software engi
 
 ---
 
-### verder... 
+### verder...
 
 + [Motivatie, Concentratie, thuiswerken](docs/process/motivatieconcentratie): Niet onbelangrijk tijdens een gemiddelde  corona-crisis...
 
@@ -93,4 +93,3 @@ Dit betreft een aantal niet-programmeer aspecten die een beginnend software engi
 + [op Github pages](https://stasemsoft.github.io/softwarematerial/) (hier het meest leesbaar)
 of in een
 + [Github-repository](https://github.com/stasemsoft/softwarematerial) (pull requests met verbeteringen welkom)
-

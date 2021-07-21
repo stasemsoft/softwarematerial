@@ -1,6 +1,8 @@
-### Graphics tutorial: Inleiding
+### Graphics tutorial: Inleiding 
+
 
 In deze opdracht gaan we kennismaken met het zelf tekenen van figuren.
+
 #### Het Graphics object
 Elk `object` van het type *Form*, *Button*, *Panel*, *PictureBox*, etc.
 (ook wel *control* object genoemd) heeft een bijbehorend *Graphics* object.

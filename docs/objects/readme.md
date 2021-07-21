@@ -11,15 +11,15 @@ Bekijk onderstaande links voor je gaat programmeren,
 begin bij CRC (Class Responsibility Collaboration).
 
 + [Start Objects met CRC](crc)
-+ [Tutorial: Programmeer een Monster Game met Objecten?](tutorial_Class.md)
++ [Tutorial: Programmeer een Monster Game met Objecten?](tutorial_Class)
 en ook:
 
 + deprecated: [FUN12-dictaat classes](theorie_FUN12_DictaatClasses)
-+ [theorie Wat is een clas?](theorie_FUN12_DictaatClasses_v_wat-is-een-clas.md)
-+ [theorie Classes gebruiken](theorie_FUN12_DictaatClasses_w_classes-gebruiken.md)
-+ [theorie Zelf classes maken](theorie_FUN12_DictaatClasses_x_zelf-classes-maken.md)
-+ [theorie Je object als string](theorie_FUN12_DictaatClasses_y_je-class-als-string.md)
-+ [Voorbeelden](theorie_FUN12_DictaatClasses_z_voorbeelden.md)
++ [Reference Wat is een clas?](theorie_FUN12_DictaatClasses_v_wat-is-een-clas)
++ [Reference Classes gebruiken](theorie_FUN12_DictaatClasses_w_classes-gebruiken)
++ [Reference Zelf classes maken](theorie_FUN12_DictaatClasses_x_zelf-classes-maken)
++ [Reference Je object als string](theorie_FUN12_DictaatClasses_y_je-class-als-string)
++ [Voorbeelden](theorie_FUN12_DictaatClasses_z_voorbeelden)
 + [Voorbeeld OOP: pin-automaat](example_PinAutomaat)
 + [(external) video over OOP](https://www.youtube.com/watch?v=SiBw7os-_zI&feature=youtu.be)
 + [Constructor (en constructor overloading)](theorie_Constructors)
@@ -148,11 +148,13 @@ Als je de volgende video van Tim Corey nog niet bekeken had is dat nu zeker een 
 
 + [howto: Als ik vasthang? Over oplossen problemen](https://stasemsoft.github.io/softwarematerial/docs/process/knowProgrammerSearchScheme)
 
+
 ## Wat kan ik als ik de module 'objects' voldoende doorlopen heb?
 
 [resultaatformulier](resultaatformulier)
 
 ---
+
 ## Oud materiaal, niet meer gebruikt bij FHICT
 
-+ [link naar oud materiaal](old)
++ [link naar oud materiaal: WinForms-specifiek](winforms/winforms-specific)
