@@ -11,9 +11,15 @@ Bekijk onderstaande links voor je gaat programmeren,
 begin bij CRC (Class Responsibility Collaboration).
 
 + [Start Objects met CRC](crc)
-+ [Theorie: Hoe programmeer je met Objecten?](theorie_Class)
++ [Tutorial: Programmeer een Monster Game met Objecten?](tutorial_Class.md)
 en ook:
-+ [FUN12-dictaat classes](theorie_FUN12_DictaatClasses)
+
++ deprecated: [FUN12-dictaat classes](theorie_FUN12_DictaatClasses)
++ [theorie Wat is een clas?](theorie_FUN12_DictaatClasses_v_wat-is-een-clas.md)
++ [theorie Classes gebruiken](theorie_FUN12_DictaatClasses_w_classes-gebruiken.md)
++ [theorie Zelf classes maken](theorie_FUN12_DictaatClasses_x_zelf-classes-maken.md)
++ [theorie Je object als string](theorie_FUN12_DictaatClasses_y_je-class-als-string.md)
++ [Voorbeelden](theorie_FUN12_DictaatClasses_z_voorbeelden.md)
 + [Voorbeeld OOP: pin-automaat](example_PinAutomaat)
 + [(external) video over OOP](https://www.youtube.com/watch?v=SiBw7os-_zI&feature=youtu.be)
 + [Constructor (en constructor overloading)](theorie_Constructors)
