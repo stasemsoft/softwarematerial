@@ -47,7 +47,7 @@ Een mogelijk weekschema voor FHICT. Het is de bedoeling dat softwaredocenten tij
 Hier laten we de studenten hard werken aan het product vanwege de deadlines, eventueel workshops op aanvraag of ad hoc.
 
 
-+ [99 bottloes of beer oin the wall](99bottlesOfBeer)
++ [99 bottloes of beer on the wall](99bottlesOfBeer)
 
 + [Vergelijking OOP in andere talen?](OOP_languages/readme)
   1. Python: Infra gebruikt python in semester 2.
