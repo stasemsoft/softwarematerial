@@ -12,7 +12,11 @@ Voorbereiding: Als je de korte introvideo hieronder en het voorbeeld daaronder b
 
 + [Voorbeeld startsemester FHICT](figures/crc_example_patientdossier.jpg)
 
-### eventuele extra bronnen
+## Oefenmateriaal
+
++ [challenge PlatenMaatschappij](challengePlatenMaatschappij)
+
+## eventuele extra bronnen
 
 Als je na het bekijken van bovenstaande bronnen geen idee hebt kun je hier nog verder kijken:
 
@@ -21,7 +25,3 @@ Als je na het bekijken van bovenstaande bronnen geen idee hebt kun je hier nog v
 + [Example (helaas met een digitaal tool)](https://www.youtube.com/watch?v=otKUer13HnA)
 
 + [CRC cards](https://www.youtube.com/watch?v=19ULQDkEkd8)
-
-## Oefenmateriaal
-
-+ [challenge PlatenMaatschappij](challengePlatenMaatschappij)
