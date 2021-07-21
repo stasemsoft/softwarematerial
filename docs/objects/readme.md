@@ -10,7 +10,7 @@
 Bekijk onderstaande links voor je gaat programmeren,
 begin bij CRC (Class Responsibility Collaboration).
 
-+ [Start Objects met CRC](crc)
++ [Start Objects met CRC](crc/crc)
 + [Tutorial: Programmeer een Monster Game met Objecten?](tutorial_Class)
 en ook:
 + [Reference Wat is een clas?](theorie_FUN12_DictaatClasses_v_wat-is-een-class)
