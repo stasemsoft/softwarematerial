@@ -151,7 +151,7 @@ Als je de volgende video van Tim Corey nog niet bekeken had is dat nu zeker een 
 
 ## Wat kan ik als ik de module 'objects' voldoende doorlopen heb?
 
-[resultaatformulier](resultaatformulier)
++ [resultaatformulier](resultaatformulier)
 
 ---
 
