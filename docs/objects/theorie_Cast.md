@@ -1,4 +1,4 @@
-# Cast
+# Casting en 'as'
 
 ## Wat is casting?
 Een voorbeeld van casting in C#
