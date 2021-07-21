@@ -4,8 +4,6 @@ Verzameling Challenges, niet direct gekoppeld aan 1 onderwerp/concept.
 Niet bedoeld om per se letterlijk uit te voeren maar vooral als inspiratie!:
 varieer er dus gerust op!
 
-+ [challenge PlatenMaatschappij](challenges/challengePlatenMaatschappij.pdf)
-
 + [challenge Trajectorinator](challenges/challengeTrajectorinator.pdf)
 
 + [challenge WebshopSpierballetje](challenges/challengeWebshopSpierballetje.pdf)

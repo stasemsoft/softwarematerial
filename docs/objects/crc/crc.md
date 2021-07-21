@@ -23,3 +23,5 @@ Als je na het bekijken van bovenstaande bronnen geen idee hebt kun je hier nog v
 + [CRC cards](https://www.youtube.com/watch?v=19ULQDkEkd8)
 
 ## Oefenmateriaal
+
++ [challenge PlatenMaatschappij](challengePlatenMaatschappij)
