@@ -8,22 +8,16 @@ varieer er dus gerust op!
 + [challenge WebshopSpierballetje](challenges/challengeWebshopSpierballetje)
 + [challenge Winstpercentage](challenges/challengeWinstpercentage)
 + [challenge WoordenZoeker](challenges/challengeWoordenZoeker)
-
 + [challenge_VierOpEenRij](challenges/challenge_VierOpEenRij)
-
-+ [challenge DamSpel](./challenges/challenge_DamSpel)
-
++ [challenge DamSpel](challenges/challenge_DamSpel)
 + [challenge ExceptionHandling](challenges/challengeExceptionHandling)
-
 + [challenge FileHandling](challenges/challengeFileHandling)
-
 + [challenge Schaakspel](challenges/challenge_Schaakspel.pdf)
 + [challenge Schaakspel](challenges/challenge_Schaakspel)
-
 + [challenge lesrooster](challenges/challenge_lesrooster.pdf)
 + [challenge lesrooster](challenges/challenge_lesrooster)
-
 + [challenge Create Your Own challenge](challenges/challenge_CreateYourOwn)
+
 
 ## Under construction
 
@@ -31,19 +25,14 @@ Nog meer challenges die wellicht nog niet helemaal perfect uitgewerkt zijn,
 maar je kunt ze natuurlijk gerust gebruiken als inspiratie voor eigen werk!
 
 + [challenge_PatientDossier](challenges/challenge_PatientDossier)
-
 + [challenge Galgje](challenges/challenge_Galgje)
-
 + [challengeMemory](challenges/challengeMemory)
-
 + [challengeSnailRace](challenges/challengeSnailRace)
-
 + [challengeSuperGalgje](challenges/challengeSuperGalgje)
-
 + [challengeWindowsPhone](challenges/challengeWindowsPhone)
 
-### Inspiratie
 
+### Inspiratie
 
 Op internet zijn veel sites te vinden met uitdagend oefenmateriaal op programmeergebied:
 
