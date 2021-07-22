@@ -5,7 +5,7 @@ Niet bedoeld om per se letterlijk uit te voeren maar vooral als inspiratie!:
 varieer er dus gerust op!
 
 + [challenge Trajectorinator](challenges/challengeTrajectorinator.pdf)
-+ [challenge Trajectorinator](challenges/challengeTrajectorinator)
++ [challenge Trajectorinator](./challenges/challengeTrajectorinator)
 
 + [challenge WebshopSpierballetje](challenges/challengeWebshopSpierballetje.pdf)
 + [challenge WebshopSpierballetje](challenges/challengeWebshopSpierballetje)
@@ -18,7 +18,7 @@ varieer er dus gerust op!
 
 + [challenge_VierOpEenRij](challenges/challenge_VierOpEenRij)
 
-+ [challenge DamSpel](challenges/challenge_DamSpel)
++ [challenge DamSpel](./challenges/challenge_DamSpel)
 
 + [challenge ExceptionHandling](challenges/challengeExceptionHandling)
 
