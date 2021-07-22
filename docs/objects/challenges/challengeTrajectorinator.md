@@ -12,5 +12,7 @@ De challenge: schrijf een programma dat het antwoord berekent. Als ICT’er zorg
  
 ## Bron 
 
-(vrij naar bron: beterrekenen.nl 10-7-’18) Op www.beterrekenen.nl kun je je inschrijven, dan krijg je elke werkdag enkele reken-opgaven, typisch een paar minuten werk per dag. Door de dagelijkse oefening hou je je reken- vaardigheid op peil.
+(vrij naar bron: beterrekenen.nl 10-7-’18). 
+Op www.beterrekenen.nl kun je je inschrijven, dan krijg je elke werkdag enkele reken-opgaven, typisch een paar minuten werk per dag. Door de dagelijkse oefening hou je je rekenvaardigheid op peil.
 
+![](figures/beterrekenen-qr.png)

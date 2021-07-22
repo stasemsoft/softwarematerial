@@ -4,16 +4,9 @@ Verzameling Challenges, niet direct gekoppeld aan 1 onderwerp/concept.
 Niet bedoeld om per se letterlijk uit te voeren maar vooral als inspiratie!:
 varieer er dus gerust op!
 
-+ [challenge Trajectorinator](challenges/challengeTrajectorinator.pdf)
-+ [challenge Trajectorinator](./challenges/challengeTrajectorinator)
-
-+ [challenge WebshopSpierballetje](challenges/challengeWebshopSpierballetje.pdf)
++ [challenge Trajectorinator](../objects/challenges/challengeTrajectorinator)
 + [challenge WebshopSpierballetje](challenges/challengeWebshopSpierballetje)
-
-+ [challenge Winstpercentage](challenges/challengeWinstpercentage.pdf)
 + [challenge Winstpercentage](challenges/challengeWinstpercentage)
-
-+ [challenge WoordenZoeker](challenges/challengeWoordenZoeker.pdf)
 + [challenge WoordenZoeker](challenges/challengeWoordenZoeker)
 
 + [challenge_VierOpEenRij](challenges/challenge_VierOpEenRij)
