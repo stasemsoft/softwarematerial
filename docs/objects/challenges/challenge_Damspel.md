@@ -11,5 +11,5 @@ Als je alle *classes* hebt bedacht, bedenk dán hoe je die classes precies zou n
 
 Let bij deze challenge op het volgende:
 + Een *class name* begint met een hoofdletter!
-+ Als een *object* van deze *class* 1 voorwerp voorstelt, gebruik dan een  *enkelvoud* als naam (dus *Student*, *Monster*, of *Pion*).
++ Als een *object* van deze *class* 1 voorwerp voorstelt, gebruik dan een  **enkelvoud** als naam (dus *Student*, *Monster*, of *Pion*).
 + In een samengestelde naam begint elk nieuw woord met een **hoofdletter** (dus *KameelBult*, *StudentResultaat*, *SchaakBord*).
