@@ -9,6 +9,7 @@ varieer er dus gerust op!
 + [challenge Winstpercentage](challenges/challengeWinstpercentage)
 + [challenge WoordenZoeker](challenges/challengeWoordenZoeker)
 + [challenge Vier op een rij](challenges/challenge_VierOpEenRij)
++ [challenge Damspel](challenges/challenge_DamSpel)
 + [challenge Damspel](../objects/challenges/challenge_DamSpel)
 + [challenge Exception Handling](challenges/challengeExceptionHandling)
 + [challenge FileHandling](challenges/challengeFileHandling)
