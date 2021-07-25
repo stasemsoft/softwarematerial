@@ -13,7 +13,7 @@ varieer er dus gerust op!
 + [challenge Exception Handling](challenges/challengeExceptionHandling)
 + [challenge FileHandling](challenges/challengeFileHandling)
 + [challenge Schaakspel](challenges/challenge_Schaakspel)
-+ [challenge lesrooster](challenges/challenge_lesrooster)
++ [challenge lesrooster](challenges/challenge_Lesrooster)
 + [challenge Create Your Own challenge](challenges/challenge_CreateYourOwn)
 
 
