@@ -46,7 +46,7 @@ De default Challenge is 'AutoDagWaarde'.
 
 Probeer nu de invuloefening Object Oriented te maken:
 
-+ [Training ObjectOriented invuloefening](exerciseObjectOrientedOefening)
++ [Training ObjectOriented invuloefening](exercise_ObjectOrientedOefening)
 
 + [Oplossing bij Training ObjectOriented invuloefening](solution_ObjectOriented)
 

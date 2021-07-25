@@ -6,7 +6,7 @@ varieer er dus gerust op!
 
 + [challenge Trajectorinator](../objects/challenges/challengeTrajectorinator)
 + [challenge WebshopSpierballetje](challenges/challengeWebshopSpierballetje)
-+ [challenge Winstpercentage](challenges/challengeWinstpercentage)
++ [challenge Winstpercentage](training_Winstpercentage)
 + [challenge WoordenZoeker](challenges/challengeWoordenZoeker)
 + [challenge Vier op een rij](challenges/challenge_VierOpEenRij)
 + [challenge Damspel](challenges/challenge_Damspel)

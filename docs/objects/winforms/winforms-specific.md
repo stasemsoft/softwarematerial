@@ -6,6 +6,6 @@ WinForms is al oud en dit WinForms-materiaal wordt daarom in het algemeen niet m
 ### GDI graphics en het Paint-Event in C# / WinForms
 
 + [Tutorial Graphics](tutorial_Graphics)
-+ [Training Iedereen Kan Schilderen](challengeIedereenKanSchilderen)
-+ [Training MsPacman](challengeMsPacman)
++ [Training Iedereen Kan Schilderen](challenge_IedereenKanSchilderen)
++ [Training MsPacman](challenge_MsPacman)
 + [Training Draw Cube](training_Cube)

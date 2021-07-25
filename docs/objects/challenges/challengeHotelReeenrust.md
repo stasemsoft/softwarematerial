@@ -22,7 +22,9 @@ hun reservering kunnen doen, maar voor nu ligt de focus op de applicatie
 voor de receptie.
 Het is belangrijk dat de applicatie gebruiksvriendelijk is en de gebruiker
 de juiste meldingen krijgt.
+
 ### Scenario
+
 Een klant belt naar de receptie om een kamer te reserveren.
 De receptionist(e) voert de klantgegevens in en kijkt welke kamer
 voor de opgegeven periode beschikbaar is.
@@ -34,7 +36,9 @@ De receptioniste kan op elk gewenst moment een overzicht opvragen
 van alle reserveringen in het hotel. Tevens kan zij een lijst inzien
 waarin per datum staat welke kamers deelnemen aan het ontbijt of diner.
 De klantgegevens worden opgeslagen in een tekstbestand.
+
 ### Requirements
+
 - De medewerker kan klantgegevens invoeren (NAW gegevens)
 - De medewerker kan een reserveringen doen. Een reservering kan alleen in de toekomst plaatsvinden.
 - De medewerker kan zien welke kamers voor een bepaalde periode beschikbaar zijn.
@@ -42,11 +46,14 @@ De klantgegevens worden opgeslagen in een tekstbestand.
 - De medewerker kan een overzicht raadplegen met alle reserveringen.
 - De medewerker kan van een bepaalde datum een overzicht raadplegen waarin aangegeven staat welke kamers deelnemen aan het ontbijt of diner.
 
+
 ### Eigenschappen van het hotel
 - Er zijn 120 kamers. Kamer 13 bestaat niet.
 - Alle kamers zijn geschikt voor maximaal 4 personen (dit zou in de toekomst kunnen veranderen)
 
+
 ### Extra
+
 - Het zou mooi zijn als ook de reserveringen opgeslagen kunnen worden in een tekstbestand. (Hint: Hiervoor dien je gebruik te maken van “Serialization”)
 
 
