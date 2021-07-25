@@ -61,7 +61,7 @@ Een introductie in programmeren (nog zonder objecten).
 
 Verdieping, programmeren met objecten
 
-+ [Toolbox Verdiepend: OOP (Object Oriented Programming)](https://stasemsoft.github.io/softwarematerial/docs/objects/)
++ [Toolbox Verdiepend: Objects en Classes](https://stasemsoft.github.io/softwarematerial/docs/objects/)
 
 ---
 
