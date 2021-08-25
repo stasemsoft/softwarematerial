@@ -3,7 +3,7 @@
 Enkele externe bronnen:
 
 #### Het youtube-kanaal van FHICT-docent Wilrik
-[YouTube Wilrik](https://www.youtube.com/watch?v=IuStUzWuPrw)
+[Wilrik screen recordings](https://www.fhict.nl/Vakken/SOFT1-Startsemester/Wilrik%20recordings/)
 #### FHICT-docent Coen Crombach's git-repository
 [git-repos Coen](https://git.fhict.nl/I889241/HandigeProgrammeerVoorbeelden.git)
 #### FHICT-docent Jeffrey Cornelissen's git-repository
