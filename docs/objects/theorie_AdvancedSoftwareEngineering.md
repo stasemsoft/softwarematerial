@@ -63,7 +63,7 @@ conditie niet waar is. Dit wordt schematisch weergegeven in
 In code ziet dit er dan als volgt uit:
 
 ```cs
-if (Leeftijd > 65)
+if (leeftijd > 65)
 {
    prijs = 25;
 }
@@ -92,11 +92,11 @@ de 4 en in alle andere gevallen wordt de prijs 35.
 In de code komt er dan een ’else if’ bij:
 
 ```cs
-if (Leeftijd > 65)
+if (leeftijd > 65)
 {
    prijs = 25;
 }
-else if (Leeftijd < 4)
+else if (leeftijd < 4)
 {
    prijs = 0;
 }

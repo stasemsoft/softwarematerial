@@ -143,6 +143,6 @@ zoals je hierboven gezien hebt.
 
 #### Andere bronnen over Exception Handling in C#
 
-[Exceptions at CSharp-station](http://www.csharp-station.com/Tutorial/CSharp/Lesson15)
-[Exceptions at MSDN](https://msdn.microsoft.com/en-us/library/ms173162.aspx)
-[MSDN](https://msdn.microsoft.com/en-us/library/2kzb96fk.aspx)
+[Exceptions at CSharp-station](http://www.csharp-station.com/Tutorial/CSharp/Lesson15)  
+[Exceptions at MSDN](https://msdn.microsoft.com/en-us/library/ms173162.aspx)  
+[MSDN](https://msdn.microsoft.com/en-us/library/2kzb96fk.aspx)  

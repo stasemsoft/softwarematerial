@@ -56,15 +56,15 @@ Een aantal voorbeeldmethoden:
 
 Bovenstaande methoden zijn als volgt aan te roepen:
 ```cs
-	int sum = AddTwoNumbers(8765, 287);
+int sum = AddTwoNumbers(8765, 287);
 ```
 of:
 ```cs
-	int kwadraat = SquareANumber(63);
+int kwadraat = SquareANumber(63);
 ```
 of, beiden:
 ```cs
-	int total = SquareANumber(AddTwoNumbers(1, 2));
+int total = SquareANumber(AddTwoNumbers(1, 2));
 ```
 
 #### Tekst en uitleg (engelstalig) over methoden en parameters

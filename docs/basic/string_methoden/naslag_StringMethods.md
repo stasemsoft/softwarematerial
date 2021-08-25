@@ -10,7 +10,7 @@ Met het `plus` teken kunnen strings aan elkaar worden geplakt.
 ```cs
 string tekst = "een tekst.";
 string woorden = "Hier staat";
-string s = woorden+tekst;
+string s = woorden + tekst;
 ```
 
 De `s` `variabele` krijgt hier de waarde `"Hier staateen tekst."` Merk op dat niet automatisch spaties worden toegevoegd.

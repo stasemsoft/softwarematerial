@@ -77,7 +77,7 @@ Een huisartsenpraktijk heeft doorgaans meerdere artsen in dienst. Maak een class
 
 De HuisartsenPraktijk krijgt een eigen lijst van Afspraken. Een object van type Praktijk krijgt daarom een methode AddAfspraak(Huisarts huisarts, Patient patient, DateTime dateTime) die een nieuwe Afspraak aanmaakt en deze toevoegt aan die lijst.
 
-## Salarisberekening:
+## Salarisberekening
 Ga er vanuit dat elke afspraak 63 euro kost. Maak een methode die voor elke Huisarts berekent hoeveel hij/zij verdient aan de Afspraken.
 
 Nog mooier is het (programmeertechnisch tenminste) als elke arts zijn eigen tarief heeft: hiertoe zou je de constructor van Huisarts een extra parameter 'tarief' kunnen geven die dan natuurlijk ook ergens opgeslagen zou moeten worden.

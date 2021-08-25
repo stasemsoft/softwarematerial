@@ -25,7 +25,7 @@ kun je een property hiervoor aanmaken.
 De conventie is dat fields geschreven worden met kleine letters;
 properties worden begonnen met een hoofdletter.
 Zie onderstaand voorbeeld:
-```
+```cs
 class Stopwatch
 {
     private int seconds;                // Field
@@ -37,7 +37,7 @@ class Stopwatch
 ```
 
 Hieronder staan een paar manier waarop deze `class` wél en níet gebruikt kan/mag worden.
-```
+```cs
 Stopwatch sw = new Stopwatch();
 int tijd1 = sw.seconds;                  // Mag niet, omdat field seconds private is.
 int tijd2 = sw.Seconds;                  // Mag wel (hoofdletter) omdat de property public is.
@@ -45,7 +45,7 @@ sw.Seconds = 10;                        // Mag niet (geen setter)
 ```
 
 Een andere mogelijkheid is om een field op een bepaalde manier in te stellen. We zouden bijvoorbeeld de stopwatch instelbaar kunnen maken met minuten:
-```
+```cs
 class Stopwatch
 {
     private int seconds;                // Field

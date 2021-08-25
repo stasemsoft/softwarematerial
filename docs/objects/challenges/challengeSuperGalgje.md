@@ -1,11 +1,12 @@
-<a id="cha:challengeSupergalgje"></a>
-| Niveau | 4 of 5. |
+### Super-galgje
+
+| Niveau | 4 of 5 |
 | --- | --- |
 | Leerdoelen | Class, Property, Constructor, private/public, UI separation, algoritme. |
 | Vereiste voorkennis | Method, GUI, Basic Types, If. |
 | Challenge Type | Programming, algoritme. |
 
- ### Super-galgje
+#### Opdracht
 Galgje is een spel waarbij een speler het woord moet raden dan de computer in gedachten heeft. Opdracht: schrijf galgje en maak gebruik van de object georiënteerde mogelijkheden van `C#`.
 1. Te programmeren `classes`: `Woord` en `Form1` (form).
 2. Te programmeren `property` in de `class` *Woord*: *AantalLetters*.

@@ -1,6 +1,5 @@
 # Creëer je eigen challenge
 
-
 Een hele goeie manier om te leren en te kijken of je een onderwerp helemaal
 snapt is het zelf bedenken van een opdracht.
 
@@ -8,12 +7,12 @@ snapt is het zelf bedenken van een opdracht.
 Neem een spel of puzzel in gedachten en bedenk hoe je dit kunt implementeren.
 Enkele voorbeelden:
 
-+ *boter, kaas en eieren*,
-+ *tetris*,
-+ *sudoku*,
-+ *mastermind*,
-+ *snake* of *tron*,
-+ *2048*. 
++ *boter, kaas en eieren*
++ *tetris*
++ *sudoku*
++ *mastermind*
++ *snake* of *tron*
++ *2048*
 
 ## Maak lesmateriaal
 Je helpt ook je medestudenten als je zelf lesmateriaal

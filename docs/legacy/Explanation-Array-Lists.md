@@ -37,7 +37,7 @@ for (int i = 0; i < 10; i++)
 	getallen[i] = i * 10; 
 } 
 
-Getallen[10] = 10 * 10;
+getallen[10] = 10 * 10;
 ```
 In bovenstaand stukje code worden een array van maximaal 10 integers aangemaakt. Vervolgens worden de tafel van 10 getal voor getal aan de array toegevoegd. Na de for-loop wordt het laatste element aan de array toegevoegd, 10 x 10. Echter, deze zal niet meer passen. Er kunnen maximaal 10 integers in de array en 0 x 10 tot en met 9 x 10 zijn al toegevoegd. Dat zijn er dus al 10 in totaal. Het getal 100 zal niet meer passen en geeft dan een _IndexOutOfRangeException_ foutmelding. In onderstaand voorbeeld wordt een alternatief met een List gegeven.
 ```csharp

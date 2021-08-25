@@ -17,7 +17,7 @@ We gaan nu kijken hoe die relaties naar C#-code vertaald kunnen worden:
 Mogelijk bij (a) behorende C#-code
 
 ```cs
-pubic class A {
+public class A {
 
 	// Fields
 	private B b;
@@ -34,7 +34,7 @@ De waarde van *b* kan
 In situatie (b)
 
 ```cs
-pubic class A {
+public class A {
 
 	// Fields
 	private B b = new B();
@@ -49,7 +49,7 @@ De waarde van *b* wordt direct ingevuld, deze zal dus niet `null` zijn.
 Bij (c) behorende C#-code:
 
 ```cs
-pubic class A {
+public class A {
 
 	// Fields
 	private List<B> bs = new List<B>();

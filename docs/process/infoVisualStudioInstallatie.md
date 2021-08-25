@@ -125,7 +125,7 @@ Een bewerkingsmodus en een uitvoeringsmodus.
 ### Het werkt niet?
 
 Nu kan het gebeuren dat je een tikfout hebt gemaakt in je C# sourcecode. Dat laat Visual Studio zien met dit scherm:
-![](figures/vsbuilderror.png "build error")
+![](figures/vsbuilderror.png "build error")  
 Kies altijd voor &quot;No&quot;! Dan kun je terug naar je Visual Studio om te kijken waar je tikfout zit.
 ![](figures/vstikfout.png "tikfout")
 Tikfouten geeft Visual Studio aan met rode kringeltjes onder de woorden.

@@ -1,6 +1,6 @@
 # FileHandling
 	   
-| Niveau | 5 of 5: integraal. |
+| Niveau | 5 of 5: integraal |
 | --- | --- |
 | Leerdoelen | Class, Property, Constructor, private/public, UI separation, algoritme. |
 | Vereiste voorkennis | Goed om kunnen gaan met classes en objecten en GUI separation. |
