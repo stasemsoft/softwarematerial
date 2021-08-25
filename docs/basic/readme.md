@@ -20,10 +20,10 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 + [Tutorial: De Debugger](debugger/Debugger)
 + [Reference: variable](var/naslag_Variable)
 + [Reference: operatoren](var/naslag_Operatoren)
-+ [Training: Goeroe-calc: variabele, bewerkingen, conversies](training_GoeroeCalc)
-+ [Training: Euro Dollar converter](training_Euro-Dollar-Converter)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! (Variabelen, bewerkingen, typen, conversie)
-+ [Training: Diversen](training_Extra-opgaven-variabelen)
-+ [Training: Computerrekenen](training_ComputerRekenen)
++ [Training: Goeroe-calc: variabele, bewerkingen, conversies](var/training_GoeroeCalc)
++ [Training: Euro Dollar converter](var/training_Euro-Dollar-Converter)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! (Variabelen, bewerkingen, typen, conversie)
++ [Training: Diversen](var/training_Extra-opgaven-variabelen)
++ [Training: Computerrekenen](var/training_ComputerRekenen)
 
 ## Conditionele Statement
 
@@ -43,7 +43,7 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net iets anders: het knippen/plakken met strings.
 
 + [Reference: string methoden in C#](string_methoden/naslag_StringMethods)
-+ [Training: String methods in C#](training_StringMethods)
++ [Training: String methods in C#](string_methoden/training_StringMethods)
 
 ## DateTime (in C#)
 In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net iets anders: datum en tijd!
@@ -52,24 +52,24 @@ In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net
 ## Lus / loop / herhaling
 
 + [Reference: while](lussen/naslag_While)
-+ [Reference: for](lussen/naslag_For)
-+ [Training: For - Drankjesschema](training_Drankjesschema)
-+ [Training: For - Wiskunde en zo](training_Wiskunde-en-zo)
-+ [Training: For - Worpengenerator](training_Worpengenerator)
-+ [Training: For - Muziekgenerator](training_Muziekgenerator)
-+ [Training: While - Het grote geheel](training_HetGroteGeheel)
-+ [Training: While - Het goede getal](training_Het-goede-getal)
++ [Reference: for](lussen/lussen/naslag_For)
++ [Training: For - Drankjesschema](lussen/training_Drankjesschema)
++ [Training: For - Wiskunde en zo](lussen/training_Wiskunde-en-zo)
++ [Training: For - Worpengenerator](lussen/training_Worpengenerator)
++ [Training: For - Muziekgenerator](lussen/training_Muziekgenerator)
++ [Training: While - Het grote geheel](lussen/training_HetGroteGeheel)
++ [Training: While - Het goede getal](lussen/training_Het-goede-getal)
 
 Als je een extra uitdaging wilt met loops:
-+ [Training: Christmas Tree Generator](training_Christmas-tree-generator)
-+ [Training: Emmer vol laten lopen](training_Emmer-vol-laten-lopen)
++ [Training: Christmas Tree Generator](lussen/training_Christmas-tree-generator)
++ [Training: Emmer vol laten lopen](lussen/training_Emmer-vol-laten-lopen)
 
 ## Method: zelf maken en aanroepen
 
 + [Reference: Methodes in C#](methoden/naslag_methods)
 + Tutorial (alleen geschikt als je zelf ook in WinForms werkt):
   1. [method in WinForms 1](https://youtu.be/SRwDqyyZFXY?list=PL0EE421AE8BCEBA4A)
-  2. [method in WinForms 2](https://youtu.be/ND8aXadDbyg?list=PL0EE421AE8BCEBA4A).
+  2. [method in WinForms 2](https://youtu.be/ND8aXadDbyg?list=PL0EE421AE8BCEBA4A)
  + [w3schools : methods](https://www.w3schools.com/cs/cs_methods.asp)
 	+ OPMERKING: hier worden `static` methods gebruikt: OK voor de oriëntatie maar zogauw je met objecten werkt doe je dit bijna niet meer.
 + [w3schools : method parameters](https://www.w3schools.com/cs/cs_method_parameters.asp)
@@ -87,7 +87,7 @@ Als je een extra uitdaging wilt met loops:
 
 ## Collectie (List, Array)
 
-+ [Explanation: Collecties Array & Lists](Explanation-Array-Lists)
++ [Explanation: Collecties Array & Lists](../legacy/Explanation-Array-Lists)
 + [Presentatie: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_Arrays.pptx)
 + [Presentatie: List's](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_Lists.pptx)
 + [Presentatie: List methods](https://stasemsoft.github.io/softwarematerial/docs/basic/collecties/theorie_FUN12_ListMethodes.pptx)

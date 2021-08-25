@@ -13,10 +13,10 @@ Hieronder een aantal fasen of stappen die je zou kunnen  doorlopen. Een Stap zou
 ## Stap 1
 Als je deze vragen kunt beantwoorden ben je klaar met Stap 1:
 
--   [Vraag: Wat zijn de basisconstructies van programmeren?](../basic/#variabelen-assignment-typen-debugger-eerste-stapjes-in-c).
--   [variabelen / variables](../basic/#variabelen-assignment-typen-debugger-eerste-stapjes-in-c).
--   [Types zoals int, Double, Boolean](../basic/#variabelen-assignment-typen-debugger-eerste-stapjes-in-c).
--   [Type conversie/conversion (zoals Convert.ToString())](../basic/#variabelen-assignment-typen-debugger-eerste-stapjes-in-c).
+-   [Vraag: Wat zijn de basisconstructies van programmeren?](../basic/#variabelen-assignment-typen-debugger-eerste-stapjes-in-c)
+-   [variabelen / variables](../basic/#variabelen-assignment-typen-debugger-eerste-stapjes-in-c)
+-   [Types zoals int, Double, Boolean](../basic/#variabelen-assignment-typen-debugger-eerste-stapjes-in-c)
+-   [Type conversie/conversion (zoals Convert.ToString())](../basic/#variabelen-assignment-typen-debugger-eerste-stapjes-in-c)
 -   [Wat is een project in programmeertermen?](../process/infoVisualStudioInstallatie)
 -   [Wat is een statement?](../process/infoVisualStudioInstallatie)
 -   [Wat is een conditioneel statement en waarvoor gebruik ik het?](../basic/#conditioneel)
@@ -73,7 +73,7 @@ Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
 
 
 + [Training Televisie](../basic/collecties/Televisie) 
-+ [Training Christmas-tree-generator (moeilijk)](training_Christmas-tree-generator)
++ [Training Christmas-tree-generator (moeilijk)](../basic/lussen/training_Christmas-tree-generator)
 
 ---
 

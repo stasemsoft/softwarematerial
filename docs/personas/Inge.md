@@ -16,7 +16,7 @@ Deze opdrachten vind je in de [Toolkit basis](../basic) in de categorieën
 -   Wat is een method, hoe werk ik met returnvalues en hoe kan ik parameters gebruiken?
 
 Hierover vind je trainingsopdrachten in de  [Toolkit basis: categorie methods](../basic/#method-zelf-maken-en-aanroepen), bijvoorbeeld: 
-+ [Training methodmarathon](../basic/methoden/training_methodmarathon)
++ [Training method marathon](../basic/methoden/training_methodmarathon)
 
 
 ---

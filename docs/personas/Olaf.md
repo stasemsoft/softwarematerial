@@ -15,7 +15,7 @@ Deze opdracht is heel *open* geformuleerd. Maak er wat leuks van, verzin er ding
 
 Zoek hier en daar vooral ook wat algoritmische uitdaging! 
 Zo zijn er supersimpele opdrachten (
-[Taining TrafficLight](../objects/training_Class_TrafficLight), 
+[Training TrafficLight](../objects/training_Class_TrafficLight), 
 [Training Marimba and Bass](../objects/training_Marimba_and_Bass)
 ), maar ga liever voor de iets uitdagendere
 [Training AutoDagWaarde](../objects/challenges/training_AutoDagWaarde).
