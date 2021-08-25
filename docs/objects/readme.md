@@ -2,7 +2,7 @@
 
 ## Programmeren met Objects en Classes
 
-+ Als je al wat ervaring hebt kun je al eens naar [versiebeheer met git](../workshops/git/readme) kijken (maar als je nieuw bent in OOP is het wellicht beter eerst op Object Oriented Programming te richten).
++ Als je al wat ervaring hebt kun je al eens naar [versiebeheer met git](../workshops/git/) kijken (maar als je nieuw bent in OOP is het wellicht beter eerst op Object Oriented Programming te richten).
 + Als je al wat ervaring hebt kun je al eens naar [unit testing](unittesting) kijken (maar als je nieuw bent in OOP is het wellicht beter eerst op het programmeren zelf te richten).
 
 ### Introductie Objects en Classes: OOP
@@ -25,7 +25,7 @@ en ook:
 Als je een software engineer wilt worden is het belangrijk dat je je houdt aan afspraken en best practices:
 + [video Tim Corey: Top 10 C# Best Practices](https://www.youtube.com/watch?v=-9b8NRqjUFM)
 + [Coding Guidelines](../process/infoCodingGuidelines)
-+ [Reference: C# .NET Coding Standard/Conventions](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions)  
++ [Reference: C# .NET Coding Standard/Conventions](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)  
 
 
 
@@ -74,7 +74,7 @@ en de training 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *e
 
 ### Casting
 
-+ [Theorie over cast](theorie_Cast).
++ [Theorie over cast](theorie_Cast)
 
 
 ### override ToString()
@@ -134,7 +134,7 @@ Als je de volgende video van Tim Corey nog niet bekeken had is dat nu zeker een 
 
 ## Verder Verdiepend materiaal
 
-+ [info over git](https://stasemsoft.github.io/softwarematerial/docs/process/infoENGit.pdf)
++ [info over git](https://stasemsoft.github.io/softwarematerial/docs/legacy/infoENGit.pdf)
 
 + [external resources](https://stasemsoft.github.io/softwarematerial/docs/process/infoExternalResources)
 
