@@ -5,7 +5,7 @@
 
 Olaf heeft al kennis gemaakt met Objecten. Olaf gaat dan ook niet van voor af aan beginnen maar gaat meteen door naar de [Toolkit Verdiepend](../objects/). 
 
-Maar: Let op: U gaat niet door start, u ontvangt geen 20.000 gulden... Wat bedoelen we daarmee: Je mag classes en objecten gebruiken vanaf het begin, maar dat wil niet zeggen dat je docent al overtuigd is dat je de concepten uit de oriëntatie beheerst: praat regelmatig met je docent en laat zien dat je methods maakt, loops, en alles wat er verder bij komt kijken! 
+Maar: Let op: U gaat niet door start, u ontvangt geen 20.000 euro... Wat bedoelen we daarmee: Je mag classes en objecten gebruiken vanaf het begin, maar dat wil niet zeggen dat je docent al overtuigd is dat je de concepten uit de oriëntatie beheerst: praat regelmatig met je docent en laat zien dat je methods maakt, loops, en alles wat er verder bij komt kijken! 
 
 Een opdracht waarmee je zou kunnen beginnen is de 
 [Challenge Eendenvijver](../objects/challenges/challenge_Eendenvijver). 
