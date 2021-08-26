@@ -51,9 +51,9 @@ Maak een applicatie waarmee tekstbestanden kunnen worden bewerkt. De minimale us
 
 ##### Casus 5 - Mijn computer
 Maak een applicatie die alle schijven van je computer laat zien (zoals Windows Verkenner dat kan) in een eenvoudige listbox. Zie
-[](#fig:mijnComputer)
 
 ![fig:mijnComputer](figures/mijnComputer.png "Mijn Computer.")
+
 ##### Casus 5a
 Voeg aan de Mijn Computer-applicatie de volgende functionaliteiten toe:
 - Mogelijkheid om een bestand te kopiëren naar een andere locatie
