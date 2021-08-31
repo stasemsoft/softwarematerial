@@ -3,7 +3,7 @@
 Schrijf een programma dat voldoet aan de volgende requirements:
 1. Het programma maakt een willekeurig getal aan en onthoudt dit in een variabel, maar laat het niet zien op het scherm. 
 2. Gebruiker kan getal invullen. 
-3. Het programma toont in een label "Hoger" als het door de gebruiker getal lager is dan het in stap 1 onthouden getal en "Lager" indien de gebruiker te hoog zat en niets indien het getal precies goed is. Als het getal precies goed is (geraden) dan wordt er een MessageBox getoond "Geraden!".
+3. Het programma toont in een label "Hoger" als het door de gebruiker getal lager is dan het in stap 1 onthouden getal en "Lager" indien de gebruiker te hoog zat. Als het getal precies goed is (geraden) dan wordt er een MessageBox getoond "Geraden!".
 
 ![Aangeleverd ontwerp user interface](figures/Hoger-lager-ui.png)
 
