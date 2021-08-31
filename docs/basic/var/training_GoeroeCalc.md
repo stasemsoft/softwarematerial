@@ -27,7 +27,7 @@ Zit je vast? Stel een vraag aan je buurman of -vrouw! Als jullie er samen niet u
 
 Als de calculator werkt dan kun je nog de laatste 2 requirements programmeren. Dat zijn deze:
 + De uitkomst wordt getoond als “Uitkomst: 123” in een label dus met de tekst “Uitkomst: “: voor de daadwerkelijke uitkomst.
- De calculator moet werken met gebroken getallen. Dus 3.14 maal 2.0 moet 6.28 opleveren.
++ De calculator moet werken met gebroken getallen. Dus 3.14 maal 2.0 moet 6.28 opleveren.
 
 Misschien had je die al, dan ben je niet alleen goed in programmeren, maar heb je de analyse-fase ook eervol doorlopen.
 
