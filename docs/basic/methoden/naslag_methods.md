@@ -44,7 +44,7 @@ Een aantal voorbeeldmethoden:
     private int AddTwoNumbers(int number1, int number2)
     {
         int som;
-        som = number1 + number2
+        som = number1 + number2;
         return som;
     }
 
