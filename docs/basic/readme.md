@@ -157,7 +157,7 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 + [Reference: Head First C#](https://www.oreilly.com/library/view/head-first-c/9781449358846/) - Basis=Hoofdstuk 1 tm 4
 
 ### W.V.T.T.K., diversen
-+ [Videos van Collega Jan](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/index.html)
++ [Class Recordings (videos) van SOFT1 collega Jan Oonk](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/index.html)
 + [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)  
 + [Computerphile](https://www.youtube.com/user/Computerphile)
 + [TED talk 8 secrets of success](https://www.ted.com/talks/richard_st_john_s_8_secrets_of_success?language=nl)  
