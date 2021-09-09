@@ -45,7 +45,7 @@ User requirement: de gebruiker typt zijn voor- en achternaam in. Bijvoorbeeld �
 
 Let op de requirements: 
 1. De gebruiker voert Voornaam + Achternaam in, maar de MessageBox toont de tekst zonder de voornaam. 
-2. Invoer als “Jan de Graaf” levert het bericht “Hallo mijnheer de Graaf” op. 
+2. Invoer als “Jan de Graaf” en radiobutton geslacht “Man“ levert het bericht “Hallo mijnheer de Graaf” op. 
 
 
 ### Extra opdrachten 
