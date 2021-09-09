@@ -52,7 +52,7 @@ In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net
 ## Lus / loop / herhaling
 
 + [Reference: while](lussen/naslag_While)
-+ [Reference: for](lussen/lussen/naslag_For)
++ [Reference: for](lussen/naslag_For)
 + [Training: For - Drankjesschema](lussen/training_Drankjesschema)
 + [Training: For - Wiskunde en zo](lussen/training_Wiskunde-en-zo)
 + [Training: For - Worpengenerator](lussen/training_Worpengenerator)
