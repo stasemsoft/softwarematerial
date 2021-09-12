@@ -10,7 +10,7 @@ Schrijf een programma dat voldoet aan de volgende requirements:
 ## Casus 2 - De tafel van N
 Schrijf een programma dat voldoet aan de volgende requirements: 
 1. Toon de tafel van N op het scherm door gebruik te maken van een for-lus. N is door de gebruiker in te vullen in een TextBox. 
-2. Voeg een tweede project toe aan je solution en maak opnieuw een programma dat de tafel van 3 laat zien, maar dan met een while-lus.
+2. Voeg een tweede project toe aan je solution en maak opnieuw een programma dat de tafel van N laat zien, maar dan met een while-lus.
 
 ## Casus 3 - Lus met een if er in
 Schrijf een programma dat voldoet aan de volgende requirements: 
