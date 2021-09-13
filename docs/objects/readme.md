@@ -97,12 +97,12 @@ en de training 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *e
 
 ### Best practices Voor de wanna-be Software Engineer
 
-Mensen die Software Engineer willen worden zullen hier zeker van smullen:
+Mensen die Software Engineer willen worden zullen hier zeker van smullen. Niet alles wordt al van je geëist in Semester 1, maar er valt genoeg te leren!! 
 
 + [Theorie So you wanna be a Software Engineer](theorie_AdvancedSoftwareEngineering).
-
-Als je de volgende video van Tim Corey nog niet bekeken had is dat nu zeker een aanrader!
-+ [video Tim Corey: Top 10 C# Best Practices](https://www.youtube.com/watch?v=-9b8NRqjUFM)
++ [video Tim Corey: Top 10 C# Best Practices](https://www.youtube.com/watch?v=-9b8NRqjUFM) : (Als je deze video van Tim Corey nog niet bekeken had is dat nu zeker een aanrader). 
++ [Nuttige site van Alexander: https://serelot.nl/](https://serelot.nl/)
++ [Nuttige site van Bas: https://www.bazzz.nl/](https://www.bazzz.nl/)
 + [Software Craftmanship Manifesto](http://manifesto.softwarecraftsmanship.org/)
 + [Clean Code - Uncle Bob / Lesson 1](https://www.youtube.com/watch?v=7EmboKQH8lM)
 
@@ -135,15 +135,10 @@ Als je de volgende video van Tim Corey nog niet bekeken had is dat nu zeker een 
 ## Verder Verdiepend materiaal
 
 + [info over git](https://stasemsoft.github.io/softwarematerial/docs/legacy/infoENGit.pdf)
-
 + [external resources](https://stasemsoft.github.io/softwarematerial/docs/process/infoExternalResources)
-
 + [C# Basics ](https://www.youtube.com/playlist?list=PLYMOUCVo86jGzNXPgyKB-B1IvE1LoXKi6) - video 1 t/m 39  
-
 + [Chapter 2 Classes](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Documentation/OOP.pdf)  
-
 + [Chapter Introduction to OOP (uit Dive into Design Patterns)](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Documentation/Dive%20into%20design%20patterns%20-%20chapter%20Introduction%20to%20OOP.pdf)  
-
 + [howto: Als ik vasthang? Over oplossen problemen](https://stasemsoft.github.io/softwarematerial/docs/process/knowProgrammerSearchScheme)
 
 
