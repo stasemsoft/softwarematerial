@@ -44,7 +44,7 @@ Praat regelmatig met je docent! Dat is degene die uiteindelijk bepaalt of hij/zi
 
 -   Wat is een herhalingsstructuur/loop, welke zijn er (in C#), en waarvoor gebruik ik die?
 
-Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
+Ook hierover vind je opdrachten in de  [Toolkit basis](../basic/#lussen):
 + [Training Worpengenerator](../basic/lussen/training_Worpengenerator)
 
 
@@ -56,7 +56,7 @@ Praat regelmatig met je docent! Dat is degene die uiteindelijk bepaalt of hij/zi
 
 -   Wat is een method, hoe werk ik met returnvalues en hoe kan ik parameters gebruiken?
 
-Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
+Ook hierover vind je opdrachten in de  [Toolkit basis](../basic/#methoden):
 
 + [Training Bloeddruk](../basic/methoden/training_Bloeddruk)
 + [Training MaalDrie](../basic/methoden/training_MethodMaaldrie)
@@ -69,7 +69,7 @@ Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
 -   Methods (herhaling/uitbreiding)
 -   Wat kan ik met Collections (met name List en Array in C#)?
 
-Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
+Ook hierover vind je opdrachten in de  [Toolkit basis](../basic/#collecties):
 
 
 + [Training Televisie](../basic/collecties/Televisie) 
@@ -82,7 +82,7 @@ Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
 + Vanaf nu blijf ik methods gebruiken.
 + Loops / herhaling algo: project-Euler?
 
-Ook hierover vind je opdrachten in de  [Toolkit basis](../basic):
+Ook hierover vind je opdrachten in de  [Toolkit basis](../basic/#methoden):
 
 + [Training method marathon](../basic/methoden/training_methodmarathon)
 
