@@ -68,11 +68,11 @@ Als je een extra uitdaging wilt met loops:
 
 + [Reference: Methodes in C#](methoden/naslag_methods)
 + Tutorial (alleen geschikt als je zelf ook in WinForms werkt):
-  1. [method in WinForms 1](https://youtu.be/SRwDqyyZFXY?list=PL0EE421AE8BCEBA4A)
-  2. [method in WinForms 2](https://youtu.be/ND8aXadDbyg?list=PL0EE421AE8BCEBA4A)
- + [w3schools : methods](https://www.w3schools.com/cs/cs_methods.asp)
+  1. [Method in WinForms 1](https://youtu.be/SRwDqyyZFXY?list=PL0EE421AE8BCEBA4A)
+  2. [Method in WinForms 2](https://youtu.be/ND8aXadDbyg?list=PL0EE421AE8BCEBA4A)
+ + [Theorie op w3schools : methods](https://www.w3schools.com/cs/cs_methods.asp)
 	+ OPMERKING: hier worden `static` methods gebruikt: OK voor de oriëntatie maar zogauw je met objecten werkt doe je dit bijna niet meer.
-+ [w3schools : method parameters](https://www.w3schools.com/cs/cs_method_parameters.asp)
++ [Theorie op w3schools : method parameters](https://www.w3schools.com/cs/cs_method_parameters.asp)
 + [Training: Ampère](methoden/training_MethodAmpere)
 + [Training: MaalDrie](methoden/training_MethodMaaldrie)
 + [Training: De Drie Vierkanten](methoden/training_MethodDrieVierkanten)
