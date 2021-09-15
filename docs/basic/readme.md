@@ -80,7 +80,7 @@ Als je een extra uitdaging wilt met loops:
 + [Training: Mad Lad Teksten](methoden/training_Madlad-teksten)
 + [Training: ElkaarAchterstevoren](methoden/training_methodElkaarAchterstevoren)
 + [Training: Cijfers door woorden vervangen](methoden/Cijfers-door-woorden-vervangen)
-+ [Training: Marathon](methoden/training_methodmarathon)
++ [Training: Method Marathon](methoden/training_methodmarathon)
 + [Training: Galgje](methoden/galgje)
 + [Training: Cijfers naar woorden](methoden/training_MethodCijfersNaarWoorden)
 + [Training: Boter, kaas en eieren](methoden/training_BoterKaasEnEieren)
