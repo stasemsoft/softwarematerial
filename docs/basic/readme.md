@@ -139,6 +139,7 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 ### Video tutorial - WinForms
 + [C# Programming: Windows Forms and Event Handlers](https://www.youtube.com/watch?v=W6vJ_c9Mt6A)
 + [Coding Cafe: WinForms series](https://www.youtube.com/watch?v=8ARnYQgShY8&list=PLxefhmF0pcPlDKe7smJMoHPNS1tJQ7w7q)
++ [Jan over Button verschuiven](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Button%20verschuiven.mp4)
 
 
 ### About algorithm & Problem Solving
