@@ -159,6 +159,7 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 
 ### W.V.T.T.K., diversen
 + [Class Recordings (videos) van SOFT1 collega Jan Oonk](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/index.html)
++ [Learning C#: Introduction to Computer Programming for Designers](https://youtube.com/playlist?list=PLx3k0RGeXZ_yfAFk4GT3gWdFhwCsODUNb)
 + [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)  
 + [Computerphile](https://www.youtube.com/user/Computerphile)
 + [TED talk 8 secrets of success](https://www.ted.com/talks/richard_st_john_s_8_secrets_of_success?language=nl)  
