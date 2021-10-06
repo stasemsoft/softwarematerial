@@ -7,7 +7,7 @@ List<double> prijzen = new List<double>();
 double totaalPrijs = 0.0; 
 // Hier moet je nog een aantal prijzen (doubles) aan de List toevoegen. 
 
-for(int i = 0; i <= prijzen.Length; i++) 
+for(int i = 0; i <= prijzen.Count; i++) 
 { 
 	totaalPrijs = totaalPrijs + prijzen[i]; 
 } 
