@@ -52,7 +52,7 @@ In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net
 ## Lus / loop / herhaling
 
 + [Reference: while](lussen/naslag_While)
-+ [Reference: for](lussen/lussen/naslag_For)
++ [Reference: for](lussen/naslag_For)
 + [Training: For - Drankjesschema](lussen/training_Drankjesschema)
 + [Training: For - Wiskunde en zo](lussen/training_Wiskunde-en-zo)
 + [Training: For - Worpengenerator](lussen/training_Worpengenerator)
@@ -68,11 +68,11 @@ Als je een extra uitdaging wilt met loops:
 
 + [Reference: Methodes in C#](methoden/naslag_methods)
 + Tutorial (alleen geschikt als je zelf ook in WinForms werkt):
-  1. [method in WinForms 1](https://youtu.be/SRwDqyyZFXY?list=PL0EE421AE8BCEBA4A)
-  2. [method in WinForms 2](https://youtu.be/ND8aXadDbyg?list=PL0EE421AE8BCEBA4A)
- + [w3schools : methods](https://www.w3schools.com/cs/cs_methods.asp)
+  1. [Method in WinForms 1](https://youtu.be/SRwDqyyZFXY?list=PL0EE421AE8BCEBA4A)
+  2. [Method in WinForms 2](https://youtu.be/ND8aXadDbyg?list=PL0EE421AE8BCEBA4A)
+ + [Theorie op w3schools : methods](https://www.w3schools.com/cs/cs_methods.asp)
 	+ OPMERKING: hier worden `static` methods gebruikt: OK voor de oriëntatie maar zogauw je met objecten werkt doe je dit bijna niet meer.
-+ [w3schools : method parameters](https://www.w3schools.com/cs/cs_method_parameters.asp)
++ [Theorie op w3schools : method parameters](https://www.w3schools.com/cs/cs_method_parameters.asp)
 + [Training: Ampère](methoden/training_MethodAmpere)
 + [Training: MaalDrie](methoden/training_MethodMaaldrie)
 + [Training: De Drie Vierkanten](methoden/training_MethodDrieVierkanten)
@@ -80,7 +80,7 @@ Als je een extra uitdaging wilt met loops:
 + [Training: Mad Lad Teksten](methoden/training_Madlad-teksten)
 + [Training: ElkaarAchterstevoren](methoden/training_methodElkaarAchterstevoren)
 + [Training: Cijfers door woorden vervangen](methoden/Cijfers-door-woorden-vervangen)
-+ [Training: Marathon](methoden/training_methodmarathon)
++ [Training: Method Marathon](methoden/training_methodmarathon)
 + [Training: Galgje](methoden/galgje)
 + [Training: Cijfers naar woorden](methoden/training_MethodCijfersNaarWoorden)
 + [Training: Boter, kaas en eieren](methoden/training_BoterKaasEnEieren)
@@ -139,6 +139,7 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 ### Video tutorial - WinForms
 + [C# Programming: Windows Forms and Event Handlers](https://www.youtube.com/watch?v=W6vJ_c9Mt6A)
 + [Coding Cafe: WinForms series](https://www.youtube.com/watch?v=8ARnYQgShY8&list=PLxefhmF0pcPlDKe7smJMoHPNS1tJQ7w7q)
++ [Jan over Button verschuiven](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Button%20verschuiven.mp4)
 
 
 ### About algorithm & Problem Solving
@@ -157,7 +158,8 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 + [Reference: Head First C#](https://www.oreilly.com/library/view/head-first-c/9781449358846/) - Basis=Hoofdstuk 1 tm 4
 
 ### W.V.T.T.K., diversen
-+ [Videos van Collega Jan](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/index.html)
++ [Class Recordings (videos) van SOFT1 collega Jan Oonk](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/index.html)
++ [Learning C#: Introduction to Computer Programming for Designers](https://youtube.com/playlist?list=PLx3k0RGeXZ_yfAFk4GT3gWdFhwCsODUNb) (Orientatie: tot les 9.1 (video 52). Verdieping: Vanaf les 9.1)
 + [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)  
 + [Computerphile](https://www.youtube.com/user/Computerphile)
 + [TED talk 8 secrets of success](https://www.ted.com/talks/richard_st_john_s_8_secrets_of_success?language=nl)  
