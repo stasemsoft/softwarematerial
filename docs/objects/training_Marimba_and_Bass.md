@@ -2,12 +2,12 @@
 
 Introductieopdracht werken met classes en objecten.
 
-Maak een Console app aan. Creëer hierin een class Marimba met een method `void PlayNote(string note)`. Om het principe te begrijpen is het goed genoeg (en het snelste) het ’spelen’ van noten te realiseren door `Console.WriteLine("marimba plays note:"+note)` Je kunt nu in je programma een marimba aanmaken en noten laten spelen.
+Maak een Console app aan. Creëer hierin een class Marimba met een method `void PlayNote(string note){}`. Om het principe te begrijpen is het goed genoeg (en het snelste) het ’spelen’ van noten te realiseren door `Console.WriteLine("marimba plays note:"+note);` Je kunt nu in je programma een marimba aanmaken en noten laten spelen.
 
 ```cs
 Marimba marimba = new Marimba();
-marimba.playNote("e");
-marimba.("d#");
+marimba.PlayNote("e");
+marimba.PlayNote("d#");
 marimba.PlayNote("e");
 marimba.PlayNote("d#");
 marimba.PlayNote("e");
