@@ -5,7 +5,6 @@
 
 
 ## Introductie met OOP
-+ [Tutorial: Hoe programmeer je met objecten?](tutorial_Class)
 + [Reference: Wat is een Klasse?](theorie_FUN12_DictaatClasses_v_wat-is-een-class)
 
 ## Analyse
@@ -17,16 +16,16 @@
 + CRC cards
 + ER Model
 ### Klassendiagram
-+ [Reference: Welke klassen?](theorie_WhichClass)
-+  [Reference: Klassendiagram](theorie_ClassDiagram)
 + 
 
 ## Realisatie (OOP)
 ### Klassen, objecten en constructors
++ [Tutorial: Hoe programmeer je met objecten?](tutorial_Class)
++ [Reference: Van klassendiagram naar code](theorie_ClassDiagram)
 + [Reference: Klassen gebruiken](theorie_FUN12_DictaatClasses_w_classes-gebruiken)
 + [Reference: Zelf klassen maken](theorie_FUN12_DictaatClasses_x_zelf-classes-maken)
 + [Reference: Constructor](theorie_Constructors)
-+ 
+
 ### Properties en encapsulation
 + [Reference: Property](theorie_Property)
 + [Reference: private en public](theorie_PrivatePublic)
