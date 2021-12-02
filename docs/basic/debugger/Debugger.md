@@ -185,7 +185,12 @@ Als je in de `Call Stack` op een rij klikt, zie je in de code de bijbehorende co
 
 Wen je zelf eraan om gebruik te maken van de debugger. Op de duur kost het minder tijd om fouten op te sporen.
 
+## Verder in .NET6
++ [Debugging in .NET 6 / nov2021](https://docs.microsoft.com/en-us/shows/Web-Wednesday/Web-Wednesday-Mastering-VS-debugging-with-Leslie-Richardson?ocid=AID3031635&utm_issue=November2021): behoorlijk zinvolle tips over hoe je moet debuggen in Visual Studio. Zeker nuttig, want als ontwikkelaar ben je aanzienlijk meer tijd kwijt met het opsporen en oplossen van fouten dan met het schrijven ervan :^) Als je skipped naar 9:00 ofzo, kun je het hele voorstelrondje van de presentatoren overslaan en meteen de diepte in. De audio is af en toe een beetje brak, maar de tips zijn top-notch.
 
-+ Versie 1-6-2015 Marcel Veldhuijzen (KAL, week 5, OIS11)
-+ Versie 25-1-2015 Marcel Veldhuijzen (Canvas)
-+ Versie 2014-02-18 Bas Michielsen 2012
+
+Versies: 
++ 20211129 Tip van Ruben
++ 20150601 Marcel Veldhuijzen (KAL, week 5, OIS11)
++ 20150125 Marcel Veldhuijzen (Canvas)
++ 20140218 Bas Michielsen 2012

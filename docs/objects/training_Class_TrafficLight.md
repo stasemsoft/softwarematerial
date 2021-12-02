@@ -1,7 +1,7 @@
 # Training Traffic Light
 
 We gaan verkeerslichten (in de volksmond ook wel stoplichten genoemd) programmeren.
-Nu is het nog een vrij recht-toe-reacht-aan variant,
+Nu is het nog een vrij recht-toe-recht-aan variant,
 maar na theorie in latere hoofdstukken wordt het uitgebreid.
 Bewaar dus de code die je maakt!
 
