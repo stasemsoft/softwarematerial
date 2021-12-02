@@ -15,20 +15,22 @@
 ## Ontwerp
 + CRC cards
 + ER Model
+
 ### Klassendiagram
 + 
 
 ## Realisatie (OOP)
-### Klassen, objecten en constructors
-+ [Tutorial: Hoe programmeer je met objecten?](tutorial_Class)
+### Klassen en objecten 
++ [Tutorial: Hoe programmeer je met objecten? (hero vs monsters)](tutorial_Class)
 + [Reference: Van klassendiagram naar code](theorie_ClassDiagram)
-+ [Reference: Klassen gebruiken](theorie_FUN12_DictaatClasses_w_classes-gebruiken)
-+ [Reference: Zelf klassen maken](theorie_FUN12_DictaatClasses_x_zelf-classes-maken)
++ [Reference: Klassen maken en gebruiken](theorie_FUN12_DictaatClasses_x_zelf-classes-maken)
+
+## Constructor
 + [Reference: Constructor](theorie_Constructors)
 
 ### Properties en encapsulation
-+ [Reference: Property](theorie_Property)
 + [Reference: private en public](theorie_PrivatePublic)
++ [Reference: Property](theorie_Property)
 
 
 ### Methoden
