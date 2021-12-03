@@ -5,47 +5,33 @@
 
 
 ## Introductie met OOP
-+ [Reference: Wat is een Klasse?](theorie_FUN12_DictaatClasses_v_wat-is-een-class)
++ [Reference: Hoe programmeer je met objecten? (hero vs monsters)](app://obsidian.md/tutorial_Class)
 
-## Analyse
-+ Presentatie Analyse
-+ Requirements
-+ Schetsen en wireframes
-
-## Ontwerp
-+ CRC cards
-+ ER Model
-
-### Klassendiagram
-+ 
-
-## Realisatie (OOP)
-### Klassen en objecten 
-+ [Tutorial: Hoe programmeer je met objecten? (hero vs monsters)](tutorial_Class)
-+ [Reference: Van klassendiagram naar code](theorie_ClassDiagram)
+## Klassen, objecten en constructors
 + [Reference: Klassen maken en gebruiken](theorie_FUN12_DictaatClasses_x_zelf-classes-maken)
-
-## Constructor
++ [Reference: Van klassendiagram naar code](theorie_ClassDiagram)
 + [Reference: Constructor](theorie_Constructors)
++ [Training ???](???)
 
-### Properties en encapsulation
+## Properties en encapsulation
 + [Reference: private en public](theorie_PrivatePublic)
 + [Reference: Property](theorie_Property)
++ [Training ????](????)
 
+## Methoden
++ [Reference: methoden in klassen ???](???)
++ [Training ????](????)
 
-### Methoden
-
-### Casting
+## Casting en override ToString()
 + [Reference: Casting en 'as'](theorie_Cast)
-
-### override ToString()
++ [Reference: Je object als string](theorie_FUN12_DictaatClasses_y_je-class-als-string)
 + [Reference: override ToString](theorie_OverrideToString)
-+ [Training: Je object als string](theorie_FUN12_DictaatClasses_y_je-class-als-string)
++ [Training ????](????)
 
-### Enum
+## Enum
 + [Reference: Enum](theorie_Enum)
 
-### Gecombineerd
+## Gecombineerd
 + [Reference: Voorbeelden](theorie_FUN12_DictaatClasses_z_voorbeelden)
 + [Reference: Voorbeelden OOP: pinautomaat](example_PinAutomaat)
 + [Training: ObjectOriented Invuloefening](exercise_ObjectOrientedOefening)
@@ -53,6 +39,8 @@
 + [Training: Traffic Light](training_Class_TrafficLight)
 + [Training: De Marimba en de Bas](training_Marimba_and_Bass)
 + [Training: Auto Dagwaarde](training_AutoDagWaarde)
+
+## Challenges
 + [Challenge: Verzameling](challenges)
 + [Challenge: Bankrekening](challenge_Bankrekening)
 + [Challenge: DinoGame](challenges/challengeDinoGame)
