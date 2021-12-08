@@ -39,9 +39,7 @@ als eerste training met Objecten en Classes. Als je dat moeilijk vindt is het ve
 + [Training Marimba and Bass](training_Marimba_and_Bass)
 
 De default Challenge is 'AutoDagWaarde'.
-(hiervoor heb je properties en enums nodig, waarover je meer hieronder kunt lezen).
-
-
+(hiervoor heb je properties en enums nodig, waarover je meer hieronder kunt lezen): 
 + [Training AutoDagWaarde](challenges/training_AutoDagWaarde)
 
 Probeer nu de invuloefening Object Oriented te maken:
@@ -69,6 +67,9 @@ Een andere manier om een eigen type te definiëren is een 'enum'-type:
 en de training 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *enum* zien:
 
 + [Training met Enum: TrafficLight](training_Enum_TrafficLight)
+
+In AutoDagwaarde komen een aantal concepten bij elkaar: 
++ [Training AutoDagWaarde](challenges/training_AutoDagWaarde)
 
 
 

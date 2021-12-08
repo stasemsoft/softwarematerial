@@ -23,15 +23,16 @@ De factor is een waarde die afhankelijk is van het brandstoftype:
 
 Technisch Ontwerp
 - Definieer een enum BrandstofSoort met bovenstaande waarden.
-- Een class Auto met properties kilometerstand en Brandstof.
-- Auto heeft een public property KmStand met beginwaarde 1 (private setter). (Enig idee waarom we niet bij 0 beginnen?).
-
-
+- Een class Auto met property Brandstof.
+- Deze class krijgt een constructor. 
+- Auto heeft een public property Kilometerstand (private setter). 
 - Auto heeft een read only property Kenteken (een String) die als parameter aan de constructor meegegeven wordt.
 - Auto heeft een method RijdKilometers met als parameter een geheel getal.
 - RijdKilometers controleert of de parameter een positief getal is. Zoja, dan wordt de KmStand met dat bedrag verhoogd.
-- Auto heeft een property Brandstof van type BrandstofSoort. Deze wordt als parameter aan de constructor meegegeven.
-- Class Auto heeft verder een read-only property Dagwaarde. Deze voert de berekening uit en geeft het goede antwoord terug.
+- In de constructor krijgt de Kilometerstand de waarde 1. 
+- Auto heeft een property Brandstof van type BrandstofSoort. 
+- De constructor krijgt als parameter de Brandstofsoort.
+- Class Auto heeft verder een property Dagwaarde. Deze voert de berekening uit en geeft het goede antwoord terug.
 - override de ToString() method van Auto zodat er iets komt te staan als AB-12-CD elektrische auto 12345 km op de teller heeft een dagwaarde van 12345 euro.
 
 Maak een Console app of een GUI app (eigen keuze). Maak een List<Auto> aan met minstens 4 auto’s. Bij opstarten laat de app van elke auto de informatie zien (gebruik ToString()).
