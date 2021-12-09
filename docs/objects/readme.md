@@ -38,12 +38,6 @@ als eerste training met Objecten en Classes. Als je dat moeilijk vindt is het ve
 
 + [Training met Class: TrafficLight](training_Class_TrafficLight)
 
-Probeer nu de invuloefening Object Oriented te maken:
-
-+ [Training ObjectOriented invuloefening](exercise_ObjectOrientedOefening)
-
-+ [Oplossing bij Training ObjectOriented invuloefening](solution_ObjectOriented)
-
 
 ### property
 
@@ -64,7 +58,7 @@ en de training 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *e
 
 + [Training met Enum: TrafficLight](training_Enum_TrafficLight)
 
-In AutoDagwaarde komen een aantal concepten bij elkaar: 
+In AutoDagwaarde komen een aantal concepten bij elkaar:
 + [Training AutoDagWaarde](challenges/training_AutoDagWaarde)
 
 
@@ -94,10 +88,10 @@ In AutoDagwaarde komen een aantal concepten bij elkaar:
 
 ### Best practices Voor de wanna-be Software Engineer
 
-Mensen die Software Engineer willen worden zullen hier zeker van smullen. Niet alles wordt al van je geëist in Semester 1, maar er valt genoeg te leren!! 
+Mensen die Software Engineer willen worden zullen hier zeker van smullen. Niet alles wordt al van je geëist in Semester 1, maar er valt genoeg te leren!!
 
 + [Theorie So you wanna be a Software Engineer](theorie_AdvancedSoftwareEngineering).
-+ [video Tim Corey: Top 10 C# Best Practices](https://www.youtube.com/watch?v=-9b8NRqjUFM) : (Als je deze video van Tim Corey nog niet bekeken had is dat nu zeker een aanrader). 
++ [video Tim Corey: Top 10 C# Best Practices](https://www.youtube.com/watch?v=-9b8NRqjUFM) : (Als je deze video van Tim Corey nog niet bekeken had is dat nu zeker een aanrader).
 + [Nuttige site van Alexander: https://serelot.nl/](https://serelot.nl/)
 + [Nuttige site van Bas: https://www.bazzz.nl/](https://www.bazzz.nl/)
 + [Software Craftmanship Manifesto](http://manifesto.softwarecraftsmanship.org/)
@@ -135,6 +129,7 @@ Mensen die Software Engineer willen worden zullen hier zeker van smullen. Niet a
 + [external resources](https://stasemsoft.github.io/softwarematerial/docs/process/infoExternalResources)
 + [C# Basics ](https://www.youtube.com/playlist?list=PLYMOUCVo86jGzNXPgyKB-B1IvE1LoXKi6) - video 1 t/m 39  
 + [Chapter 2 Classes](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Documentation/OOP.pdf)  
++ [Training ObjectOriented invuloefening](exercise_ObjectOrientedOefening) met  [Oplossing bij Training ObjectOriented invuloefening](solution_ObjectOriented)
 + [Chapter Introduction to OOP (uit Dive into Design Patterns)](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Documentation/Dive%20into%20design%20patterns%20-%20chapter%20Introduction%20to%20OOP.pdf)  
 + [howto: Als ik vasthang? Over oplossen problemen](https://stasemsoft.github.io/softwarematerial/docs/process/knowProgrammerSearchScheme)
 
