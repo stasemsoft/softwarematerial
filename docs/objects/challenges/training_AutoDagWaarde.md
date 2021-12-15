@@ -23,10 +23,10 @@ De factor is een waarde die afhankelijk is van het brandstoftype:
 
 Technisch Ontwerp
 - Definieer een enum BrandstofSoort met bovenstaande waarden.
-- Een class Auto met property Brandstof.
+- Een class Auto.
 - Deze class krijgt een constructor. 
 - Auto heeft een public property Kilometerstand (private setter). 
-- Auto heeft een read only property Kenteken (een String) die als parameter aan de constructor meegegeven wordt.
+- Auto heeft een property Kenteken (een String) die als parameter aan de constructor meegegeven wordt.
 - Auto heeft een method RijdKilometers met als parameter een geheel getal.
 - RijdKilometers controleert of de parameter een positief getal is. Zoja, dan wordt de KmStand met dat bedrag verhoogd.
 - In de constructor krijgt de Kilometerstand de waarde 1. 
