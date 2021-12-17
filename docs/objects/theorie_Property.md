@@ -55,8 +55,8 @@ class Stopwatch
     }
     public int Minutes                  // Property
     {
-        get { return seconds / 60 };    // Getter
-        set { seconds = value * 60 };   // Setter
+        get { return seconds / 60; }    // Getter
+        set { seconds = value * 60; }   // Setter
     }
 }
 
