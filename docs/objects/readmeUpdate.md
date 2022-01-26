@@ -32,7 +32,9 @@
 + [Reference: Enum](theorie_Enum)
 
 ## Gecombineerd
-+ [Reference: Voorbeelden](theorie_Classes_voorbeelden.md)
++ [Reference: Voorbeeld class Aapje](theorie_Classes_voorbeeld_Aapje.md)
++ [Reference: Voorbeeld class Dierenverzorgen](theorie_Classes_voorbeeld_Dierenverzorgen.md)
++ [Reference: Voorbeeld class Speler](theorie_Classes_voorbeeld_Speler.md)
 + [Reference: Voorbeelden OOP: pinautomaat](example_PinAutomaat)
 + [Training: ObjectOriented Invuloefening](exercise_ObjectOrientedOefening)
 + [Training: Oplossing bij Training ObjectOriented Invuloefening](solution_ObjectOriented) 
