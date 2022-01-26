@@ -18,7 +18,7 @@ en ook:
 + [Reference Zelf classes maken](theorie_zelf-classes-maken.md)
 + [Reference Je object als string](theorie_class-override_ToString.md)
 + [Reference: Voorbeeld class Aapje](theorie_Classes_voorbeeld_Aapje.md)
-+ [Reference: Voorbeeld class Dierenverzorgen](theorie_Classes_voorbeeld_Dierenverzorgen.md)
++ [Reference: Voorbeeld class Dierenverzorger](theorie_Classes_voorbeeld_Dierenverzorger.md)
 + [Reference: Voorbeeld class Speler](theorie_Classes_voorbeeld_Speler.md)
 + [Voorbeeld OOP: pin-automaat](example_PinAutomaat)
 + [(external) video over OOP](https://www.youtube.com/watch?v=SiBw7os-_zI&feature=youtu.be)
