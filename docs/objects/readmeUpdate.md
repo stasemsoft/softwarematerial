@@ -8,7 +8,7 @@
 + [Reference: Hoe programmeer je met objecten? (hero vs monsters)](app://obsidian.md/tutorial_Class)
 
 ## Klassen, objecten en constructors
-+ [Reference: Klassen maken en gebruiken](theorie_FUN12_DictaatClasses_x_zelf-classes-maken)
++ [Reference: Klassen maken en gebruiken](theorie_zelf-classes-maken.md)
 + [Reference: Van klassendiagram naar code](theorie_ClassDiagram)
 + [Reference: Constructor](theorie_Constructors)
 + [Training ???](???)
@@ -24,7 +24,7 @@
 
 ## Casting en override ToString()
 + [Reference: Casting en 'as'](theorie_Cast)
-+ [Reference: Je object als string](theorie_FUN12_DictaatClasses_y_je-class-als-string)
++ [Reference: Je object als string](theorie_class-override_ToString.md)
 + [Reference: override ToString](theorie_OverrideToString)
 + [Training ????](????)
 
@@ -32,7 +32,7 @@
 + [Reference: Enum](theorie_Enum)
 
 ## Gecombineerd
-+ [Reference: Voorbeelden](theorie_FUN12_DictaatClasses_z_voorbeelden)
++ [Reference: Voorbeelden](theorie_Classes_voorbeelden.md)
 + [Reference: Voorbeelden OOP: pinautomaat](example_PinAutomaat)
 + [Training: ObjectOriented Invuloefening](exercise_ObjectOrientedOefening)
 + [Training: Oplossing bij Training ObjectOriented Invuloefening](solution_ObjectOriented) 
