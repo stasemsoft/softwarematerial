@@ -85,6 +85,11 @@ In AutoDagwaarde komen een aantal concepten bij elkaar:
 + [training_BattleSim](challenges/training_BattleSim.md)
 + [challenge Galgje](challenges/challenge_Galgje)
 + [challenge Eendenvijver](challenges/challenge_Eendenvijver)
++ [Verzameling Challenges](challenges)
++ [Codewars](https://www.codewars.com/?language=csharp)
++ [todo-tutorials-can-be-fun-but-heres-how-to-build-your-own-projects](https://www.freecodecamp.org/news/todo-tutorials-can-be-fun-but-heres-how-to-build-your-own-projects-from-scratch-de6838fa9f23/)
+
+
 
 
 
@@ -117,12 +122,6 @@ Mensen die Software Engineer willen worden zullen hier zeker van smullen. Niet a
 + [Training Exception Handling](challenges/challengeExceptionHandling), zie ook
 [zip met startmateriaal](challenges/challengeException-Naamgenerator.zip).
 
-
-## Diverse uitdagingen ter inspi...
-
-+ [Verzameling Challenges](challenges)
-+ [Codewars](https://www.codewars.com/?language=csharp)
-+ [todo-tutorials-can-be-fun-but-heres-how-to-build-your-own-projects](https://www.freecodecamp.org/news/todo-tutorials-can-be-fun-but-heres-how-to-build-your-own-projects-from-scratch-de6838fa9f23/)
 
 
 ## Verder Verdiepend materiaal
