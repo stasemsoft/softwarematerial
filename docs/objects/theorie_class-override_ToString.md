@@ -1,4 +1,4 @@
-## 2.3. Je object als string
+## Je object als string: override ToString()
 
 ![](figures/FUN12_boot.png "Boot")
 
