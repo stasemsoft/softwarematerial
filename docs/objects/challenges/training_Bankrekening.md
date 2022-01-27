@@ -1,14 +1,12 @@
 # Training Bankrekening
 
-| Niveau | ![](figures/niveau3.png "niveau") |
-| --- | --- |
 | Leerdoelen | Class, constructor, object, this, static. |
 | Vereiste voorkennis | Basiskennis over objecten. |
 | Challenge Type | Realiseren. |
 
 
 
-In deze opdracht maak je een toepassing die een (sterk vereenvoudigde) bank  voorstelt met enkele bankrekeningen.
+In deze opdracht maak je een toepassing die een (sterk vereenvoudigde) bank  voorstelt met enkele bankrekeningen. 
 
 Met deze toepassing kan men:
 - Geld storten op de rekening links of rechts. In de TextBoxes vul je het bedrag in, vervolgens klik je op de Button “Storten”. Alleen een positief bedrag kan gestort worden. Indien er een negatief saldo zou ontstaan, of als er iets anders ingevuld is dan positieve getallen wordt de transactie niet uitgevoerd en wordt een foutmelding gegeven door middel van een MessageBox.
