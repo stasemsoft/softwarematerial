@@ -44,9 +44,9 @@
 
 ## Challenges
 + [Challenge: Verzameling](challenges)
-+ [Challenge: Bankrekening](challenge_Bankrekening)
++ [Challenge: Bankrekening](challenges/training_Bankrekening.md)
 + [Challenge: DinoGame](challenges/challengeDinoGame)
-+ [Challenge: BattleSim](challenges/challenge_BattleSim)
++ [Challenge: BattleSim](challenges/training_BattleSim.md)
 + [Challenge: Galgje](challenges/challenge_Galgje)
 + [Challenge: Eendenvijver](challenges/challenge_Eendenvijver)
 

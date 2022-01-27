@@ -47,7 +47,7 @@ als eerste training met Objecten en Classes. Als je dat moeilijk vindt is het ve
 
 Met properties oefenen kan prima met de challenge Bankrekening:
 
-+ [Training BankRekening](challenges/challenge_Bankrekening)
++ [Training BankRekening](challenges/training_Bankrekening.md)
 
 ### Enum
 
@@ -82,7 +82,7 @@ In AutoDagwaarde komen een aantal concepten bij elkaar:
 ### Enkele Challenges
 
 + [Training DinoGame](challenges/challengeDinoGame)
-+ [challenge_BattleSim](challenges/challenge_BattleSim)
++ [training_BattleSim](challenges/training_BattleSim.md)
 + [challenge Galgje](challenges/challenge_Galgje)
 + [challenge Eendenvijver](challenges/challenge_Eendenvijver)
 
