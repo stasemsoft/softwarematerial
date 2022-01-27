@@ -2,14 +2,6 @@
 
 Wat gebeurt er dan precies onder water als je een object aanmaakt met new?
 
-## Wat is method overloading?
-
-*Method overloading* betekent dat binnen een class meerdere  methods met dezelfde naam bestaan.
-
-## Wat is constructor overloading?
-
-*Constructor overloading* betekent dat binnen een class meerdere  constructors bestaan.
-
 
 ![](figures/class1-uml.png "class")
 
@@ -87,5 +79,11 @@ Let op: code hoort thuis in klassen, niet in forms!
 
 Zorg ervoor dat je de feedback van je docent noteert in de FeedPulse, want zo weet je hoe je ervoor staat.
 
-## Relevante challenges
+## Relevante trainingen
 Invaders en Galgje.
+
+## Wat is constructor overloading?
+
+*Constructor overloading* betekent dat binnen een class meerdere  constructors bestaan. 
+
+
