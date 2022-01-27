@@ -135,10 +135,10 @@ public partial class BankrekeningForm : Form
     {
         InitializeComponent();
         bankrekeningen = new List<Bankrekening>();
-		Bankrekening bankrekeningDD = new Bankrekening("Dagobert Duck", 999999);
-		bankrekeningen.Add(bankrekeningDD);
-		Bankrekening bankrekeningGG = new Bankrekening("Gijs Gans", 5);
-		bankrekeningen.Add(bankrekeningGG);		
+        Bankrekening bankrekeningDD = new Bankrekening("Dagobert Duck", 999999);
+        bankrekeningen.Add(bankrekeningDD);
+        Bankrekening bankrekeningGG = new Bankrekening("Gijs Gans", 5);
+        bankrekeningen.Add(bankrekeningGG);		
     }
 ```
 
