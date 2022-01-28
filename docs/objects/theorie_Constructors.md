@@ -134,8 +134,8 @@ public class Clown
    }
 
    // methods 
-   public string TalkAboutYourself()  
-   { 
+   public string TalkAboutYourself()
+   {
       return "My name is " + this.name
                + "and I’m " + this.height + " centimeters tall.";
    }
@@ -172,7 +172,7 @@ Overigens willen we geen hardgecodeerde getallen in code, dat noemen we `magic n
 public const int averagePersonHeight = 175;
 ```
 
-Zo wordt in het gebruik  `... : this(name,averagePersonHeight)` duidelijk wat het betekent. 
+Zo wordt van de aanroep  `... : this(name,averagePersonHeight)` opeens duidelijker wat die betekent. 
 
 Ook zie je dat in commentaar een bron wordt vermeld! Dat maakt het mogelijk om het te controleren, valideren en eventueel verbeteren: 
 + Gaat het hier om een wereldwijd gemiddelde of een Nederlands getal? (Popov is een Rus). 
