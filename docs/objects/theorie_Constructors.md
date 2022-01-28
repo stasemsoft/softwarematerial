@@ -2,6 +2,13 @@
 
 Wat gebeurt er dan precies onder water als je een object aanmaakt met new?
 
+Het statement `new Clown()` is bedoeld om van de class `Clown` een nieuw object aan te maken. Het statement roept de zogenaamde `constructor` aan. Een constructor lijkt op een `method`,  maar is geen gewone method.  
+
+Hoe herken je een constructor in C#-code:
++ Constructor heeft altijd exact dezelfde naam als de class.
++ Constructor heeft nooit een return-type  en ook geen void ervoor.
+
+
 
 ![](figures/class1-uml.png "class")
 
@@ -15,21 +22,25 @@ Zie figuur
 public class Clown
 {
    // velden  
-   public string Name; 
+   public string Name;
    public int Height;
 
    // methoden 
-   public void TalkAboutYourself()  { 
-      MessageBox.Show(“My name is “ + Name
-                  + “and I’m “ + Height + “ inches tall.”); 
+   public void TalkAboutYourself()  
+   { 
+      MessageBox.Show("My name is " + this.Name
+                  + "and I’m " + Height + " inches tall.");
    }
+
+   // mogelijk nog meer code...
+}
 ```
 
 
 Dan is mogelijk:
 
 ```cs
-Clown oneClown = new Clown();   //aanmaken object oneClown
+Clown oneClown = new Clown();   
 oneClown.Name = "Boffo";
 oneClown.Height = 14;
 oneClown.TalkAboutYourself();
@@ -44,26 +55,26 @@ anotherClown.TalkAboutYourself();
 public class Guy
 {
    //velden
-   private string name;  private int cash;
+   private string name;
+   private int cash;
 
    //constructoren
    public Guy(string nm, int c)
    {
       name = nm;
-      cash = c;  }
+      cash = c;
+   }
 
    public Guy(string nm)
    {
       name = nm;
-      cash = 33;  }
-
+      cash = 33;
+   }
 
 }
 ```
 
-Constructor heeft altijd exact dezelfde naam als de klasse.
-Constructor heeft nooit een return-type  en ook geen void ervoor.
-Een klasse kan meerdere constructors hebben.
+Een class kan meerdere constructors hebben.
 
 ```cs
 Guy someGuy;
@@ -73,11 +84,8 @@ anotherGuy = new Guy("Jack");
 ```
 
 
-Vanaf nu is het belangrijk dat je veel gaat programmeren met classes, methods, constructors en properties.
+Let op: code hoort thuis in classes, niet in forms!
 
-Let op: code hoort thuis in klassen, niet in forms!
-
-Zorg ervoor dat je de feedback van je docent noteert in de FeedPulse, want zo weet je hoe je ervoor staat.
 
 ## Relevante trainingen
 Invaders en Galgje.
