@@ -106,7 +106,7 @@ Bijvoorbeeld: als je de lengte van een Clown weet geef je die mee, en anders nie
 
 ```cs
 Clown eenClown    = new Clown("Popov");  
-Clown andereCloen = new Clown("Bassie", 186);
+Clown andereClown = new Clown("Bassie", 186);
 ```
 
 Aan het aantal parameters en het type ervan ziet de compiler dan welke constructor er uitgevoerd moet worden: 
@@ -162,7 +162,24 @@ In bovenstaande code zit nog iets wat we eigenlijk niet willen: je ziet dat de c
 
 Op het moment dat de tweede constructor aangeroepen wordt, staat daar: `this(name, 175)`: dat betekent zoveel als: roep van `this` (mezelf) de constructor aan die als parameters een string en een int verwacht: gebruik de waarde van `name`  en voor de height: `175`. 
 
-Kun je een voordeel hiervan verzinnen? 
+Kun je een voordeel verzinnen van deze 'this-constructie'? 
+
+## Magic Numbers
+Overigens willen we geen hardgecodeerde getallen in code, dat noemen we `magic numbers`: geen idee waar ze vandaan komen en wat ze betekenen. Het is bijvoorbeeld netter om een `constante` aan te maken, die een duidelijke naam te geven, en die te gebruiken: 
+
+```cs
+// https://en.wikipedia.org/wiki/Average_human_height_by_country
+public const int averagePersonHeight = 175;
+```
+
+Zo wordt in het gebruik  `... : this(name,averagePersonHeight)` duidelijk wat het betekent. 
+
+Ook zie je dat in commentaar een bron wordt vermeld! Dat maakt het mogelijk om het te controleren, valideren en eventueel verbeteren: 
++ Gaat het hier om een wereldwijd gemiddelde of een Nederlands getal? (Popov is een Rus). 
++ In de tabel is een aparte kolom voor mannen en vrouwen: heeft de programmeur daar rekening mee gehouden? 
++ Over een paar jaar is het mogelijk terug te zoeken of de waarden wellicht veranderd zijn. 
+
+Zie [microsoft docs: constants](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/constants)
 
 ## Relevante trainingen
 Invaders en Galgje.
