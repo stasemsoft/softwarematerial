@@ -2,14 +2,15 @@
 
 ## Algemene info
 + [Wat kan ik als ik de module 'basis' voldoende doorlopen heb?](resultaatformulier) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
++ [Wat doen al die icoontjes hier?](../personas/intro) [Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
 
 
 ## Algemene info Visual Studio en C#
 
 Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het later terug kunt zoeken!
 
-+ [How-to: Visual Studio installatie](../process/infoVisualStudioInstallatie) ![Bas](../personas/figures/bas-xsmall.png)
-+ [How-to: Over het inleveren van programma's in Canvas](../process/infoInleverenProgrammas) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
++ [How-to: Visual Studio installatie](../process/infoVisualStudioInstallatie) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
++ [How-to: Over het inleveren van programma's in Canvas](../process/infoInleverenProgrammas) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
 + [Reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
 
 
@@ -24,7 +25,7 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 + [Training: Software baas](var/training_softwareBaas) ![Bas](../personas/figures/bas-xsmall.png)
 + [Training: Euro Dollar converter](var/training_Euro-Dollar-Converter)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! (Variabelen, bewerkingen, typen, conversie) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
 + [Training: Computerrekenen](var/training_ComputerRekenen) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
-+ [Training: Diversen](var/training_Extra-opgaven-variabelen) ![Inge](../personas/figures/inge-xsmall.png)
++ [Training: Diversen](var/training_Extra-opgaven-variabelen) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
 
 ## Conditionele Statement
 
@@ -36,7 +37,7 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 + [Training: Pincode-reminder](conditioneel/Pincode-reminder) ![Bas](../personas/figures/bas-xsmall.png)
 + [Training: Wachtwoord check](conditioneel/Wachtwoord-check) ![Inge](../personas/figures/inge-xsmall.png)
 + [Training: Dr Bobby](conditioneel/Dr-Bobby) ![Inge](../personas/figures/inge-xsmall.png)
-+ [Training: Batman vs Superman](conditioneel/Batman-vs-Superman) ![Inge](../personas/figures/inge-xsmall.png)
++ [Training: Batman vs Superman](conditioneel/Batman-vs-Superman) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png) 
 
 
 ## String manipulatie (in C#)
@@ -62,8 +63,8 @@ In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net
 + [Training: While - Het goede getal](lussen/training_Het-goede-getal) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
 
 Als je een extra uitdaging wilt met loops:
-+ [Training: Christmas Tree Generator](lussen/training_Christmas-tree-generator) ![Inge](../personas/figures/inge-xsmall.png)
-+ [Training: Emmer vol laten lopen](lussen/training_Emmer-vol-laten-lopen) ![Inge](../personas/figures/inge-xsmall.png)
++ [Training: Christmas Tree Generator](lussen/training_Christmas-tree-generator) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
++ [Training: Emmer vol laten lopen](lussen/training_Emmer-vol-laten-lopen) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
 
 ## Method: zelf maken en aanroepen
 
@@ -103,7 +104,7 @@ Als je een extra uitdaging wilt met loops:
 + [Training: Listmethodes - Vlaggen van de wereld](collecties/VlaggenVanDeWereld) ![Inge](../personas/figures/inge-xsmall.png)
 
 Als je een extra uitdaging wilt met collecties:
-+ [Training: Array - Woordvervormer](collecties/Woordvervormer)
++ [Training: Array - Woordvervormer](collecties/Woordvervormer) [Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
 
 
 ## How To ...  (veel voorkomende vragen)
