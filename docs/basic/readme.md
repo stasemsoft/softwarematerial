@@ -1,29 +1,30 @@
 # Toolbox Basis: Basisconcepten van programmeren (zonder objecten)
 
 ## Algemene info
-+ [Wat kan ik als ik de module 'basis' voldoende doorlopen heb?](resultaatformulier)
++ [Wat kan ik als ik de module 'basis' voldoende doorlopen heb?](resultaatformulier) ![Bas](figures/bas-xsmall.png)
 
 
 ## Algemene info Visual Studio en C#
 
 Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het later terug kunt zoeken!
 
-+ [How-to: Visual Studio installatie](../process/infoVisualStudioInstallatie)
-+ [How-to: Over het inleveren van programma's in Canvas](../process/infoInleverenProgrammas)
-+ [Reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys)
++ [How-to: Visual Studio installatie](../process/infoVisualStudioInstallatie) ![Bas](figures/bas-xsmall.png)
++ [How-to: Over het inleveren van programma's in Canvas](../process/infoInleverenProgrammas) ![Bas](figures/bas-xsmall.png)
++ [Reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys) ![Bas](figures/bas-xsmall.png)
 
 
 
 ## Variabele, assignment, typen, debugger: eerste stapjes in C#
 
-+ [Presentatie: Variabelen, bewerkingen en conversies](var/Variabelen-bewerkingen-conversies.pptx)
-+ [Tutorial: De Debugger](debugger/Debugger)
-+ [Reference: variable](var/naslag_Variable)
-+ [Reference: operatoren](var/naslag_Operatoren)
-+ [Training: Goeroe-calc: variabele, bewerkingen, conversies](var/training_GoeroeCalc)
++ [Presentatie: Variabelen, bewerkingen en conversies](var/Variabelen-bewerkingen-conversies.pptx) ![Bas](figures/bas-xsmall.png)
++ [Tutorial: De Debugger](debugger/Debugger) ![Bas](figures/bas-xsmall.png)
++ [Reference: variable](var/naslag_Variable) ![Bas](figures/bas-xsmall.png)
++ [Reference: operatoren](var/naslag_Operatoren) ![Bas](figures/bas-xsmall.png)
++ [Training: Goeroe-calc: variabele, bewerkingen, conversies](var/training_GoeroeCalc) ![Bas](figures/bas-xsmall.png)
++ [Training: Software bass](var/training_softwareBaas) ![Bas](figures/bas-xsmall.png)
 + [Training: Euro Dollar converter](var/training_Euro-Dollar-Converter)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! (Variabelen, bewerkingen, typen, conversie)
++ [Training: Computerrekenen](var/training_ComputerRekenen) ![Bas](figures/bas-xsmall.png)
 + [Training: Diversen](var/training_Extra-opgaven-variabelen)
-+ [Training: Computerrekenen](var/training_ComputerRekenen)
 
 ## Conditionele Statement
 
