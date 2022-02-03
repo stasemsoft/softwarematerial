@@ -2,7 +2,7 @@
 
 ## Algemene info
 + [Wat kan ik als ik de module 'basis' voldoende doorlopen heb?](resultaatformulier) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
-+ [Wat doen al die icoontjes hier?](../personas/intro) [Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
++ [Wat doen al die icoontjes hier?](../personas/intro) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
 
 
 ## Algemene info Visual Studio en C#
@@ -104,7 +104,7 @@ Als je een extra uitdaging wilt met loops:
 + [Training: Listmethodes - Vlaggen van de wereld](collecties/VlaggenVanDeWereld) ![Inge](../personas/figures/inge-xsmall.png)
 
 Als je een extra uitdaging wilt met collecties:
-+ [Training: Array - Woordvervormer](collecties/Woordvervormer) [Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
++ [Training: Array - Woordvervormer](collecties/Woordvervormer) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
 
 
 ## How To ...  (veel voorkomende vragen)
