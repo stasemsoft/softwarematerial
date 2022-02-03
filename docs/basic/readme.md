@@ -32,7 +32,7 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 + [Training: BTW-berekenen](conditioneel/BTW-berekenen) ![Bas](../personas/figures/bas-xsmall.png)
 + [Training: Hoger lager](conditioneel/Hoger-lager) ![Bas](../personas/figures/bas-xsmall.png)
 + [Training: Calorieën tracker](conditioneel/Calorieen-tracker) ![Bas](../personas/figures/bas-xsmall.png)
-+ [Training: Dobbelsteen](conditioneel/Dobbelsteen) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](figures/inge-xsmall.png)
++ [Training: Dobbelsteen](conditioneel/Dobbelsteen) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
 + [Training: Pincode-reminder](conditioneel/Pincode-reminder) ![Bas](../personas/figures/bas-xsmall.png)
 + [Training: Wachtwoord check](conditioneel/Wachtwoord-check) ![Inge](../personas/figures/inge-xsmall.png)
 + [Training: Dr Bobby](conditioneel/Dr-Bobby) ![Inge](../personas/figures/inge-xsmall.png)
