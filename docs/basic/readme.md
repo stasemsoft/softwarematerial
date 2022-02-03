@@ -20,7 +20,7 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 + [Tutorial: De Debugger](debugger/Debugger) ![Bas](../personas/figures/bas-xsmall.png)
 + [Reference: variable](var/naslag_Variable) ![Bas](../personas/figures/bas-xsmall.png)
 + [Reference: operatoren](var/naslag_Operatoren) ![Bas](../personas/figures/bas-xsmall.png)
-+ [Training: Goeroe-calc: variabele, bewerkingen, conversies](var/training_GoeroeCalc) ![Bas](figures/bas-xsmall.png)
++ [Training: Goeroe-calc: variabele, bewerkingen, conversies](var/training_GoeroeCalc) ![Bas](../personas/figures/figures/bas-xsmall.png)
 + [Training: Software baas](var/training_softwareBaas) ![Bas](../personas/figures/bas-xsmall.png)
 + [Training: Euro Dollar converter](var/training_Euro-Dollar-Converter)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! (Variabelen, bewerkingen, typen, conversie)
 + [Training: Computerrekenen](var/training_ComputerRekenen) ![Bas](../personas/figures/bas-xsmall.png)
