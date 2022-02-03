@@ -4,6 +4,11 @@ Verzameling Challenges, niet direct gekoppeld aan 1 onderwerp/concept.
 Niet bedoeld om per se letterlijk uit te voeren maar vooral als inspiratie!:
 varieer er dus gerust op!
 
++ [Challenge: Bankrekening](challenges/training_Bankrekening.md)
++ [Challenge: DinoGame](challenges/challengeDinoGame)
++ [Challenge: BattleSim](challenges/training_BattleSim.md)
++ [Challenge: Galgje](challenges/challenge_Galgje)
++ [Challenge: Eendenvijver](challenges/challenge_Eendenvijver)
 + [challenge Trajectorinator](../objects/challenges/challengeTrajectorinator)
 + [challenge WebshopSpierballetje](challenges/challengeWebshopSpierballetje)
 + [challenge Winstpercentage](challenges/training_Winstpercentage)
