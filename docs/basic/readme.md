@@ -120,6 +120,7 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 
 + [Training: Rock Paper Scissors](integraal/rockpaperscissors) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
 + [Training: Kaartspel](integraal/kaartspel) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
++ [Training: van getal naar woord](integraal/getalwoord) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
 
 
 ## Diverse trainingsmogelijkheden, inspiratie, overige resources
