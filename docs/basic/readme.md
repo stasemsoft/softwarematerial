@@ -44,8 +44,8 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 
 In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net iets anders: het knippen/plakken met strings.
 
-+ [Reference: string methoden in C#]![Bas](../personas/figures/bas-xsmall.png) (string_methoden/naslag_StringMethods) ![Inge](../personas/figures/inge-xsmall.png)
-+ [Training: String methods in C#]![Bas](../personas/figures/bas-xsmall.png) (string_methoden/training_StringMethods) ![Inge](../personas/figures/inge-xsmall.png)
++ [Reference: string methoden in C#](string_methoden/naslag_StringMethods) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
++ [Training: String methods in C#](string_methoden/naslag_StringMethods) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
 
 ## DateTime (in C#)
 In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net iets anders: datum en tijd!
@@ -82,7 +82,7 @@ Als je een extra uitdaging wilt met loops:
 + [Training: Mad Lad Teksten](methoden/training_Madlad-teksten) ![Bas](../personas/figures/bas-xsmall.png)
 + [Training: ElkaarAchterstevoren](methoden/training_methodElkaarAchterstevoren) ![Bas](../personas/figures/bas-xsmall.png)
 + [Training: Cijfers door woorden vervangen](methoden/Cijfers-door-woorden-vervangen) ![Bas](../personas/figures/bas-xsmall.png)
-+ [Training: Method Marathon](methoden/training_methodmarathon) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
++ [Training: Method Marathon](methoden/training_methodmarathon) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png) 
 + [Training: Galgje](methoden/galgje) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
 + [Training: Cijfers naar woorden](methoden/training_MethodCijfersNaarWoorden) ![Inge](../personas/figures/inge-xsmall.png)
 + [Training: Boter, kaas en eieren](methoden/training_BoterKaasEnEieren) ![Inge](../personas/figures/inge-xsmall.png)

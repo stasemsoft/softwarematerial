@@ -5,7 +5,7 @@
 
 
 ## Introductie met OOP
-+ [Reference: Hoe programmeer je met objecten? (hero vs monsters)](app://obsidian.md/tutorial_Class)
++ [Reference: Hoe programmeer je met objecten? (hero vs monsters)](tutorial_Class)
 
 ## Classes, objecten en constructors
 + [Reference: Classes maken en gebruiken](theorie_zelf-classes-maken.md)
@@ -36,7 +36,6 @@
 + [Training: Oplossing bij Training ObjectOriented Invuloefening](solution_ObjectOriented) 
 + [Training: Traffic Light](training_Class_TrafficLight)
 + [Training: De Marimba en de Bas](training_Marimba_and_Bass)
-+ [Training: Auto Dagwaarde](training_AutoDagWaarde)
 
 ## Challenges
 + [Challenge: Verzameling](challenges)
