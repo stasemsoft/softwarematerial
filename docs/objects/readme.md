@@ -1,12 +1,10 @@
 # Toolbox Verdiepend: Objects en Classes
 
 ## Programmeren met Objects en Classes
-
 + Als je al wat ervaring hebt kun je al eens naar [versiebeheer met git](../workshops/git/) kijken (maar als je nieuw bent in OOP is het wellicht beter eerst op Object Oriented Programming te richten).
 + Als je al wat ervaring hebt kun je al eens naar [unit testing](unittesting) kijken (maar als je nieuw bent in OOP is het wellicht beter eerst op het programmeren zelf te richten).
 
 ### Introductie Objects en Classes: OOP
-
 Bekijk onderstaande links voor je gaat programmeren,
 begin bij CRC (Class Responsibility Collaboration).
 
@@ -32,55 +30,44 @@ Als je een software engineer wilt worden is het belangrijk dat je je houdt aan a
 
 
 #### Training OOP
-
 Kies 1 van de 2 trainingen 'Trafficlight' of 'Marimba and the Bass'
 als eerste training met Objecten en Classes. Als je dat moeilijk vindt is het verstandig de ander ook te doen. (als je al ervaring hebt kun je ook meteen de Eendenvijver uitgebreid gaan doen om  je docent te overtuigen dat je dat al kunt).
 
 + [Training Marimba and Bass](training_Marimba_and_Bass)
-
 + [Training met Class: TrafficLight](training_Class_TrafficLight)
 
 
 ### property
-
 + [Theorie Property](theorie_Property)
 
 Met properties oefenen kan prima met de challenge Bankrekening:
-
 + [Training BankRekening](challenges/training_Bankrekening.md)
 
 ### Enum
 
 Zoals we gezien definiëren Classes een nieuw type.
 Een andere manier om een eigen type te definiëren is een 'enum'-type:
-
 + [Theorie Enum](theorie_Enum)
 
 en de training 'Enum: TrafficLight' laat meteen een typisch voorbeeld van een *enum* zien:
-
 + [Training met Enum: TrafficLight](training_Enum_TrafficLight)
-
 In AutoDagwaarde komen een aantal concepten bij elkaar:
 + [Training AutoDagWaarde](challenges/training_AutoDagWaarde)
 
 
 
 ### Casting
-
 + [Theorie over cast](theorie_Cast)
 
 
 ### override ToString()
-
 + [Theorie override ToString](theorie_OverrideToString)
 
 ### Private en public
-
 + [Theorie Private en Public](theorie_PrivatePublic)
 
 
 ### Enkele Challenges
-
 + [Training DinoGame](challenges/challengeDinoGame)
 + [training_BattleSim](challenges/training_BattleSim.md)
 + [challenge Galgje](challenges/challenge_Galgje)
@@ -90,13 +77,9 @@ In AutoDagwaarde komen een aantal concepten bij elkaar:
 + [todo-tutorials-can-be-fun-but-heres-how-to-build-your-own-projects](https://www.freecodecamp.org/news/todo-tutorials-can-be-fun-but-heres-how-to-build-your-own-projects-from-scratch-de6838fa9f23/)
 
 
-
-
-
 ### Best practices Voor de wanna-be Software Engineer
 
 Mensen die Software Engineer willen worden zullen hier zeker van smullen. Niet alles wordt al van je geëist in Semester 1, maar er valt genoeg te leren!!
-
 + [Theorie So you wanna be a Software Engineer](theorie_AdvancedSoftwareEngineering).
 + [video Tim Corey: Top 10 C# Best Practices](https://www.youtube.com/watch?v=-9b8NRqjUFM) : (Als je deze video van Tim Corey nog niet bekeken had is dat nu zeker een aanrader).
 + [Nuttige site van Alexander: https://serelot.nl/](https://serelot.nl/)
@@ -108,7 +91,6 @@ Mensen die Software Engineer willen worden zullen hier zeker van smullen. Niet a
 
 
 ## Classes in samenhang: Relations / CRC / Class diagrams
-
 + [Theorie Class Diagram](theorie_ClassDiagram)
 + [Theorie GUI Separation](theorie_GuiSeparation)
 + [Theorie Which Class](theorie_WhichClass)
@@ -116,7 +98,6 @@ Mensen die Software Engineer willen worden zullen hier zeker van smullen. Niet a
 
 
 ### File Handling en Exception Handling
-
 + [Theorie File Handling](theorie_FileHandling)
 + [Training FileHandling](challenges/challengeFileHandling)
 + [Training Exception Handling](challenges/challengeExceptionHandling), zie ook

@@ -50,6 +50,7 @@ Een "soort" checklist (niet-compleet) die kan helpen:
 
 ---
 
+<!--
 ## Info voor docenten
 Hoi collega's,
 
@@ -68,3 +69,4 @@ Voorbeeld: Bij een MBO Applicatie-ontwikkelaar die aangeeft dat ie alles al wist
 Ander voorbeeld: iemand die nog nooit geprogrammeerd heeft, aangeeft dat ie pas vrij laat snapte hoe dat zat met bv. class vs. instance, of met encapsulation of constructors, maar wel een paar opdrachten laat zien en uitlegt heeft misschien wel superveel geleerd! (ook al is misschien niet alles comme-il-faut).    
 
 succes bij de afrondingen!
+-->

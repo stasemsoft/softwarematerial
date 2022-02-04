@@ -21,16 +21,16 @@
 
 ## Casting en override ToString()
 + [Reference: Casting en 'as'](theorie_Cast)
-+ [Reference: Jouw object als string](theorie_class-override_ToString.md)
++ [Reference: Jouw object als string](theorie_class-override_ToString)
 + [Reference: override ToString](theorie_OverrideToString)
 
 ## Enum
 + [Reference: Enum](theorie_Enum)
 
 ## Gecombineerd
-+ [Reference: Voorbeeld class Aapje](theorie_Classes_voorbeeld_Aapje.md)
-+ [Reference: Voorbeeld class Dierenverzorgen](theorie_Classes_voorbeeld_Dierenverzorgen.md)
-+ [Reference: Voorbeeld class Speler](theorie_Classes_voorbeeld_Speler.md)
++ [Reference: Voorbeeld class Aapje](theorie_Classes_voorbeeld_Aapje)
++ [Reference: Voorbeeld class Dierenverzorgen](theorie_Classes_voorbeeld_Dierenverzorger)
++ [Reference: Voorbeeld class Speler](theorie_Classes_voorbeeld_Speler)
 + [Reference: Voorbeelden OOP: pinautomaat](example_PinAutomaat)
 + [Training: ObjectOriented Invuloefening](exercise_ObjectOrientedOefening)
 + [Training: Oplossing bij Training ObjectOriented Invuloefening](solution_ObjectOriented) 
@@ -70,11 +70,8 @@
 
 
 ## Best practices Voor de wanna-be Software Engineer
-
 Mensen die Software Engineer willen worden zullen hier zeker van smullen:
-
 + [Theorie So you wanna be a Software Engineer](theorie_AdvancedSoftwareEngineering).
-
 Als je de volgende video van Tim Corey nog niet bekeken had is dat nu zeker een aanrader!
 + [video Tim Corey: Top 10 C# Best Practices](https://www.youtube.com/watch?v=-9b8NRqjUFM)
 + [Software Craftmanship Manifesto](http://manifesto.softwarecraftsmanship.org/)
@@ -83,13 +80,9 @@ Als je de volgende video van Tim Corey nog niet bekeken had is dat nu zeker een 
 
 ## Verder Verdiepend materiaal
 + [external resources](https://stasemsoft.github.io/softwarematerial/docs/process/infoExternalResources)
-
 + [C# Basics ](https://www.youtube.com/playlist?list=PLYMOUCVo86jGzNXPgyKB-B1IvE1LoXKi6) - video 1 t/m 39  
-
 + [Chapter 2 Classes](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Documentation/OOP.pdf)  
-
 + [Chapter Introduction to OOP (uit Dive into Design Patterns)](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Documentation/Dive%20into%20design%20patterns%20-%20chapter%20Introduction%20to%20OOP.pdf)  
-
 + [howto: Als ik vasthang? Over oplossen problemen](https://stasemsoft.github.io/softwarematerial/docs/process/knowProgrammerSearchScheme)
 
 
