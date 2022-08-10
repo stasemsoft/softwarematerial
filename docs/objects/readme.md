@@ -6,6 +6,7 @@
 
 ## Introductie met OOP
 + [Reference: Hoe programmeer je met objecten? (hero vs monsters)](tutorial_Class)
++ [Lijst C# begrippen](https://www.homeandlearn.co.uk/csharp/csharp.html)
 
 ## Classes, objecten en constructors
 + [Reference: Classes maken en gebruiken](theorie_zelf-classes-maken.md)
@@ -84,6 +85,8 @@ Als je de volgende video van Tim Corey nog niet bekeken had is dat nu zeker een 
 + [Chapter 2 Classes](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Documentation/OOP.pdf)  
 + [Chapter Introduction to OOP (uit Dive into Design Patterns)](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Documentation/Dive%20into%20design%20patterns%20-%20chapter%20Introduction%20to%20OOP.pdf)  
 + [howto: Als ik vasthang? Over oplossen problemen](https://stasemsoft.github.io/softwarematerial/docs/process/knowProgrammerSearchScheme)
++ [Lijst C# begrippen](https://www.homeandlearn.co.uk/csharp/csharp.html)
+
 
 
 ## Oud materiaal, niet meer gebruikt bij FHICT
