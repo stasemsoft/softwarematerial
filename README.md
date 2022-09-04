@@ -25,6 +25,7 @@ Zie [meer uitleg](https://stasemsoft.github.io/softwarematerial/docs/meta) over 
 ## Eerste Hulp Bij Vasthangen
 
 + [How-to](https://stasemsoft.github.io/softwarematerial/docs/basic/howto): Technisch-inhoudelijke vragen vind je in de How-to. Staat je antwoord er niet bij? Laat het horen! (ook als je het antwoord zelf al hebt gevonden. Vast dank!)
++ [how to Look At A Tutorial](docs/process/howtoLookAtATutorial.md)
 
 + [Frequently Asked Questions](https://stasemsoft.github.io/softwarematerial/docs/FAQ): Als je vragen hebt over de cursus bij FHICT: kijk eerst eens in de FAQ
  of anderen dezelfde vraag ook al hadden.
