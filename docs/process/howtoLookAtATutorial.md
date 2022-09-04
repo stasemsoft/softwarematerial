@@ -9,7 +9,7 @@ Ja, in het Engels... Als dat een probleem is: laat weten, dan gaan we denken...
 - Help each other. As they say, explaining something to someone else is a very good way to learn! 
 - Probably you can think of some useful activities yourself!? 
 
-How to look at a tutorial? 
+## How to look at a tutorial? 
 - Maybe after just looking at it everything is clear. Then maybe you are ready to do challenges/exercises. 
 - If you get a lot of questions when looking: make notes, so you can discuss it with other people. 
 - Get hands-on: Try to run the examples yourself. 
