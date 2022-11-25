@@ -9,7 +9,7 @@ Er zijn een aantal concepten die algemeen gezien worden als definiërend voor Ob
 + `static` methods, fields en properties.
 + `interface` (`protocol`, `abstract base class`)(dus NIET als in: User Interface!)
 + `inheritance` (sub class, super class, base class, derived class).
-+ Kun je er nog meer verzinnen of vindwen internet?
++ Kun je er nog meer verzinnen of vinden internet?
 
 
 Aantal talen die interessant zijn om te bekijken omdat er een redelijk kans is dat je ze tegen gaat komen:
