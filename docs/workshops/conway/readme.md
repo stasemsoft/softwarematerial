@@ -74,6 +74,8 @@ Als dat gelukt is en je hebt de smaak te pakken kun je proberen een eigen variat
 
 ## Bronnen
 
++ [video](https://www.youtube.com/watch?v=C2vgICfQawE)
+
 + [conwaylife.com](https://conwaylife.com/)
 
 + [LifeWiki](https://conwaylife.com/wiki/Main_Page)
