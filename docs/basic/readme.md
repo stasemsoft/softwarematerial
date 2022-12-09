@@ -21,8 +21,8 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 + [Tutorial: De Debugger](debugger/Debugger) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
 + [Reference: variable](var/naslag_Variable) ![Bas](../personas/figures/bas-xsmall.png)
 + [Reference: operatoren](var/naslag_Operatoren) ![Bas](../personas/figures/bas-xsmall.png)
-+ [Training: Goeroe-calc: variabele, bewerkingen, conversies (in Console)](var/training_GoeroeCalc), of in  
-+ [Training: Goeroe-calc: variabele, bewerkingen, conversies (in winforms)](var/training_GoeroeCalc_winforms) ![Bas](../personas/figures/bas-xsmall.png)
++ [Training: Goeroe-calc: variabele, bewerkingen, conversies in Console](var/training_GoeroeCalc) of in  
++ [in winforms](var/training_GoeroeCalc_winforms) ![Bas](../personas/figures/bas-xsmall.png)
 + [Training: Software baas](var/training_softwareBaas) ![Bas](../personas/figures/bas-xsmall.png)
 + [Training: Euro Dollar converter](var/training_Euro-Dollar-Converter)  
 + [Training: Computerrekenen](var/training_ComputerRekenen) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
