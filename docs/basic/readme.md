@@ -24,7 +24,7 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 + [Training: Goeroe-calc: variabele, bewerkingen, conversies (in Console)](var/training_GoeroeCalc), of in  
 + [Training: Goeroe-calc: variabele, bewerkingen, conversies (in winforms)](var/training_GoeroeCalc_winforms) ![Bas](../personas/figures/bas-xsmall.png)
 + [Training: Software baas](var/training_softwareBaas) ![Bas](../personas/figures/bas-xsmall.png)
-+ [Training: Euro Dollar converter](var/training_Euro-Dollar-Converter)  <-- als je er zelf echt niet uitkomt [klik hier](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Euro%20Dollar%20Converter.mp4), maar probeer het eerst zelf! (Variabelen, bewerkingen, typen, conversie) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
++ [Training: Euro Dollar converter](var/training_Euro-Dollar-Converter)  
 + [Training: Computerrekenen](var/training_ComputerRekenen) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
 + [Training: Diversen](var/training_Extra-opgaven-variabelen) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
 
