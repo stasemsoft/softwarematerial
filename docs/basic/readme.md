@@ -12,7 +12,7 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 + [How-to: Visual Studio installatie](../process/infoVisualStudioInstallatie) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
 + [How-to: Over het inleveren van programma's in Canvas](../process/infoInleverenProgrammas) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
 + [Reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
-+ [intro in command line interface (CLI)](https://stasemsoft.github.io/S1CB-Software/)
++ [intro in command line interface (CLI), amongst others using git](https://stasemsoft.github.io/S1CB-Software/)
 
 
 
