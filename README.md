@@ -29,6 +29,8 @@ Zie [meer uitleg](https://stasemsoft.github.io/softwarematerial/docs/meta) over 
 
 + [Frequently Asked Questions](https://stasemsoft.github.io/softwarematerial/docs/FAQ): Als je vragen hebt over de cursus bij FHICT: kijk eerst eens in de FAQ
  of anderen dezelfde vraag ook al hadden.
++ [some more really powerful help can be found
+    here](https://chat.openai.com/chat)
 
 ---
 
