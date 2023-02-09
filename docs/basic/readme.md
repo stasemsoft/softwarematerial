@@ -154,6 +154,7 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 
 ### Vingeroefening, Training, Challenge
 + [Programming Challenges](https://git.fhict.nl/I872272/ProgrammingChallenges) 67+ Programming Challenges (zowel game als non-game)
++ [Halite: bot programming challenges](https://www.twosigma.com/articles/introducing-halite-our-limited-release-ai-challenge/)
 + [Code Wars](https://www.codewars.com/) - [Basis niveau](https://www.codewars.com/kata/search/csharp?q=&r%5B%5D=-8&tags=Fundamentals&beta=false)  
 + [Project Euler](https://projecteuler.net/)
 + [Coding Game](https://www.codingame.com/)  

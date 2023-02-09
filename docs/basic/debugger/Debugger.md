@@ -4,6 +4,12 @@ Activiteit: Kennismaken met de debugger van Visual Studio
 ## Inleiding
 Bij softwareontwikkeling nemen testen en fouten herstellen meer tijd in beslag dan het daadwerkelijk code schrijven. Met een debugger kun je geen fouten opsporen maar alleen lokaliseren. Een debugger bestaat uit een verzameling tools waarmee je `breakpoints` (stoppunten) kunt zetten, en waarmee je `stepping` (stap voor stap uitvoeren) kunt toepassen. Tevens kun je variabelen inspecteren en kun je de `call stack` en nog veel meer aspecten bekijken.
 
+
+
+kjhsdfkjhsdfkjhsdf
+## kjhdfkjehskfg
+![[debugger_breakpoint.png]]
+
 ## Opdracht
 In deze tutorial ga je een aantal mogelijkheden van de debugger onderzoeken. Maak een `Console Application` project aan. Noem het project "Debuggen".
 
