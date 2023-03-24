@@ -145,8 +145,7 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 ### Video tutorial - WinForms
 + [C# Programming: Windows Forms and Event Handlers](https://www.youtube.com/watch?v=W6vJ_c9Mt6A)
 + [Coding Cafe: WinForms series](https://www.youtube.com/watch?v=8ARnYQgShY8&list=PLxefhmF0pcPlDKe7smJMoHPNS1tJQ7w7q)
-+ [Jan over Button verschuiven](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Button%20verschuiven.mp4)
-
++ [Jan over Button verschuiven](https://i872272.luna.fhict.nl/S1-SOFT%20Recordings/Week%201%20-%20Button%20verschuiven.mp4)
 
 ### About algorithm & Problem Solving
 + [Source Code: How to Make Algorithm and Flowchart from a given problem](https://www.youtube.com/watch?v=NdS8J9lHWgE)
@@ -165,7 +164,7 @@ Een aantal trainings- of wellicht wedstrijdopdrachten waar meerdere concepten bi
 + [Reference: Head First C#](https://www.oreilly.com/library/view/head-first-c/9781449358846/) - Basis=Hoofdstuk 1 tm 4
 
 ### W.V.T.T.K., diversen
-+ [Class Recordings (videos) van SOFT1 collega Jan Oonk](https://i872272core.venus.fhict.nl/S1-SOFT%20Recordings/index.html)
++ [Class Recordings (videos) van SOFT1 collega Jan Oonk](https://i872272.luna.fhict.nl/S1-SOFT%20Recordings/index.html)
 + [Learning C#: Introduction to Computer Programming for Designers](https://youtube.com/playlist?list=PLx3k0RGeXZ_yfAFk4GT3gWdFhwCsODUNb) (Orientatie: tot les 9.1 (video 52). Verdieping: Vanaf les 9.1)
 + [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)  
 + [Computerphile](https://www.youtube.com/user/Computerphile)
