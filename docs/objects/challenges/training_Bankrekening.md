@@ -171,7 +171,7 @@ if (int.TryParse(txtEuroLinks.Text, out getal))
 }
 ```
 
-Zie MSDN voor meer informatie.
+Zie internet voor meer informatie.
 
 ## Stap 4: Und jetzt gehts los! 
 
