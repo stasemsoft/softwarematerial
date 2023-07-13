@@ -26,10 +26,10 @@ Een mogelijk weekschema voor FHICT. Het is de bedoeling dat softwaredocenten tij
 
 + 'as' / (Casting?) / ('is'?)
 + multipliciteit: class diagram vs code
-+ [Compiler Error Quiz](errorquiz/)
-+ [Game of Life](conway/)
++ [Compiler Error Quiz](errorquiz)
++ [Game of Life](conway)
 + demo: een wat groter voorbeeld met class/object/ctor/propg etc... bijvoorbeeld [Virusinator](Virusinator)
-+ [git-workshop](git/)
++ [git-workshop](git)
 
 ### 4e week Verdieping
 
