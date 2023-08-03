@@ -8,7 +8,7 @@ Dit is een verzameling (open) software-materiaal van het startsemester FHICT (Fo
 
 ## Structuur van dit materiaal
 
-In het theorie-meteriaal onderscheiden we:
+In het theorie-materiaal onderscheiden we:
 + `Tutorial`: practical steps, learning oriented.
 + `How-to guide`: practical steps, problem oriented.
 + `Discussion`: theoretical, understanding oriented.
