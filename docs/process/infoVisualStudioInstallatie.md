@@ -36,8 +36,8 @@ Als je nog geen programmeerervaring hebt raden we dit af, omdat sommige dingen n
 
 + Default: We raden aan Bootcamp of eventueel een Virtual Machine (bijvoorbeeld VMWare of Parallels) te draaien met MS-Windows en daarin `VS for Windows`. Dit vreet wel schijfruimte en kan zo nu en dan wat trager zijn, maar je hebt dezelfde IDE als medestudenten onder Windows.
   + [https://support.apple.com/nl-nl/boot-camp](https://support.apple.com/nl-nl/boot-camp)
-+ `VS for Mac`: ondersteunt geen WinForms; short-cut-keys zijn anders; verder een prima programmeeromgeving.
-+   `Rider: Fast & powerful cross-platform .NET IDE`: ondersteunt WinForms. Het is een onderdeel van Jetbrains en via je studenten account kan je gratis deze software gebruiken. 
++ `VS for Mac`: ondersteunt geen WinForms; voor GUI gebruik je Xamarin of .NET MAUI; short-cut-keys zijn anders; verder een prima programmeeromgeving. Ontwikkeling VS for Mac wordt [stopgezet op 31 August 2024](https://learn.microsoft.com/en-us/visualstudio/mac/what-happened-to-vs-for-mac?view=vsmac-2022).
++ `Rider: Fast & powerful cross-platform .NET IDE`: ondersteunt geen(!) WinForms, voor GUI gebruik je Xamarin of .NET MAUI. Heeft echter geen Visual Designer om GUI forms te maken zoals in Visual Studio. Het is een onderdeel van Jetbrains en via je studenten account kan je gratis deze software gebruiken. 
 + `Visual Studio Code`: zie boven.
 + De 'Online FHICT werkplek': zie boven.
 
