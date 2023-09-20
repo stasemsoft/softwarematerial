@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "qbook"
+  author: "Norah Jones"
+  date: "9/18/2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
