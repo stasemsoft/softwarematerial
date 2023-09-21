@@ -1,6 +1,6 @@
-# Wat kan ik als ik 'objects' beheers?
+### Wat kan ik als ik 'objects' beheers?
 
-## Toelichting Verdiepend niveau
+#### Toelichting Verdiepend niveau
 
 Je past de volgende programmeer-concepten toe en hebt voorbeelden waaruit blijkt dat je de volgende concepten beheerst:
 
@@ -51,7 +51,7 @@ Een "soort" checklist (niet-compleet) die kan helpen:
 ---
 
 <!--
-## Info voor docenten
+#### Info voor docenten
 Hoi collega's,
 
 Het zal je opgevallen zijn dat de klok op het einde vh startsemester aan gaat! Dit betekent dat er meestal op het einde een paar twijfelgevallen ontstaan. Schroom in dat geval niet om met een of meer van je Unit-collega's te overleggen. Het is een idee om vast samen met je Unitters vast ergens in tijd een uur(?) te plannen waarop je die twijfelgevallen bespreekt. Als het binnen de unit niet lukt laat het dan svp. weten, dan kijken we of we het over Units heen geregeld krijgen. Als er vragen zijn over de precieze leeruitkomsten of het niveau, neem dan contact met de opperhoofden op.

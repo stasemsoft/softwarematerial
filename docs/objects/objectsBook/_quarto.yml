@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "Programming with Objects (first draft)"
+  author: "Teachers StaSemSoft Fontys ICT"
+  date: "9/20/2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - objects.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+cover-image: "/Users/croc02/git/sem1/softwarematerial/myFirstQBook"

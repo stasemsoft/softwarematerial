@@ -1,4 +1,4 @@
-# Class Diagram
+### Class Diagram
 
 Al eerder heb je `class diagrams` gezien:
 *plaatjes waarin classes als rechthoeken worden getoond*:

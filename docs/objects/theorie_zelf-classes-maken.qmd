@@ -1,8 +1,8 @@
 
 
-# Dictaat C# classes
+### Dictaat C# classes
 
-# 1. Classes
+### 1. Classes
 
 Een `Class` is een soort *blauwdruk*. Zie het als een tekening van hoe iets er uit moet gaan zien en wat dat “ding” kan gaan doen zodra je het daadwerkelijk gaat maken. Van een boot maak je eerst een `design`, een `ontwerp`: Wat voor soort hout heb je nodig? Waar liggen de verbindingen? Wat voor een motor komt er in te liggen? Et cetera. Deze tekening, de blauwdruk, kan niet varen. Je kunt er niet op dobberen. Pas wanneer de boot wordt gemaakt kun je er iets mee gaan doen. Je kunt er zelfs meerdere boten van maken! Zo is het met classes ook. Een class is de blauwdruk voor “iets”. Je kunt er pas mee aan de slag op het moment dat je de blauwdruk ***instantieert***: een **object** van dat ***type*** maakt.
 
@@ -10,7 +10,7 @@ Een andere vergelijking is dat van een ***lopende band***: Van een lopende band 
 
 We gaan eerst naar wat voorbeelden kijken die je al kent. Daarna gaan we zelf een **class** maken.
 
-## 2.1. Classes gebruiken
+#### 2.1. Classes gebruiken
 
 Je hebt al eerder de `class Random` gezien, waarschijnlijk zonder te weten dat het een class was. Een voorbeeld:
 
@@ -52,7 +52,7 @@ In het voorbeeld is een `field` aan form toegevoegd van het type Random en als n
 Er is ook een `method` aan het form toegevoegd. Deze kan, net als de variabele, overal in deze FormDemo class gebruikt worden. Dit wordt ook gedaan bij de click-`event handler` van de knop. Wanneer de gebruiker op de knop drukt zal er een *next* worp met de dobbelsteen worden gegooid. Het willekeurige getal wordt door de GooiDobbelsteen methode teruggegeven (`return value`). De output van deze methode wordt opgevangen in een integer met de naam 'getal'.
 
 
-### Voorbeeld bestaande class:  StringBuilder
+##### Voorbeeld bestaande class:  StringBuilder
 Hieronder zie je een ander voorbeeld van het gebruik van een class.
 
 ```cs
@@ -66,7 +66,7 @@ Hier wordt gebruik gemaakt van de StringBuilder class. Probeer het bovenstaande 
 
 Probeer zelf ook wat `fields` en `methodes` toe te voegen aan je form. Kijk eens wat je er allemaal mee kunt doen.
 
-## 2.2. Zelf classes maken
+#### 2.2. Zelf classes maken
 
 Stel je een boot voor met een snelheid, een naam, een gewicht en een aantal bemanningsleden. De boot kan varen en kan het anker uitgooien. Hoe zou je dit maken in de software? Allerlei variabelen maken en losse methoden? Wat nou als er meerdere boten nodig zijn? Voor dit soort *complexe types* kunnen we gelukkig ook onze eigen classes maken. Bekijk het volgende voorbeeld.
 
