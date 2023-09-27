@@ -25,7 +25,7 @@ Zie [meer uitleg](https://stasemsoft.github.io/softwarematerial/docs/meta) over 
 ## Eerste Hulp Bij Vasthangen
 
 + [How-to](https://stasemsoft.github.io/softwarematerial/docs/basic/howto): Technisch-inhoudelijke vragen vind je in de How-to. Staat je antwoord er niet bij? Laat het horen! (ook als je het antwoord zelf al hebt gevonden. Vast dank!)
-+ [how to Look At A Tutorial](docs/process/howtoLookAtATutorial.md)
++ [how to Look At A Tutorial](https://stasemsoft.github.io/softwarematerial/docs/process/howtoLookAtATutorial)
 
 + [Frequently Asked Questions](https://stasemsoft.github.io/softwarematerial/docs/FAQ): Als je vragen hebt over de cursus bij FHICT: kijk eerst eens in de FAQ
  of anderen dezelfde vraag ook al hadden.
@@ -38,7 +38,7 @@ Zie [meer uitleg](https://stasemsoft.github.io/softwarematerial/docs/meta) over 
 
 Vergelijk jezelf met de personas en lees de tips: Heb je al programmeerervaring? Of juist nog helemaal niet?
 
-[intro](docs/personas/intro)
+[intro](https://stasemsoft.github.io/softwarematerial/docs/personas/intro)
 
 ---
 
@@ -88,7 +88,7 @@ Dit betreft een aantal niet-programmeer aspecten die een beginnend software engi
 
 ### verder...
 
-+ [Motivatie, Concentratie, thuiswerken](docs/process/motivatieconcentratie): Niet onbelangrijk tijdens een gemiddelde  corona-crisis...
++ [Motivatie, Concentratie, thuiswerken](https://stasemsoft.github.io/softwarematerial/docs/process/motivatieconcentratie): Niet onbelangrijk tijdens een gemiddelde  corona-crisis...
 
 + [Workshops](https://stasemsoft.github.io/softwarematerial/docs/workshops/)
 
