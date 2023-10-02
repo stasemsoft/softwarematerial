@@ -10,11 +10,7 @@ book:
     - intro.qmd
     - part: Theory
       chapters:
-        - ../resultaatformulier.qmd
-        - ../../personas/intro.qmd
         - ../../process/infoVisualStudioInstallatie.qmd
-        - ../../process/infoInleverenProgrammas.qmd
-        - ../../process/knowVisualStudioShortCutKeys.qmd
         - ../debugger/Debugger.qmd
         - ../var/naslag_Variable.qmd
         - ../var/naslag_Operatoren.qmd
