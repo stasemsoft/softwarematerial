@@ -2,12 +2,75 @@ project:
   type: book
 
 book:
-  title: "Programming_Basics"
-  author: "Norah Jones"
+  title: "Programming Basics"
+  author: "Fontys ICT teachers"
   date: "10/2/2023"
   chapters:
     - index.qmd
     - intro.qmd
+    - ../readme_book_content.qmd
+    - ../resultaatformulier.qmd
+    - ../../personas/intro.qmd
+    - ../../process/infoVisualStudioInstallatie.qmd
+    - ../../process/infoInleverenProgrammas.qmd
+    - ../../process/knowVisualStudioShortCutKeys.qmd
+    - ../debugger/Debugger.qmd
+    - ../var/naslag_Variable.qmd
+    - ../var/naslag_Operatoren.qmd
+    - ../var/training_GoeroeCalc.qmd
+    - ../var/training_GoeroeCalc_winforms.qmd
+    - ../var/training_softwareBaas.qmd
+    - ../var/training_Euro-Dollar-Converter.qmd
+    - ../var/training_ComputerRekenen.qmd
+    - ../var/training_Extra-opgaven-variabelen.qmd
+    - ../conditioneel/naslag_Keuzestructuren.qmd
+    - ../conditioneel/BTW-berekenen.qmd
+    - ../conditioneel/Hoger-lager.qmd
+    - ../conditioneel/Calorieen-tracker.qmd
+    - ../conditioneel/Dobbelsteen.qmd
+    - ../conditioneel/Pincode-reminder.qmd
+    - ../conditioneel/Wachtwoord-check.qmd
+    - ../conditioneel/Dr-Bobby.qmd
+    - ../conditioneel/Batman-vs-Superman.qmd
+    - ../string_methoden/naslag_StringMethods.qmd
+    - ../string_methoden/naslag_StringMethods.qmd
+    - ../lussen/naslag_While.qmd
+    - ../lussen/naslag_For.qmd
+    - ../lussen/training_Drankjesschema.qmd
+    - ../lussen/training_Wiskunde-en-zo.qmd
+    - ../lussen/training_Worpengenerator.qmd
+    - ../lussen/training_Muziekgenerator.qmd
+    - ../lussen/training_HetGroteGeheel.qmd
+    - ../lussen/training_Het-goede-getal.qmd
+    - ../lussen/training_Christmas-tree-generator.qmd
+    - ../lussen/training_Emmer-vol-laten-lopen.qmd
+    - ../methoden/naslag_methods.qmd
+    - ../methoden/training_MethodAmpere.qmd
+    - ../methoden/training_MethodMaaldrie.qmd
+    - ../methoden/training_MethodDrieVierkanten.qmd
+    - ../methoden/training_Listige-listboxen.qmd
+    - ../methoden/training_Madlad-teksten.qmd
+    - ../methoden/training_methodElkaarAchterstevoren.qmd
+    - ../methoden/Cijfers-door-woorden-vervangen.qmd
+    - ../methoden/training_methodmarathon.qmd
+    - ../methoden/galgje.qmd
+    - ../methoden/training_MethodCijfersNaarWoorden.qmd
+    - ../methoden/training_BoterKaasEnEieren.qmd
+    - ../../legacy/Explanation-Array-Lists.qmd
+    - ../collecties/Televisie.qmd
+    - ../collecties/Netflix-and-random.qmd
+    - ../collecties/Fruitautomaat.qmd
+    - ../collecties/Prijzen-toevoegen.qmd
+    - ../collecties/Ticketmeester.qmd
+    - ../collecties/Muziekcollectie.qmd
+    - ../collecties/RaadHetGetal.qmd
+    - ../collecties/VlaggenVanDeWereld.qmd
+    - ../collecties/Woordvervormer.qmd
+    - ../howto.qmd
+    - ../integraal/rockpaperscissors.qmd
+    - ../integraal/kaartspel.qmd
+    - ../integraal/getalwoord.qmd
+    - ../integraal/blackjack.qmd
     - summary.qmd
     - references.qmd
 
@@ -18,6 +81,5 @@ format:
     theme: cosmo
   pdf:
     documentclass: scrreprt
-
 
 

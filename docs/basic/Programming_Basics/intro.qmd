@@ -1,5 +1,4 @@
 # Introduction
 
-This is a book created from markdown and executable code.
+This book contains Intro_to_ICT for Programming_Basics content for Fontys ICT.
 
-See @knuth84 for additional discussion of literate programming.
