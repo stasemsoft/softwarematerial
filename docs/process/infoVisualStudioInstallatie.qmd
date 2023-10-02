@@ -9,19 +9,6 @@ Een ontwikkelomgeving (kort: IDE). Als je nog geen ervaring hebt raden we de `de
 Visual Studio (afgekort: VS). De default is
 `VS for MS-Windows`. In sommige opdrachten zie je (nog) screenshots van WinForms-apps, die je alleen in deze versie kunt maken. In andere omgevingen moet je eerst bedenken hoe je hetzelfde effect kunt bereiken. Ook kan het zijn dat een docent of mede-student iets met WinForms voordoet: Het is dan het makkelijkste als jij dezelfde versie gebruikt.
 
-Je kunt hierbij de Community Edition (gratis license) gebruiken: alles wat we in het startsemester doen kan daarin.
-
-
-
-### Alternatief: `FHICT online werkplek`
-
-FHICT biedt ook een 'Online FHICT werkplek'. Zie `studentenplein` op `portal.fhict.nl`.
-
-+ Dit is `VS for windows` zonder dat je MS-Windows lokaal geïnstalleerd hoeft te hebben.
-+ Je moet dan wel continu ingelogd blijven.
-+ Je moet ook gemaakte spullen naar lokaal kopiëren, anders ben je ze kwijt!
-
-
 ### Alternatief: `Visual Studio Code`
 
 Als je nog geen programmeerervaring hebt raden we dit af, omdat sommige dingen net anders werken dan bij je mede-studenten en docenten: wellicht moet je zelf wat dingen uitzoeken.
