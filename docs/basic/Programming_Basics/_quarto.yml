@@ -8,7 +8,6 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - ../readme_book_content.qmd
     - ../resultaatformulier.qmd
     - ../../personas/intro.qmd
     - ../../process/infoVisualStudioInstallatie.qmd
