@@ -1,8 +1,8 @@
 # Introduction
 
-## Wat bedoelen we met 'De Basis van Programmeren'? 
+Dit is een verzameling van programmeerassignments die als training gebruikt
+kunnen worden. Concepten die hierin aan bod komen: 
 
-Een aantal programmeerconcepten:
 
 + Variable
 + Conditional statement
