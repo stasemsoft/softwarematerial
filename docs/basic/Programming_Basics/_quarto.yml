@@ -8,12 +8,21 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - part: Theory
+    - part: Tools
       chapters:
         - ../../process/infoVisualStudioInstallatie.qmd
+    - part: Theory
+      chapters:
         - ../debugger/Debugger.qmd
         - ../var/naslag_Variable.qmd
         - ../var/naslag_Operatoren.qmd
+        - ../conditioneel/naslag_Keuzestructuren.qmd
+        - ../string_methoden/naslag_StringMethods.qmd
+        - ../string_methoden/naslag_StringMethods.qmd
+        - ../lussen/naslag_While.qmd
+        - ../lussen/naslag_For.qmd
+        - ../methoden/naslag_methods.qmd
+        - ../../legacy/Explanation-Array-Lists.qmd
     - part: Training assignments
       chapters:
         - ../var/training_GoeroeCalc.qmd
@@ -22,7 +31,6 @@ book:
         - ../var/training_Euro-Dollar-Converter.qmd
         - ../var/training_ComputerRekenen.qmd
         - ../var/training_Extra-opgaven-variabelen.qmd
-        - ../conditioneel/naslag_Keuzestructuren.qmd
         - ../conditioneel/BTW-berekenen.qmd
         - ../conditioneel/Hoger-lager.qmd
         - ../conditioneel/Calorieen-tracker.qmd
@@ -31,10 +39,6 @@ book:
         - ../conditioneel/Wachtwoord-check.qmd
         - ../conditioneel/Dr-Bobby.qmd
         - ../conditioneel/Batman-vs-Superman.qmd
-        - ../string_methoden/naslag_StringMethods.qmd
-        - ../string_methoden/naslag_StringMethods.qmd
-        - ../lussen/naslag_While.qmd
-        - ../lussen/naslag_For.qmd
         - ../lussen/training_Drankjesschema.qmd
         - ../lussen/training_Wiskunde-en-zo.qmd
         - ../lussen/training_Worpengenerator.qmd
@@ -43,7 +47,6 @@ book:
         - ../lussen/training_Het-goede-getal.qmd
         - ../lussen/training_Christmas-tree-generator.qmd
         - ../lussen/training_Emmer-vol-laten-lopen.qmd
-        - ../methoden/naslag_methods.qmd
         - ../methoden/training_MethodAmpere.qmd
         - ../methoden/training_MethodMaaldrie.qmd
         - ../methoden/training_MethodDrieVierkanten.qmd
@@ -55,7 +58,6 @@ book:
         - ../methoden/galgje.qmd
         - ../methoden/training_MethodCijfersNaarWoorden.qmd
         - ../methoden/training_BoterKaasEnEieren.qmd
-        - ../../legacy/Explanation-Array-Lists.qmd
         - ../collecties/Televisie.qmd
         - ../collecties/Netflix-and-random.qmd
         - ../collecties/Fruitautomaat.qmd
