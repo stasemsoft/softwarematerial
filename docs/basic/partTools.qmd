@@ -1,0 +1,18 @@
+# Tools
+
+`Sensible Default`: voor deel zaken hebben we voor een semester een `sensible
+default` afgesproken: dat wil zeggen dat de daar genoemde `tools`,
+`methodieken` of `manieren` een goede keuze zijn om te gebruiken. Als je een
+goede reden hebt om daar vanaf te wijken: overleg dan met je docent. 
+
+Je gaat de basis leren van programmeren. Als programmeertaal hebben we de
+`sensible default` C# (CSharp) gekozen. Zoals je hierboven hebt kunnen lezen kun
+je in overleg met je docent een andere taal voorstellen. 
+
+Om te programmeren heb je ook een ontwikkelomgeving of wel IDE nodig. IDE staat voor
+Integrated Development Environment. Bij Fontys ICT gebruiken we momenteel vrij
+vaak 
+`VS Code` ofwel `Visual Studio Code`, dat is dan ook onze `sensible default`
+voor semester 1.
+
+

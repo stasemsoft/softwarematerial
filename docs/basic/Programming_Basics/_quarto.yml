@@ -8,10 +8,11 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - part: Tools
+    - part: ../partTools.qmd
       chapters:
-        - ../../process/infoVisualStudioInstallatie.qmd
-    - part: Theory
+        - ../../process/visualstudiocode.qmd
+        - ../../process/visualstudio.qmd
+    - part: ../partProgrammingConcepts.qmd
       chapters:
         - ../debugger/Debugger.qmd
         - ../var/naslag_Variable.qmd
@@ -23,7 +24,7 @@ book:
         - ../lussen/naslag_For.qmd
         - ../methoden/naslag_methods.qmd
         - ../../legacy/Explanation-Array-Lists.qmd
-    - part: Training assignments
+    - part: ../partTraining.qmd
       chapters:
         - ../var/training_GoeroeCalc.qmd
         - ../var/training_GoeroeCalc_winforms.qmd

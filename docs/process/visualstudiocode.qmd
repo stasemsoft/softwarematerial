@@ -1,0 +1,6 @@
+### Visual Studio Code
+
+Ook wel VS Code genoemd. Een veelzijdige IDE, de basis is simpel en wordt aangevuld met een heleboel
+`plugins` die je kunt installeren die allerlei taken makkelijker maken.
+Download het vanaf [https://code.visualstudio.com](https://code.visualstudio.com/)
+en installeer het. 

@@ -1,39 +1,12 @@
 # Visual Studio installatie
 
-## Wat heb ik nodig?
-
-Een ontwikkelomgeving (kort: IDE). Als je nog geen ervaring hebt raden we de `default` aan:
-
-### Default: `VS for MS-Windows`
+## Default: `VS for MS-Windows`
 
 Visual Studio (afgekort: VS). De default is
 `VS for MS-Windows`. In sommige opdrachten zie je (nog) screenshots van WinForms-apps, die je alleen in deze versie kunt maken. In andere omgevingen moet je eerst bedenken hoe je hetzelfde effect kunt bereiken. Ook kan het zijn dat een docent of mede-student iets met WinForms voordoet: Het is dan het makkelijkste als jij dezelfde versie gebruikt.
 
-### Alternatief: `Visual Studio Code`
 
-Als je nog geen programmeerervaring hebt raden we dit af, omdat sommige dingen net anders werken dan bij je mede-studenten en docenten: wellicht moet je zelf wat dingen uitzoeken.
-
-+ Installatie is lastiger.
-+ WinForms wordt niet ondersteund in 'VS Code'.
-+ verder een prima programmeeromgeving.
-+ wordt ook bij Technology Verdieping gebruikt.
-
-### En op een Mac?
-
-
-+ Default: We raden aan Bootcamp of eventueel een Virtual Machine (bijvoorbeeld VMWare of Parallels) te draaien met MS-Windows en daarin `VS for Windows`. Dit vreet wel schijfruimte en kan zo nu en dan wat trager zijn, maar je hebt dezelfde IDE als medestudenten onder Windows.
-  + [https://support.apple.com/nl-nl/boot-camp](https://support.apple.com/nl-nl/boot-camp)
-+ `VS for Mac`: ondersteunt geen WinForms; short-cut-keys zijn anders; verder een prima programmeeromgeving.
-+   `Rider: Fast & powerful cross-platform .NET IDE`: ondersteunt WinForms. Het is een onderdeel van Jetbrains en via je studenten account kan je gratis deze software gebruiken. 
-+ `Visual Studio Code`: zie boven.
-+ De 'Online FHICT werkplek': zie boven.
-
-Voor zowel bootcamp alsmede VM oplossing heb je extra software nodig. Deze kun je gratis vinden in de webshop die hierboven gelinkt is.
-
-
-## Installatie
-
-### Een Manier
+## Een Manier
 Je zoekt op internet naar &quot;Visual Studio 2017 community&quot;.
 [Bijvoorbeeld hier](https://visualstudio.microsoft.com/vs/)
 
@@ -41,7 +14,7 @@ De gratis versie van VS noemen ze de Community Edition.
 Kies bij het installeren voor &quot;.NET desktop development&quot;.
 Deze versie is voor het startsemester voldoende. Maar....
 
-#### Een andere manier: Via Studentenplein
+## Een andere manier: Via Studentenplein
 Het kan ook via [studentplein](https://portal.fhict.nl/Studentenplein/SitePages/Home.aspx)
 op de
 [FHICT-portal](https://portal.fhict.nl),
@@ -57,7 +30,7 @@ Als je
 [dit]()
 ziet na de installatie, dan ben je startklaar voor de volgende stap.
 
-### Windows Forms App C#
+## Windows Forms App C#
 
 Kies in het menu 'File' voor 'New' en dan 'Project'.
 Zie
@@ -92,7 +65,7 @@ MessageBox.Show(System.Text.Encoding.UTF8.GetString(System.Convert.FromBase64Str
 Wezenlijk voeg je dus alleen maar &quot;MessageBox...&quot;-regel toe onder de &quot;InitializeComponent()&quot;-regel.
 Deze regel bevat een geheime code die een boodschap aan je laat zien bij het opstarten.
 
-### Opstarten eerste programma
+## Opstarten eerste programma
 
 Nadat je C# sourcecode hebt getikt moet je Visual Studio de opdracht geven
 om het programma te maken (compileren) en uit te voeren (runnen).
@@ -109,7 +82,7 @@ Een bewerkingsmodus en een uitvoeringsmodus.
 - De `bewerkingsmodus` gebruiken we het meest. Daar kun je knoppen programmeren en C# sourcecode tikken. Visual Studio start op in deze modus en in deze modus hebben we net die regel C# sourcecode toegevoegd. In deze modus kunnen we ons nieuwe programma opstarten met &quot;Start&quot;.
 - Nadat je op &quot;Start&quot; klikt verspringen alle icoontjes. Soms blijft je C# sourcecode nog staan, soms niet. Je ziet Visual Studio je programma opstarten en grafieken tekenen van je CPU/Memory. Visual Studio is in deze modus bezig met het uitvoeren van je programma. Klik op het stop-blokje (zie afbeelding hierboven) om te stoppen met het uitvoeren en terug te gaan naar de bewerkingsmodus.
 
-### Het werkt niet?
+## Het werkt niet?
 
 Nu kan het gebeuren dat je een tikfout hebt gemaakt in je C# sourcecode. Dat laat Visual Studio zien met dit scherm:
 ![](figures/vsbuilderror.png "build error")  
@@ -121,7 +94,7 @@ Haal dan de regel weg en tik hem opnieuw.
 Je kunt ook het programma afsluiten en terug gaan
 naar een laatst werkende versie. (Niet opslaan.)
 
-### Hoe verder?
+## Hoe verder?
 
 Probeer de designer te openen van Form1 (rechtsklik weer op Form1,
 net als bij het openen van de code).
@@ -153,35 +126,3 @@ hou dan rekening met het volgende:
 
 ![](figures/contextmenuzip.png "default project directory van Visual Studio")
 
-## Short cut keys in Visual Studio
-
-Als in een sneltoets combinatie een komma staat, dan moet eerst het deel voor de komma worden ingedrukt, dan laat je de toetsen los en druk je daarna de letter in die na de komma staat.
-
-| Sneltoets | Menu | Toelichting |
-| --- | --- | --- |
-| CTRL-W, X | View → Toolbox | Maakt het Toolbox scherm met alle |
-|  |  | visuele objecten zichtbaar. |
-| CTRL-W, P | View → Properties | Window	Scherm met de |
-|  |  | eigenschappen van visuele objecten |
-|  |  | tonen. Hier vind je ook de events |
-|  |  | van de visuele objecten. |
-| CTRL-W, E | View → Error List | Toont het scherm met de eventuele |
-|  |  | fouten die in je code gevonden zijn |
-|  |  | (ververs het scherm door je project |
-|  |  | opnieuw te build-en met de F6 knop, |
-|  |  | zie hieronder). |
-|  |  | Dubbelklikken op een error navigeert |
-|  |  | naar de plaats in je code waar de |
-|  |  | fout is gevonden. |
-|  |  | Tip: bekijk eerst de eerste fout, |
-|  |  | andere fouten kunnen hier een gevolg |
-|  |  | van zijn. |
-| F6 | Build → Build Solution | Controleert je code op fouten en bouwt |
-|  |  | vervolgens een uitvoerbaar bestand. |
-| F5 | Debug → Start Debugging | Build je project (zie F6 hierboven) als |
-|  |  | dat nog niet gebeurd is, en voert het |
-|  |  | uitvoerbaar bestand vervolgens uit. |
-|  |  | Dit doet hetzelfde als een klik op de knop |
-|  |  | met het groene pijltje (playknop). |
-| Shift-F5 |  | Stop de uitvoer van je programma. Handig |
-|  |  | als je programma vast loopt. |

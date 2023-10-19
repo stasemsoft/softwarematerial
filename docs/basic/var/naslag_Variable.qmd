@@ -3,7 +3,7 @@
 Dit hoofdstuk is geschreven als een *naslagwerk*,
 het is niet specifiek geschreven om uit te leren hoe je met variabelen programmeert.
 
-### Typen variabelen
+## Typen variabelen
 
 Een variabele is een stukje geheugen waarin tijdelijk
 een waarde kan worden  opgeslagen. De veelgebruikte typen variabelen zijn:
@@ -26,7 +26,7 @@ een waarde kan worden  opgeslagen. De veelgebruikte typen variabelen zijn:
 
 
 
-### Variabele aanmaken (declareren)
+## Variabele aanmaken (declareren)
 Variabelen kunnen op verschillende manieren worden aangemaakt,
 enkele voorbeelden staan hier-onder. Merk op dat:
 - Je de variabele naam zelf kunt kiezen
@@ -126,7 +126,7 @@ s = textBox1.Text;
 Dit werkt omdat de `Text property` van de *TextBox* ook
 van het `type` `string` is.
 
-### Variabele aanmaken en direct een waarde geven (declare en initialize)
+## Variabele aanmaken en direct een waarde geven (declare en initialize)
 
 Variabele met de naam *s* aanmaken en waarde &quot;test&quot; toekennen:
 ```cs
@@ -148,7 +148,7 @@ Variabele met de naam *b* aanmaken en waarde `true` toekennen:
 bool b = true;
 ```
 
-### Waarden omzetten naar andere typen (convert)
+## Waarden omzetten naar andere typen (convert)
 
 Merk op: het omzetten van een `int` of `double` naar een `String` lukt altijd, andersom lukt niet altijd en kan een foutmelding opleveren tijdens het uitvoeren van het programma (`crash` of `Unhandled Exception`).
 
