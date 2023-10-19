@@ -15,7 +15,7 @@ We gaan een werkende calculator maken. Het is een minimalistische calculator, ma
 We vragen de gebruiker om een getal in te typen (en op enter te drukken), nog een getal (weer enter), dan vertellen we de gebruiker hoeveel je krijgt als je de getallen optelt, maar ook hoeveel je krijgt als je de getallen vermenigvuldigt. 
 
 
-### Enkele stappen uitgelegd...
+## Enkele stappen uitgelegd...
 
 - Maak een Console app aan en geef die voor de onderhoudbaarheid een duidelijke naam, zoals bijvoorbeeld 'Calculator'.
 - Met het commando `Console.WriteLine("bloemkool")` kun je de letterlijke tekst
@@ -28,7 +28,7 @@ We vragen de gebruiker om een getal in te typen (en op enter te drukken), nog ee
   gebruiken (in C# te herkennen aan het `=`-teken) wordt de tekst die door de
   user werd ingetypt in die variabele opgeslagen. 
 - De eerste keer dat je een nieuwe variabele gebruikt noemen we de
-  `declaratie`: je moet dan het `type' er voor zetten. Daarna moet dat juist
+  `declaratie`: je moet dan het `type` er voor zetten. Daarna moet dat juist
   niet meer: zo weet C# wanneer je een nieuwe variabele aan maakt en wanneer
   niet. 
 - Let op: als je een tekst op het scherm zet gebruik je de taal (NL?) waarmee
@@ -49,7 +49,7 @@ We vragen de gebruiker om een getal in te typen (en op enter te drukken), nog ee
 Hier C#-code die de boven besproken concepten laat zien: 
   
 
-```cs
+```CSharp
 Console.WriteLine("Beste gebruiker,");
 Console.WriteLine("Typ een getal svp (en druk op enter)");
 

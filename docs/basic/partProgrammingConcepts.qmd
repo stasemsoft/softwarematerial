@@ -4,7 +4,7 @@ There are some basic `programming concepts`, once you know some of them you will
 find ways to combine them and build bigger programs. In this book we don't use
 concepts of so-called `Object Oriented Programming` (short: `OOP`). 
 
-## So which concepts do we use? 
+So which concepts do we use? 
 
 + Variables, assignment, types.
 + Conversions between types.

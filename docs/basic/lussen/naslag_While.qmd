@@ -1,6 +1,6 @@
 # Naslag basiskennis: While
 
-#### while statement
+## while statement
 
 Deze structuur wordt gebruikt om een stukje code uit te voe-ren
 zolang aan bepaalde voorwaarden is voldaan.
@@ -17,7 +17,8 @@ while ([conditie])
 
 <p class="note">Na de eerste regel staat geen &quot;;&quot; teken.</p>
 <p class="note">Eerst wordt gecontroleerd of aan een voorwaarde is voldaan, dan pas wordt eventueel code uitgevoerd.</p>
-#### do while statement
+
+## do while statement
 
 Deze structuur wordt gebruikt om een stukje code uit te voeren. Elke keer nadat het stukje code is uitgevoerd wordt gecontroleerd of nog aan bepaalde voorwaarden is voldaan, zo ja, dan wordt de code opnieuw uitgevoerd. Het aantal keer uitvoeren van de code varieert van 1 keer de code uitvoeren tot het in de oneindigheid aantal keer uitvoeren van de code.
 Algemene vorm:
@@ -33,7 +34,7 @@ Na de laatste regel staat een &quot;;&quot; teken.
 
 Eerst wordt de code één keer uitgevoerd, dan pas wordt gecontroleerd of de code eventueel vaker moet worden uitgevoerd.
 
-### Voorbeelden while en do while statement
+## Voorbeelden while en do while statement
 
 ```cs
 int i = 0;

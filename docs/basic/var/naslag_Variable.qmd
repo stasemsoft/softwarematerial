@@ -59,7 +59,7 @@ verschillen. Daarom is het een goede gewoonte variabelen waarvan je
 wil dat ze een specifieke waarde hebben deze waarde expliciet
 toe te kennen.
 
-### Waarde aan variabele geven (toekenning of assignment)
+## Waarde aan variabele geven (toekenning of assignment)
 
 Als een variabele eenmaal is aangemaakt kan hier een waarde aan worden toegekend.
 Merk op:

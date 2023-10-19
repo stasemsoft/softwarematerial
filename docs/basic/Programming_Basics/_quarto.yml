@@ -12,9 +12,10 @@ book:
       chapters:
         - ../../process/visualstudiocode.qmd
         - ../../process/visualstudio.qmd
+        - ../../process/helloworld.qmd
+        - ../debugger/Debugger.qmd
     - part: ../partProgrammingConcepts.qmd
       chapters:
-        - ../debugger/Debugger.qmd
         - ../var/naslag_Variable.qmd
         - ../var/naslag_Operatoren.qmd
         - ../conditioneel/naslag_Keuzestructuren.qmd

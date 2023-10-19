@@ -132,12 +132,11 @@ Hiermee kun je ... verschillende palindromen van 7 cijfers samenstellen.
 
 (afkomstig van beterrekenen.nl, 10aug2020, een som van Henk van Huffelen).
 
-### Bronnen
-
-Een aantal van deze opgaven komen van
+Bronnen: Een aantal van deze opgaven komen van
 [www.beterrekenen.nl](www.beterrekenen.nl) (ook als mobile app): Elke dag een paar minuten aan uitdagingen, soms makkelijk, soms moeilijker, some recht-toe-recht-aan, soms echt nodig om een plaatje te tekenen of een laptop te hulp te roepen... hersengym dus... een aanrader!
 
 ## Spoilers...
 
 Enkele antwoorden:
+
 + `Al wandelend...`: 4746 meter

@@ -1,4 +1,4 @@
-# Extra opgaven variabelen/strings 
+# Opgaven variabelen/strings 
 
 ## Casus 1 - Vind het woord 
 Schrijf een programma dat voldoet aan de volgende requirements: 

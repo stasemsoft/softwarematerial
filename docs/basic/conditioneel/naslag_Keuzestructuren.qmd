@@ -5,7 +5,7 @@ dan heb je een `if` of `if … else` `statement` nodig.
 Moet een stukje code soms één keer en soms vaker worden herhaald,
 dan heb je een `for` of `while` `statement` nodig.
 
-### if-statement
+## if-statement
 
 Deze structuur wordt gebruikt om een stukje code uit te voeren
 afhankelijk van een bepaalde situatie (de `conditie` genoemd).
@@ -46,7 +46,7 @@ kunnen kiezen de accolades openen en sluiten weg te laten,
 maar dit maakt de kans op bugs een stuk groter,
 dus dat raden we af.
 
-### if … else … statement
+## if … else … statement
 
 Een if statement kan uitgebreid worden met een &quot;else&quot; blok. Als de conditie niet &quot;waar&quot; oplevert dan wordt de code in het else blok uitgevoerd.
 Algemene vorm:
@@ -63,7 +63,7 @@ else
 
 Merk op: of de conditie nu wel of niet waar is, altijd wordt één van de twee stukjes code uit-ge-voerd.
 
-### Voorbeelden "if …" statement en "if … else …" statement
+## Voorbeelden "if …" statement en "if … else …" statement
 
 ```cs
 if (true)

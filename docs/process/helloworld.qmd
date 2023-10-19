@@ -1,0 +1,112 @@
+# Hello World (WinForm, werkt alleen in VS for MS-Windows)
+
+To test if the IDE is installed properly we create a small program that (following a long tradition in programming) will `print` the message `Hello World` on the screen. Such a program, that tests one or more tools we need, is called `A Hello World` amongst programmers. 
+
+![fig:visualstudio](figures/VS080-done.png "Dit is Visual Studio")
+Als je
+[dit]()
+ziet na de installatie, dan ben je startklaar voor de volgende stap.
+
+## Windows Forms App C#
+
+Kies in het menu 'File' voor 'New' en dan 'Project'.
+
+![fig:vsprojectnew](figures/VS090-newproject.png "Dit is Visual Studio")
+
+
+Zorg ervoor dat je het blauwe deel exact hetzelfde laat zien als bij jou op het scherm.
+Sleutelwoorden: &quot;Visual C#&quot; staat links geselecteerd en er staat
+&quot;Windows Forms App (.NET Framework) Visual C#&quot;.
+Geef het project een zelfgekozen naam bij &quot;Name&quot; en klik vervolgens op &quot;OK&quot;.
+
+### Tikken C# Sourcecode
+
+Om bij de source code van je eerste (lege) programma te komen
+moeten we die zichtbaar maken. Klik rechts op 'Form1' en kies 'View Code F7'.
+
+![](figures/viewcode.png "View Code")
+
+Je ziet nu in het midden C# source code.
+Kopieer de regel hieronder en plak die onder de regel die er al staat.
+Maak het zo dat je scherm er hetzelfde uitziet als hieronder.
+Het gaat om het toevoegen van alleen deze regel.
+Sommige namen in de regels erboven en eronder heten wat anders.
+Dat komt omdat in het voorbeeldprogramma de namen
+misschien net wat anders gekozen zijn. Dat is niet erg.
+
+```cs
+MessageBox.Show(System.Text.Encoding.UTF8
+  .GetString(System.Convert.FromBase64String("SGVsbG8gV29ybGQh")));
+```
+
+![](figures/vspasswordcodehello.png "password code")
+
+Wezenlijk voeg je dus alleen maar &quot;MessageBox...&quot;-regel toe onder de &quot;InitializeComponent()&quot;-regel.
+Deze regel bevat een geheime code die een boodschap aan je laat zien bij het opstarten.
+
+## Opstarten eerste programma
+
+Nadat je C# sourcecode hebt getikt moet je Visual Studio de opdracht geven
+om het programma te maken (compileren) en uit te voeren (runnen).
+Dat doe je met de knop &quot;Start&quot;. Je krijgt na het uitvoeren een boodschap te zien.
+
+
+
+![](figures/runstop_run.png "run")
+
+![](figures/runstop_stop.png "stop")
+
+Het valt je op dat Visual Studio twee &quot;gezichten&quot; heeft.
+Een bewerkingsmodus en een uitvoeringsmodus.
+
+- De `bewerkingsmodus` gebruiken we het meest. Daar kun je knoppen programmeren en C# sourcecode tikken. Visual Studio start op in deze modus en in deze modus hebben we net die regel C# sourcecode toegevoegd. In deze modus kunnen we ons nieuwe programma opstarten met &quot;Start&quot;.
+- Nadat je op &quot;Start&quot; klikt verspringen alle icoontjes. Soms blijft je C# sourcecode nog staan, soms niet. Je ziet Visual Studio je programma opstarten en grafieken tekenen van je CPU/Memory. Visual Studio is in deze modus bezig met het uitvoeren van je programma. Klik op het stop-blokje (zie afbeelding hierboven) om te stoppen met het uitvoeren en terug te gaan naar de bewerkingsmodus.
+
+## Het werkt niet?
+
+Nu kan het gebeuren dat je een tikfout hebt gemaakt in je C# sourcecode. Dat laat Visual Studio zien met dit scherm:
+
+![](figures/vsbuilderror.png "build error")  
+
+Kies altijd voor &quot;No&quot;! Dan kun je terug naar je Visual Studio om te kijken waar je tikfout zit.
+
+![](figures/vstikfout.png "tikfout")
+
+Tikfouten geeft Visual Studio aan met rode kringeltjes onder de woorden.
+Net zoals bij Word. Deze zijn soms moeilijk te begrijpen.
+Haal dan de regel weg en tik hem opnieuw.
+Je kunt ook het programma afsluiten en terug gaan
+naar een laatst werkende versie. (Niet opslaan.)
+
+## Hoe verder?
+
+Probeer de designer te openen van Form1 (rechtsklik weer op Form1,
+net als bij het openen van de code).
+Sleep wat knoppen (buttons), tekst (labels), en dergelijke op je Form1.
+Pas de kleur en tekst aan. Maak er iets moois van!
+Als je een knop dubbelklikt kun je deze code gebruiken om neer te zetten
+dat dan zichtbaar wordt als je op de knop drukt.
+(Plak deze code op de lege regel tussen de { en }.)
+
+```cs
+MessageBox.Show("Dank je wel voor het klikken!");
+```
+
+## Inleveren van Visual Studio solutions
+
+Als je gemaakte `Visual Studio solutions` wil inleveren in Canvas,
+hou dan rekening met het volgende:
+
+- Laat `Visual Studio`  tijdens het programmeren alle files opslaan op de door `Visual Studio` voorgestelde plek. (ga dus *niet* losse `files` met behulp van `save as` op andere plekken opslaan).
+- Het gevolg hiervan is dat alle files van een `solution` in 1 `directory` bij elkaar staan.
+- De `default` plek waar `Visual Studio` solutions opslaat is `C:\Users\<je user naam>\source`.
+- Als je 1 `solution` wilt inleveren kun je de directory van die solution `zippen` door in het *rechtermuisknop* van de `directory`  `send to|Compressed (zipped) Folder` te kiezen.
+- Als je meerdere `solutions` in 1 zip wilt inleveren kun je er meerdere selecteren (met `ctrl` of `shift` ingedrukt en dan de `directories` aan te klikken), ook weer met hetzelfde *rechtermuismenu* te zippen.
+- Gebruik in Canvas de `Submit`-button om de zip in te leveren.
+
+![](figures/defaultDirectoryVS.png "default project directory van Visual Studio")
+
+
+
+![](figures/contextmenuzip.png "default project directory van Visual Studio")
+

@@ -1,7 +1,7 @@
 # Naslag basiskennis: For
 
 
-### for statement
+## for statement
 
 Deze structuur wordt gebruikt om een stukje code een
 vooraf bekend aantal keer uit te laten voeren.
@@ -53,7 +53,7 @@ j = j – 10
 Ieder `for`statement is om te zetten naar een `while` statement
 dat hetzelfde doet, en andersom.
 
-### Voorbeelden for statement
+## Voorbeelden for statement
 
 ```cs
 for(int i =0 ; i < 10 ; i = i + 1)

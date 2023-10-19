@@ -1,6 +1,6 @@
 # Explanation: Methods in C#
 
-### Algemene structuur methoden
+## Algemene structuur methoden
 
 Een methode is een stukje code dat vanuit een ander stukje code
 is aan te roepen. Als een methode een waarde terug geeft
@@ -9,7 +9,7 @@ deze is aangeroepen spreek je over een methode welke &quot;een waarde teruggeeft
 Ook kunnen aan een methode één of meer waarden worden meegegeven.
 Dit worden argumenten genoemd.
 
-### Belangrijkste voordelen van het gebruik van methoden:
+## Belangrijkste voordelen van het gebruik van methoden:
 
 1. Overzichtelijkheid: Als alle code in één enkele event handler (bijv. *ButtonX_Click*) wordt geplaatst wordt je code al snel erg overzichtelijk.
 2. Werk verdelen: Als je voordat je gaat programmeren het programmeerwerk wilt verdelen kun je de te maken code opdelen in methoden en deze met verschillende programmeurs tegelijkertijd programmeren.
@@ -37,7 +37,7 @@ private [returnType] [methodeNaam]([parameters])
 </dl>
 
 
-### Voorbeelden Methoden
+## Voorbeelden Methoden
 
 Een aantal voorbeeldmethoden:
 ```cs
@@ -67,7 +67,7 @@ of, beiden:
 int total = SquareANumber(AddTwoNumbers(1, 2));
 ```
 
-#### Tekst en uitleg (engelstalig) over methoden en parameters
+## Tekst en uitleg (engelstalig) over methoden en parameters
 
 Zie bijvoorbeeld
 [C-sharpcorner over methods](http://www.c-sharpcorner.com/UploadFile/myoussef/CSharpMethodsP_111152005003025AM/CSharpMethodsP_1.aspx)
