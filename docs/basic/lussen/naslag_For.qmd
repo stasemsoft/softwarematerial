@@ -1,4 +1,4 @@
-# Naslag basiskennis: For
+# Basiskennis For
 
 
 ## for statement
@@ -23,6 +23,7 @@ Het type variabele is meestal int.
 De waarde waarmee de teller wordt gevuld is afhankelijk van wat je
 aan het programmeren bent. In veel gevallen heeft deze de waarde `0`.
 Voorbeelden:
+
 ```cs
 int i = 0
 ```
@@ -35,6 +36,7 @@ Dan *[herhalingsconditie]*: deze uit te voeren code wordt
 net zo lang herhaald als uit de voorwaarde de waarde `true` komt.
 Hierin verwijs je naar de *teller* variabele.
 Voorbeelden:
+
 ```cs
 i < 10
 j > 0
@@ -43,6 +45,7 @@ j > 0
 [teller variabele aanpassen]
 	Het verhogen of verlagen van de teller. Vaak wordt deze met 1 verhoogd of verlaagd, soms in grotere stappen (bijv. `10`).
 Voorbeelden:
+
 ```cs
 i = i + 1
 j = j – 10
@@ -63,6 +66,7 @@ for(int i =0 ; i < 10 ; i = i + 1)
 ```
 
 Variabele `i` krijgt in het begin de waarde 0 en er wordt direct gestopt als i de waarde 10 krijgt toegekend. De code wordt dus doorlopen met de waarden 0,1,2,3,4,5,6,7,8 en 9. Er worden daarom 10 messagebox-en getoond met de tekst &quot;Test&quot;.
+
 ```cs
 for(int i =5;i > 0; i = i - 1)
 {
@@ -71,6 +75,7 @@ for(int i =5;i > 0; i = i - 1)
 ```
 
 Variabele `i` krijgt in het begin de waarde 5 en er wordt direct gestopt als i de waarde 0 krijgt toegekend. De code wordt dus doorlopen met de waarden 5,4,3,2,1. Er worden daarom 5 messagebox-en getoond met de tekst &quot;Test&quot;.
+
 ```cs
 for(int i =0;i < 10;++i)
 {
@@ -80,20 +85,26 @@ for(int i =0;i < 10;++i)
 
 Hetzelfde resultaat als het eerste voorbeeld,
 maar dan in een verkorte schrijfwijze:
+
 ```cs
 i = i + 1;
 ```
+
 wordt van oudsher ook wel geschreven als
+
 ```cs
 i++;
 ```
+
 of
+
 ```cs
 ++i;
 ```
 
 Hetzelfde resultaat als het tweede voorbeeld,
 maar dan in een verkorte schrijf-wijze:
+
 ```cs
 for(int i =5;i > 0; --i)
 {
@@ -104,25 +115,31 @@ for(int i =5;i > 0; --i)
 ```cs
 i=i-1;
 ```
+
 wordt van oudsher ook wel geschreven als
+
 ```cs
 i--;
 ```
+
 of
+
 ```cs
 --i;
 ```
 
-
 De code
+
 ```cs
 for(int i =0;i < 10; ++i)
 {
 	MessageBox.Show("Test "+i);
 }
 ```
+
 heeft als resultaat dat *MessageBoxes*
 verschijnen met achtereenvolgens:
+
 ```cs
 "Test 0"
 "Test 1"
@@ -137,19 +154,24 @@ verschijnen met achtereenvolgens:
 ```
 
 De code
+
 ```cs
 for(int i =5;i > 0; i = i - 2)
 {
 	MessageBox.Show("Test "+i);
 }
 ```
+
 laat messagebox-en verschijnen met achtereenvolgens:
+
 ```cs
 "Test 5"
 "Test 3"
 "Test 1"
 ```
+
 en tot slot geeft
+
 ```cs
 for(int y =0;y < 2; ++y)
 {
@@ -159,7 +181,9 @@ for(int y =0;y < 2; ++y)
   }
 }
 ```
+
 als resultaat *MessageBoxes* verschijnen met:
+
 ```cs
 "(0,0)"
 "(1,0)"

@@ -1,4 +1,4 @@
-# Naslag basiskennis: Keuzestructuren in C#
+# Basiskennis Keuzestructuren in C#
 
 Als een stukje code soms wel en soms niet moet worden uitgevoerd,
 dan heb je een `if` of `if … else` `statement` nodig.

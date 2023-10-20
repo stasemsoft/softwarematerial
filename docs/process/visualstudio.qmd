@@ -1,4 +1,4 @@
-# Visual Studio installatie
+# Visual Studio
 
 In het verleden gebruikten we `Visual Studio` onder Microsoft Windows, omdat veel
 opdrachten `WinForms` gebruikten. 

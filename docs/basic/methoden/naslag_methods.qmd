@@ -1,4 +1,4 @@
-# Explanation: Methods in C#
+# Methods in C#
 
 ## Algemene structuur methoden
 
@@ -9,13 +9,14 @@ deze is aangeroepen spreek je over een methode welke &quot;een waarde teruggeeft
 Ook kunnen aan een methode één of meer waarden worden meegegeven.
 Dit worden argumenten genoemd.
 
-## Belangrijkste voordelen van het gebruik van methoden:
+Belangrijkste voordelen van het gebruik van methoden:
 
 1. Overzichtelijkheid: Als alle code in één enkele event handler (bijv. *ButtonX_Click*) wordt geplaatst wordt je code al snel erg overzichtelijk.
 2. Werk verdelen: Als je voordat je gaat programmeren het programmeerwerk wilt verdelen kun je de te maken code opdelen in methoden en deze met verschillende programmeurs tegelijkertijd programmeren.
 3. Onderhoudbaarheid &amp; herbruikbaarheid: Als je op verschillende plaatsen in je programma hetzelfde stuk code vaker uit wilt voeren kun je vanaf de verschillende plaatsen een methode aanroepen die je maar één keer hoeft te programmeren.  Dat scheelt code en is gemakkelijker te onderhouden dan dat je code verschillende keren in je programma kopiert en plakt.
 
 Een methode heeft de volgende structuur:
+
 ```cs
 private [returnType] [methodeNaam]([parameters])
 {
@@ -23,6 +24,7 @@ private [returnType] [methodeNaam]([parameters])
   [return returnWaarde]
 }
 ```
+
 
 <dl><dt>`private`</dt>
 <dd>geeft aan dat de `methode` alleen binnen het huidige bestand (lees: `Form1`) kan worden aangeroepen. Wat dit precies inhoudt is voor dit vak niet interessant, hier wordt later op teruggekomen.</dd>
@@ -40,6 +42,7 @@ private [returnType] [methodeNaam]([parameters])
 ## Voorbeelden Methoden
 
 Een aantal voorbeeldmethoden:
+
 ```cs
     private int AddTwoNumbers(int number1, int number2)
     {
@@ -55,14 +58,19 @@ Een aantal voorbeeldmethoden:
 ```
 
 Bovenstaande methoden zijn als volgt aan te roepen:
+
 ```cs
 int sum = AddTwoNumbers(8765, 287);
 ```
+
 of:
+
 ```cs
 int kwadraat = SquareANumber(63);
 ```
+
 of, beiden:
+
 ```cs
 int total = SquareANumber(AddTwoNumbers(1, 2));
 ```

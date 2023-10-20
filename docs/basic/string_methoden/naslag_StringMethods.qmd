@@ -1,4 +1,4 @@
-# Naslag basiskennis: String bewerkingen (String methods)
+# Basiskennis String bewerkingen (String methods)
 
 Hieronder worden enkele veelgebruikte String functies gedemonstreerd en kort toegelicht.
 Dit document is geschreven als een *naslagwerk*,

@@ -1,4 +1,4 @@
-# Naslag basiskennis: While
+# Basiskennis While
 
 ## while statement
 
