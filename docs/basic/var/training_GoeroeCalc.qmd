@@ -1,4 +1,4 @@
-# Training Goeroe-calc: variabelen, bewerkingen en conversies: Een Console app(lication)
+# Training Goeroe-calc: variabelen, bewerkingen en conversies: Console 
 
 (Concepten: int, double, bewerkingen en conversies)
 

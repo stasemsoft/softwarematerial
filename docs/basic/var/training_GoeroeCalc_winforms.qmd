@@ -1,16 +1,4 @@
-# Training Goeroe-calc: variabelen, bewerkingen en conversies
-
-(Concepten: int, double, bewerkingen en conversies)
-
-## Voorbereiding
-
-Ken je het verschil tussen een int, double en string?
-
-## Inleiding
-
-We gaan een werkende calculator maken. Het is een minimalistische calculator, maar hij kan zaken voor je uitrekenen die je zelf niet kunt. Hoeveel is 655 maal 23623? De mens gebruikt daar liever een programma voor. Jij kunt dat programma maken.
-
-## Opdracht
+## Alternatief: Goeroe-calc in WinForms
 
 Maak de user interface van de calculator waarbij je minimaal twee Textboxen, een Label en twee Buttons (een voor optellen en een voor vermenigvuldigen) hebt.
 
@@ -33,10 +21,3 @@ Misschien had je die al, dan ben je niet alleen goed in programmeren, maar heb j
 
 Bespreek deze opdracht met je docent en voer feedback van je docent in in Feedpulse.
 
-## Extra’s
-
-Wil je graag lachende smiley’s in Feedpulse? Verzin dan uitbreidingen op de opdrachten of eigen opdrachten en vraag feedback (let op: je moet deze extra’s zelf kunnen programmeren voor een hogere beoordeling, code-kopie van internet is niet voldoende). Enkele mogelijke uitbreidingen:
-
-+ Breid de calculator uit met een functie voor worteltrekken.
-+ Maak de tekst van het label rood (rode letters) als de uitkomst onder de nul is.
-+ Breidt de calculator uit met een functie voor delen. Zorg ervoor dat delen door 0 netjes wordt afgevangen en laat een nette foutmelding zien.

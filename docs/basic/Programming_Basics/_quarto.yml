@@ -20,7 +20,6 @@ book:
         - ../var/naslag_Operatoren.qmd
         - ../conditioneel/naslag_Keuzestructuren.qmd
         - ../string_methoden/naslag_StringMethods.qmd
-        - ../string_methoden/naslag_StringMethods.qmd
         - ../lussen/naslag_While.qmd
         - ../lussen/naslag_For.qmd
         - ../methoden/naslag_methods.qmd

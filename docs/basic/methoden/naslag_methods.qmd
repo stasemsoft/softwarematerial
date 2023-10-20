@@ -1,4 +1,4 @@
-# Methods in C#
+# Basiskennis Methods in C#
 
 ## Algemene structuur methoden
 
