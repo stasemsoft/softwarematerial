@@ -27,7 +27,6 @@ book:
     - part: ../partTraining.qmd
       chapters:
         - ../var/training_GoeroeCalc.qmd
-        - ../var/training_GoeroeCalc_winforms.qmd
         - ../var/training_softwareBaas.qmd
         - ../var/training_Euro-Dollar-Converter.qmd
         - ../var/training_ComputerRekenen.qmd
