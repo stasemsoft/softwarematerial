@@ -1,4 +1,4 @@
-# Training - Listmethodes - Digitale muziekcollectie
+# Listmethodes: Digitale muziekcollectie
 
 Maak een applicatie om je digitale muziekcollectie bij te gaan houden. Laat de gebruiker van je app een album toevoegen aan je collectie. Gebruik daar een List voor. Geef alle albums weer in een ListBox. 
 

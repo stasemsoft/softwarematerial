@@ -1,4 +1,4 @@
-# Training - Listmethodes - Raad het getal
+# Listmethodes: Raad het getal
 
 We gaan een spel maken waar de speler moet gokken welke getallen er in willekeurig getrokken reeks voorkomen. Laat op voorhand de speler kiezen tussen welke grenzen de getallen mogen komen te liggen en geef hem of haar de mogelijkheid om het aantal getrokken getallen in te stellen. Het maximum minus het minimum moet twee maal zo groot zijn als het aantal getallen dat getrokken gaat worden. Anders is het spelletje te gemakkelijk.
 

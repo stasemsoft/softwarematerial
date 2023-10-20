@@ -1,4 +1,4 @@
-# Training - Galgje
+# Method: Galgje
 
 Programmeer het spel Galgje waarbij de gebruiker een vooraf ingesteld woord moet raden. 
 
@@ -10,6 +10,7 @@ Ontwerpideeën: houdt in een (string-) variabele het te raden woord bij en houdt
 
 
 ## Uitbreidingen
+
 1. Maak een PictureBox waarin je middels een aantal plaatjes van een galgje en poppetje het aantal fouten laat zien. Laad dynamisch elke keer het volgende plaatje in als er een fout wordt gemaakt. Kijk eens naar de methode PictureBox.Load().
 2. Laat zien welke letters geweest zijn. Je kunt bijv. alle letters laten zien in een zwarte kleur. Letters die goed geraadde zijn maak je groen, letters die fout geraadde zijn maak je rood.
 3. Uitbreiding op feature 2: maak de (zwarte dus niet gekozen) letters clickable. Als je er op clickt wordt dezelfde event handler als onder de knop Indienen aangeroepen.

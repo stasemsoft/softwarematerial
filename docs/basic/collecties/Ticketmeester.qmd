@@ -1,4 +1,4 @@
-# Training - List - Ticketmeester
+# List: Ticketmeester
 
 Je werkt als software developer bij het bekende bedrijf "Ticketmeester". Bij Ticketmeester worden online concerttickets verkocht voor uitlopende concerten. 
 

@@ -1,4 +1,4 @@
-# Euro-Dollar Converter
+# Variabelen, bewerkingen en conversies:  Euro-Dollar Converter
 
 ## Doelen
  + Omgaan met verschillende typen (int, double, string).

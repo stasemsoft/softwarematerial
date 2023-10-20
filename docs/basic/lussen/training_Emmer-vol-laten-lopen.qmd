@@ -1,4 +1,6 @@
-# Training - Emmer vol laten lopen
+# Berekenen: Emmer vol laten lopen
+
+Een oude opdracht... enfin, misschien werkt-ie nog... 
 
 Maak gebruik van de herhalingsstructuur **while** om een emmer te vullen door herhalend een beker water erin te doen totdat ie vol is. Visualiseer de emmer met een meegeleverde custom control **VerticalProgressBar** (zie Bronnen)**.** Deze class kan je gewoon toevoegen aan je Project via RMB op je Project > Add > Existing Item of door het bestand te slepen in je project (+ moet verschijnen tijdens slepen). Als je daarna je Project Build vind je de control in je ToolBox.
 
@@ -20,4 +22,5 @@ using System.Threading;
 ```
 
 ## Bronnen
+
 - [Vertical Progressbar](https://www.codeproject.com/Articles/8422/Vertical-ProgressBar)

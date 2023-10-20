@@ -1,6 +1,6 @@
-# Training De Drie Vierkanten
+# Method: De Drie Vierkanten
 
-Schrijf een programma dat voldoet aan de volgende requirements. Het mag een Console app zijn, of een WinForm app, of misschien nog wel iets anders?
+Schrijf een Console app die voldoet aan de volgende requirements. 
 
 ![3 vierkanten](figures/drievierkanten.png)
 

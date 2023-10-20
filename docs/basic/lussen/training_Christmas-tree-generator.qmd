@@ -1,4 +1,4 @@
-# Training - Christmas Tree Generator
+# Algo: Christmas Tree Generator
 
 Maak een methode waarmee je op een willekeurige positie op het scherm een kerstboom van een bepaalde hoogte kan maken in een bepaalde kleur. Ook moet het symbool kunnen worden meegegeven. In het screenshot hieronder hebben we de kerstbomen de volgende parameters/eigenschappen:
 
@@ -13,6 +13,7 @@ Tip: gebruik **Console.ReadKey()** om te voorkomen dat het programma direct na o
 ![Chistmas tree](figures/christmas-tree.png)
 
 ## Stappenplan
+
 1. Een bepaald karakter op het scherm laten afdrukken
 2. Een horizontale lijn van meerdere karakters laten afdrukken
 3. Een horizontale lijn van meerdere karakters laten afdrukken op willekeurige positie
@@ -21,13 +22,14 @@ Tip: gebruik **Console.ReadKey()** om te voorkomen dat het programma direct na o
 6. Meerdere kerstbomen
 
 ## Uitbreidingen
-- Niveau ** Vul de kerstboom met de karakters van een gegeven string, dus bijv. "abc" dan wordt de hele kerstboom gevuld met deze letters
-- Niveau ** Vraag aan de gebruiker op welke positie de kerstoom moet worden geplaatst
-- Niveau *** Plaats een willekeurig aantal kerstbomen met allemaal verschillende eigenschappen op een willekeurige plek, echter wel geheel binnen het venster.
-- Niveau ** Versier de kerstboom met willekeurig op te hangen gekleurde kerstbomen (een letter O). De kerstballen mogen niet te dicht bij elkaar hangen, er moeten minimaal 2 vakjes tussen zitten.
-- Niveau *** Maak een grafische variant in WinForms die van Windows GDI Graphics gebruik maakt.
+
+- Niveau 2 Vul de kerstboom met de karakters van een gegeven string, dus bijv. "abc" dan wordt de hele kerstboom gevuld met deze letters
+- Niveau 2 Vraag aan de gebruiker op welke positie de kerstoom moet worden geplaatst
+- Niveau 3 Plaats een willekeurig aantal kerstbomen met allemaal verschillende eigenschappen op een willekeurige plek, echter wel geheel binnen het venster.
+- Niveau 2 Versier de kerstboom met willekeurig op te hangen gekleurde kerstbomen (een letter O). De kerstballen mogen niet te dicht bij elkaar hangen, er moeten minimaal 2 vakjes tussen zitten.
 
 ## Bronnen
+
 - [Color in Console App](https://www.dotnetperls.com/console-color)
 - [Console.SetCursorPosition](https://docs.microsoft.com/en-us/dotnet/api/system.console.setcursorposition?view=net-5.0)
 - [Console.ReadLine](https://docs.microsoft.com/en-us/dotnet/api/system.console.readline?view=net-5.0)

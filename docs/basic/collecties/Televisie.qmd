@@ -1,6 +1,6 @@
-# Training - Array - Televisie
+# Array: Televisie
 
-We gaan een televisieapplicatie maken. In deze televisieapplicatie moet je kunnen zien of de TV aan of uit staat en zien welke zenders bekeken kunnen worden. 
+We gaan een televisie app maken. In de app moet je kunnen zien of de TV aan of uit staat en zien welke zenders bekeken kunnen worden. 
 
 
 ## Deel 1 - De televisie aan en uit

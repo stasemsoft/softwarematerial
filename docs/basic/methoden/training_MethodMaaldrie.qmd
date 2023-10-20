@@ -1,6 +1,6 @@
-# Training method MaalDrie
+# Method: MaalDrie
 
-Deze opdracht is ooit geschreven als een WinForm-opdracht, maar je mag ook een variatie hierop maken, zoals een Console app.
+Deze opdracht is ooit geschreven als een WinForm-opdracht, maar lliever hebben we dat je hem maakt als een Console app.
 
 Gegeven is de volgende methode:
 

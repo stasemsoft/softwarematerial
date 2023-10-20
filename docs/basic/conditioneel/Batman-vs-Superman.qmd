@@ -1,4 +1,4 @@
-# Training - Batman vs Superman
+# Berekenen: Batman vs Superman
 
 Batman en Superman hebben onenigheid gekregen. Ze beweren elk dat ze elkaar zouden kunnen verslaan in een gevecht. Jij moet ze helpen om te kijken wie er zou winnen. 
 

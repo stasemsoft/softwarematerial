@@ -1,4 +1,4 @@
-# Training - Cijfers door woorden vervangen
+# Method: Cijfers door woorden vervangen
 
 Schrijf een programma die de tekst van de gebruiker oppakt en daar alle cijfers vervangt door woorden. Dus als de gebruiker _Ik ben 20 jaar_ invoert dan is de uitvoer _Ik ben tweenul jaar_. Voorwaarden:
 

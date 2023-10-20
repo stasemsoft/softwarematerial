@@ -1,4 +1,4 @@
-# Training: Method cijfers naar woorden
+# Method: cijfers naar woorden
 
 Maak een methode `CijfersNaarWoorden` die als parameter een `String` heeft en als returnwaarde ook een `String`.
 
@@ -15,4 +15,5 @@ Ik ben tweenul jaar.
 ```
 
 Voorwaarden:
+
 + De functionaliteit die één cijfer verandert moet in een aparte methode komen (en die methode mag GEEN interactie met een eventuele user interface hebben). Noem deze methode VeranderCijfer.

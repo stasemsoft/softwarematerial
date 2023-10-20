@@ -1,4 +1,4 @@
-# Training - For - Worpengenerator
+# For: Worpengenerator
 
 In veel bordspellen (of digitale varianten hiervan) worden worpen gedaan met meerdere dobbelstenen (in het bijzonder bij spellen als Yahtzee, Risk, etc.) 
 
@@ -53,11 +53,12 @@ Zorg dat in plaats van een waarde van 1 t/m 6 nu een waarde van 1 t/m de waarde 
 
 ## Uitbreidingen
 
-- Niveau ** - Voeg twee extra Label objecten toe onder het totaal aantal ogen en houd hierin de "Hoogte worp tot nu toe" in bij. Doe hetzelfde voor het laagste aantal worpen tot nu toe.
+- Niveau 2 - Voeg twee extra Label objecten toe onder het totaal aantal ogen en houd hierin de "Hoogte worp tot nu toe" in bij. Doe hetzelfde voor het laagste aantal worpen tot nu toe.
 
 ## Checklist
 
 Als je de opdracht op de juiste manier hebt uitgevoerd heb je voldaan aan onderstaande punten: 
+
 - De NumericUpDown aantal-worpen heeft een minimumwaarde van 1 en een maximumwaarde van 1000. 
 - De NumericUpDown aantal-ogen-op-dobbelsteen heeft een minimumwaarde van 2, een maximumwaarde van 100 en een standaard waarde van 6. 
 - Het Label totaal-aantal-ogen staat bij het opstarten op ‘0’ 

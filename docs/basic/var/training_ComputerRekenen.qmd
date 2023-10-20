@@ -1,4 +1,4 @@
-# Training Computer-rekenen
+# Variabelen, bewerkingen en conversies:   Training Computer-rekenen
 
 Als de computer dan toch zo'n krachtige calculator is, laten we hem dan ook als zodanig gebruiken...
 

@@ -1,4 +1,4 @@
-# Training - Array - Woordvervormer
+# Array: Woordvervormer
 
 We gaan een woordvervormer maken. Maak een applicatie waar de gebruiker een woord kan invoeren. Tevens heeft de gebruiker de keus tussen de vervormopties “Spiegelen”, “Plussen” en “Onevenen”. Als de gebruiker op de knop met de tekst “Vervorm!” klikt moet zijn ingevoerde woord vervormd worden en moet hij het resultaat ervan zien. Hier volgt de uitleg van de verschillende opties in vervormen.
 

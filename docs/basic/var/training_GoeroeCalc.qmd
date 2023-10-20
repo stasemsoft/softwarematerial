@@ -1,8 +1,6 @@
-# Training Goeroe-calc: variabelen, bewerkingen en conversies: Console 
+# Variabelen, bewerkingen en conversies: Training Goeroe-calc
 
-(Concepten: int, double, bewerkingen en conversies)
-
-## Voorbereiding
+## Voorkennis
 
 Ken je het verschil tussen een int, double en string?
 

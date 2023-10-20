@@ -1,4 +1,4 @@
-# Training - List - Prijzen toevoegen
+# List: Prijzen toevoegen
 
 Voeg een aantal prijzen toe in onderstaand stukje code, op de plek waar het commentaar staat. Herschrijf de for\-loop naar een foreach herhalingsstructuur. Controleer je nieuwe code in een C# project. 
 

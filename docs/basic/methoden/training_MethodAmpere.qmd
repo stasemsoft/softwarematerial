@@ -1,4 +1,4 @@
-# Training method Ampere
+# Method: Ampere
 
 Voer een analyse uit en onderzoek hoe je het volgende kunt uitrekenen:
 
@@ -18,5 +18,6 @@ decimal Weerstand(decimal volt, decimal ampere)
   // zet in plaats van deze regel je eigen code!
 }
 ```
+
 De in-te-vullen code heb je al geschreven, verplaats die bestaande code. Verander hierbij desgewenst de namen van de variabelen.
-+ Roep de methode Weerstand aan en test je programma.
+Roep de methode Weerstand aan en test je programma.

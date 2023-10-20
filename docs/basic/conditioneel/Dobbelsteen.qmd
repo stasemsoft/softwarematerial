@@ -1,4 +1,4 @@
-# Training - Dobbelsteen
+# Random: Dobbelsteen
 
 Als je een game wilt programmeren dan stuit je zelfs bij de meest eenvoudige games (boter-kaas-en-eieren) op het probleem: hoe programmeer ik willekeur? Doe een willekeurige zet? Hoe programmeer je dat?
 

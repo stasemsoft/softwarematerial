@@ -1,4 +1,4 @@
-# Training method marathon
+# Method: method marathon
 
 Maak een console-app aan en programmeer hierin de hieronder genoemde methods. Roep ze allemaal aan. Controleer of je overtuigd bent dat het antwoord klopt!
 Wellicht is het hier en daar handig een flowchart of ander hulpmiddel te gebruiken. Maak daar dan een foto van en voeg die aan je Trainingsopdrachten toe.
@@ -58,7 +58,7 @@ Voor de liefhebber: er is al heel wat geschreven over kalenderberekeningen, zie 
 
 (xv) Maak een method *aantalDagenInJaar* die gegeven een jaartal (int) het aantal dagen in dat jaar teruggeeft.
 
-# Heb ik het allemaal goed gedaan?
+## Heb ik het allemaal goed gedaan?
 
 Het is goed om zelf de volgende zaken te bekijken en/of testen:
 
@@ -68,7 +68,7 @@ Het is goed om zelf de volgende zaken te bekijken en/of testen:
 - De `happy flow` testen we tijdens het programmeren meestal wel. Probeer ook uitzonderingssituaties te testen! Geef eens een lege string mee aan een methode die een string-parameter heeft, en een methode die een List of een array verwacht wordt aangeroepen met een lege List of array.
 
 
-# Eerste Hulp Bij Vasthangen
+## Eerste Hulp Bij Vasthangen
 
 Hoe pulk je letters uit een string? Hoe tel je het aantal letters in een string? Hoe kijk je of een string als deel van  een andere string voorkomt?
 + [string manipulatie (in Toolbox basis)](https://stasemsoft.github.io/softwarematerial/docs/basic/#string-manipulatie-in-c)

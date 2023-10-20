@@ -1,4 +1,4 @@
-# Opgaven variabelen/strings 
+# String manipulatie
 
 ## Casus 1 - Vind het woord 
 Schrijf een programma dat voldoet aan de volgende requirements: 

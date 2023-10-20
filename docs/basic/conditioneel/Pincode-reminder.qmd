@@ -1,10 +1,10 @@
-# Training - Pincode reminder
+# Berekenen: Pincode reminder
 
 Een pincode is vaak moeilijker te onthouden dan een wachtwoord, en de bank raadt je af je pincode ergens te noteren om te voorkomen dat iemand er gemakkelijk met je geld vandoor gaat. Het zou handig zijn om een programma te hebben waarmee je met het invoeren van het juiste wachtwoord je pincode te zien krijgt. Een zelfgekozen wachtwoord is immers vaak een stuk gemakkelijker te onthouden dan een pincode.
 
 ## Opdracht
 
-Maak in je nieuwe project een grafische user interface voor het programma waarmee je een wachtwoord kunt invoeren in een textbox en je invoer kunt bevestigen met een button. Verder moeten er twee labels gemaakt worden waarmee je de gebruiker voorziet van informatie als op de knop gedrukt is: als het wachtwoord juist is wordt de ene tekst zichtbaar, als het wachtwoord onjuist is wordt de andere tekst zichtbaar.
+Maak in je nieuwe project een user interface voor het programma waarmee je een wachtwoord kunt invoeren. Voorzie de gebruiker van informatie: als het wachtwoord juist is wordt de ene tekst zichtbaar, als het wachtwoord onjuist is wordt de andere tekst zichtbaar.
 
 Je user interface zou er bijvoorbeeld zo uit kunnen zien:
 
