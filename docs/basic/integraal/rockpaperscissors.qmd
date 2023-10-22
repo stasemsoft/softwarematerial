@@ -1,4 +1,4 @@
-# Training Rock Paper Scissors
+# Random: Rock Paper Scissors
 
 Maak het spel "paper rock scissors" (Steen Papier Schaar).
 

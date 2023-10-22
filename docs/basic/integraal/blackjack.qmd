@@ -1,4 +1,4 @@
-# Training Blackjack (light)
+# Random: Blackjack (light)
 
 Maak het kaartenspel [blackjack](https://nl.wikipedia.org/wiki/Blackjack). Het doel van het spel is om de bank (dealer) te verslaan. Hierbij moet men proberen dichter bij de 21 punten te komen dan de bank. Als de speler boven de 21 punten uitkomst heeft hij verloren, ongeacht wat de bank heeft.
 Maak het spel eerst zo dat er 1 bank is en 1 speler. 

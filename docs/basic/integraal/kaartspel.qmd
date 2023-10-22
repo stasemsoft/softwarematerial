@@ -1,6 +1,5 @@
-# Training kaartspel
+# Array, Method: kaartspel
 
-Concepten: arrays, methods
 
 Dat kan in een WinForm-app (zoals in de omschrijving hieronder) maar mag ook op de Console of nog anders.
 

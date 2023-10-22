@@ -67,7 +67,6 @@ book:
         - ../collecties/RaadHetGetal.qmd
         - ../collecties/VlaggenVanDeWereld.qmd
         - ../collecties/Woordvervormer.qmd
-        - ../howto.qmd
         - ../integraal/rockpaperscissors.qmd
         - ../integraal/kaartspel.qmd
         - ../integraal/getalwoord.qmd
