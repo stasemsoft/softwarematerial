@@ -1,4 +1,4 @@
-# While - Het grote geheel
+# While: Het grote geheel
 
 Maak een applicatie met een while loop met daarbij een variabele "totaal". In deze while loop wordt een willekeurig cijfer gegenereerd. Deze willekeurige cijfer wordt bij de variabele "totaal" opgeteld. Wanneer de variabele "totaal" hoger is dan 1000, wordt er een melding gegeven "Het getal is nu hoger!".
 
