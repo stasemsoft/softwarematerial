@@ -1,8 +1,6 @@
 # Naslag basiskennis: Enum
 
-<!-- A brief introduction to enums in dutch -->
-
-### Enum
+## Enum
 
 Een enum is een datatype dat een aantal vooraf gedefinieerde waarden kan bevatten, bijvoorbeeld de dagen van de week, de maanden van het jaar, de kleuren van de regenboog, etc.
 

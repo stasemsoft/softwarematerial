@@ -20,7 +20,7 @@ De school heeft de volgende regels:
 
 ## Deel 2
 
-Als je heel veel tijd over hebt, kijk naar [dit artikel](https://learn.microsoft.com/en-us/dotnet/standard/io/how-to-read-text-from-a-file). Duik niet al te diep in de code, maar zorg ervoor dat jou nieuwe systeem zowel een bestand kan inlezen (uit pure tekst). Voor het weergeven van de data, kan je een een listbox gebruiken. Laat zien welke studenten een voldoende hebben gehaald en welke niet. Hou daarvoor de volgende vorm aan:
+Als je heel veel tijd over hebt, kijk naar [dit artikel](https://learn.microsoft.com/en-us/dotnet/standard/io/how-to-read-text-from-a-file). Duik niet al te diep in de code, maar zorg ervoor dat jou nieuwe systeem een bestand kan inlezen (uit pure tekst). Voor het weergeven van de data, kan je een een listbox gebruiken. Laat zien welke studenten een voldoende hebben gehaald en welke niet. Hou daarvoor de volgende vorm aan:
 
 ```text
 Name - Grade - Passed/Failed
