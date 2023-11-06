@@ -134,3 +134,4 @@ have built-in `git`-functionality.
 
 + [FHICT-git-server https://git.fhict.nl/](https://git.fhict.nl/)
 + [ProGit](https://git-scm.com/book/en/v2)
++ [learngitbranching: interactive learning](https://learngitbranching.js.org/)
