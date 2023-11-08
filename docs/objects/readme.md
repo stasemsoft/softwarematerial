@@ -27,10 +27,10 @@
 
 ## Enum
 + [Reference: Enum](theorie_Enum)
-+ [Reference: Enums](enum/naslag_Enum.md) ![Bas](../personas/figures/bas-xsmall.png)
-+ [Training: Stoplicht](training_Stoplicht.md) ![Bas](../personas/figures/bas-xsmall.png)
-+ [Training: School Cijfers](training_SchoolCijfers.md) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
-+ [Training: Pizzeria](training_pizzeria.md) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
++ [Reference: Enums](enum/naslag_Enum) ![Bas](../personas/figures/bas-xsmall.png)
++ [Training: Stoplicht](eum/training_Stoplicht) ![Bas](../personas/figures/bas-xsmall.png)
++ [Training: School Cijfers](enum/training_SchoolCijfers) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
++ [Training: Pizzeria](enum/training_pizzeria) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
 
 
 ## Gecombineerd
