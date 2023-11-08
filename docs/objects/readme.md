@@ -27,6 +27,11 @@
 
 ## Enum
 + [Reference: Enum](theorie_Enum)
++ [Reference: Enums](naslag_Enum.md) ![Bas](../personas/figures/bas-xsmall.png)
++ [Training: Stoplicht](training_Stoplicht.md) ![Bas](../personas/figures/bas-xsmall.png)
++ [Training: School Cijfers](training_SchoolCijfers.md) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
++ [Training: Pizzeria](training_pizzeria.md) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
+
 
 ## Gecombineerd
 + [Reference: Voorbeeld class Aapje](theorie_Classes_voorbeeld_Aapje)

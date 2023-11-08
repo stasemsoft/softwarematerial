@@ -69,10 +69,11 @@ Als je een extra uitdaging wilt met loops:
 + [Training: Emmer vol laten lopen](lussen/training_Emmer-vol-laten-lopen) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
 
 ## Enums
-+ [Reference: Enums](enum/naslag_Enum) ![Bas](../personas/figures/bas-xsmall.png)
-+ [Training: Stoplicht](enum/training_Stoplicht) ![Bas](../personas/figures/bas-xsmall.png)
-+ [Training: School Cijfers](enum/training_SchoolCijfers) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
-+ [Training: Pizzeria](enum/training_Pizzeria) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
+
++ [Reference: Enums](naslag_Enum.md) ![Bas](../personas/figures/bas-xsmall.png)
++ [Training: Stoplicht](training_Stoplicht.md) ![Bas](../personas/figures/bas-xsmall.png)
++ [Training: School Cijfers](training_SchoolCijfers.md) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
++ [Training: Pizzeria](training_pizzeria.md) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
 
 ## Method: zelf maken en aanroepen
 
