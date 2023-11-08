@@ -68,13 +68,6 @@ Als je een extra uitdaging wilt met loops:
 + [Training: Christmas Tree Generator](lussen/training_Christmas-tree-generator) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
 + [Training: Emmer vol laten lopen](lussen/training_Emmer-vol-laten-lopen) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
 
-## Enums
-
-+ [Reference: Enums](naslag_Enum.md) ![Bas](../personas/figures/bas-xsmall.png)
-+ [Training: Stoplicht](training_Stoplicht.md) ![Bas](../personas/figures/bas-xsmall.png)
-+ [Training: School Cijfers](training_SchoolCijfers.md) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
-+ [Training: Pizzeria](training_pizzeria.md) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
-
 ## Method: zelf maken en aanroepen
 
 + [Reference: Methodes in C#](methoden/naslag_methods) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
