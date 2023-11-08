@@ -1,31 +1,38 @@
 # Toolbox Verdiepend: Objects en Classes
 
 ## Algemene info
+
 + [Wat kan ik als ik de module 'objects' voldoende doorlopen heb?](resultaatformulier)
 
 
 ## Introductie met OOP
+
 + [Reference: Hoe programmeer je met objecten? (hero vs monsters)](tutorial_Class)
 + [Lijst C# begrippen](https://www.homeandlearn.co.uk/csharp/csharp.html)
 
 ## Classes, objecten en constructors
+
 + [Reference: Classes maken en gebruiken](theorie_zelf-classes-maken.md)
 + [Reference: Van Class Diagram naar code](theorie_ClassDiagram)
 + [Reference: Constructor](theorie_Constructors)
 
 ## Properties en encapsulation
+
 + [Reference: private en public](theorie_PrivatePublic)
 + [Reference: Property](theorie_Property)
 
 ## Methods
+
 + [Reference: methods in classes](theorie_Methods)
 
 ## Casting en override ToString()
+
 + [Reference: Casting en 'as'](theorie_Cast)
 + [Reference: Jouw object als string](theorie_class-override_ToString)
 + [Reference: override ToString](theorie_OverrideToString)
 
 ## Enum
+
 + [Reference: Enum](theorie_Enum)
 + [Reference: Enums](enum/naslag_Enum) ![Bas](../personas/figures/bas-xsmall.png)
 + [Training: Stoplicht](enum/training_Stoplicht) ![Bas](../personas/figures/bas-xsmall.png)
@@ -34,6 +41,7 @@
 
 
 ## Gecombineerd
+
 + [Reference: Voorbeeld class Aapje](theorie_Classes_voorbeeld_Aapje)
 + [Reference: Voorbeeld class Dierenverzorgen](theorie_Classes_voorbeeld_Dierenverzorger)
 + [Reference: Voorbeeld class Speler](theorie_Classes_voorbeeld_Speler)
@@ -44,13 +52,17 @@
 + [Training: De Marimba en de Bas](training_Marimba_and_Bass)
 
 ## Challenges
+
 + [Challenge: Verzameling](challenges)
 
 ## Extra
+
 ### GUI vs Domain
+
 + [Reference: GUI vs Domain](theorie_GuiSeparation)
 
 ### Git
+
 + [Reference: Wat is Git?](https://www.youtube.com/watch?v=t7hLWkd0qok&list=PLMtxBdV6mf-4xgPCNX9EBYKSh8zg11mFY)
 + [Reference: Getting Started](https://www.youtube.com/watch?v=Fs3qpKD6GWE&list=PLMtxBdV6mf-4xgPCNX9EBYKSh8zg11mFY&index=2)
 + [Reference: Commit, push en pull]()
@@ -58,17 +70,20 @@
 + Unit tests
 
 ### File Handling en Exception Handling
+
 + [Reference: File Handling](theorie_FileHandling)
 + [Training: FileHandling](challenges/challengeFileHandling)
 + [Training: Exception Handling](challenges/challengeExceptionHandling), zie ook
 [zip met startmateriaal](challenges/challengeException-Naamgenerator.zip).
 
 ### Database
+
 + [What is a database?](https://www.youtube.com/watch?v=Tk1t3WKK-ZY)
 + [Local Database connection in C#](https://www.youtube.com/watch?v=t9ab9sCtskE)
 + [Learn SQL in 60 minutes](https://www.youtube.com/watch?v=p3qvj9hO_Bo)
 
 ### Testing
+
 + [Automated testing](https://www.youtube.com/watch?v=HYrXogLj7vg)
 + [Create and run unit tests for managed code](https://docs.microsoft.com/en-us/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code?view=vs-2022)
 
@@ -89,6 +104,7 @@ Als je de volgende video van Tim Corey nog niet bekeken had is dat nu zeker een 
 
 
 ## Verder Verdiepend materiaal
+
 + [external resources](https://stasemsoft.github.io/softwarematerial/docs/process/infoExternalResources)
 + [C# Basics ](https://www.youtube.com/playlist?list=PLYMOUCVo86jGzNXPgyKB-B1IvE1LoXKi6) - video 1 t/m 39  
 + [Chapter 2 Classes](https://git.fhict.nl/I872272/ProgrammingChallenges/blob/master/Documentation/OOP.pdf)  
