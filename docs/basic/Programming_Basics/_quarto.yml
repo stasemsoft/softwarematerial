@@ -2,12 +2,13 @@ project:
   type: book
 
 book:
-  title: "Programming Basics"
+  title: "Programming Basics - DRAFT"
   author: "Fontys ICT teachers"
-  date: "10/2/2023"
+  date: "2023-11-26"
   chapters:
     - index.qmd
     - intro.qmd
+    - todo.qmd
     - part: ../partTools.qmd
       chapters:
         - ../../process/visualstudiocode.qmd

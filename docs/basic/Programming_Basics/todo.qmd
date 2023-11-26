@@ -1,0 +1,10 @@
+# To Do 
+
+This content is still developed! 
+Here some actions that still have to be taken: 
+
+- Coupling Persona's to assignments
+- Assignments: in ToC only level 1. 
+- End of theory: point to assignmments.
+- Kleurblokken voor highlighting (tip Hans K)
+- Ook web site
