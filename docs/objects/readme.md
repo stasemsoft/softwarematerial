@@ -36,7 +36,7 @@
 + [Reference: Enum](theorie_Enum)
 + [Reference: Enums](enum/naslag_Enum) ![Bas](../personas/figures/bas-xsmall.png)
 + [Training: Stoplicht](enum/training_Stoplicht) ![Bas](../personas/figures/bas-xsmall.png)
-+ [Training: School Cijfers](enum/training_SchoolCijfers) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
++ [Training: Schoolcijfers](enum/training_Schoolcijfers) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
 + [Training: Pizzeria](enum/training_pizzeria) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
 
 
