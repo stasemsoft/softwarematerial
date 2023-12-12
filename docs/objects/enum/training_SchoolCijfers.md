@@ -1,4 +1,4 @@
-# Training - Enum - School Cijfers
+# Training - Enum - Schoolcijfers
 
 ## Deel 1
 
