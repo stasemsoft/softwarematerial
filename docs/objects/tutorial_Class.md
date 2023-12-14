@@ -162,7 +162,7 @@ Verder vertel je **welk** monster aangevallen wordt en
 hoeveel *schade* (*damage*)
 hierbij toegebracht wordt aan het monster (dus hoeveel er van de
 *hitPoints* punten van het monster af gaan).
-Als de method *Attack* op een *Held* `object` aangeroepen wordt
+Als de method *Attack* op een *Held* `object` aangeroepen wordt,
 wordt de code van die methode uitgevoerd.
 
 De held roept dan van het tussen haakjes genoemde monster de method *LooseHealth*
