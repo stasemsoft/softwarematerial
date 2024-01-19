@@ -47,7 +47,7 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net iets anders: het knippen/plakken met strings.
 
 + [Reference: string methoden in C#](string_methoden/naslag_StringMethods) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
-+ [Training: String methods in C#](string_methoden/naslag_StringMethods) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
++ [Training: String methods in C#](string_methoden/training_StringMethods) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
 
 ## DateTime (in C#)
 In elke programmeertaal krijg je hier wel mee te maken maar overal werkt het net iets anders: datum en tijd!
