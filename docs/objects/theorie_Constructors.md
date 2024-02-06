@@ -73,13 +73,13 @@ Clown andereCloen = new Clown("Bassie", 186);
 
 We hebben dan dus 2 objecten van het type Clown, hier schematisch weergegeven: 
 
-![](../../ctor-clown-objects.png)
+![](ctor-clown-objects%201.png)
 
 
 In de praktijk werken programmeurs vaak met `class diagrams`, zoals hieronder een voorbeeld. Meestal hebben class diagrams meerdere classes. 
 
 
-![](../../ctor-class-Clown.png)
+![](ctor-class-Clown%201.png)
 
 
 Een class wordt als een rechthoek weergegeven, bestaande uit 3 delen: 
