@@ -16,10 +16,10 @@ Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het 
 
 
 
-## Variabele, assignment, typen, debugger: eerste stapjes in C#
+## Variabele, assignment, typen, debugger: eerste stapjes in C\#
 
 + [Presentatie: Variabelen, bewerkingen en conversies](var/Variabelen-bewerkingen-conversies.pptx) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
-+ [Tutorial: De Debugger](debugger/Debugger) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
++ :ic[Tutorial: De Debugger](debugger/Debugger) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
 + [Reference: variable](var/naslag_Variable) ![Bas](../personas/figures/bas-xsmall.png)
 + [Reference: operatoren](var/naslag_Operatoren) ![Bas](../personas/figures/bas-xsmall.png)
 + [Training: Goeroe-calc: variabele, bewerkingen, conversies in Console](var/training_GoeroeCalc) 

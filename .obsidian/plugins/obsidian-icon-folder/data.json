@@ -1,0 +1,52 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": "#f31212",
+    "recentlyUsedIcons": [
+      "RaDiceOne",
+      "RaDiamond",
+      "RaDiceFive",
+      "RaCompass",
+      "RaCrown",
+      "RaBook",
+      "RaArcheryTarget",
+      "RaAries"
+    ],
+    "recentlyUsedIconsSize": 10,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": true,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "docs/objects/example_PinAutomaat.md": {
+    "iconName": "RaArcheryTarget",
+    "iconColor": "#c71a1a"
+  },
+  "docs/objects/exercise_ObjectOrientedOefening.md": "RaBook",
+  "docs/objects/readme.md": "RaCompass",
+  "docs/objects/resultaatformulier.md": "RaDiceFive",
+  "docs/objects/solution_ObjectOriented.md": "RaDiamond",
+  "docs/objects/challenges.md": "RaAries",
+  "docs": "RaBook",
+  "docs/basic/collecties/Fruitautomaat.md": "RaDiceFive",
+  "docs/basic/collecties/Muziekcollectie.md": "RaDiceFive",
+  "docs/basic/collecties/Netflix-and-random.md": "RaDiceFive",
+  "docs/basic/collecties/Prijzen-toevoegen.md": "RaDiceFive",
+  "docs/basic/collecties/RaadHetGetal.md": "RaDiceFive",
+  "docs/basic/collecties/Televisie.md": "RaDiceFive",
+  "docs/basic/collecties/Ticketmeester.md": "RaDiceFive",
+  "docs/basic/collecties/VlaggenVanDeWereld.md": "RaDiceFive",
+  "docs/basic/collecties/Woordvervormer.md": "RaDiceFive"
+}
