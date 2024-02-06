@@ -6,8 +6,7 @@ Bij softwareontwikkeling nemen testen en fouten herstellen meer tijd in beslag d
 
 
 
-kjhsdfkjhsdfkjhsdf
-## kjhdfkjehskfg
+
 ![[debugger_breakpoint.png]]
 
 ## Opdracht
@@ -102,7 +101,8 @@ Het Visual Studio Debugmenu bevat alle bovenstaande selecties voor degene die li
 ![](figures/debugger_debugMenu.png)
 
 
-## WATCH WINDOWS
+## Watch Windows
+
 Er is een aantal vensters tot je beschikking om de variabelen van het programma te bekijken. Tot nu toe zagen we het `BreakPoints Window` onderaan in de IDE weergegeven. Met het pijltje naast het icoon van de `BreakPoints` in de toolbar krijg een dropdownmenu met andere mogelijkheden.
 
 Maar ook komt dit menu als je kiest voor `Windows` onder `Debug`.
@@ -117,7 +117,7 @@ Er zijn verschillende soorten vensters zoals Autos, Local, etc.
 
 Als je programma pauzeert bij een `BreakPoint` kun je via zo’n venster bijvoorbeeld de waarden van het huidige object of variabelen inspecteren. Een mooie optie is ook de muis hover, als je over de variabele schuift met de cursor krijg je via een `ToolTip` ook de informatie van de variabele te zien.
 
-## LOCALS
+## Locals
 Dit scherm laat automatisch de lijst van variabelen zien die binnen de scope van een methode vallen.
 
 
@@ -129,10 +129,11 @@ Dit scherm laat automatisch de lijst van variabelen zien die binnen de scope van
 Wat gebeurt er als je de Hex knop van de Debugtoolbar indrukt?
 ```
 
-## AUTOS
+## Autos
 In dit venster worden de variabelen weergeven waar de debugger staat en de variabelen in het statement wat ervoor staat.
 
-## WATCH
+## Watch
+
 In dit venster kun je zelf variabelen toevoegen die je wilt bekijken. Dit doe je door met je rechter muisknop te klikken op de variabele en dan “Add To Watch” te kiezen. Je kunt de variabelen ook naar het venster slepen.
 
 Om dit uit te proberen moet er wat code worden toegevoegd aan je programma. Vervang de regel `Console.ReadLine();` in de Main–methode door:
@@ -154,7 +155,7 @@ Wat gebeurt er als deze code wordt uitgevoerd? Beschrijf het voordat je het prog
 
 Voeg de variabele `temp` toe aan het `Watch` scherm en volg de waarde van deze variabele terwijl je door de code heenloopt met de stepfunctie.
 
-## CALL STACK
+## Call Stack
 `Call Stack` informatie kan belangrijk zijn om te achterhalen hoe een programma in een bepaald stuk van de code terecht kwam.
 
 Als je meerdere methodes aangeroepen hebt en je wilt zien of de geneste methoden wel worden aangeroepen dan is de `Call Stack` nodig.
@@ -192,6 +193,7 @@ Als je in de `Call Stack` op een rij klikt, zie je in de code de bijbehorende co
 Wen je zelf eraan om gebruik te maken van de debugger. Op de duur kost het minder tijd om fouten op te sporen.
 
 ## Verder in .NET6
+
 + [Debugging in .NET 6 / nov2021](https://docs.microsoft.com/en-us/shows/Web-Wednesday/Web-Wednesday-Mastering-VS-debugging-with-Leslie-Richardson?ocid=AID3031635&utm_issue=November2021): behoorlijk zinvolle tips over hoe je moet debuggen in Visual Studio. Zeker nuttig, want als ontwikkelaar ben je aanzienlijk meer tijd kwijt met het opsporen en oplossen van fouten dan met het schrijven ervan :^) Als je skipped naar 9:00 ofzo, kun je het hele voorstelrondje van de presentatoren overslaan en meteen de diepte in. De audio is af en toe een beetje brak, maar de tips zijn top-notch.
 
 

@@ -9,37 +9,36 @@
 
 Bekijk van deze categorie wat voor zaken hier staan en onthoud dat zodat je het later terug kunt zoeken!
 
-+ [How-to: Visual Studio installatie](../process/infoVisualStudioInstallatie) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
-+ [How-to: Over het inleveren van programma's in Canvas](../process/infoInleverenProgrammas) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
-+ [Reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
-+ [intro in command line interface (CLI), amongst others using git](https://stasemsoft.github.io/S1CB-Software/)
-
++ :RaBook: [How-to: Visual Studio installatie](../process/infoVisualStudioInstallatie) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
++ :RaBook: [How-to: Over het inleveren van programma's in Canvas](../process/infoInleverenProgrammas) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
++ :RaBook: [Reference: Handige sneltoetsen en opties in Visual Studio](../process/knowVisualStudioShortCutKeys) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
++ :RaBook: [intro in command line interface (CLI), amongst others using git](https://stasemsoft.github.io/S1CB-Software/)
 
 
 ## Variabele, assignment, typen, debugger: eerste stapjes in C\#
 
-+ [Presentatie: Variabelen, bewerkingen en conversies](var/Variabelen-bewerkingen-conversies.pptx) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
-+ :ic[Tutorial: De Debugger](debugger/Debugger) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
-+ [Reference: variable](var/naslag_Variable) ![Bas](../personas/figures/bas-xsmall.png)
-+ [Reference: operatoren](var/naslag_Operatoren) ![Bas](../personas/figures/bas-xsmall.png)
-+ [Training: Goeroe-calc: variabele, bewerkingen, conversies in Console](var/training_GoeroeCalc) 
-  of [in winforms](var/training_GoeroeCalc_winforms) ![Bas](../personas/figures/bas-xsmall.png)
-+ [Training: Software baas](var/training_softwareBaas) ![Bas](../personas/figures/bas-xsmall.png)
-+ [Training: Euro Dollar converter](var/training_Euro-Dollar-Converter)   ![Bas](../personas/figures/bas-xsmall.png)
-+ [Training: Computerrekenen](var/training_ComputerRekenen) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
-+ [Training: Diversen](var/training_Extra-opgaven-variabelen) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
++ :RaBook: [Presentatie: Variabelen, bewerkingen en conversies](var/Variabelen-bewerkingen-conversies.pptx) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
++ :RaBook: [Tutorial: De Debugger](debugger/Debugger) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
++ :RaBook: [Reference: variable](var/naslag_Variable) ![Bas](../personas/figures/bas-xsmall.png)
++ :RaBook: [Reference: operatoren](var/naslag_Operatoren) ![Bas](../personas/figures/bas-xsmall.png)
++ :RaDiceThree: [Training: Goeroe-calc: variabele, bewerkingen, conversies in Console](var/training_GoeroeCalc)
+	    of [in winforms](var/training_GoeroeCalc_winforms) ![Bas](../personas/figures/bas-xsmall.png)
++ :RaDiceThree: [Training: Software baas](var/training_softwareBaas) ![Bas](../personas/figures/bas-xsmall.png)
++ :RaDiceThree: [Training: Euro Dollar converter](var/training_Euro-Dollar-Converter)   ![Bas](../personas/figures/bas-xsmall.png)
++ :RaDiceThree: [Training: Computerrekenen](var/training_ComputerRekenen) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
++ :RaDiceThree: [Training: Diversen](var/training_Extra-opgaven-variabelen) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png)
 
 ## Conditionele Statement
 
-+ [Reference: Keuzestructuren in C#](conditioneel/naslag_Keuzestructuren) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
-+ [Training: BTW-berekenen](conditioneel/BTW-berekenen) ![Bas](../personas/figures/bas-xsmall.png)
-+ [Training: Hoger lager](conditioneel/Hoger-lager) ![Bas](../personas/figures/bas-xsmall.png)
-+ [Training: Calorieën tracker](conditioneel/Calorieen-tracker) ![Bas](../personas/figures/bas-xsmall.png)
-+ [Training: Dobbelsteen](conditioneel/Dobbelsteen) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
-+ [Training: Pincode-reminder](conditioneel/Pincode-reminder) ![Bas](../personas/figures/bas-xsmall.png)
-+ [Training: Wachtwoord check](conditioneel/Wachtwoord-check) ![Inge](../personas/figures/inge-xsmall.png)
-+ [Training: Dr Bobby](conditioneel/Dr-Bobby) ![Inge](../personas/figures/inge-xsmall.png)
-+ [Training: Batman vs Superman](conditioneel/Batman-vs-Superman) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png) 
++ :RaBook: [Reference: Keuzestructuren in C#](conditioneel/naslag_Keuzestructuren) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
++ :RaDiceThree: [Training: BTW-berekenen](conditioneel/BTW-berekenen) ![Bas](../personas/figures/bas-xsmall.png)
++ :RaDiceThree: [Training: Hoger lager](conditioneel/Hoger-lager) ![Bas](../personas/figures/bas-xsmall.png)
++ :RaDiceThree: [Training: Calorieën tracker](conditioneel/Calorieen-tracker) ![Bas](../personas/figures/bas-xsmall.png)
++ :RaDiceThree: [Training: Dobbelsteen](conditioneel/Dobbelsteen) ![Bas](../personas/figures/bas-xsmall.png) ![Inge](../personas/figures/inge-xsmall.png)
++ :RaDiceThree: [Training: Pincode-reminder](conditioneel/Pincode-reminder) ![Bas](../personas/figures/bas-xsmall.png)
++ :RaDiceThree: [Training: Wachtwoord check](conditioneel/Wachtwoord-check) ![Inge](../personas/figures/inge-xsmall.png)
++ :RaDiceThree: [Training: Dr Bobby](conditioneel/Dr-Bobby) ![Inge](../personas/figures/inge-xsmall.png)
++ :RaDiceThree: [Training: Batman vs Superman](conditioneel/Batman-vs-Superman) ![Inge](../personas/figures/inge-xsmall.png) ![Olaf](../personas/figures/olaf-xsmall.png) 
 
 
 ## String manipulatie (in C#)

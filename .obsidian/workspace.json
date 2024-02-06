@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,10 +147,15 @@
   },
   "active": "7b93914092887f8b",
   "lastOpenFiles": [
+    "docs/basic/conditioneel/BTW-berekenen.md",
+    "docs/basic/debugger/Debugger.md",
+    "docs/basic/conditioneel/Wachtwoord-check.md",
+    "docs/basic/conditioneel/Pincode-reminder.md",
+    "docs/basic/conditioneel/Batman-vs-Superman.md",
+    "docs/basic/readme.md",
     "docs/basic/collecties/Fruitautomaat.md",
     "docs/basic/collecties/Prijzen-toevoegen.md",
     "docs/basic/collecties/RaadHetGetal.md",
-    "docs/basic/readme.md",
     "docs/basic/howto.md",
     "docs/basic/figures/xnaframework.png",
     "docs/objects/example_PinAutomaat.md",
@@ -172,11 +176,6 @@
     "docs/workshops/conway/readme.md",
     "docs/workshops/Virusinator/readme.md",
     "docs/workshops/OOP_languages/readme.md",
-    "docs/workshops/GuiVsDomain/readme.md",
-    "docs/workshops/Crossing/readme.md",
-    "docs/workshops/99bottlesOfBeer/readme.md",
-    "docs/softwareprofiel/readme.md",
-    "docs/software engineering/readme.md",
     "qbook/_book/site_libs/quarto-search/quarto-search.js",
     "qbook/_book/site_libs/quarto-search/fuse.min.js",
     "qbook/_book/site_libs/quarto-search/autocomplete.umd.js",
