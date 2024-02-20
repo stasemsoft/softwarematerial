@@ -1,3 +1,16 @@
 .DS_Store
 .obsidian
 lepiter.properties
+docs/.quarto/xref
+qbook/.quarto
+myFirstQBook/.quarto
+docs/basic/Programming_Basics/.quarto
+docs/basic/Programming_Basics/legacy
+docs/basic/Programming_Basics/personas
+docs/basic/Programming_Basics/process/helloworld.qmd.json
+docs/basic/Programming_Basics/process/infoInleverenProgrammas.qmd.json
+docs/basic/Programming_Basics/process/infoVisualStudioInstallatie.qmd.json
+docs/basic/Programming_Basics/process/knowVisualStudioShortCutKeys.qmd.json
+docs/basic/Programming_Basics/process/visualstudio.qmd.json
+docs/basic/Programming_Basics/process/visualstudiocode.qmd.json
+docs/objects/objectsBook/.quarto
