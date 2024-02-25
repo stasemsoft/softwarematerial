@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "a29d3b2874447ad5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c7094b95f4d8fd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b82e90a7b47e3d26",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "docs/computational/algo01.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a1f4888a3842b67",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d4cbaaa0fd94168",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5899a778206d0520",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a906c550829ef5db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d92a0db34dc97874",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "52f71df3a457d3a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac6a01c2d70ba2fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4ce967f6b0bc7f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/computational/algo01.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fecf4adb5a199c17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/computational/algo01.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5dcf118251bd055f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a481aebabe6e63a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/computational/algo01.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b82e90a7b47e3d26",
+  "lastOpenFiles": [
+    "docs/computational/figures/flowchart.engineering.jpg",
+    "docs/basic/methoden/naslag_methods.md",
+    "docs/computational/readme.md",
+    "docs/FAQ/readme.md",
+    "docs/computational/binary01.prn.pdf",
+    "docs/computational/hogerlager.md",
+    "docs/computational/binary01.pdf",
+    "docs/computational/figures/dots_vertical.png",
+    "_files",
+    "docs/computational/~$algo01.docx",
+    "README.md",
+    "docs/basic/lussen/training_Christmas-tree-generator.md",
+    "docs/basic/collecties/Muziekcollectie.md",
+    "docs/basic/collecties/Fruitautomaat.md",
+    "docs/basic/conditioneel/naslag_Keuzestructuren.md",
+    "docs/basic/conditioneel/Hoger-lager.md",
+    "docs/objects/theorie_FileHandling.md",
+    "objects.md",
+    "docs/basic/readme.md",
+    "docs/basic/conditioneel/BTW-berekenen.md",
+    "docs/basic/debugger/Debugger.md",
+    "docs/basic/conditioneel/Wachtwoord-check.md",
+    "docs/basic/conditioneel/Pincode-reminder.md",
+    "docs/basic/conditioneel/Batman-vs-Superman.md",
+    "docs/basic/collecties/Prijzen-toevoegen.md",
+    "docs/basic/collecties/RaadHetGetal.md",
+    "docs/basic/howto.md",
+    "docs/basic/figures/xnaframework.png",
+    "docs/objects/example_PinAutomaat.md",
+    "docs/objects/resultaatformulier.md",
+    "docs/objects/solution_ObjectOriented.md",
+    "docs/objects/theorie_AdvancedSoftwareEngineering.md",
+    "docs/objects/figures/ctor-clown-objects 1.png",
+    "docs/objects/figures/ctor-class-Clown 1.png",
+    "qbook/_book/site_libs/quarto-search/quarto-search.js",
+    "qbook/_book/site_libs/quarto-search/fuse.min.js",
+    "qbook/_book/site_libs/quarto-search/autocomplete.umd.js",
+    "qbook/_book/site_libs/quarto-nav/quarto-nav.js",
+    "qbook/_book/site_libs/quarto-nav/headroom.min.js",
+    "qbook/_book/site_libs/quarto-html/tippy.umd.min.js",
+    "qbook/cover.png",
+    "myFirstQBook/cover.png",
+    "docs/basic/Programming_Basics/cover.png"
+  ]
+}
