@@ -3,9 +3,9 @@
 Maak een methode waarmee je op een willekeurige positie op het scherm een kerstboom van een bepaalde hoogte kan maken in een bepaalde kleur. Ook moet het symbool kunnen worden meegegeven. In het screenshot hieronder hebben we de kerstbomen de volgende parameters/eigenschappen:
 
 | Kleur | Hoogte | Left/x | Top/y | Tekensymbool |
-|-------|---------|-------|--------|----------------|
-| Rood | 10 | 10 | 10 | 8 |
-| Groen | 5 | 20 | 5| 5 |
+| ----- | ------ | ------ | ----- | ------------ |
+| Rood  | 10     | 10     | 10    | 8            |
+| Groen | 5      | 20     | 5     | 5            |
 
 Gebruik een _Console_ applicatie.
 Tip: gebruik **Console.ReadKey()** om te voorkomen dat het programma direct na opstarten weer afsluit.
