@@ -1,4 +1,4 @@
-# Explanation: Methods in C#
+# Explanation: Methods in C\# (CSharp)
 
 ### Algemene structuur methoden
 
