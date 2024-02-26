@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4c7094b95f4d8fd8",
+        "id": "58a780d3438ee4fe",
         "type": "tabs",
         "children": [
           {
-            "id": "b82e90a7b47e3d26",
+            "id": "2b76f8da17558d50",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "docs/computational/algo01.pdf"
+                "file": "docs/FAQ/readme.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 251.5
   },
   "right": {
     "id": "52f71df3a457d3a8",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/computational/algo01.pdf",
+                "file": "docs/FAQ/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/computational/algo01.pdf",
+                "file": "docs/FAQ/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,8 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/computational/algo01.pdf"
+                "file": "docs/FAQ/readme.md"
               }
+            }
+          },
+          {
+            "id": "32ea7955879b8adf",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
             }
           }
         ],
@@ -137,6 +147,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Copilot Chat": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -145,12 +156,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b82e90a7b47e3d26",
+  "active": "5899a778206d0520",
   "lastOpenFiles": [
+    "objects.md",
+    "docs/FAQ/readme.md",
+    "docs/basic/readme.md",
+    "docs/basic/resultaatformulier.md",
+    "docs/basic/howto.md",
+    "docs/computational/algo01.pdf",
     "docs/computational/figures/flowchart.engineering.jpg",
     "docs/basic/methoden/naslag_methods.md",
     "docs/computational/readme.md",
-    "docs/FAQ/readme.md",
     "docs/computational/binary01.prn.pdf",
     "docs/computational/hogerlager.md",
     "docs/computational/binary01.pdf",
@@ -164,8 +180,6 @@
     "docs/basic/conditioneel/naslag_Keuzestructuren.md",
     "docs/basic/conditioneel/Hoger-lager.md",
     "docs/objects/theorie_FileHandling.md",
-    "objects.md",
-    "docs/basic/readme.md",
     "docs/basic/conditioneel/BTW-berekenen.md",
     "docs/basic/debugger/Debugger.md",
     "docs/basic/conditioneel/Wachtwoord-check.md",
@@ -173,7 +187,6 @@
     "docs/basic/conditioneel/Batman-vs-Superman.md",
     "docs/basic/collecties/Prijzen-toevoegen.md",
     "docs/basic/collecties/RaadHetGetal.md",
-    "docs/basic/howto.md",
     "docs/basic/figures/xnaframework.png",
     "docs/objects/example_PinAutomaat.md",
     "docs/objects/resultaatformulier.md",
@@ -186,7 +199,6 @@
     "qbook/_book/site_libs/quarto-search/autocomplete.umd.js",
     "qbook/_book/site_libs/quarto-nav/quarto-nav.js",
     "qbook/_book/site_libs/quarto-nav/headroom.min.js",
-    "qbook/_book/site_libs/quarto-html/tippy.umd.min.js",
     "qbook/cover.png",
     "myFirstQBook/cover.png",
     "docs/basic/Programming_Basics/cover.png"
