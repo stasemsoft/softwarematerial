@@ -94,7 +94,7 @@ Dit betreft een aantal niet-programmeer aspecten die een beginnend software engi
 
 ### Artificial Intelligence
 
-+ [Artificial Intelligence](https://stasemsoft.github.io/FontysICT-sem1/docs/artificial-intelligence/ai.html))
++ [Artificial Intelligence](https://stasemsoft.github.io/FontysICT-sem1/docs/artificial-intelligence/ai.html)
 
 ---
 
