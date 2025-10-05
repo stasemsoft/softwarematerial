@@ -102,7 +102,7 @@ Dit betreft een aantal niet-programmeer aspecten die een beginnend software engi
 
 ### verder...
 
-+ [Motivatie, Concentratie, thuiswerken](docs/process/motivatieconcentratie): Niet onbelangrijk tijdens een gemiddelde  corona-crisis...
++ [Motivatie, Concentratie, thuiswerken](docs/process/motivatieconcentratie)
 
 + [Workshops](https://stasemsoft.github.io/softwarematerial/docs/workshops/)
 
