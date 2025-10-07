@@ -79,8 +79,7 @@ Verdieping, programmeren met objecten
 
 Dit betreft een aantal niet per se programmeeraspecten die een beginnend software engineer moet kennen en kunnen.
 
-+ [Software Engineering](https://stasemsoft.github.io/softwarematerial/docs/software%20engineering/) --- ### Documentation Toolbox
-+ [](https://github.com/TomVer99/FHICT-typst-template)
++ [Software Engineering](https://stasemsoft.github.io/softwarematerial/docs/software%20engineering/)
 
 ---
 
