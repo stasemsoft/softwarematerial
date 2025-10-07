@@ -92,7 +92,7 @@ Dit betreft een aantal niet per se programmeeraspecten die een beginnend softwar
 
 ### Documentation Toolbox
 
-+ [A typst template for Fontys ICT](https://stasemsoft.github.io/softwarematerial/docs/softwareprofiel/)
++ [A typst template for Fontys ICT](https://github.com/TomVer99/FHICT-typst-template)
 
 ---
 
@@ -103,8 +103,6 @@ Dit betreft een aantal niet per se programmeeraspecten die een beginnend softwar
 ---
 
 ### verder
-
-+ [Motivatie, Concentratie, thuiswerken](docs/process/motivatieconcentratie)
 
 + [Workshops](https://stasemsoft.github.io/softwarematerial/docs/workshops/)
 
